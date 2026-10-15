@@ -28,6 +28,7 @@ GITHUB_MODELS_URL = "https://models.github.ai/inference/chat/completions"
 GITHUB_MODELS = ("openai/gpt-4.1", "openai/gpt-4.1-mini", "openai/gpt-4o")
 # Token, permission, quota and outage errors are the same for every model, so don't try the next one.
 GITHUB_FINAL_STATUS = (401, 403, 429)
+GITHUB_MAX_TOKENS = 4000  # free-tier output cap per request
 TOOL_NAME = "publish_market_brief"
 TAIPEI = ZoneInfo("Asia/Taipei")
 WEEKDAYS = "一二三四五六日"
@@ -124,6 +125,7 @@ class Reply:
     model: str
     input_tokens: int | None
     output_tokens: int | None
+    detail: str = ""  # what came back instead of a brief, for the stage status
 
 
 class BriefError(Exception):
@@ -334,15 +336,35 @@ def _ask_claude(prompt: str, key: str, model: str | None, client: Any) -> Reply:
     return Reply(_tool_input(response), model_id, getattr(usage, "input_tokens", None), getattr(usage, "output_tokens", None))
 
 
-def _function_arguments(body: Any) -> Any:
-    """Arguments of the forced function call in an OpenAI-style chat completion, or None."""
+def _json_object(value: Any) -> dict[str, Any] | None:
+    """A JSON object given as a dict or as text, which may be wrapped in a ```json fence or prose."""
+    if isinstance(value, dict):
+        return value
+    if not isinstance(value, str):
+        return None
     try:
-        for call in body["choices"][0]["message"].get("tool_calls") or []:
-            if call["function"]["name"] == TOOL_NAME:
-                return json.loads(call["function"]["arguments"])
-    except (ValueError, LookupError, TypeError, AttributeError):
-        pass
-    return None
+        parsed = json.loads(value[value.index("{") : value.rindex("}") + 1])
+    except ValueError:
+        return None
+    return parsed if isinstance(parsed, dict) else None
+
+
+def _completion_brief(body: Any) -> tuple[dict[str, Any] | None, str]:
+    """Brief from an OpenAI-style chat completion: the forced function call, else JSON in the text."""
+    choices = body.get("choices") if isinstance(body, dict) else None
+    choice = choices[0] if isinstance(choices, list) and choices and isinstance(choices[0], dict) else {}
+    message = choice.get("message") if isinstance(choice.get("message"), dict) else {}
+    calls = [c for c in message.get("tool_calls") or [] if isinstance(c, dict) and isinstance(c.get("function"), dict)]
+    arguments = [c["function"].get("arguments") for c in calls if c["function"].get("name") == TOOL_NAME]
+    for candidate in [*arguments, message.get("content")]:
+        parsed = _json_object(candidate)
+        if parsed is not None:
+            return parsed, ""
+    if not message:
+        return None, f"no message: {clean_text(json.dumps(body, ensure_ascii=False), 160)}"
+    sizes = ",".join(str(len(a)) for a in arguments if isinstance(a, str)) or "-"
+    content = clean_text(message.get("content"), 120) or "-"
+    return None, f"finish_reason={choice.get('finish_reason')}, tool_calls={len(calls)}, arguments={sizes} chars, content={content}"
 
 
 def _github_reply(response: Any, model_id: str) -> Reply:
@@ -350,9 +372,10 @@ def _github_reply(response: Any, model_id: str) -> Reply:
         body = response.json()
     except ValueError:
         body = None
+    tool_input, detail = _completion_brief(body)
     usage = body.get("usage") if isinstance(body, dict) else None
     usage = usage if isinstance(usage, dict) else {}
-    return Reply(_function_arguments(body), model_id, usage.get("prompt_tokens"), usage.get("completion_tokens"))
+    return Reply(tool_input, model_id, usage.get("prompt_tokens"), usage.get("completion_tokens"), detail)
 
 
 def _ask_github_models(prompt: str, token: str, model: str | None, post: Callable[..., Any] | None) -> Reply:
@@ -362,6 +385,7 @@ def _ask_github_models(prompt: str, token: str, model: str | None, post: Callabl
         "messages": [{"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": prompt}],
         "tools": [{"type": "function", "function": {"name": TOOL_NAME, "description": BRIEF_TOOL["description"], "parameters": BRIEF_TOOL["input_schema"]}}],
         "tool_choice": {"type": "function", "function": {"name": TOOL_NAME}},
+        "max_tokens": GITHUB_MAX_TOKENS,
     }
     headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"}
     error = "GitHub Models: no model to try"
@@ -401,7 +425,7 @@ def generate_summary(
     except BriefError as exc:
         return None, f"error: {exc}"
     if reply.tool_input is None:
-        return None, "error: response did not include the brief tool call"
+        return None, "error: response did not include the brief tool call" + (f" ({reply.detail})" if reply.detail else "")
     brief = parse_brief(reply.tool_input, selected, ctx.holdings)
     if brief is None:
         return None, "error: brief failed validation"

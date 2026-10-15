@@ -198,6 +198,7 @@ def test_generate_summary_uses_github_models_without_anthropic_key(ctx, now, mon
     assert request["url"] == "https://models.github.ai/inference/chat/completions"
     assert request["headers"]["Authorization"] == "Bearer gh-token"
     assert request["json"]["tool_choice"] == {"type": "function", "function": {"name": "publish_market_brief"}}
+    assert request["json"]["max_tokens"] == 4000
     assert request["json"]["messages"][0]["role"] == "system"
 
 
@@ -289,7 +290,45 @@ def test_github_models_response_without_json_body(ctx, now):
     summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", model="openai/gpt-4.1", post=post)
 
     assert summary is None
-    assert status == "error: response did not include the brief tool call"
+    assert status == "error: response did not include the brief tool call (no message: null)"
+
+
+def test_github_models_accepts_arguments_already_decoded(ctx, now):
+    post, _ = _post_returning((200, _completion(VALID_INPUT)))
+
+    summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", model="openai/gpt-4.1", post=post)
+
+    assert status == "ok" and summary["headline"] == "記憶體股重挫拖累費半"
+
+
+def test_github_models_accepts_json_answered_as_text(ctx, now):
+    text = "以下是摘要：\n```json\n" + json.dumps(VALID_INPUT, ensure_ascii=False) + "\n```"
+    body = {"choices": [{"message": {"role": "assistant", "content": text}, "finish_reason": "stop"}]}
+    post, _ = _post_returning((200, body))
+
+    summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", model="openai/gpt-4.1", post=post)
+
+    assert status == "ok" and summary["headline"] == "記憶體股重挫拖累費半"
+
+
+def test_github_models_explains_a_cut_off_tool_call(ctx, now):
+    body = _completion('{"headline": "記憶體股重挫", "key_points": [{"title": "費')
+    body["choices"][0]["finish_reason"] = "length"
+    post, _ = _post_returning((200, body))
+
+    summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", model="openai/gpt-4.1", post=post)
+
+    assert summary is None
+    assert "finish_reason=length" in status and "tool_calls=1" in status and "arguments=" in status
+
+
+def test_github_models_explains_an_empty_choice_list(ctx, now):
+    post, _ = _post_returning((200, {"choices": [], "prompt_filter_results": [{"content_filter_results": {"jailbreak": {"filtered": True}}}]}))
+
+    summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", model="openai/gpt-4.1", post=post)
+
+    assert summary is None
+    assert "no message" in status and "jailbreak" in status
 
 
 def test_select_news_keeps_a_category_mix(now):
