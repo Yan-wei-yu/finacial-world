@@ -1,9 +1,11 @@
+import json
 from datetime import timedelta
 from types import SimpleNamespace
 
 import anthropic
 import httpx2
 import pytest
+import requests
 
 from pipeline.io_utils import to_iso
 from pipeline.summary import SummaryContext, build_prompt, generate_summary, parse_brief, select_news
@@ -100,10 +102,10 @@ def _client_returning(blocks):
     return SimpleNamespace(messages=SimpleNamespace(create=create)), calls
 
 
-def test_generate_summary_skips_without_api_key(ctx, now):
+def test_generate_summary_skips_without_any_credentials(ctx, now):
     client, calls = _client_returning([])
 
-    summary, status = generate_summary(ctx, now, api_key="", client=client)
+    summary, status = generate_summary(ctx, now, api_key="", github_token="", client=client)
 
     assert summary is None
     assert status.startswith("skipped")
@@ -160,6 +162,134 @@ def test_generate_summary_skips_when_no_recent_news(ctx, now):
     summary, status = generate_summary(stale_ctx, now, api_key="test-key", client=client)
 
     assert summary is None and status.startswith("skipped") and calls == []
+
+
+def _completion(arguments):
+    call = {"type": "function", "function": {"name": "publish_market_brief", "arguments": arguments}}
+    return {"choices": [{"message": {"role": "assistant", "content": None, "tool_calls": [call]}}], "usage": {"prompt_tokens": 3000, "completion_tokens": 700}}
+
+
+def _post_returning(*responses):
+    """Fake requests.post: each item is (status, body) or an exception to raise."""
+    calls, queue = [], list(responses)
+
+    def post(url, **kwargs):
+        calls.append({"url": url, **kwargs})
+        item = queue.pop(0)
+        if isinstance(item, Exception):
+            raise item
+        status, body = item
+        return SimpleNamespace(status_code=status, text=json.dumps(body), json=lambda: body)
+
+    return post, calls
+
+
+def test_generate_summary_uses_github_models_without_anthropic_key(ctx, now, monkeypatch):
+    monkeypatch.delenv("GITHUB_MODELS_MODEL", raising=False)
+    post, calls = _post_returning((200, _completion(json.dumps(VALID_INPUT, ensure_ascii=False))))
+
+    summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", post=post)
+
+    assert status == "ok"
+    assert summary["headline"] == "記憶體股重挫拖累費半"
+    assert summary["model"] == "openai/gpt-4.1"
+    assert summary["usage"] == {"input_tokens": 3000, "output_tokens": 700}
+    request = calls[0]
+    assert request["url"] == "https://models.github.ai/inference/chat/completions"
+    assert request["headers"]["Authorization"] == "Bearer gh-token"
+    assert request["json"]["tool_choice"] == {"type": "function", "function": {"name": "publish_market_brief"}}
+    assert request["json"]["messages"][0]["role"] == "system"
+
+
+def test_generate_summary_prefers_claude_when_both_are_set(ctx, now):
+    block = SimpleNamespace(type="tool_use", name="publish_market_brief", input=VALID_INPUT)
+    client, calls = _client_returning([block])
+    post, post_calls = _post_returning()
+
+    summary, status = generate_summary(ctx, now, api_key="test-key", github_token="gh-token", model="claude-sonnet-5-5", client=client, post=post)
+
+    assert status == "ok" and summary["model"] == "claude-sonnet-5-5"
+    assert len(calls) == 1 and post_calls == []
+
+
+def test_github_models_falls_back_when_a_model_is_unavailable(ctx, now, monkeypatch):
+    monkeypatch.delenv("GITHUB_MODELS_MODEL", raising=False)
+    post, calls = _post_returning(
+        (404, {"error": {"code": "unknown_model", "message": "Unknown model: openai/gpt-4.1"}}),
+        (200, _completion(json.dumps(VALID_INPUT))),
+    )
+
+    summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", post=post)
+
+    assert status == "ok"
+    assert summary["model"] == "openai/gpt-4.1-mini"
+    assert [c["json"]["model"] for c in calls] == ["openai/gpt-4.1", "openai/gpt-4.1-mini"]
+
+
+@pytest.mark.parametrize("code", [401, 403, 429, 503])
+def test_github_models_stops_on_errors_shared_by_every_model(ctx, now, monkeypatch, code):
+    monkeypatch.delenv("GITHUB_MODELS_MODEL", raising=False)
+    post, calls = _post_returning((code, {"error": {"message": "nope"}}))
+
+    summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", post=post)
+
+    assert summary is None
+    assert status.startswith(f"error: GitHub Models HTTP {code}")
+    assert "gh-token" not in status
+    assert len(calls) == 1
+
+
+def test_github_models_reports_the_last_error_when_every_model_fails(ctx, now, monkeypatch):
+    monkeypatch.delenv("GITHUB_MODELS_MODEL", raising=False)
+    post, calls = _post_returning(*[(400, {"error": {"code": "unknown_model"}})] * 3)
+
+    summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", post=post)
+
+    assert summary is None
+    assert status.startswith("error: GitHub Models HTTP 400 (openai/gpt-4o)")
+    assert len(calls) == 3
+
+
+def test_github_models_uses_only_the_configured_model(ctx, now, monkeypatch):
+    monkeypatch.setenv("GITHUB_MODELS_MODEL", "meta/llama-4")
+    post, calls = _post_returning((404, {"error": {"code": "unknown_model"}}))
+
+    summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", post=post)
+
+    assert summary is None and "meta/llama-4" in status
+    assert [c["json"]["model"] for c in calls] == ["meta/llama-4"]
+
+
+def test_github_models_network_error(ctx, now):
+    post, _ = _post_returning(requests.ConnectionError("connection reset"))
+
+    summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", model="openai/gpt-4.1", post=post)
+
+    assert summary is None
+    assert status.startswith("error: GitHub Models ConnectionError")
+
+
+@pytest.mark.parametrize("arguments", ["not json", json.dumps({"headline": "沒有重點", "key_points": []})])
+def test_github_models_bad_arguments_are_rejected(ctx, now, arguments):
+    post, _ = _post_returning((200, _completion(arguments)))
+
+    summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", model="openai/gpt-4.1", post=post)
+
+    assert summary is None
+    assert status.startswith("error")
+
+
+def test_github_models_response_without_json_body(ctx, now):
+    def post(url, **kwargs):
+        def broken():
+            raise ValueError("not json")
+
+        return SimpleNamespace(status_code=200, text="<html>", json=broken)
+
+    summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", model="openai/gpt-4.1", post=post)
+
+    assert summary is None
+    assert status == "error: response did not include the brief tool call"
 
 
 def test_select_news_keeps_a_category_mix(now):

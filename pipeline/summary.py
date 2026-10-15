@@ -1,22 +1,33 @@
-"""Optional AI market brief written by Claude. Enabled only when ANTHROPIC_API_KEY is set."""
+"""AI market brief.
+
+Written by Claude when ANTHROPIC_API_KEY is set, otherwise by GitHub Models (free quota of every GitHub
+account, reached with the workflow's own GITHUB_TOKEN passed in as GITHUB_MODELS_TOKEN).
+"""
 
 from __future__ import annotations
 
+import json
 import os
 import re
-from collections.abc import Mapping, Sequence
+from collections.abc import Callable, Mapping, Sequence
 from dataclasses import dataclass
 from datetime import datetime, timedelta
 from typing import Any
 from zoneinfo import ZoneInfo
 
 import anthropic
+import requests
 
 from pipeline.config import Holding
 from pipeline.io_utils import num, parse_iso, to_iso
 from pipeline.text import clean_text
 
 DEFAULT_MODEL = "claude-sonnet-5-5"
+GITHUB_MODELS_URL = "https://models.github.ai/inference/chat/completions"
+# Tried in order; the later ones only matter if a model leaves the GitHub Models catalog.
+GITHUB_MODELS = ("openai/gpt-4.1", "openai/gpt-4.1-mini", "openai/gpt-4o")
+# Token, permission, quota and outage errors are the same for every model, so don't try the next one.
+GITHUB_FINAL_STATUS = (401, 403, 429)
 TOOL_NAME = "publish_market_brief"
 TAIPEI = ZoneInfo("Asia/Taipei")
 WEEKDAYS = "一二三四五六日"
@@ -105,6 +116,18 @@ class SummaryContext:
     earnings_doc: Mapping[str, Any]
     macro_doc: Mapping[str, Any]
     holdings: Sequence[Holding]
+
+
+@dataclass(frozen=True)
+class Reply:
+    tool_input: Any
+    model: str
+    input_tokens: int | None
+    output_tokens: int | None
+
+
+class BriefError(Exception):
+    """A model call failed; the message becomes the summary stage status."""
 
 
 def _round_robin(ranked: Sequence[Mapping[str, Any]], max_items: int) -> list[Mapping[str, Any]]:
@@ -293,20 +316,7 @@ def _tool_input(response: Any) -> Any:
     return None
 
 
-def generate_summary(
-    ctx: SummaryContext,
-    now: datetime,
-    *,
-    api_key: str | None = None,
-    model: str | None = None,
-    client: Any = None,
-) -> tuple[dict[str, Any] | None, str]:
-    key = os.getenv("ANTHROPIC_API_KEY", "") if api_key is None else api_key
-    if not key:
-        return None, "skipped: ANTHROPIC_API_KEY is not set"
-    selected = select_news(ctx.news, now)
-    if not selected:
-        return None, "skipped: no recent news"
+def _ask_claude(prompt: str, key: str, model: str | None, client: Any) -> Reply:
     model_id = model or os.getenv("CLAUDE_MODEL") or DEFAULT_MODEL
     try:
         api = client or anthropic.Anthropic(api_key=key, timeout=90.0, max_retries=2)
@@ -316,21 +326,89 @@ def generate_summary(
             system=SYSTEM_PROMPT,
             tools=[BRIEF_TOOL],
             tool_choice={"type": "tool", "name": TOOL_NAME},
-            messages=[{"role": "user", "content": build_prompt(ctx, now, selected)}],
+            messages=[{"role": "user", "content": prompt}],
         )
     except anthropic.APIError as exc:
-        return None, f"error: Claude API {type(exc).__name__}: {exc}"
-    tool_input = _tool_input(response)
-    if tool_input is None:
+        raise BriefError(f"Claude API {type(exc).__name__}: {exc}") from exc
+    usage = getattr(response, "usage", None)
+    return Reply(_tool_input(response), model_id, getattr(usage, "input_tokens", None), getattr(usage, "output_tokens", None))
+
+
+def _function_arguments(body: Any) -> Any:
+    """Arguments of the forced function call in an OpenAI-style chat completion, or None."""
+    try:
+        for call in body["choices"][0]["message"].get("tool_calls") or []:
+            if call["function"]["name"] == TOOL_NAME:
+                return json.loads(call["function"]["arguments"])
+    except (ValueError, LookupError, TypeError, AttributeError):
+        pass
+    return None
+
+
+def _github_reply(response: Any, model_id: str) -> Reply:
+    try:
+        body = response.json()
+    except ValueError:
+        body = None
+    usage = body.get("usage") if isinstance(body, dict) else None
+    usage = usage if isinstance(usage, dict) else {}
+    return Reply(_function_arguments(body), model_id, usage.get("prompt_tokens"), usage.get("completion_tokens"))
+
+
+def _ask_github_models(prompt: str, token: str, model: str | None, post: Callable[..., Any] | None) -> Reply:
+    configured = model or os.getenv("GITHUB_MODELS_MODEL")
+    send = post or requests.post
+    payload = {
+        "messages": [{"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": prompt}],
+        "tools": [{"type": "function", "function": {"name": TOOL_NAME, "description": BRIEF_TOOL["description"], "parameters": BRIEF_TOOL["input_schema"]}}],
+        "tool_choice": {"type": "function", "function": {"name": TOOL_NAME}},
+    }
+    headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"}
+    error = "GitHub Models: no model to try"
+    for model_id in (configured,) if configured else GITHUB_MODELS:
+        try:
+            response = send(GITHUB_MODELS_URL, json={**payload, "model": model_id}, headers=headers, timeout=90)
+        except requests.RequestException as exc:
+            raise BriefError(f"GitHub Models {type(exc).__name__}: {clean_text(str(exc), 200)}") from exc
+        if response.status_code == 200:
+            return _github_reply(response, model_id)
+        error = f"GitHub Models HTTP {response.status_code} ({model_id}): {clean_text(response.text, 200)}"
+        if response.status_code in GITHUB_FINAL_STATUS or response.status_code >= 500:
+            break
+    raise BriefError(error)
+
+
+def generate_summary(
+    ctx: SummaryContext,
+    now: datetime,
+    *,
+    api_key: str | None = None,
+    github_token: str | None = None,
+    model: str | None = None,
+    client: Any = None,
+    post: Callable[..., Any] | None = None,
+) -> tuple[dict[str, Any] | None, str]:
+    key = os.getenv("ANTHROPIC_API_KEY", "") if api_key is None else api_key
+    token = os.getenv("GITHUB_MODELS_TOKEN", "") if github_token is None else github_token
+    if not key and not token:
+        return None, "skipped: neither ANTHROPIC_API_KEY nor GITHUB_MODELS_TOKEN is set"
+    selected = select_news(ctx.news, now)
+    if not selected:
+        return None, "skipped: no recent news"
+    prompt = build_prompt(ctx, now, selected)
+    try:
+        reply = _ask_claude(prompt, key, model, client) if key else _ask_github_models(prompt, token, model, post)
+    except BriefError as exc:
+        return None, f"error: {exc}"
+    if reply.tool_input is None:
         return None, "error: response did not include the brief tool call"
-    brief = parse_brief(tool_input, selected, ctx.holdings)
+    brief = parse_brief(reply.tool_input, selected, ctx.holdings)
     if brief is None:
         return None, "error: brief failed validation"
-    usage = getattr(response, "usage", None)
     return {
         **brief,
         "generated_at": to_iso(now),
-        "model": model_id,
+        "model": reply.model,
         "news_count": len(selected),
-        "usage": {"input_tokens": getattr(usage, "input_tokens", None), "output_tokens": getattr(usage, "output_tokens", None)},
+        "usage": {"input_tokens": reply.input_tokens, "output_tokens": reply.output_tokens},
     }, "ok"

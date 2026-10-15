@@ -13,7 +13,7 @@
 | --- | --- |
 | 我的持股 | 總市值（美元／約當台幣）、今日損益、盤前／盤後估算、持股比重；可在「設定」輸入成本價看未實現損益 |
 | 持股明細 | 每檔價格、漲跌、盤前盤後價、市值、近 3 個月走勢；點開看觀察重點、52 週區間、歷次 EPS |
-| AI 盤勢摘要 | Claude 依最新新聞整理影響那指／費半的重點、對持股的影響、接下來要注意的事件（需設定 API key） |
+| AI 盤勢摘要 | AI 依最新新聞整理影響那指／費半的重點、對持股的影響、接下來要注意的事件（預設用 GitHub Models 免費額度，不需要 API key） |
 | 新聞 | Google News（中英文）、CNBC、MarketWatch、Yahoo Finance、鉅亨網，自動分成我的持股／半導體 AI／總經 Fed／世界大事／美股大盤，可依持股、語言篩選，標示「上次造訪後新增」 |
 | 法說會與財報 | 持股與費半權值股（台積電、輝達、美光、ASML、三星…）、AI 資本支出大廠的財報日、EPS 與營收預估、最近一次 EPS 驚喜 |
 | 總經 | 本週美國重要數據（CPI、PPI、非農…含預期與前值）、FOMC、韓國出口、台積電月營收、DRAM 合約價、QNT 閉鎖期 |
@@ -40,15 +40,24 @@ GitHub 的排程在尖峰時段可能延遲幾分鐘到十幾分鐘。
 
 **新聞來源與關鍵字**：[`config/news.json`](config/news.json)；**財報追蹤名單、TradingView 代號**：[`config/watchlist.json`](config/watchlist.json)；**FOMC 與固定指標日期**：[`config/events.json`](config/events.json)。
 
-## 啟用 AI 盤勢摘要
+## AI 盤勢摘要
+
+**預設免費、不需要任何設定**：沒有 API key 時，排程會用 GitHub Actions 內建的 `GITHUB_TOKEN` 呼叫
+[GitHub Models](https://github.com/marketplace/models)（每個 GitHub 帳號都有的免費額度），每次新聞更新都會產生摘要。
+
+- 預設依序嘗試 `openai/gpt-4.1` → `openai/gpt-4.1-mini` → `openai/gpt-4o`（前一個下架時才會用下一個）。
+  想指定其他模型：GitHub repo → Settings → Secrets and variables → Actions → Variables 新增 `GITHUB_MODELS_MODEL`。
+- 免費額度有每日次數限制，一天 4 次排程加上偶爾手動執行都在範圍內；額度用完時保留上一次的摘要。
+
+**想改用 Claude**（需付費的 Anthropic API key）：
 
 1. 到 [console.anthropic.com](https://console.anthropic.com) 建立 API key。
 2. GitHub repo → Settings → Secrets and variables → Actions → New repository secret，名稱 `ANTHROPIC_API_KEY`。
    也可以在終端機執行 `gh secret set ANTHROPIC_API_KEY`，再貼上 key。
-3. 之後每次新聞更新都會產生摘要。
+3. 設定後就會優先使用 Claude。預設模型是 `claude-sonnet-5-5`，可在 Variables 新增 `CLAUDE_MODEL` 改用 `claude-opus-5-5` 或 `claude-haiku-5-5`。
+   每次約 6,000 個輸入 tokens、1,500 個輸出 tokens，一天 4 次，費用依 Anthropic 官方定價計算。
 
-預設模型是 `claude-sonnet-5-5`。想要更深入可改用 `claude-opus-5-5`，想省錢可用 `claude-haiku-5-5`：在同一頁的 Variables 新增 `CLAUDE_MODEL`。
-每次約 6,000 個輸入 tokens、1,500 個輸出 tokens，一天 4 次，費用依 Anthropic 官方定價計算。摘要僅整理新聞，不提供買賣建議。
+摘要僅整理新聞，不提供買賣建議。
 
 ## 運作方式
 
@@ -59,7 +68,7 @@ GitHub Actions（排程）
        ├─ 新聞：RSS／Google News／鉅亨網 → 關鍵字分類、評分、去重 → site/data/news.json
        ├─ 財報：yfinance 財報日與預估 → site/data/earnings.json
        ├─ 總經：ForexFactory 本週數據＋固定日程 → site/data/macro.json
-       └─ AI 摘要：Claude（選用）→ site/data/summary.json
+       └─ AI 摘要：Claude（有 API key 時）或 GitHub Models（免費）→ site/data/summary.json
   └─ 部署 site/ 到 GitHub Pages
 瀏覽器
   └─ 讀取 site/data/*.json，每 5 分鐘自動重新整理；TradingView 元件提供即時報價

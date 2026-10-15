@@ -204,7 +204,7 @@ def run(mode: str, root: Path, now: datetime | None = None, summary: bool = True
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="美股持股觀測站資料管線")
     parser.add_argument("--mode", choices=("full", "quotes"), default="full")
-    parser.add_argument("--no-summary", action="store_true", help="skip the Claude brief for this run")
+    parser.add_argument("--no-summary", action="store_true", help="skip the AI brief for this run")
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
     args = parser.parse_args(argv)
     return run(args.mode, args.root, summary=not args.no_summary)
