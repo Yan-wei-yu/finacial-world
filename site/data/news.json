@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T08:55:31Z",
+ "generated_at": "2026-10-15T08:57:16Z",
  "categories": {
   "holdings": "我的持股",
   "semis": "半導體／AI",
@@ -180,11 +180,11 @@
    "first_seen": "2026-10-15T08:55:31Z"
   },
   {
-   "id": "1f30113f928dc283",
+   "id": "316ee43a5c78b7d3",
    "title": "景氣循環股遇AI 記憶體與ABF搶擴產 誰會先步入景氣反轉？",
-   "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQYVp5c21EeUxzTVNnRVFVdUMyM3lmOHBuYlh2Zl9YdTJFakttNVRmR1FCeW9hUTJuclJwbDhVdWZQVjBoWkhwejRxcVdFM3VwQ1h0bE5KTUJPWUtjamo5NXRLQTdkVzMyX015eDl2REM5bHotd0RBazFoUG5IMFFBUFJ2eUlNdko2cktNY1Bpa1N6ZFNCMDJuWjF4NEpDbTkteWpUc0pSOGFzZ0FCeXJrNXAyaXZHMUhYWWdMb1RsRkdTYjdreFdzbWxEaXZVVGRpRWN4cl9DWGhibFJoYTgzSmEyV1JqNlloTWxoS1YwNkoyNEgzU3pGa29zUl8wTTMwbHN6N3JtX05GT2htMzlxM3FBZTI3VGNnbHRVWHI4eFUwQ2pQZ3FXX1paNTM1ZGNwejlFV1hJSkVTT3VsNWhsY1VuSjc5ZXlUazZwMjU4Y3FxYTYyMGR5cEZmUWY4a09pZmU5T1ZFSGJ1V1F1VUN3bFFSZF90aHVtYm5mZWd2ZTlPMTFMSUpCRzdBMm5UZ0J6TkZV?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQVVJPLS1RV1I0eW9vakNiOThLVzlLYURDNndpcThYaHdwclVDV0FpbWEzZkpNUXk0eXJxS25jZEdiNmNQc2ZaYThBcDYwR3hTTU91bVlXQTVfTVFmY2hxSDQtbGZnb1JfYWZvUU9PXzBNQ0VmSlNwRWpYUUJCcThuWFpkYnV5bGV1c0lNeHhSVUY4aU9WcDlJanc3Y25wSXZPSC1JLUJqTzVDRXZFSE4tS1VucUcwRnlFMnNZNHdRQklpVjFKSUw0Nk9FWFlSQzE4QlY4ZUhvbWhXRHhudXRjWVRFNS12R2c1REhrUHl6TEVjN3dKQjNsdmRiS2tCLVNmak41R1RIUWZVajBWRk1XMEtXcjVacVpSNTBxam9EOHl5bjhBckRMN3dpXzNQcFlqMUw5QS1taUx4bW5KSTlDRWg4Umw4bGFfaVlzTXZrU0xZOXBmVVY3dnBmampFc3NocjJKVmtXNDRlWmpOQkE?oc=5",
    "source": "台灣好新聞",
-   "published": "2026-10-15T08:32:31Z",
+   "published": "2026-10-15T08:32:03Z",
    "summary": "",
    "lang": "zh",
    "feed": "gn-zh-memory",
@@ -301,9 +301,14 @@
    "symbols": [],
    "base_score": 4.5,
    "source_bonus": 0.0,
-   "score": 4.5,
-   "coverage": 1,
-   "also": [],
+   "score": 5.0,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "Yahoo新聞",
+     "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPZzVrZ2tQSGJSSzVUTUxZUzFoOHRDUm1SWE1VbFczLTZlQm1ZYVByMzZkU3cwMTFvdUQyZnFaMVFjc183ZzlUVEVyNVZKcE5JZ2I1TDVNcDNzY2R5U3dWYU05RXFxMkZaSWpTZjJ1MGpRMW5MemNaSzZxV3RnLXBUTm8xOEVWWmJ1Y0Z4RFptVlI3ZGc4X3lGa2RuQ1F4ZGdIWllBejNBamIzRkNZU05Qelk4dTlCUjdGNlFuRGc0NHlvOGVmNnZUOGx4WlEyMXREN0RKZTFuNzcydkJqRjQ1aTU2SE1SRy1WSHcxV0FxeGRNRVh6anBhR2c5NkhhckhpNmpaOXIwUmwwTElQY2JGWlNZVVNSUlVmSTh6T1FLWWphZWVhNWI0bkJZWFR6QkoyS05VbmxRTjZPUGk3dk5fMUdfc0NZOF94U09NWUdMSVRoYUJacWlSU052b0ZwWmdkRk9pQWs2UnM1SnRlenBBMHVPbjNuMWh2S3RpZVAxVHN3VzNUUF9OVkFHNDQtQ2pKWUxjNlE0SDVLbW9SdVNXcmZRTzZyVWxmd0tTblVWaFRkUTRKVHFTaC1mYjNWTGVYVV9SN2RzRFFDZw?oc=5"
+    }
+   ],
    "first_seen": "2026-10-15T08:55:31Z"
   },
   {
@@ -366,6 +371,29 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-10-15T08:55:31Z"
+  },
+  {
+   "id": "15109d46509c6889",
+   "title": "美晶片股跌不停、元凶竟不是輝達？美名嘴曝內幕 : 要看「這檔」臉色",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBV1dNZVJyOFRLOWFPdVRXVU5kZ3BiUVByOC1HN1c3NXZMNHBCcjVTM0hSUTZVQXRXSXBBWnBvQnZVcXlDNk9iQk1FdjFOQTAyN0NzTzhkQmVWRGxTMVhj0gFkQVVfeXFMTkZCcFpaeGJ6RE10ajVBX1JHcTJWci1wM29CUzFIclpZWExTcUt6T2E0Tk9tSHViS1VwRGtOcHRBSXRPdVFOcGNPVXg1ZHktRWliSHZQOTY2aHdUamotV3FTY2dKWA?oc=5",
+   "source": "自由財經",
+   "published": "2026-10-15T08:12:25Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-memory",
+   "categories": [
+    "holdings",
+    "semis"
+   ],
+   "symbols": [
+    "DRAM"
+   ],
+   "base_score": 5.0,
+   "source_bonus": 0.0,
+   "score": 5.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-10-15T08:57:16Z"
   },
   {
    "id": "afe2b00647099f48",
@@ -522,6 +550,26 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-10-15T08:55:31Z"
+  },
+  {
+   "id": "43d19558bb9ad660",
+   "title": "The Former Theater Director Who Keeps Beating Wall Street",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUtJN3M1em5qaDFMMDh5SXhramQtOEM2RmZpUlNrcUxxQWdiU3FfbGptRndYdS0ydTRsTmFsemU1OERWNG9ZakoxOFhjV0Vnd1RmTTNSZG93eER4ZW9BdXdHdVZZZUJFaVdQbzI4TThPN1VvdUlIVUlGZ2VJcFZzTjhueEFDbE54dWlDcXFoZ1V2TnkzSU9TOTY3VWVEbE50NW5DdW5HWW5KbHZRTVVwbA?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-10-15T08:00:28Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-market",
+   "categories": [
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 1.5,
+   "source_bonus": 1.0,
+   "score": 2.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-10-15T08:57:16Z"
   },
   {
    "id": "0fe3d1e7da61d086",
@@ -1277,30 +1325,6 @@
    "first_seen": "2026-10-15T07:19:45Z"
   },
   {
-   "id": "d7b1be7673eb94f4",
-   "title": "戴爾單日慘摔11%真相！巴克萊警告記憶體漲價紅利難持續 AI伺服器訂單會被砍嗎？",
-   "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxObVdRbTkxVWpWdHhsYXpSMS1ONTBsZ3VkVU5XX0VTVFRveVR2eGdIYnB5WnhQVkVPQTVfcDNKZGxiNWhTXzJpOHdnV1FZU3AxLURzaXZaTlhUbXV3alJOa2NoRWFOMkh0eENxNUNibVdyaXdtcGFMOWdmQnZzZEJkcFRiZ3I4MjNLazZRSEpZOVNIVncwUjBEZzFlSUNkMlZWODZoQWZfWl9NZE1kZC1tQjlyb2JtSTBKTm1scDJfVUR5WktBN1RSTnUtaDU2d3hmUTJlZ1hOQTFVMEwzZDFKXzZnT0hpWWgzSnAtQjBJMXdVd3NQX28xMGpLZEtMQkhKTWVPa2ZHM25NWVRjUDZWeC1sYVBJRm1aZVl0dXBycERZdzBrT1RnbHBhZUVuSnV0ckF2WHlua0JyWHNTTzNvMVA0WGR2Y0liUUQxOWdhU2djbFNWMEZPQzBHanJXQ3JXaHBhMHR6RHZYdHB3RHloRUg4Vi0tUzBRbUN5cTkwYTZqcTV0NDNlbmNUNFkzNTB1c2dqNTQteXQ2QUJYNE9MemhXV21fOFRrM0xQWFBKclByUzB2cXE2NzBrNGJ3ZFJMS2M5OC1ialp2R0tZUmRDam9wWUdKVHdmSDhiUzJUU2lUQWtTWE40ZDJQT3FlYnBzME9z?oc=5",
-   "source": "台灣好新聞",
-   "published": "2026-10-15T07:01:29Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-memory",
-   "categories": [
-    "holdings",
-    "semis"
-   ],
-   "symbols": [
-    "DRAM",
-    "SKHY"
-   ],
-   "base_score": 6.0,
-   "source_bonus": 0.0,
-   "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-10-15T07:19:45Z"
-  },
-  {
    "id": "b86642d3632d1c36",
    "title": "TSMC Beats Q3 Earnings and Revenue Estimates as AI Chip Demand Drives 41% Sales Growth",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOVFGQUFZTXJtTmYwTXFUN1cyR0FzSnNLTmNHMDBqZVlJbW8xRlQxU09jM3Q4dEIyejNyMk5IaXd3WkxXR0VHY24yTXpWYjZNamZVenAzT1E1VFF5WU5VMmpNNmNQaUw5NGJzSHp3NFlvdHhWc0F6blNwU2F5bkExaDY5MHgwMERJeGlmT2VDbmhSV1hzSzNWOTVQSi13UmFaRXJTeVVmbUptWVB6Q1Bhb3FSMDNpRHExQ3laLTFILVZXN1FpUFZCMUt0eGgwenFwOFhkdg?oc=5",
@@ -1484,6 +1508,35 @@
    "first_seen": "2026-10-15T07:19:45Z"
   },
   {
+   "id": "08c46952e47e147f",
+   "title": "戴爾單日慘摔11%真相！巴克萊警告「記憶體漲價紅利」難持續 AI伺服器訂單會被砍嗎？",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5U2tkZjFwb3VYYnhzbGVqSlpEbkdYMDZfYUtZREhjRnJBVzFYX1FNYzF2eXR3TmlWOFhRbnIwcEs5QTFUT29KWVRmS3N2OGVrY3RkTldMbHdtbVl6OGpZS1dvczc0ckEyOG1uOTNUc0k?oc=5",
+   "source": "理財周刊",
+   "published": "2026-10-15T06:54:57Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-memory",
+   "categories": [
+    "holdings",
+    "semis"
+   ],
+   "symbols": [
+    "DRAM",
+    "SKHY"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.5,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "台灣好新聞",
+     "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxObVdRbTkxVWpWdHhsYXpSMS1ONTBsZ3VkVU5XX0VTVFRveVR2eGdIYnB5WnhQVkVPQTVfcDNKZGxiNWhTXzJpOHdnV1FZU3AxLURzaXZaTlhUbXV3alJOa2NoRWFOMkh0eENxNUNibVdyaXdtcGFMOWdmQnZzZEJkcFRiZ3I4MjNLazZRSEpZOVNIVncwUjBEZzFlSUNkMlZWODZoQWZfWl9NZE1kZC1tQjlyb2JtSTBKTm1scDJfVUR5WktBN1RSTnUtaDU2d3hmUTJlZ1hOQTFVMEwzZDFKXzZnT0hpWWgzSnAtQjBJMXdVd3NQX28xMGpLZEtMQkhKTWVPa2ZHM25NWVRjUDZWeC1sYVBJRm1aZVl0dXBycERZdzBrT1RnbHBhZUVuSnV0ckF2WHlua0JyWHNTTzNvMVA0WGR2Y0liUUQxOWdhU2djbFNWMEZPQzBHanJXQ3JXaHBhMHR6RHZYdHB3RHloRUg4Vi0tUzBRbUN5cTkwYTZqcTV0NDNlbmNUNFkzNTB1c2dqNTQteXQ2QUJYNE9MemhXV21fOFRrM0xQWFBKclByUzB2cXE2NzBrNGJ3ZFJMS2M5OC1ialp2R0tZUmRDam9wWUdKVHdmSDhiUzJUU2lUQWtTWE40ZDJQT3FlYnBzME9z?oc=5"
+    }
+   ],
+   "first_seen": "2026-10-15T07:19:45Z"
+  },
+  {
    "id": "3069a79d79f9583f",
    "title": "全球股市大跌原因找到了？美股科技股重挫、日韓股市跳水3大利空引發市場恐慌| 張一笙 | 風生活",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0YmhwZ1g0MHV2MVNZa21LQ3ZtWlBOekZtQmxpdW9LQW9lLU1QUEM5RWwtQ3FaaEVXZ1hfTUY5VTcyVlotZ0Y5eE1OQktsNl9h?oc=5",
@@ -1578,6 +1631,27 @@
    "first_seen": "2026-10-15T07:19:45Z"
   },
   {
+   "id": "6ef739bfad7d4896",
+   "title": "1 of the Stock Market's Most Reliable Recession Warnings Just Disappeared. Here's What Usually Happens Next.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2Y2aXc0SW9vZGZ0UHVkNW5hdGpiamxIUFM0MzVYdnJBTkpmSnNkRnpXYlYxUWpZMURJTEZIblQwelJGNjVuS3pGbjdtNl8zeF9rSjhDWEZTcnQtME5oeVJtZVlZN0lrdVg3TVZVczUydVpUa0ZwU1ZER1RlcUhxMkhlVUpSV0NlVUItRGlDazYteE10Szl6ZDR3?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-15T06:50:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-market",
+   "categories": [
+    "macro",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-10-15T08:57:16Z"
+  },
+  {
    "id": "264399695cc4b4fa",
    "title": "TSMC's AI-fueled growth continues with record $23.6 billion quarterly profit",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uTzlPUnNkRXNyNUt6dThUOUdNSnh0Zy1LQkkyZy11bXRZTGE4dWxsVzNCQTZkSm1tcGV1S1VhOVY4TmJpc0RoWjdpa0dKamhKN3pwaTZZcW96RXZRSHhYQXBJci05X3c?oc=5",
@@ -1621,6 +1695,26 @@
     }
    ],
    "first_seen": "2026-10-15T07:19:45Z"
+  },
+  {
+   "id": "97f046fca1f6949e",
+   "title": "Inflation up to 3.7% in September",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVhtNmlKQXFjeWFIdmZRTHBRMUpHdnFzNjdpLTZLWmRKcGNRdjdRcnZSZEZrLWNVdkFOWU9IY1gzb0s4cjc5dktkS05fM1BPem5EMnFFN2EyWHMxUF9RUmh6OHB0dFhPM2pqRTZKNUR5dWN4U194ejZ0bzNvV3ZNMg?oc=5",
+   "source": "Northwest Arkansas Democrat-Gazette",
+   "published": "2026-10-15T06:47:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-macro",
+   "categories": [
+    "macro"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-10-15T08:57:16Z"
   },
   {
    "id": "8e7a1c3f14f5e228",
@@ -2131,28 +2225,6 @@
    "first_seen": "2026-10-15T07:19:45Z"
   },
   {
-   "id": "94dd500d53fda197",
-   "title": "SK Hynix Shares Fall More Than 12% to Lowest Level Since April",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pWTNubHNtdnQ2U0tqeGhUb3hSdi15UmpBM2dxUjc3azVUZUg1N2lOeWY5c1Axck5uTXBDTTluWjlrWV9IUFpDMVFNTDRlb2swT3BxRVNLTHRKQQ?oc=5",
-   "source": "www.tokenpost.com",
-   "published": "2026-10-15T06:16:30Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-skhy",
-   "categories": [
-    "holdings"
-   ],
-   "symbols": [
-    "SKHY"
-   ],
-   "base_score": 6.0,
-   "source_bonus": 0.0,
-   "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-10-15T08:55:31Z"
-  },
-  {
    "id": "ad1718436feda828",
    "title": "SK海力士跌幅扩大至超12%，股价创4月27日以来新低",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TZUQxRDFLblVoSC13dS13c2Q3NHFSU01YY3NzU1FEUGN1ak5ablVpd0l4NE9fZU5fN296WEZKcS1aOFl1bXdpdjZMbDF3QlVVNXdubWtGSmJPUi1YY2Z0Sm5JaUF5QQ?oc=5",
@@ -2227,6 +2299,57 @@
    "first_seen": "2026-10-15T07:19:45Z"
   },
   {
+   "id": "d5e0145ebe02063f",
+   "title": "SK Hynix Shares Fall More Than 12% to Lowest Since April 27",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYblBLREFhbkJPV2lIVGJZN0J0TFFuX3Vvd3ZZZU9oa0F4cWtnTGlxWU5WdW5HUERTV2dBbjA5UGwxNWJMdENKZkRNVkJ3d1JvYldxeWpGV3hCQQ?oc=5",
+   "source": "TOKENPOST",
+   "published": "2026-10-15T06:11:16Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-skhy",
+   "categories": [
+    "holdings"
+   ],
+   "symbols": [
+    "SKHY"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.5,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "www.tokenpost.com",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pWTNubHNtdnQ2U0tqeGhUb3hSdi15UmpBM2dxUjc3azVUZUg1N2lOeWY5c1Axck5uTXBDTTluWjlrWV9IUFpDMVFNTDRlb2swT3BxRVNLTHRKQQ?oc=5"
+    }
+   ],
+   "first_seen": "2026-10-15T08:55:31Z"
+  },
+  {
+   "id": "6c5c2f4f7e9014a0",
+   "title": "科技｜馬斯克預計2028年中國大規模生產RAM 韓國憂記憶體2029年過剩",
+   "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNYm1UUzl3cFVEMTJwQllyM1ppb1lvRHB2LVRtM0NYaWZIMG1yMllmUXE3Qml4LW9pT3p2ZExVZXpJSWFlSEhnSDdINm01eG53NzRYbkIxTzVJTlRreG1NQVBYdlExZ051OUJodzJZem13LWJWN0tBdVlUTG0tWHVfakZvcUgxbzhOeC1OdjhDMnhXZ2U2N19SWHI4bGJtWlhLaFQzM0pBT0x0dWtOb1E4TVEyOGJURXhLUTZQM1pJSnRvU1BYV2VxUEl5TUNVZGxKVFhjZFRVeGRYRWRpSEtMWDF4eGk0cV9hcWRLc2c2eUJaektlWWhSeFEyRzNvUGhQa0tZNHRmRFc0eGVvc1RERWJlaUVOSjZNbk1IbXo4QW16MzBOYUZwNTBySWVsbXpZdm5oUVN2ekk5YmJmS1FNNUFoWnh6TVROMy10TU9yR192YWdKd0VXaGZNSHVGQmN5NTN3SXpaMG9sbGJDdjV4RDJjNVV6TFZwcVE0OHlJbWx5ZFhoMEtSYk5Kam55bEk?oc=5",
+   "source": "Yahoo 財經",
+   "published": "2026-10-15T06:11:15Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-memory",
+   "categories": [
+    "holdings",
+    "world"
+   ],
+   "symbols": [
+    "DRAM",
+    "SKHY"
+   ],
+   "base_score": 5.5,
+   "source_bonus": 0.0,
+   "score": 5.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-10-15T08:57:16Z"
+  },
+  {
    "id": "c72acaf1eed063a2",
    "title": "台灣美光先進封裝與測試二廠正式啟用 深化AI時代高頻寬記憶體布局",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GWDd1ZXNua1phWGtIekxqYlh2SnJ6V0xReHJnN01ISnlFck8xd2V5VktOOVByS29zc0c5bkJYVHdWcGh2djF2c090TDFDNjRq0gFWQVVfeXFMTkFaOE9EODFfV1dvS044R0VZWWVHc3c4M2JaNjM0UVJ1MFhvWVFXcUU2RVdsZk02RGtNNGdOT0xHNkZxX0lvNlRLV2dVX2VmVklNcDVZUWc?oc=5",
@@ -2269,26 +2392,6 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-10-15T07:19:45Z"
-  },
-  {
-   "id": "0f621d629e73eb67",
-   "title": "Trump to decide on Russian oil sanctions in 10 days; India-US trade deal's big issues resolved: Sergio Gor",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWZaUDFKc3RXZUp4Q0MzMUtDQ2JTdUpTRVZERUhkUEF1T0h0NTZfbXVLZENqWHdhUXJtVjkyVXBKc21RM1IyazNzY21RekU0cE9HR2QwQjl6MENvUE5NajFRWHVxbUktcFU2TGRLWkFZdnB0Tk92NFBXVTY3ZUpSVWcxNEJMTi1DaTNLbS1hT0ctdGpOdEcwNG96NUdyU1hUZ1pSRmlyZDRMYzFzZUxkcWU0QXZYSDZHcjh4R2RhOERDQVZsa2wybkZxZTdJMGRzbXRuS2laN3c1VjRMbF9FUjNuUlYxR0x6Zmh3ZUNGMG10SnZw0gH0AUFVX3lxTE1hZlpQMUpzdFdlSnhDQzMxS0NDYlN1SlNFVkRFSGRQQXVPSHQ1Nl9tdUtkQ2pYd2FRcm1WOTJVcEpzbVEzUjJrM3NjbVF6RTRwT0dHZDBCOXowQ29QTk1qMVFYdXFtSS1wVTZMZEtaQVl2cHROT3Y0UFdVNjdlSlJVZzE0QkxOLUNpM0ttLWFPRy10ak50RzA0b3o1R3JTWFRnWlJGaXJkNExjMXNlTGRxZTRBdlhINkdyOHhHZGE4RENBVmxrbDJuRnFlN0kwZHNtdG5LaVo3dzVWNExsX0VSM25SVjFHTHpmaHdlQ0YwbXRKdnA?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-10-15T06:02:22Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-world",
-   "categories": [
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 2.5,
-   "source_bonus": 0.0,
-   "score": 2.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-10-15T08:55:31Z"
   },
   {
    "id": "36cb50617fe1d766",
@@ -2856,6 +2959,30 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-10-15T07:19:45Z"
+  },
+  {
+   "id": "8c8073f61a3d6a43",
+   "title": "韓國SK海力士子公司以美國設廠為籌碼，爭取中國大連廠擴增美製設備出口許可",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CeElhZWQwbE1TQUZuLWRlcDlGODJFOE1ZSW9wcTVpZFAydEpmdWxmMGptZ0tIc2JmYzMzQU5oWTd6TWtYeXdnWUYwOGkwUTlPcDdKWElXdVhOcno2UHhjWUV2THdNaE9TN3k3V0VzTVZ5S2hUVks5aTJB?oc=5",
+   "source": "BigGo 財經",
+   "published": "2026-10-15T05:25:00Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-memory",
+   "categories": [
+    "holdings",
+    "world"
+   ],
+   "symbols": [
+    "SKHY",
+    "DRAM"
+   ],
+   "base_score": 8.5,
+   "source_bonus": 0.0,
+   "score": 8.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-10-15T08:57:16Z"
   },
   {
    "id": "d9e89788df6d00ea",
@@ -3725,31 +3852,6 @@
    "first_seen": "2026-10-15T07:19:45Z"
   },
   {
-   "id": "d7d30ec2715dffcb",
-   "title": "SK Hynix seeks U.S. chip equipment exports to China tied to new factory - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc3NHakpvdmhFWlF3czBRRi1MRmoyZ3FhNEp2Q2hESVladzVLTVoxVlg2YkVYb25Ua3RIeGVfRDBNVzFVbFpidG93cW1POUo5MWZ1bkowRmp4ZnExZUNKanpDS1EzMHNyMHdBMlducklVcDJxYTVRYi00c1loemFXNTl5bFJIcnNmN1E?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-10-15T04:07:00Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-skhy",
-   "categories": [
-    "holdings",
-    "semis",
-    "world"
-   ],
-   "symbols": [
-    "SKHY",
-    "DRAM"
-   ],
-   "base_score": 11.5,
-   "source_bonus": 0.0,
-   "score": 11.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-10-15T07:19:45Z"
-  },
-  {
    "id": "85c06c93f5cce81a",
    "title": "009815布局美股AI龍頭！第三季迎「最強AI變現財報季」 2027年四大趨勢曝光| 存股族愛ETF | 股市",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TVkJGOTJnWnlvVjBFNC04TXk1bnNxRE95QXUxT3kzaVJKcnJJRGxVSk9lOUR2UWpPY3ZEaHlUNEpRUGlmVlJLWEd1Z19QM1ltTlJ3?oc=5",
@@ -3991,6 +4093,36 @@
    "score": 3.0,
    "coverage": 1,
    "also": [],
+   "first_seen": "2026-10-15T07:19:45Z"
+  },
+  {
+   "id": "ced7823fa239cc97",
+   "title": "SK Hynix seeks U.S. chip equipment exports to China tied to new factory - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZkt3N0tyLVIwcFB0SnZ1WGhXMHBmSUxfWXpZeGJGd0NibzhseXBFeGVzTlRNLU9RTHFIMFZmN3BqWlJFby1SV2xabldFczduWlZIWmtNeXllRHZCOW53c3NEZkVPa0M1S3ZPRUU5N050bXM4UFQ3cjZfYlQtVnFHb1d3R1FFUE9NaDV5QURfMjhnczhKU0dmTXAyYUtiZ2MybV9lR3RPb0pEeGRFRjBYLUU1X2FMV2t3RDJDUnI4NngzV2ZHOGdGRzBTbkMtYXpS?oc=5",
+   "source": "Investing.com",
+   "published": "2026-10-15T03:41:46Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-skhy",
+   "categories": [
+    "holdings",
+    "semis",
+    "world"
+   ],
+   "symbols": [
+    "SKHY",
+    "DRAM"
+   ],
+   "base_score": 11.5,
+   "source_bonus": 0.0,
+   "score": 12.0,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc3NHakpvdmhFWlF3czBRRi1MRmoyZ3FhNEp2Q2hESVladzVLTVoxVlg2YkVYb25Ua3RIeGVfRDBNVzFVbFpidG93cW1POUo5MWZ1bkowRmp4ZnExZUNKanpDS1EzMHNyMHdBMlducklVcDJxYTVRYi00c1loemFXNTl5bFJIcnNmN1E?oc=5"
+    }
+   ],
    "first_seen": "2026-10-15T07:19:45Z"
   },
   {
@@ -4921,6 +5053,28 @@
    "first_seen": "2026-10-15T07:19:45Z"
   },
   {
+   "id": "f50a92a8199bddbc",
+   "title": "Why is SK Hynix stock plunging today?",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVc0T0ExLXNRa0JJRHJsNTNvQlRHNWlIMUZFLVhfVE9udWtwd29Od244YWMwT3NERmFOTU1UdFE2eVBYdWh0TzV0eWZZUzdqLTJKV3Y3RUw4UnVSSVUyWlJkY1cxQTJwVFIxVGYyR1RSbnl4VEpHS1hrdy1Cdl9ySkNqMXhDWW1BcHNWUFFSbWxpMWRHbTIwbzNMeHBIMUk?oc=5",
+   "source": "Investing.com",
+   "published": "2026-10-15T02:07:33Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-skhy",
+   "categories": [
+    "holdings"
+   ],
+   "symbols": [
+    "SKHY"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-10-15T08:57:16Z"
+  },
+  {
    "id": "77bddc32800cf9e9",
    "title": "比爾蓋茲：AI是人類最危險發明 未來一年網安衝擊恐怕集中爆發",
    "url": "https://news.cnyes.com/news/id/6630758",
@@ -5475,26 +5629,6 @@
    "first_seen": "2026-10-15T07:19:45Z"
   },
   {
-   "id": "2a2235ed28c310f4",
-   "title": "The Beige Book – First District",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWpIU0JaSzNDajlfS0hFUGRhbWRlQl9BdHFEeURiMEN5dkpnMG54Tng1X3JpRnNsaTgyYmdxQTdzRnJQX2p6YWJ5OFJjZzRWcktRVEZDLUtzNFc3VkNSeXFkNTlENVpzZDhjd2NrUzJmVmk4cDJjSHd2NG5WeHBRckEzUk5yMmp6Sk1LUl82bWN1S0hmVk0wMWNZeWtCN21neXVMeV9aQ1Jvc1BQTkNj?oc=5",
-   "source": "Federal Reserve Bank of Boston",
-   "published": "2026-10-15T01:28:51Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-10-15T08:04:42Z"
-  },
-  {
    "id": "6b719ce8cf6aec5f",
    "title": "美股重挫 台股早盤跌1400點、台積電跌70元",
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNX3BvVVhFRk5ESFR4bWlaQ0hIOGZxVVBuV2ZyTmdRalBFMXk0RklVdXdxQnFwYVFkc184MklpR2h5TnhJc2QxTFVfckNVUklTVExuRUtMMWp4VzExUUpXWHVsMjVoQXVrWmhIODZLb1MyZU1wWUZFQUxlVjI1WmlFUnU4RjMtY3lEM0x0dDN0X012QzlYa1ZfTzVwd0Z1QVZ5QS05LVpoZEYwcW1GTzNOeVVHcURHNVFyOWR2T2JWZHh0aWs5Tmk2T2dHVlBTcDNwOE0tSzRxcC1mSjNIaFlZNWY0THZ5YURRLXRwMjdMRklzT2h2SGJ0Q0lkNjhXVFNaRVlhdEJLUkd2WnhnRVBkZ1pn?oc=5",
@@ -5602,26 +5736,6 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-10-15T07:19:45Z"
-  },
-  {
-   "id": "64d48ef853d31607",
-   "title": "Euro futures hit 17-month low as U.S. inflation tops expectations.",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjFocENPZXFhSGZWemgyYjZxX1lOVmk4UEdBTEFwLVcyR0lIZ2RNZVRkaVFOdnc3cGduWTFZVmdJSTBxUDgyNzRXaXNXa19YazZmbTBUcG1CRjdvYkpXd1g2S0ZoUm1fSl9UUENKT21qZGxTbVppYjYza2tJRU9QQzZSay15WE9ZY0Zmby1JakluZWk0dWZmLWVWd1RzNWtINC16enJlU2RvTGUzSjZyUQ?oc=5",
-   "source": "CME Group",
-   "published": "2026-10-15T01:14:22Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-10-15T08:04:42Z"
   },
   {
    "id": "4af10e5f98326f1a",
@@ -5752,29 +5866,6 @@
    "first_seen": "2026-10-15T07:19:45Z"
   },
   {
-   "id": "1b273d27cec055bc",
-   "title": "馬斯克一句話、陸廠技術突破為記憶體添陰霾！「這檔」遭利空橫撞仍被逆勢護航國喬持三增營收獲長老大舉進場稱冠",
-   "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxQR083VGdlT3VzUWE4SE1yeXRvUGVMVXFxMVpHakdFWHN1V0I1LVZla1RaNEdpTnVaV0tCR1NkdmxNNGJsV1BkZFgzLXEzSUxQZ0tiUk5VVGwxbzZDem9qUjg4RzdkSDNzeF9ncS1tYmItR1VUV09zUjdMWGdHTWQtUFU5Q2V2LWxnZVZoS2l4MExUWDZJaHYyb045ZVFXMnhFeDI1SVZ2YnlDNmhrSnVWdnhhTDhvWmdEclQtME0yMWl5aWdoZnVoUXZnMFVGTUpGVzRDSkEzb0taelAzRDViQ0tCdHRyYzVPenhFc1VYd1F3ZTJsdE1qcGc3VWlNemFwMnBrTUh6d08tVEVMUlBxLWQ5SHhTdjV0aXpubW12bTRlMWZKenRGZXZ5RGRVYl9PVDd4cDdqQXFCbmZiUVVQMUVYZkdFY0FxQmIyZmQ1MHhvRllXYjFLUFJtUDlHUXNnR29RZWxGOElnbUlWY3FnTjdNWGxWYUtnVzYzZ1dOVklTZmUyb1p5ejBzak55dGxuT0tydGFlU0ZNNWo1VF9DemlibXh3a1pxUERaNlFXZW5odklGLVE0V3lNdWFvODlCVTVIeFhSUXVVYktVRDdJRFVLOGM?oc=5",
-   "source": "Yahoo股市",
-   "published": "2026-10-15T00:55:17Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-memory",
-   "categories": [
-    "holdings"
-   ],
-   "symbols": [
-    "DRAM",
-    "SKHY"
-   ],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-10-15T07:19:45Z"
-  },
-  {
    "id": "59029be45c1ef3d8",
    "title": "「雙倍超配」AI建設！ 大摩：AI產業年度開支有望維持1兆美元水準",
    "url": "https://news.cnyes.com/news/id/6630784",
@@ -5855,29 +5946,6 @@
    "base_score": 3.0,
    "source_bonus": 1.0,
    "score": 4.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-10-15T07:19:45Z"
-  },
-  {
-   "id": "60a41c470b2204da",
-   "title": "Samsung Leads CXMT by Up to Seven Years in DRAM Technology",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UX215a2p1ZklxT0VZZzQ5UkpjVjZGTmpLNGVPNzJSWEFlby1uVXNEQWNfUFhHa1pTSkFBYVhyaVNaY1N4UHVzaTdZdzFTT0xvaTNNdExVSFU5dEZha0N4bkJUNlBjdGpXNFJUYnloRDR5OHpY?oc=5",
-   "source": "Businesskorea",
-   "published": "2026-10-15T00:47:34Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-memory",
-   "categories": [
-    "holdings"
-   ],
-   "symbols": [
-    "DRAM",
-    "SKHY"
-   ],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-10-15T07:19:45Z"
@@ -7308,26 +7376,6 @@
    "first_seen": "2026-10-15T07:19:45Z"
   },
   {
-   "id": "e55538450ab07e8d",
-   "title": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
-   "url": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
-   "source": "CNBC",
-   "published": "2026-10-14T21:18:46Z",
-   "summary": "U.S. District Judge Timothy Kelly had ruled that the three outlets targeted by President Donald Trump can keep their access to the White House complex.",
-   "lang": "en",
-   "feed": "cnbc-top",
-   "categories": [
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 2.5,
-   "source_bonus": 1.0,
-   "score": 3.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-10-15T07:19:45Z"
-  },
-  {
    "id": "dc10b744fb07ebad",
    "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
    "url": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
@@ -8189,26 +8237,6 @@
    "first_seen": "2026-10-15T08:04:42Z"
   },
   {
-   "id": "83f31a3325ee9306",
-   "title": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
-   "url": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html",
-   "source": "CNBC",
-   "published": "2026-10-14T17:25:34Z",
-   "summary": "Katti said in a post on LinkedIn that he \"decided to move on to build something new.\"",
-   "lang": "en",
-   "feed": "cnbc-tech",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 1.0,
-   "score": 4.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-10-15T07:19:45Z"
-  },
-  {
    "id": "54c98a4b4d0f8cbf",
    "title": "Chip stocks are on pace to erase $1 trillion as AI selloff deepens",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRWlwMDlmTXFxTV9uSzlydjVhd1JhZFZITEFDcE1mZ3RYeDhHS1NPMXZoWlhwSnNHN0p6d1BJTlpUcDBmb191NFExWm13c3dpZWl1enhVTzJmMDhiUm5wY2VGckRNZ3dIVWFRM2J5M3VKeF9hVzROdExKRk5VQQ?oc=5",
@@ -8225,26 +8253,6 @@
    "base_score": 4.5,
    "source_bonus": 0.0,
    "score": 4.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-10-15T08:55:31Z"
-  },
-  {
-   "id": "6889fb52a3d6a67a",
-   "title": "1兆美元恐蒸發！晶片股賣壓加劇 費半近六日跌一成",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01bnYtTm96amxtaDhjbDJnWGQ2Rjl3QkxPblZINzNDOVowMmpwcnFhRTdhbHhKS3lTb25rdDN6SzhOUWJDeWRJUmFhX0F0WFE?oc=5",
-   "source": "鉅亨網",
-   "published": "2026-10-14T17:00:58Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-semis",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 1.0,
-   "score": 4.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-10-15T08:55:31Z"
@@ -8802,6 +8810,29 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-10-15T08:55:31Z"
+  },
+  {
+   "id": "af992f2b80e8b1b0",
+   "title": "CES 2027「智慧時代」揭幕…AI代理、實體AI、量子運算全面登場",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NWHBJbzN1MEY4eDFrVkh5eHlVMV9ORzlQRWVsM0N0ZmgzcTFtM2ltSEgxcHltZlpvVjBUdGxMVzhwV1lqVlRIcDdfS0FtT3BXRnpQcFIzTTdQNk9LR2U3bjRBbmhUOXNNY2tGOFRKSUdDU0JOZGlnMFZR?oc=5",
+   "source": "BigGo 財經",
+   "published": "2026-10-14T07:56:00Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-quantum",
+   "categories": [
+    "holdings",
+    "semis"
+   ],
+   "symbols": [
+    "QNT"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-10-15T08:57:16Z"
   },
   {
    "id": "f4af117845894679",
