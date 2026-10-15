@@ -367,11 +367,22 @@ def _completion_brief(body: Any) -> tuple[dict[str, Any] | None, str]:
     return None, f"finish_reason={choice.get('finish_reason')}, tool_calls={len(calls)}, arguments={sizes} chars, content={content}"
 
 
+def _not_json(response: Any) -> str:
+    """Status, type, redirects and the start of a body that is not JSON, for the stage status."""
+    headers = getattr(response, "headers", None) or {}
+    parts = [f"not JSON: HTTP {response.status_code}", headers.get("content-type") or "no content-type"]
+    hops = [str(r.status_code) for r in getattr(response, "history", None) or []]
+    if hops:
+        parts.append(f"redirected {'→'.join(hops)} to {getattr(response, 'url', '?')}")
+    parts.append(f"body: {clean_text(getattr(response, 'text', ''), 160) or '(empty)'}")
+    return ", ".join(parts)
+
+
 def _github_reply(response: Any, model_id: str) -> Reply:
     try:
         body = response.json()
     except ValueError:
-        body = None
+        return Reply(None, model_id, None, None, _not_json(response))
     tool_input, detail = _completion_brief(body)
     usage = body.get("usage") if isinstance(body, dict) else None
     usage = usage if isinstance(usage, dict) else {}

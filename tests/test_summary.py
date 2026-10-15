@@ -285,12 +285,30 @@ def test_github_models_response_without_json_body(ctx, now):
         def broken():
             raise ValueError("not json")
 
-        return SimpleNamespace(status_code=200, text="<html>", json=broken)
+        hop = SimpleNamespace(status_code=302)
+        return SimpleNamespace(
+            status_code=200, text="<html><title>Sign in</title></html>", json=broken, headers={"content-type": "text/html"}, history=[hop], url="https://github.com/login"
+        )
 
     summary, status = generate_summary(ctx, now, api_key="", github_token="gh-token", model="openai/gpt-4.1", post=post)
 
     assert summary is None
-    assert status == "error: response did not include the brief tool call (no message: null)"
+    assert status == (
+        "error: response did not include the brief tool call "
+        "(not JSON: HTTP 200, text/html, redirected 302 to https://github.com/login, body: Sign in)"
+    )
+
+
+def test_github_models_explains_an_empty_body(ctx, now):
+    def post(url, **kwargs):
+        def broken():
+            raise ValueError("empty")
+
+        return SimpleNamespace(status_code=200, text="", json=broken)
+
+    _, status = generate_summary(ctx, now, api_key="", github_token="gh-token", model="openai/gpt-4.1", post=post)
+
+    assert status.endswith("(not JSON: HTTP 200, no content-type, body: (empty))")
 
 
 def test_github_models_accepts_arguments_already_decoded(ctx, now):
