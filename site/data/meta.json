@@ -1,0 +1,30 @@
+{
+ "last_full_run": "2026-10-15T08:55:31Z",
+ "stages": {
+  "quotes": {
+   "ok": true,
+   "message": "19/19 symbols updated",
+   "at": "2026-10-15T08:55:31Z"
+  },
+  "news": {
+   "ok": true,
+   "message": "710 relevant of 794 fetched, 400 kept",
+   "at": "2026-10-15T08:55:31Z"
+  },
+  "earnings": {
+   "ok": true,
+   "message": "22 upcoming, 2 recent",
+   "at": "2026-10-15T08:55:31Z"
+  },
+  "macro": {
+   "ok": true,
+   "message": "11 events this week, 13 upcoming",
+   "at": "2026-10-15T08:55:31Z"
+  },
+  "summary": {
+   "ok": true,
+   "message": "skipped: disabled for this run",
+   "at": "2026-10-15T08:55:31Z"
+  }
+ }
+}

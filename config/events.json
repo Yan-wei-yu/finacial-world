@@ -1,0 +1,30 @@
+{
+  "fomc": [
+    {"date": "2026-01-28", "sep": false},
+    {"date": "2026-03-18", "sep": true},
+    {"date": "2026-04-29", "sep": false},
+    {"date": "2026-06-17", "sep": true},
+    {"date": "2026-07-29", "sep": false},
+    {"date": "2026-09-16", "sep": true},
+    {"date": "2026-10-28", "sep": false},
+    {"date": "2026-12-09", "sep": true},
+    {"date": "2027-01-27", "sep": false},
+    {"date": "2027-03-17", "sep": true},
+    {"date": "2027-04-28", "sep": false},
+    {"date": "2027-06-09", "sep": true},
+    {"date": "2027-07-28", "sep": false},
+    {"date": "2027-09-15", "sep": true},
+    {"date": "2027-10-27", "sep": false},
+    {"date": "2027-12-08", "sep": true}
+  ],
+  "recurring": [
+    {"id": "korea-exports", "title": "韓國出口數據（含半導體）", "day": 1, "approx": false, "affects": ["SKHY", "DRAM"], "note": "每月 1 日公布上月出口，記憶體景氣的領先指標"},
+    {"id": "tsmc-revenue", "title": "台積電月營收", "day": 10, "approx": true, "affects": ["SOX", "TSM"], "note": "通常在每月 10 日前公布上月營收，反映 AI／高效能運算需求"},
+    {"id": "korea-exports-10d", "title": "韓國前 10 天出口初值", "day": 11, "approx": false, "affects": ["SKHY", "DRAM"], "note": "每月 11 日公布當月前 10 天出口"},
+    {"id": "korea-exports-20d", "title": "韓國前 20 天出口初值", "day": 21, "approx": false, "affects": ["SKHY", "DRAM"], "note": "每月 21 日公布當月前 20 天出口"},
+    {"id": "dram-contract", "title": "DRAM／NAND 合約價（TrendForce）", "day": "last", "approx": true, "affects": ["DRAM", "SKHY"], "note": "約在月底公布當月合約價，觀察記憶體報價趨勢"}
+  ],
+  "one_off": [
+    {"date": "2026-11-30", "title": "QNT IPO 閉鎖期到期（推估）", "approx": true, "affects": ["QNT"], "note": "依招股書 180 天閉鎖期推估，約 11/30–12/01，內部人可開始賣股"}
+  ]
+}

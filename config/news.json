@@ -1,0 +1,87 @@
+{
+  "retention_hours": 96,
+  "max_items": 400,
+  "per_feed_limit": 40,
+  "dedupe_threshold": 0.6,
+  "min_score": 1.3,
+  "low_score": 4,
+  "low_score_hours": 24,
+  "google_window": "2d",
+  "feeds": [
+    {"id": "gn-en-market", "type": "google_news", "lang": "en", "query": "Nasdaq OR \"stock market\" OR \"Wall Street\"", "categories": ["market"]},
+    {"id": "gn-en-semis", "type": "google_news", "lang": "en", "query": "\"chip stocks\" OR semiconductor OR \"Philadelphia Semiconductor\"", "categories": ["semis"]},
+    {"id": "gn-en-ai", "type": "google_news", "lang": "en", "query": "Nvidia OR TSMC OR \"AI chips\" OR HBM", "categories": ["semis"]},
+    {"id": "gn-en-macro", "type": "google_news", "lang": "en", "query": "\"Federal Reserve\" OR FOMC OR inflation OR \"Treasury yields\" OR \"jobs report\"", "categories": ["macro"]},
+    {"id": "gn-en-world", "type": "google_news", "lang": "en", "query": "tariffs OR \"export controls\" OR sanctions OR geopolitical markets", "categories": ["world"]},
+    {"id": "gn-en-nok", "type": "google_news", "lang": "en", "query": "Nokia", "symbols": ["NOK"]},
+    {"id": "gn-en-skhy", "type": "google_news", "lang": "en", "query": "\"SK hynix\"", "symbols": ["SKHY"]},
+    {"id": "gn-en-qnt", "type": "google_news", "lang": "en", "query": "Quantinuum", "symbols": ["QNT"]},
+    {"id": "gn-en-memory", "type": "google_news", "lang": "en", "query": "\"memory chip\" OR DRAM OR \"NAND prices\" OR \"Roundhill Memory\"", "symbols": ["DRAM"]},
+    {"id": "gn-zh-semis", "type": "google_news", "lang": "zh", "query": "費半 OR 費城半導體 OR 半導體股", "categories": ["semis"]},
+    {"id": "gn-zh-market", "type": "google_news", "lang": "zh", "query": "美股 OR 那斯達克 OR 那指", "categories": ["market"]},
+    {"id": "gn-zh-macro", "type": "google_news", "lang": "zh", "query": "聯準會 OR 降息 OR 通膨 OR 美債殖利率", "categories": ["macro"]},
+    {"id": "gn-zh-world", "type": "google_news", "lang": "zh", "query": "關稅 OR 出口管制 OR 地緣政治", "categories": ["world"]},
+    {"id": "gn-zh-memory", "type": "google_news", "lang": "zh", "query": "記憶體 OR DRAM OR HBM OR 海力士", "symbols": ["DRAM"]},
+    {"id": "gn-zh-nok", "type": "google_news", "lang": "zh", "query": "諾基亞", "symbols": ["NOK"]},
+    {"id": "gn-zh-quantum", "type": "google_news", "lang": "zh", "query": "Quantinuum OR 量子電腦 OR 量子運算", "symbols": ["QNT"]},
+    {"id": "yh-nok", "type": "rss", "lang": "en", "source": "Yahoo Finance", "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=NOK&region=US&lang=en-US", "symbols": ["NOK"]},
+    {"id": "yh-dram", "type": "rss", "lang": "en", "source": "Yahoo Finance", "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=DRAM&region=US&lang=en-US", "symbols": ["DRAM"]},
+    {"id": "yh-qnt", "type": "rss", "lang": "en", "source": "Yahoo Finance", "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=QNT&region=US&lang=en-US", "symbols": ["QNT"]},
+    {"id": "yh-skhy", "type": "rss", "lang": "en", "source": "Yahoo Finance", "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=SKHY&region=US&lang=en-US", "symbols": ["SKHY"]},
+    {"id": "cnbc-top", "type": "rss", "lang": "en", "source": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"},
+    {"id": "cnbc-tech", "type": "rss", "lang": "en", "source": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910"},
+    {"id": "cnbc-economy", "type": "rss", "lang": "en", "source": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"},
+    {"id": "mw-top", "type": "rss", "lang": "en", "source": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
+    {"id": "cnyes-us", "type": "cnyes", "lang": "zh", "source": "鉅亨網", "url": "https://api.cnyes.com/media/api/v1/newslist/category/us_stock?limit=40"},
+    {"id": "cnyes-world", "type": "cnyes", "lang": "zh", "source": "鉅亨網", "url": "https://api.cnyes.com/media/api/v1/newslist/category/wd_stock?limit=40"}
+  ],
+  "categories": {
+    "holdings": {"label": "我的持股", "alias_weight": 6, "topic_weight": 3, "hint_weight": 2},
+    "semis": {
+      "label": "半導體／AI",
+      "weight": 3,
+      "keywords": ["semiconductor", "semiconductors", "chip", "chips", "chipmaker", "chipmakers", "Philadelphia Semiconductor", "Nvidia", "Broadcom", "Intel", "Qualcomm", "Micron", "Applied Materials", "Lam Research", "Arm Holdings", "Marvell", "foundry", "wafer", "export controls", "data center", "data centers", "AI spending", "AI capex", "hyperscaler", "hyperscalers", "AI bubble", "AI trade", "OpenAI", "半導體", "晶片", "芯片", "費半", "費城半導體", "輝達", "台積電", "艾司摩爾", "超微", "博通", "英特爾", "高通", "美光", "應材", "晶圓", "先進製程", "先進封裝", "出口管制", "AI伺服器", "資料中心", "算力", "人工智慧", "AI股"],
+      "case_sensitive": ["SOX", "TSMC", "ASML", "AMD", "HBM", "GPU", "GPUs", "AI", "CoWoS", "KLA"]
+    },
+    "macro": {
+      "label": "總經／Fed",
+      "weight": 3,
+      "keywords": ["Federal Reserve", "Fed Chairman", "Warsh", "Powell", "rate cut", "rate cuts", "rate hike", "rate hikes", "interest rate", "interest rates", "inflation", "jobs report", "payrolls", "nonfarm", "unemployment", "jobless claims", "Treasury yield", "Treasury yields", "bond yields", "10-year yield", "recession", "retail sales", "consumer sentiment", "Fed chair", "Beige Book", "rate decision", "stagflation", "聯準會", "美聯儲", "降息", "升息", "利率", "通膨", "通脹", "非農", "就業數據", "失業率", "殖利率", "美債", "公債", "經濟衰退", "消費者信心", "零售銷售", "褐皮書", "點陣圖", "華許", "鮑爾"],
+      "case_sensitive": ["Fed", "FOMC", "CPI", "PPI", "PCE", "GDP"]
+    },
+    "world": {
+      "label": "世界大事",
+      "weight": 2.5,
+      "keywords": ["tariff", "tariffs", "trade war", "trade deal", "sanction", "sanctions", "export ban", "China", "Chinese", "Beijing", "Taiwan Strait", "war", "Ukraine", "Russia", "Israel", "Iran", "Middle East", "Gaza", "missile", "election", "government shutdown", "Trump", "White House", "geopolitical", "geopolitics", "oil prices", "crude oil", "North Korea", "Bank of Japan", "yen", "rare earth", "rare earths", "Supreme Court", "關稅", "貿易戰", "貿易協議", "制裁", "禁令", "中國", "北京", "台海", "戰爭", "烏克蘭", "俄羅斯", "以色列", "伊朗", "中東", "加薩", "飛彈", "選舉", "政府關門", "川普", "白宮", "習近平", "地緣", "油價", "原油", "北韓", "日本央行", "日銀", "日圓", "歐洲央行", "稀土", "最高法院"],
+      "case_sensitive": ["Xi", "OPEC", "BOJ", "ECB"]
+    },
+    "market": {
+      "label": "美股大盤",
+      "weight": 1.5,
+      "keywords": ["Nasdaq", "S&P 500", "Dow", "Wall Street", "stock market", "stocks", "equities", "selloff", "sell-off", "rally", "record high", "correction", "bear market", "bull market", "stock futures", "Magnificent Seven", "tech stocks", "Big Tech", "那斯達克", "那指", "美股", "標普", "道瓊", "華爾街", "科技股", "七巨頭", "美股期貨", "重挫", "大漲", "創高", "創新高"],
+      "case_sensitive": []
+    }
+  },
+  "exclude_patterns": [
+    "stock price, news, quote",
+    "stock price today",
+    "price prediction",
+    "stock forecast",
+    "should you buy",
+    "is it time to buy",
+    "stocks? to buy",
+    "\\bbuy (now|today)\\b",
+    "market (report|size|share|outlook|analysis|forecast)[^|]*\\b20\\d\\d\\b",
+    "researchandmarkets",
+    "\\bCAGR\\b",
+    "shares (sold|bought|acquired|purchased) by",
+    "\\b(buys|sells|acquires|trims|boosts|raises|lowers|cuts) (new |its )?(stake|position|holdings?)\\b",
+    "\\((NYSE|NASDAQ|NasdaqGS|NasdaqGM|NYSEARCA|BATS|CBOE):[A-Z.]+\\)"
+  ],
+  "exclude_sources": ["The Motley Fool", "Motley Fool", "MarketBeat", "Zacks", "Zacks Investment Research", "Simply Wall St", "Simply Wall St.", "InvestorPlace", "24/7 Wall St.", "GuruFocus", "Insider Monkey", "TipRanks", "AInvest", "Stock Titan", "ETF Daily News", "Ticker Report", "Defense World", "Yahoo! Finance Canada", "Moomoo", "CMoney投資網誌", "StocksToTrade", "Howl.link"],
+  "source_bonus": {
+    "Reuters": 1, "Bloomberg": 1, "Bloomberg.com": 1, "CNBC": 1, "The Wall Street Journal": 1, "WSJ": 1, "Financial Times": 1, "Associated Press": 1, "AP News": 1,
+    "Nikkei Asia": 1, "MarketWatch": 1, "Barron's": 1, "The Economist": 1, "Yonhap News Agency": 1, "The Korea Economic Daily": 1, "DIGITIMES": 1,
+    "中央社": 1, "中央社 CNA": 1, "經濟日報": 1, "工商時報": 1, "鉅亨網": 1, "Anue鉅亨": 1, "財訊": 1, "天下雜誌": 1, "商業周刊": 1
+  }
+}

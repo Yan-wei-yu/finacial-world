@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Yahoo! Finance: NOK News</title>
+    <item>
+      <description>Nokia said on Wednesday it would supply its &lt;b&gt;5G core&lt;/b&gt; to Eastlink &amp;amp; expand AI-RAN trials.</description>
+      <guid isPermaLink="false">aa6abfe3-a9f3-34d1-8e5a-e80877c3f495</guid>
+      <link>https://finance.yahoo.com/news/nokia-wins-deal-143000123.html?.tsrc=rss</link>
+      <pubDate>Wed, 14 Oct 2026 14:30:00 +0000</pubDate>
+      <title>Nokia wins 5G core network deal with Eastlink</title>
+    </item>
+    <item>
+      <description>"Quantum Computing in Healthcare Market Report 2026" has been added to ResearchAndMarkets.com's offering.</description>
+      <guid isPermaLink="false">bb7</guid>
+      <link>https://finance.yahoo.com/news/quantum-report-100000.html</link>
+      <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
+      <title>Quantum Computing in Healthcare Market Report 2026: Google, Microsoft, IBM Profiled</title>
+    </item>
+    <item>
+      <title>Item with unsafe link</title>
+      <link>javascript:alert(1)</link>
+      <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,8 @@
+[
+  {"title": "CPI y/y", "country": "USD", "date": "2026-10-14T08:30:00-04:00", "impact": "High", "forecast": "3.6%", "previous": "3.4%"},
+  {"title": "FOMC Member Waller Speaks", "country": "USD", "date": "2026-10-15T10:00:00-04:00", "impact": "Medium", "forecast": "", "previous": ""},
+  {"title": "Crude Oil Inventories", "country": "USD", "date": "2026-10-15T10:30:00-04:00", "impact": "Low", "forecast": "", "previous": ""},
+  {"title": "GDP q/y", "country": "CNY", "date": "2026-10-18T22:00:00-04:00", "impact": "High", "forecast": "4.7%", "previous": "4.8%"},
+  {"title": "German ZEW Economic Sentiment", "country": "EUR", "date": "2026-10-13T05:00:00-04:00", "impact": "High", "forecast": "", "previous": ""},
+  {"title": "Mystery Indicator", "country": "USD", "date": "not-a-date", "impact": "High"}
+]

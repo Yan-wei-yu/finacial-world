@@ -1,0 +1,76 @@
+{
+  "holdings": [
+    {
+      "symbol": "NOK",
+      "shares": 820,
+      "cost": null,
+      "name": "Nokia",
+      "name_zh": "諾基亞",
+      "kind": "ADR",
+      "exchange": "NYSE",
+      "tv_symbol": "NYSE:NOK",
+      "aliases": ["Nokia", "諾基亞"],
+      "topics": ["Ericsson", "易利信", "AI-RAN", "6G", "Infinera", "optical networking", "光通訊"],
+      "drivers": [
+        "網路基礎設施（光通訊、IP 路由）營收：AI 資料中心需求是主要成長題材",
+        "與輝達的 AI-RAN 合作進度（輝達 2025/10 宣布投資 10 億美元）",
+        "電信商資本支出、行動網路部門毛利率",
+        "季報與全年財測（以歐元計價，芬蘭時間早上公布）"
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "shares": 75,
+      "cost": null,
+      "name": "Roundhill Memory ETF",
+      "name_zh": "Roundhill 記憶體 ETF",
+      "kind": "ETF",
+      "exchange": "Cboe BZX",
+      "tv_symbol": "CBOE:DRAM",
+      "aliases": ["Roundhill Memory", "memory ETF", "記憶體ETF"],
+      "topics": ["DRAM", "HBM", "NAND", "memory chip", "memory chips", "memory prices", "Micron", "美光", "Samsung Electronics", "三星電子", "Kioxia", "鎧俠", "SanDisk", "記憶體"],
+      "drivers": [
+        "DRAM／NAND 合約價與現貨價（TrendForce 約每月月底公布）",
+        "HBM 供需與 AI 伺服器出貨",
+        "成分股財報：美光、SK 海力士、三星電子、SanDisk",
+        "韓國半導體出口數據（每月 1 日，另有 11 日、21 日初值）"
+      ]
+    },
+    {
+      "symbol": "QNT",
+      "shares": 40,
+      "cost": null,
+      "name": "Quantinuum",
+      "name_zh": "Quantinuum 量子運算",
+      "kind": "Stock",
+      "exchange": "NASDAQ",
+      "tv_symbol": "NASDAQ:QNT",
+      "aliases": ["Quantinuum"],
+      "topics": ["quantum computing", "quantum computer", "quantum computers", "量子電腦", "量子運算", "IonQ", "Rigetti", "D-Wave"],
+      "drivers": [
+        "量子運算技術里程碑（邏輯量子位元、錯誤更正）",
+        "政府與企業合約、營收規模（目前仍虧損）",
+        "IPO 閉鎖期約 2026/11/30–12/01 到期，內部人可能賣股",
+        "量子類股情緒：IONQ、RGTI、QBTS；Honeywell 持股動向"
+      ]
+    },
+    {
+      "symbol": "SKHY",
+      "shares": 3,
+      "cost": null,
+      "name": "SK hynix ADR",
+      "name_zh": "SK 海力士 ADR",
+      "kind": "ADR",
+      "exchange": "NASDAQ",
+      "tv_symbol": "NASDAQ:SKHY",
+      "aliases": ["SK hynix", "Hynix", "海力士"],
+      "topics": ["HBM", "DRAM", "記憶體", "KOSPI", "韓股"],
+      "drivers": [
+        "HBM 出貨與輝達等 AI 客戶訂單",
+        "ADR 相對首爾股價的溢價（下方指標區即時計算），溢價收斂是風險",
+        "記憶體報價、韓國出口數據、韓元匯率",
+        "1 股 ADR = 0.1 股韓國普通股"
+      ]
+    }
+  ]
+}

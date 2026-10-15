@@ -1,0 +1,53 @@
+{
+  "market": [
+    {"symbol": "^IXIC", "label": "那斯達克", "short": "NASDAQ", "kind": "index"},
+    {"symbol": "^SOX", "label": "費城半導體", "short": "SOX", "kind": "index"},
+    {"symbol": "^GSPC", "label": "S&P 500", "short": "SPX", "kind": "index"},
+    {"symbol": "NQ=F", "label": "那指期貨", "short": "NQ", "kind": "future"},
+    {"symbol": "^VIX", "label": "恐慌指數", "short": "VIX", "kind": "index"},
+    {"symbol": "^TNX", "label": "美債 10 年", "short": "US10Y", "kind": "yield"},
+    {"symbol": "DX-Y.NYB", "label": "美元指數", "short": "DXY", "kind": "fx"},
+    {"symbol": "TWD=X", "label": "美元／台幣", "short": "USD/TWD", "kind": "fx"}
+  ],
+  "tradingview": [
+    {"tv_symbol": "FOREXCOM:NSXUSD", "label": "那指 100", "tape": true, "chart": true},
+    {"tv_symbol": "FOREXCOM:SPXUSD", "label": "S&P 500", "tape": true, "chart": false},
+    {"tv_symbol": "NASDAQ:SOXX", "label": "費半 ETF", "tape": true, "chart": true},
+    {"tv_symbol": "NYSE:TSM", "label": "台積電 ADR", "tape": true, "chart": true},
+    {"tv_symbol": "NASDAQ:NVDA", "label": "輝達", "tape": true, "chart": true},
+    {"tv_symbol": "NASDAQ:MU", "label": "美光", "tape": true, "chart": true},
+    {"tv_symbol": "CAPITALCOM:DXY", "label": "美元指數", "tape": true, "chart": false},
+    {"tv_symbol": "FX_IDC:USDTWD", "label": "美元／台幣", "tape": true, "chart": false}
+  ],
+  "extra_symbols": ["TSM", "2330.TW", "000660.KS", "KRW=X", "NVDA", "MU", "SMH"],
+  "adr_pairs": [
+    {"adr": "SKHY", "local": "000660.KS", "ratio": 0.1, "fx": "KRW=X", "label": "SK 海力士 ADR 溢價", "note": "SKHY 相對首爾股價（1 ADR = 0.1 股）"},
+    {"adr": "TSM", "local": "2330.TW", "ratio": 5, "fx": "TWD=X", "label": "台積電 ADR 溢價", "note": "TSM 相對台股（1 ADR = 5 股）"}
+  ],
+  "earnings_watch": [
+    {"symbol": "NOK", "name_zh": "諾基亞", "group": "holding", "rev_currency": "EUR"},
+    {"symbol": "SKHY", "name_zh": "SK 海力士", "group": "holding", "rev_currency": "KRW"},
+    {"symbol": "QNT", "name_zh": "Quantinuum", "group": "holding", "rev_currency": "USD"},
+    {"symbol": "MU", "name_zh": "美光", "group": "memory", "rev_currency": "USD"},
+    {"symbol": "005930.KS", "name_zh": "三星電子", "group": "memory", "rev_currency": "KRW"},
+    {"symbol": "SNDK", "name_zh": "SanDisk", "group": "memory", "rev_currency": "USD"},
+    {"symbol": "TSM", "name_zh": "台積電", "group": "semis", "rev_currency": "TWD"},
+    {"symbol": "NVDA", "name_zh": "輝達", "group": "semis", "rev_currency": "USD"},
+    {"symbol": "ASML", "name_zh": "艾司摩爾", "group": "semis", "rev_currency": "EUR"},
+    {"symbol": "AMD", "name_zh": "超微", "group": "semis", "rev_currency": "USD"},
+    {"symbol": "AVGO", "name_zh": "博通", "group": "semis", "rev_currency": "USD"},
+    {"symbol": "INTC", "name_zh": "英特爾", "group": "semis", "rev_currency": "USD"},
+    {"symbol": "QCOM", "name_zh": "高通", "group": "semis", "rev_currency": "USD"},
+    {"symbol": "ARM", "name_zh": "安謀", "group": "semis", "rev_currency": "USD"},
+    {"symbol": "AMAT", "name_zh": "應用材料", "group": "semis", "rev_currency": "USD"},
+    {"symbol": "LRCX", "name_zh": "科林研發", "group": "semis", "rev_currency": "USD"},
+    {"symbol": "MSFT", "name_zh": "微軟", "group": "capex", "rev_currency": "USD"},
+    {"symbol": "GOOGL", "name_zh": "Alphabet", "group": "capex", "rev_currency": "USD"},
+    {"symbol": "AMZN", "name_zh": "亞馬遜", "group": "capex", "rev_currency": "USD"},
+    {"symbol": "META", "name_zh": "Meta", "group": "capex", "rev_currency": "USD"},
+    {"symbol": "ERIC", "name_zh": "易利信", "group": "peer", "rev_currency": "SEK"},
+    {"symbol": "CIEN", "name_zh": "Ciena", "group": "peer", "rev_currency": "USD"},
+    {"symbol": "IONQ", "name_zh": "IonQ", "group": "peer", "rev_currency": "USD"},
+    {"symbol": "RGTI", "name_zh": "Rigetti", "group": "peer", "rev_currency": "USD"}
+  ]
+}

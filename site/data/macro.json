@@ -1,0 +1,286 @@
+{
+ "generated_at": "2026-10-15T08:55:31Z",
+ "week": [
+  {
+   "title": "Core CPI m/m",
+   "title_zh": "核心 CPI 月增率",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-14T12:30:00Z",
+   "forecast": "0.2%",
+   "previous": "0.3%"
+  },
+  {
+   "title": "Core CPI y/y",
+   "title_zh": "核心 CPI 年增率",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-14T12:30:00Z",
+   "forecast": "2.5%",
+   "previous": "2.4%"
+  },
+  {
+   "title": "CPI m/m",
+   "title_zh": "CPI 月增率",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-14T12:30:00Z",
+   "forecast": "0.6%",
+   "previous": "0.4%"
+  },
+  {
+   "title": "CPI y/y",
+   "title_zh": "CPI 年增率",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-14T12:30:00Z",
+   "forecast": "3.6%",
+   "previous": "3.4%"
+  },
+  {
+   "title": "Core PPI m/m",
+   "title_zh": "核心 PPI 月增率",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-15T12:30:00Z",
+   "forecast": "0.3%",
+   "previous": "0.2%"
+  },
+  {
+   "title": "Core Retail Sales m/m",
+   "title_zh": "核心零售銷售月增率",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-15T12:30:00Z",
+   "forecast": "0.6%",
+   "previous": "1.4%"
+  },
+  {
+   "title": "PPI m/m",
+   "title_zh": "PPI 月增率",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-15T12:30:00Z",
+   "forecast": "0.6%",
+   "previous": "0.4%"
+  },
+  {
+   "title": "Retail Sales m/m",
+   "title_zh": "零售銷售月增率",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-15T12:30:00Z",
+   "forecast": "0.3%",
+   "previous": "1.2%"
+  },
+  {
+   "title": "Philly Fed Manufacturing Index",
+   "title_zh": "費城聯儲製造業指數",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "Medium",
+   "datetime": "2026-10-15T12:30:00Z",
+   "forecast": "28.2",
+   "previous": "37.8"
+  },
+  {
+   "title": "Unemployment Claims",
+   "title_zh": "初領失業救濟金人數",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "Medium",
+   "datetime": "2026-10-15T12:30:00Z",
+   "forecast": "199K",
+   "previous": "197K"
+  },
+  {
+   "title": "Fed Chairman Warsh Speaks",
+   "title_zh": "聯準會主席 Warsh 談話",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-16T03:30:00Z",
+   "forecast": null,
+   "previous": null
+  }
+ ],
+ "upcoming": [
+  {
+   "id": "korea-exports-20d",
+   "title": "韓國前 20 天出口初值",
+   "date": "2026-10-21",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": false,
+   "affects": [
+    "SKHY",
+    "DRAM"
+   ],
+   "note": "每月 21 日公布當月前 20 天出口"
+  },
+  {
+   "id": "fomc-2026-10-28",
+   "title": "FOMC 利率決議",
+   "date": "2026-10-29",
+   "datetime": "2026-10-28T18:00:00Z",
+   "kind": "fomc",
+   "approx": false,
+   "affects": [
+    "NASDAQ",
+    "SOX"
+   ],
+   "note": "聲明公布後 30 分鐘主席召開記者會"
+  },
+  {
+   "id": "dram-contract",
+   "title": "DRAM／NAND 合約價（TrendForce）",
+   "date": "2026-10-31",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": true,
+   "affects": [
+    "DRAM",
+    "SKHY"
+   ],
+   "note": "約在月底公布當月合約價，觀察記憶體報價趨勢"
+  },
+  {
+   "id": "korea-exports",
+   "title": "韓國出口數據（含半導體）",
+   "date": "2026-11-01",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": false,
+   "affects": [
+    "SKHY",
+    "DRAM"
+   ],
+   "note": "每月 1 日公布上月出口，記憶體景氣的領先指標"
+  },
+  {
+   "id": "tsmc-revenue",
+   "title": "台積電月營收",
+   "date": "2026-11-10",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": true,
+   "affects": [
+    "SOX",
+    "TSM"
+   ],
+   "note": "通常在每月 10 日前公布上月營收，反映 AI／高效能運算需求"
+  },
+  {
+   "id": "korea-exports-10d",
+   "title": "韓國前 10 天出口初值",
+   "date": "2026-11-11",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": false,
+   "affects": [
+    "SKHY",
+    "DRAM"
+   ],
+   "note": "每月 11 日公布當月前 10 天出口"
+  },
+  {
+   "id": "korea-exports-20d",
+   "title": "韓國前 20 天出口初值",
+   "date": "2026-11-21",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": false,
+   "affects": [
+    "SKHY",
+    "DRAM"
+   ],
+   "note": "每月 21 日公布當月前 20 天出口"
+  },
+  {
+   "id": "dram-contract",
+   "title": "DRAM／NAND 合約價（TrendForce）",
+   "date": "2026-11-30",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": true,
+   "affects": [
+    "DRAM",
+    "SKHY"
+   ],
+   "note": "約在月底公布當月合約價，觀察記憶體報價趨勢"
+  },
+  {
+   "id": "event-2026-11-30",
+   "title": "QNT IPO 閉鎖期到期（推估）",
+   "date": "2026-11-30",
+   "datetime": null,
+   "kind": "event",
+   "approx": true,
+   "affects": [
+    "QNT"
+   ],
+   "note": "依招股書 180 天閉鎖期推估，約 11/30–12/01，內部人可開始賣股"
+  },
+  {
+   "id": "korea-exports",
+   "title": "韓國出口數據（含半導體）",
+   "date": "2026-12-01",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": false,
+   "affects": [
+    "SKHY",
+    "DRAM"
+   ],
+   "note": "每月 1 日公布上月出口，記憶體景氣的領先指標"
+  },
+  {
+   "id": "tsmc-revenue",
+   "title": "台積電月營收",
+   "date": "2026-12-10",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": true,
+   "affects": [
+    "SOX",
+    "TSM"
+   ],
+   "note": "通常在每月 10 日前公布上月營收，反映 AI／高效能運算需求"
+  },
+  {
+   "id": "fomc-2026-12-09",
+   "title": "FOMC 利率決議（含點陣圖）",
+   "date": "2026-12-10",
+   "datetime": "2026-12-09T19:00:00Z",
+   "kind": "fomc",
+   "approx": false,
+   "affects": [
+    "NASDAQ",
+    "SOX"
+   ],
+   "note": "聲明公布後 30 分鐘主席召開記者會"
+  },
+  {
+   "id": "korea-exports-10d",
+   "title": "韓國前 10 天出口初值",
+   "date": "2026-12-11",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": false,
+   "affects": [
+    "SKHY",
+    "DRAM"
+   ],
+   "note": "每月 11 日公布當月前 10 天出口"
+  }
+ ],
+ "errors": []
+}

@@ -1,0 +1,25 @@
+{
+  "items": {
+    "data": [
+      {
+        "newsId": 6631113,
+        "title": "記憶體成本飆升重創手機市場！第3季出貨量暴跌22%",
+        "summary": "IDC：全球智慧手機第3季出貨量跌22%。&#10;記憶體成本因AI訂單需求飆升",
+        "publishAt": 1792047006,
+        "categoryName": "美股"
+      },
+      {
+        "newsId": 6631000,
+        "title": "<b>費半</b>重挫3.7% 輝達、美光領跌",
+        "summary": "",
+        "publishAt": 1792040000,
+        "categoryName": "美股"
+      },
+      {
+        "newsId": null,
+        "title": "",
+        "publishAt": 1792040000
+      }
+    ]
+  }
+}

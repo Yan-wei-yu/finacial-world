@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="zh-Hant-TW" data-updown="tw">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self' https://s3.tradingview.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; frame-src https://*.tradingview.com https://*.tradingview-widget.com; connect-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'"
+    />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="description" content="個人美股儀表板：NOK、DRAM、QNT、SKHY 持股、那斯達克與費半新聞、法說會與總經指標。" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#0b0f14" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#f3efe6" media="(prefers-color-scheme: light)" />
+    <title>美股持股觀測站</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="css/tokens.css" />
+    <link rel="stylesheet" href="css/base.css" />
+    <link rel="stylesheet" href="css/components.css" />
+    <script src="js/theme-init.js"></script>
+    <script type="module" src="js/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">跳到主要內容</a>
+
+    <div class="shell">
+      <header class="masthead">
+        <div class="brand">
+          <p class="eyebrow">Personal market desk · 台灣時間</p>
+          <h1 class="brand__title">美股持股觀測站</h1>
+        </div>
+        <div class="clocks" id="clocks" aria-label="台北與紐約時間"></div>
+        <div class="session" id="session" data-phase="closed" aria-live="off"></div>
+        <button class="icon-button" id="settings-open" type="button" aria-haspopup="dialog">設定</button>
+        <p class="freshness" id="freshness" aria-live="polite"></p>
+        <p class="fall" id="app-error" role="alert" hidden></p>
+      </header>
+
+      <p class="tape__label" id="tape-label">即時報價・TradingView（指數以 ETF／差價合約代替）</p>
+      <section class="tape" aria-label="即時報價">
+        <div id="tape-widget"></div>
+      </section>
+
+      <section class="pulse" id="market-pulse" aria-label="市場指標（快照）"></section>
+
+      <main class="layout" id="main">
+        <section class="panel panel--portfolio" aria-labelledby="portfolio-title">
+          <div class="panel__head">
+            <h2 class="panel__title" id="portfolio-title">我的持股</h2>
+            <span class="panel__meta">IBKR 美股帳戶・報價為 Yahoo 快照</span>
+          </div>
+          <div id="portfolio-body"></div>
+        </section>
+
+        <section class="panel panel--brief" aria-labelledby="brief-title">
+          <div class="panel__head">
+            <h2 class="panel__title" id="brief-title">AI 盤勢摘要</h2>
+            <span class="panel__meta" id="brief-meta"></span>
+          </div>
+          <div id="brief-body"></div>
+        </section>
+
+        <section class="panel panel--holdings" aria-labelledby="holdings-title">
+          <div class="panel__head">
+            <h2 class="panel__title" id="holdings-title">持股明細</h2>
+            <span class="panel__meta">點選列展開觀察重點、52 週區間與財報</span>
+          </div>
+          <div id="holdings-body"></div>
+        </section>
+
+        <section class="panel panel--news" aria-labelledby="news-title">
+          <div class="panel__head">
+            <h2 class="panel__title" id="news-title">影響那斯達克／費半的新聞</h2>
+            <span class="panel__meta" id="news-meta"></span>
+          </div>
+          <div id="news-body"></div>
+        </section>
+
+        <div class="rail">
+          <section class="panel" aria-labelledby="earnings-title">
+            <div class="panel__head">
+              <h2 class="panel__title" id="earnings-title">法說會與財報</h2>
+            </div>
+            <div id="earnings-body"></div>
+          </section>
+
+          <section class="panel" aria-labelledby="macro-title">
+            <div class="panel__head">
+              <h2 class="panel__title" id="macro-title">本週總經數據</h2>
+            </div>
+            <div id="macro-body"></div>
+          </section>
+
+          <section class="panel panel--wide" aria-labelledby="indicators-title">
+            <div class="panel__head">
+              <h2 class="panel__title" id="indicators-title">關鍵指標</h2>
+            </div>
+            <div id="indicators-body"></div>
+          </section>
+        </div>
+
+        <section class="panel panel--charts" aria-labelledby="charts-title">
+          <div class="panel__head">
+            <h2 class="panel__title" id="charts-title">即時走勢圖</h2>
+            <span class="panel__meta">TradingView・可切換標的與週期</span>
+          </div>
+          <div class="tabs" id="chart-tabs"></div>
+          <div class="chart-box" id="chart-widget"></div>
+          <div class="calendar-box" id="calendar-widget"></div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <dl>
+          <dt>資料來源</dt>
+          <dd>報價、財報：Yahoo Finance（yfinance）・新聞：Google News、CNBC、MarketWatch、Yahoo Finance、鉅亨網・總經：ForexFactory・即時圖：TradingView</dd>
+          <dt>更新時間</dt>
+          <dd>新聞、財報、AI 摘要：每天台灣時間 08:52、09:52、20:52、21:52・報價：美股交易日盤前到收盤每 15 分鐘</dd>
+          <dt>原始碼</dt>
+          <dd><a href="https://github.com/Yan-wei-yu/finacial-world" target="_blank" rel="noopener noreferrer">github.com/Yan-wei-yu/finacial-world</a></dd>
+        </dl>
+        <p>本頁僅彙整公開資訊供個人參考，資料可能延遲或有誤，不構成任何投資建議。</p>
+      </footer>
+    </div>
+
+    <dialog class="settings" id="settings" aria-label="設定"></dialog>
+  </body>
+</html>

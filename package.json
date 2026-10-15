@@ -1,0 +1,19 @@
+{
+  "name": "finacial-world",
+  "version": "1.0.0",
+  "private": true,
+  "description": "美股持股觀測站：靜態網頁（GitHub Pages）",
+  "type": "module",
+  "scripts": {
+    "test": "node --test \"tests-js/*.test.js\"",
+    "test:coverage": "node --test --experimental-test-coverage --test-coverage-include=\"site/js/**\" \"tests-js/*.test.js\"",
+    "serve": "node scripts/serve.mjs site 8000",
+    "test:e2e": "playwright test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1"
+  }
+}

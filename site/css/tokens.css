@@ -1,0 +1,147 @@
+/* Design tokens. Light = "晨報" (warm newsprint), dark = "夜盤" (ink desk for the US night session). */
+:root {
+  color-scheme: light;
+
+  --font-sans: "IBM Plex Sans", "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", "Noto Sans TC", ui-monospace, "SFMono-Regular", Menlo, monospace;
+
+  --text-2xs: 0.6875rem;
+  --text-xs: 0.75rem;
+  --text-sm: 0.8125rem;
+  --text-base: 0.9375rem;
+  --text-md: 1.0625rem;
+  --text-lg: 1.25rem;
+  --text-xl: clamp(1.4rem, 1.1rem + 1vw, 1.75rem);
+  --text-hero: clamp(2.9rem, 2rem + 3.4vw, 4.25rem);
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --gutter: clamp(16px, 2.5vw, 32px);
+
+  --radius-xs: 4px;
+  --radius-sm: 7px;
+  --radius-md: 11px;
+  --radius-lg: 18px;
+  --radius-xl: 26px;
+  --radius-pill: 999px;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --duration-fast: 150ms;
+  --duration-normal: 320ms;
+
+  /* surfaces & ink */
+  --page: #f3efe6;
+  --surface-1: #fbfaf6;
+  --surface-2: #f0ebe1;
+  --surface-3: #e7e0d2;
+  --hairline: #ddd5c6;
+  --baseline: #c9c0ae;
+  --ink-1: #16130f;
+  --ink-2: #544e47;
+  --ink-3: #6b645a;
+  --accent: #9a5b0b;
+  --accent-soft: rgba(154, 91, 11, 0.12);
+  --link: #1f5fb8;
+  --shadow: 0 1px 0 rgba(22, 19, 15, 0.04), 0 12px 32px -18px rgba(22, 19, 15, 0.28);
+  --grain-opacity: 0.35;
+
+  /* price direction (Taiwan convention by default: red = up) */
+  --red: #c4282f;
+  --green: #0b7a41;
+  --red-soft: rgba(196, 40, 47, 0.1);
+  --green-soft: rgba(11, 122, 65, 0.1);
+
+  /* categorical identity (validated: dataviz validate_palette.js, light surface #fbfaf6) */
+  --series-1: #2a78d6;
+  --series-2: #eda100;
+  --series-3: #4a3aa7;
+  --series-4: #e87ba4;
+
+  /* news category dots */
+  --cat-holdings: var(--accent);
+  --cat-semis: #2a78d6;
+  --cat-macro: #4a3aa7;
+  --cat-world: #c2477a;
+  --cat-market: #8a8274;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page: #0b0f14;
+    --surface-1: #121820;
+    --surface-2: #1a222d;
+    --surface-3: #232d3a;
+    --hairline: #222c38;
+    --baseline: #334052;
+    --ink-1: #ece9e1;
+    --ink-2: #aab2bc;
+    --ink-3: #8691a0;
+    --accent: #f5b83d;
+    --accent-soft: rgba(245, 184, 61, 0.13);
+    --link: #8fb8ff;
+    --shadow: 0 1px 0 rgba(255, 255, 255, 0.03) inset, 0 18px 40px -24px rgba(0, 0, 0, 0.8);
+    --grain-opacity: 0.5;
+    --red: #ff6b6b;
+    --green: #34c77b;
+    --red-soft: rgba(255, 107, 107, 0.13);
+    --green-soft: rgba(52, 199, 123, 0.13);
+    --series-1: #3987e5;
+    --series-2: #c98500;
+    --series-3: #9085e9;
+    --series-4: #d55181;
+    --cat-semis: #3987e5;
+    --cat-macro: #9085e9;
+    --cat-world: #e0709a;
+    --cat-market: #7d8796;
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0b0f14;
+  --surface-1: #121820;
+  --surface-2: #1a222d;
+  --surface-3: #232d3a;
+  --hairline: #222c38;
+  --baseline: #334052;
+  --ink-1: #ece9e1;
+  --ink-2: #aab2bc;
+  --ink-3: #8691a0;
+  --accent: #f5b83d;
+  --accent-soft: rgba(245, 184, 61, 0.13);
+  --link: #8fb8ff;
+  --shadow: 0 1px 0 rgba(255, 255, 255, 0.03) inset, 0 18px 40px -24px rgba(0, 0, 0, 0.8);
+  --grain-opacity: 0.5;
+  --red: #ff6b6b;
+  --green: #34c77b;
+  --red-soft: rgba(255, 107, 107, 0.13);
+  --green-soft: rgba(52, 199, 123, 0.13);
+  --series-1: #3987e5;
+  --series-2: #c98500;
+  --series-3: #9085e9;
+  --series-4: #d55181;
+  --cat-semis: #3987e5;
+  --cat-macro: #9085e9;
+  --cat-world: #e0709a;
+  --cat-market: #7d8796;
+}
+
+:root {
+  --rise: var(--red);
+  --fall: var(--green);
+  --rise-soft: var(--red-soft);
+  --fall-soft: var(--green-soft);
+}
+
+:root[data-updown="us"] {
+  --rise: var(--green);
+  --fall: var(--red);
+  --rise-soft: var(--green-soft);
+  --fall-soft: var(--red-soft);
+}

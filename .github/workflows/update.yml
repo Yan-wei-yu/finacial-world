@@ -1,0 +1,202 @@
+name: 更新資料並部署網站
+
+on:
+  schedule:
+    # 新聞、財報、總經、AI 摘要：台灣時間 08:52、09:52、20:52、21:52（9、10 點與晚上 9、10 點前備妥）
+    - cron: "52 0,1,12,13 * * *"
+    # 報價快照：美股交易日盤前到收盤約每 15 分鐘（台灣時間 20:07–05:52，避開整點壅塞）
+    - cron: "7,22,37 12-21 * * 1-5"
+    - cron: "52 14-21 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "full = 全部更新；quotes = 只更新報價"
+        type: choice
+        options: [full, quotes]
+        default: full
+      summary:
+        description: "產生 AI 摘要（需要 ANTHROPIC_API_KEY）"
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+    paths-ignore:
+      - "site/data/**"
+      - "**.md"
+
+permissions:
+  contents: read
+
+jobs:
+  # Fetches data with third-party packages and (optionally) the Anthropic key.
+  # Read-only token and no persisted git credentials: nothing here can push or deploy.
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+    concurrency:
+      group: build-${{ github.event_name == 'push' && 'push' || (github.event_name == 'schedule' && github.event.schedule != '52 0,1,12,13 * * *' && 'quotes' || 'full') }}
+      cancel-in-progress: false
+    outputs:
+      mode: ${{ steps.mode.outputs.mode }}
+      publish: ${{ steps.run.outputs.publish }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.lock
+
+      - name: Install locked dependencies (hash-checked)
+        run: pip install --require-hashes -r requirements.lock
+
+      - name: Decide what to update
+        id: mode
+        env:
+          EVENT: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+          INPUT_MODE: ${{ inputs.mode }}
+          INPUT_SUMMARY: ${{ inputs.summary }}
+        run: |
+          mode=full
+          summary=true
+          if [ "$EVENT" = "schedule" ] && [ "$SCHEDULE" != "52 0,1,12,13 * * *" ]; then mode=quotes; fi
+          if [ "$EVENT" = "workflow_dispatch" ]; then
+            [ "$INPUT_MODE" = "quotes" ] && mode=quotes
+            [ "$INPUT_SUMMARY" = "false" ] && summary=false
+          fi
+          if [ "$EVENT" = "push" ] || [ "$mode" = "quotes" ]; then summary=false; fi
+          echo "mode=$mode" >> "$GITHUB_OUTPUT"
+          echo "summary=$summary" >> "$GITHUB_OUTPUT"
+
+      - name: Start from the latest deployed quotes (quote runs)
+        if: steps.mode.outputs.mode == 'quotes'
+        env:
+          PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: |
+          if curl -fsSL --max-time 20 --max-filesize 3000000 "$PAGES_URL/data/quotes.json" -o "$RUNNER_TEMP/quotes.json" \
+            && python -c "import json, sys; d = json.load(open(sys.argv[1], encoding='utf-8')); sys.exit(0 if isinstance(d.get('quotes'), dict) else 1)" "$RUNNER_TEMP/quotes.json"; then
+            cp "$RUNNER_TEMP/quotes.json" site/data/quotes.json
+          fi
+
+      - name: Run pipeline
+        id: run
+        env:
+          ANTHROPIC_API_KEY: ${{ steps.mode.outputs.summary == 'true' && secrets.ANTHROPIC_API_KEY || '' }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          MODE: ${{ steps.mode.outputs.mode }}
+          SUMMARY: ${{ steps.mode.outputs.summary }}
+        run: |
+          set +e
+          if [ "$SUMMARY" = "true" ]; then
+            python -m pipeline.main --mode "$MODE"
+          else
+            python -m pipeline.main --mode "$MODE" --no-summary
+          fi
+          code=$?
+          set -e
+          if [ "$code" -eq 3 ]; then
+            echo "::warning::No fresh quotes this run; the live site stays unchanged."
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if [ "$code" -ne 0 ]; then exit "$code"; fi
+          echo "publish=true" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: steps.run.outputs.publish == 'true'
+        with:
+          name: site-data
+          path: site/data
+          retention-days: 1
+          if-no-files-found: error
+
+  # Writes to the repo and builds the Pages artifact. No secrets, no pip installs.
+  publish:
+    needs: build
+    if: needs.build.outputs.publish == 'true' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    concurrency:
+      group: publish-${{ needs.build.outputs.mode }}
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: site-data
+          path: ${{ runner.temp }}/incoming
+
+      - name: Validate and copy data
+        env:
+          INCOMING: ${{ runner.temp }}/incoming
+          MODE: ${{ needs.build.outputs.mode }}
+        run: |
+          python3 - <<'PY'
+          import json, os, pathlib, sys
+          allowed = {"quotes.json", "news.json", "earnings.json", "macro.json", "summary.json", "meta.json"}
+          incoming = pathlib.Path(os.environ["INCOMING"])
+          for path in incoming.rglob("*"):
+              if not path.is_file():
+                  continue
+              if path.parent != incoming or path.name not in allowed:
+                  sys.exit(f"unexpected file in artifact: {path.relative_to(incoming)}")
+              if path.stat().st_size > 2_000_000:
+                  sys.exit(f"{path.name} is larger than 2 MB")
+              if not isinstance(json.loads(path.read_text(encoding="utf-8")), dict):
+                  sys.exit(f"{path.name} must contain a JSON object")
+          PY
+          if [ "$MODE" = "quotes" ]; then
+            # Quote runs only replace prices; news and earnings come from the latest commit on main.
+            cp "$INCOMING/quotes.json" site/data/quotes.json
+          else
+            cp "$INCOMING"/*.json site/data/
+          fi
+
+      - name: Commit data (news runs only)
+        if: needs.build.outputs.mode == 'full'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data
+          if git diff --cached --quiet; then
+            echo "no data changes"
+            exit 0
+          fi
+          git commit -m "data: update $(date -u +%Y-%m-%dT%H:%MZ)"
+          for attempt in 1 2 3; do
+            # Regenerated data wins any conflict ("theirs" = this commit while rebasing).
+            if git pull --rebase -X theirs origin main && git push origin HEAD:main; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+          echo "::error::could not push data after 3 attempts"
+          exit 1
+
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: site
+
+  deploy:
+    needs: publish
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1

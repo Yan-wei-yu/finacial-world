@@ -1,0 +1,19 @@
+[project]
+name = "finacial-world"
+version = "1.0.0"
+description = "美股持股觀測站：報價、新聞、法說會與總經資料管線"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.coverage.run]
+source = ["pipeline"]
+branch = true
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = true
+fail_under = 80
