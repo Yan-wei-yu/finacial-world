@@ -1,4 +1,4 @@
-/** AI market brief written by Claude (summary.json). Shows setup steps when not enabled yet. */
+/** AI market brief (summary.json), written by Claude or GitHub Models. Explains how it appears when there is none yet. */
 import { byId, h, link, mount } from './dom.js';
 import { fmtDateTime, relativeTime } from './format.js';
 
@@ -18,13 +18,13 @@ function setupHint() {
   return h(
     'div',
     { class: 'empty' },
-    h('strong', { text: 'AI 盤前摘要尚未啟用' }),
+    h('strong', { text: 'AI 盤前摘要尚未產生' }),
     h(
       'ol',
       {},
-      h('li', { text: '到 console.anthropic.com 建立 API key' }),
-      h('li', { text: '在 GitHub repo → Settings → Secrets and variables → Actions 新增 ANTHROPIC_API_KEY' }),
-      h('li', { text: '之後每天 08:52、09:52、20:52、21:52（台灣時間）自動產生摘要' }),
+      h('li', { text: '不需要 API key：預設使用 GitHub Models 免費額度，每天 08:52、09:52、20:52、21:52（台灣時間）自動產生' }),
+      h('li', { text: '想馬上看到：GitHub → Actions →「更新資料並部署網站」→ Run workflow' }),
+      h('li', { text: '想改用 Claude：在 Settings → Secrets and variables → Actions 新增 ANTHROPIC_API_KEY' }),
     ),
   );
 }

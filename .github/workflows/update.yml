@@ -15,7 +15,7 @@ on:
         options: [full, quotes]
         default: full
       summary:
-        description: "產生 AI 摘要（需要 ANTHROPIC_API_KEY）"
+        description: "產生 AI 摘要（有 ANTHROPIC_API_KEY 用 Claude，否則用 GitHub Models 免費額度）"
         type: boolean
         default: true
   push:
@@ -29,12 +29,13 @@ permissions:
 
 jobs:
   # Fetches data with third-party packages and (optionally) the Anthropic key.
-  # Read-only token and no persisted git credentials: nothing here can push or deploy.
+  # Read-only token (contents + models) and no persisted git credentials: nothing here can push or deploy.
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
       contents: read
+      models: read # AI brief through the free GitHub Models quota when no Anthropic key is set
     concurrency:
       group: build-${{ github.event_name == 'push' && 'push' || (github.event_name == 'schedule' && github.event.schedule != '52 0,1,12,13 * * *' && 'quotes' || 'full') }}
       cancel-in-progress: false
@@ -89,6 +90,8 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ steps.mode.outputs.summary == 'true' && secrets.ANTHROPIC_API_KEY || '' }}
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          GITHUB_MODELS_TOKEN: ${{ steps.mode.outputs.summary == 'true' && github.token || '' }}
+          GITHUB_MODELS_MODEL: ${{ vars.GITHUB_MODELS_MODEL }}
           MODE: ${{ steps.mode.outputs.mode }}
           SUMMARY: ${{ steps.mode.outputs.summary }}
         run: |
