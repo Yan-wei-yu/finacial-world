@@ -1,0 +1,8 @@
+{
+  "name": "finacial-world-claude-code",
+  "private": true,
+  "description": "Pinned Claude Code CLI for the AI brief (installed with npm ci in the update workflow)",
+  "dependencies": {
+    "@anthropic-ai/claude-code": "2.1.287"
+  }
+}

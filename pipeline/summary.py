@@ -1,7 +1,9 @@
-"""AI market brief.
+"""AI market brief written by Claude.
 
-Written by Claude when ANTHROPIC_API_KEY is set, otherwise by GitHub Models (free quota of every GitHub
-account, reached with the workflow's own GITHUB_TOKEN passed in as GITHUB_MODELS_TOKEN).
+Two ways in, tried in this order:
+- ANTHROPIC_API_KEY: the Claude API (paid per token).
+- CLAUDE_CODE_OAUTH_TOKEN: a Claude Pro/Max subscription token from `claude setup-token`, used through the
+  Claude Code CLI (the token only works with Claude Code, not with the API directly).
 """
 
 from __future__ import annotations
@@ -9,6 +11,8 @@ from __future__ import annotations
 import json
 import os
 import re
+import subprocess
+import tempfile
 from collections.abc import Callable, Mapping, Sequence
 from dataclasses import dataclass
 from datetime import datetime, timedelta
@@ -16,18 +20,14 @@ from typing import Any
 from zoneinfo import ZoneInfo
 
 import anthropic
-import requests
 
 from pipeline.config import Holding
 from pipeline.io_utils import num, parse_iso, to_iso
 from pipeline.text import clean_text
 
 DEFAULT_MODEL = "claude-sonnet-5-5"
-GITHUB_MODELS_URL = "https://models.github.ai/inference/chat/completions"
-# Tried in order; the later ones only matter if a model leaves the GitHub Models catalog.
-GITHUB_MODELS = ("openai/gpt-4.1", "openai/gpt-4.1-mini", "openai/gpt-4o")
-# Token, permission, quota and outage errors are the same for every model, so don't try the next one.
-GITHUB_FINAL_STATUS = (401, 403, 429)
+CLAUDE_CODE_MODEL = "sonnet"  # CLI alias, so the pinned CLI always resolves it to a model it knows
+CLAUDE_CODE_TIMEOUT = 300
 TOOL_NAME = "publish_market_brief"
 TAIPEI = ZoneInfo("Asia/Taipei")
 WEEKDAYS = "一二三四五六日"
@@ -124,6 +124,7 @@ class Reply:
     model: str
     input_tokens: int | None
     output_tokens: int | None
+    detail: str = ""  # what came back instead of a brief, for the stage status
 
 
 class BriefError(Exception):
@@ -225,7 +226,7 @@ def build_prompt(ctx: SummaryContext, now: datetime, selected: Sequence[Mapping[
     for number, item in enumerate(selected, start=1):
         tags = "、".join([*item.get("symbols", []), *(CATEGORY_LABELS.get(c, c) for c in item.get("categories", []))])
         lines.append(f"[{number}] {_taipei(item.get('published'))}｜{_plain(item.get('source', ''))}｜{tags}｜{_plain(item.get('title', ''))}")
-    lines += ["</news>", "", f"請呼叫 {TOOL_NAME} 工具輸出摘要。"]
+    lines += ["</news>", "", "請依指定的 JSON 格式輸出摘要。"]
     return "\n".join(lines)
 
 
@@ -334,48 +335,62 @@ def _ask_claude(prompt: str, key: str, model: str | None, client: Any) -> Reply:
     return Reply(_tool_input(response), model_id, getattr(usage, "input_tokens", None), getattr(usage, "output_tokens", None))
 
 
-def _function_arguments(body: Any) -> Any:
-    """Arguments of the forced function call in an OpenAI-style chat completion, or None."""
+def _json_object(value: Any) -> dict[str, Any] | None:
+    """A JSON object given as a dict or as text, which may be wrapped in a ```json fence or prose."""
+    if isinstance(value, dict):
+        return value
+    if not isinstance(value, str):
+        return None
     try:
-        for call in body["choices"][0]["message"].get("tool_calls") or []:
-            if call["function"]["name"] == TOOL_NAME:
-                return json.loads(call["function"]["arguments"])
-    except (ValueError, LookupError, TypeError, AttributeError):
-        pass
-    return None
-
-
-def _github_reply(response: Any, model_id: str) -> Reply:
-    try:
-        body = response.json()
+        parsed = json.loads(value[value.index("{") : value.rindex("}") + 1])
     except ValueError:
-        body = None
-    usage = body.get("usage") if isinstance(body, dict) else None
-    usage = usage if isinstance(usage, dict) else {}
-    return Reply(_function_arguments(body), model_id, usage.get("prompt_tokens"), usage.get("completion_tokens"))
+        return None
+    return parsed if isinstance(parsed, dict) else None
 
 
-def _ask_github_models(prompt: str, token: str, model: str | None, post: Callable[..., Any] | None) -> Reply:
-    configured = model or os.getenv("GITHUB_MODELS_MODEL")
-    send = post or requests.post
-    payload = {
-        "messages": [{"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": prompt}],
-        "tools": [{"type": "function", "function": {"name": TOOL_NAME, "description": BRIEF_TOOL["description"], "parameters": BRIEF_TOOL["input_schema"]}}],
-        "tool_choice": {"type": "function", "function": {"name": TOOL_NAME}},
-    }
-    headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"}
-    error = "GitHub Models: no model to try"
-    for model_id in (configured,) if configured else GITHUB_MODELS:
+def _claude_code_command(model_id: str) -> list[str]:
+    return [
+        os.getenv("CLAUDE_BIN") or "claude",
+        "-p",
+        "--output-format",
+        "json",
+        "--json-schema",
+        json.dumps(BRIEF_TOOL["input_schema"], ensure_ascii=False),
+        "--system-prompt",
+        SYSTEM_PROMPT,
+        # No shell, file, web or MCP tools: the news titles are untrusted text, so there is nothing to misuse.
+        "--tools",
+        "",
+        "--strict-mcp-config",
+        "--no-session-persistence",
+        "--model",
+        model_id,
+    ]
+
+
+def _ask_claude_code(prompt: str, token: str, model: str | None, run: Callable[..., Any] | None) -> Reply:
+    model_id = model or os.getenv("CLAUDE_MODEL") or CLAUDE_CODE_MODEL
+    # The CLI would prefer an API key over the subscription token; this path only runs when there is none.
+    env = {k: v for k, v in os.environ.items() if k != "ANTHROPIC_API_KEY"} | {"CLAUDE_CODE_OAUTH_TOKEN": token}
+    with tempfile.TemporaryDirectory() as workdir:  # empty cwd: no CLAUDE.md, settings or hooks get loaded
         try:
-            response = send(GITHUB_MODELS_URL, json={**payload, "model": model_id}, headers=headers, timeout=90)
-        except requests.RequestException as exc:
-            raise BriefError(f"GitHub Models {type(exc).__name__}: {clean_text(str(exc), 200)}") from exc
-        if response.status_code == 200:
-            return _github_reply(response, model_id)
-        error = f"GitHub Models HTTP {response.status_code} ({model_id}): {clean_text(response.text, 200)}"
-        if response.status_code in GITHUB_FINAL_STATUS or response.status_code >= 500:
-            break
-    raise BriefError(error)
+            done = (run or subprocess.run)(
+                _claude_code_command(model_id), input=prompt, capture_output=True, text=True, timeout=CLAUDE_CODE_TIMEOUT, cwd=workdir, env=env
+            )
+        except (OSError, subprocess.SubprocessError) as exc:
+            raise BriefError(f"Claude Code {type(exc).__name__}: {clean_text(str(exc), 200)}") from exc
+    result = _json_object(done.stdout)
+    if result is None or result.get("is_error") or done.returncode != 0:
+        reason = (result or {}).get("result") or done.stderr or done.stdout
+        raise BriefError(f"Claude Code exit {done.returncode}: {clean_text(reason, 200) or '(no output)'}")
+    usage = result.get("usage") if isinstance(result.get("usage"), dict) else {}
+    # The CLI caches its prompt, so input_tokens alone leaves out most of what was read.
+    read = [usage.get(k) for k in ("input_tokens", "cache_creation_input_tokens", "cache_read_input_tokens")]
+    input_tokens = sum(n for n in read if isinstance(n, int)) if any(isinstance(n, int) for n in read) else None
+    used = list(result["modelUsage"]) if isinstance(result.get("modelUsage"), dict) else []
+    tool_input = _json_object(result.get("structured_output")) or _json_object(result.get("result"))
+    detail = f"result: {clean_text(result.get('result'), 160) or '(empty)'}"
+    return Reply(tool_input, used[0] if used else model_id, input_tokens, usage.get("output_tokens"), detail)
 
 
 def generate_summary(
@@ -383,25 +398,25 @@ def generate_summary(
     now: datetime,
     *,
     api_key: str | None = None,
-    github_token: str | None = None,
+    oauth_token: str | None = None,
     model: str | None = None,
     client: Any = None,
-    post: Callable[..., Any] | None = None,
+    run: Callable[..., Any] | None = None,
 ) -> tuple[dict[str, Any] | None, str]:
     key = os.getenv("ANTHROPIC_API_KEY", "") if api_key is None else api_key
-    token = os.getenv("GITHUB_MODELS_TOKEN", "") if github_token is None else github_token
+    token = os.getenv("CLAUDE_CODE_OAUTH_TOKEN", "") if oauth_token is None else oauth_token
     if not key and not token:
-        return None, "skipped: neither ANTHROPIC_API_KEY nor GITHUB_MODELS_TOKEN is set"
+        return None, "skipped: neither ANTHROPIC_API_KEY nor CLAUDE_CODE_OAUTH_TOKEN is set"
     selected = select_news(ctx.news, now)
     if not selected:
         return None, "skipped: no recent news"
     prompt = build_prompt(ctx, now, selected)
     try:
-        reply = _ask_claude(prompt, key, model, client) if key else _ask_github_models(prompt, token, model, post)
+        reply = _ask_claude(prompt, key, model, client) if key else _ask_claude_code(prompt, token, model, run)
     except BriefError as exc:
         return None, f"error: {exc}"
     if reply.tool_input is None:
-        return None, "error: response did not include the brief tool call"
+        return None, "error: response did not include the brief" + (f" ({reply.detail})" if reply.detail else "")
     brief = parse_brief(reply.tool_input, selected, ctx.holdings)
     if brief is None:
         return None, "error: brief failed validation"
