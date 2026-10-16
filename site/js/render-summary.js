@@ -1,4 +1,4 @@
-/** AI market brief (summary.json), written by Claude or GitHub Models. Explains how it appears when there is none yet. */
+/** AI market brief written by Claude (summary.json). Shows setup steps when there is none yet. */
 import { byId, h, link, mount } from './dom.js';
 import { fmtDateTime, relativeTime } from './format.js';
 
@@ -22,9 +22,9 @@ function setupHint() {
     h(
       'ol',
       {},
-      h('li', { text: '不需要 API key：預設使用 GitHub Models 免費額度，每天 08:52、09:52、20:52、21:52（台灣時間）自動產生' }),
-      h('li', { text: '想馬上看到：GitHub → Actions →「更新資料並部署網站」→ Run workflow' }),
-      h('li', { text: '想改用 Claude：在 Settings → Secrets and variables → Actions 新增 ANTHROPIC_API_KEY' }),
+      h('li', { text: '用 Claude 訂閱（Pro／Max）：在自己的電腦執行 claude setup-token，取得 token' }),
+      h('li', { text: '在 GitHub repo → Settings → Secrets and variables → Actions 新增 CLAUDE_CODE_OAUTH_TOKEN，貼上 token' }),
+      h('li', { text: '之後每天 08:52、09:52、20:52、21:52（台灣時間）自動產生；想馬上看到可到 Actions 手動 Run workflow' }),
     ),
   );
 }
