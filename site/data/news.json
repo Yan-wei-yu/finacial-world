@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T13:45:11Z",
+ "generated_at": "2026-10-16T13:45:26Z",
  "categories": {
   "holdings": "我的持股",
   "semis": "半導體／AI",
@@ -28,7 +28,7 @@
    "score": 8.5,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "765675935831300e",
@@ -49,7 +49,7 @@
    "score": 4.5,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "ea666a126908f570",
@@ -159,7 +159,7 @@
    "score": 3.0,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "d8faf56d9d7d2358",
@@ -200,7 +200,7 @@
    "score": 4.5,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "673ae9b917088284",
@@ -562,7 +562,7 @@
    "score": 3.0,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "fb7a4d712466a461",
@@ -905,9 +905,14 @@
    "symbols": [],
    "base_score": 3.0,
    "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
+   "score": 3.5,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "Hilton Head Island Packet",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01TXlKODZUQ2R0WWpHa0l4STN6NEhqekRDXzYzbF90aGt5U0ZpZ1ZENDFIbVF2X0JVeE9xa2J0NW1rYm12bmFsOF9TSmRuaUtkMTIzbHV6eUFmTFcybmJxYkFpYV9HYUJwNUEtckVCNnB1UQ?oc=5"
+    }
+   ],
    "first_seen": "2026-10-16T13:39:09Z"
   },
   {
@@ -1012,7 +1017,7 @@
    "score": 3.5,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "bad5ce326ed9372e",
@@ -1309,7 +1314,7 @@
    "score": 8.5,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "7ac7d96b4ce132d3",
@@ -1615,7 +1620,7 @@
    "score": 5.5,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "2f5af0857dbb957c",
@@ -1759,7 +1764,7 @@
    "score": 6.0,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "0dbd1a67c28a0b1d",
@@ -1836,7 +1841,7 @@
    "score": 6.0,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "b98af4645b5c4d40",
@@ -2206,6 +2211,30 @@
    "first_seen": "2026-10-16T13:39:09Z"
   },
   {
+   "id": "55361be83cc270c1",
+   "title": "韓股又熔斷？KOSPI年內第7度全市場暫停，SK海力士單日重挫15%",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NS0dndW81Sl82eWFBUnJWTldwZllIVW5fWHVaam9vNnJjVlNEa1NUU2JleEczMkRXNkxCTzJxVjlSNUVNZjVid0hrcmg1NXYxVXFRbm13?oc=5",
+   "source": "口袋證券",
+   "published": "2026-10-16T09:55:36Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-memory",
+   "categories": [
+    "holdings",
+    "market"
+   ],
+   "symbols": [
+    "SKHY",
+    "DRAM"
+   ],
+   "base_score": 7.5,
+   "source_bonus": 0.0,
+   "score": 7.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-10-16T13:45:26Z"
+  },
+  {
    "id": "fc0b03ee3bdf4494",
    "title": "朱成志：台股5萬點前急轉彎 記憶體、ASIC、CPO誰能撐盤？",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5NkJkdjVwX18wLTg5d3haSmFDOHptVGtsS1pOcTN6SmhEX29hUDdpSzdCbnA1UWl1eERtbUdtVFNYaEVxVmZwalJiQlU2NWdZakQ1X1hwTUNVd9IBX0FVX3lxTE5nNGp4ejF5RnNxSElBbzR2SFdzcUs1dW5KRDB0Y3QzUHNSeVFOcU9mWXNnTUcweU5MN3ZNazczMVNHVEt5QnVNNlBYajBjUW95ZDNINGZ5cmp0cElreEVj?oc=5",
@@ -2512,7 +2541,7 @@
    "score": 7.5,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "11708e8f53085665",
@@ -3192,7 +3221,7 @@
    "score": 6.5,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "b2daf543f222c782",
@@ -3591,6 +3620,30 @@
    "first_seen": "2026-10-16T13:39:09Z"
   },
   {
+   "id": "2b4f3803fb722cf3",
+   "title": "SK Hynix Showcases Future AI Memory Technology Designs Beyond HBM",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0ZFaHc4RXduMmJiYXdxaU10aDd3Nm1mMUJyM2FoTUNmTWFXUzJqUHplSHBoZVo5M0haMnpmMVpMVjNQT2ZraXIxUjkydDlCcS1lVUNhWm5vM3JSSWV4ZkJYMzE4dkhDUW9RSjkyY0xta3l2Um8xUGdmTV9iY0Z1d2ctS3lpQmp4UzExd0kyNnFRWklOMi1XRXRBUnNQbjFlMTVoRDRLYkNtRnRiYm5uUTJPZGk0MmIwa3c?oc=5",
+   "source": "marketscreener.com",
+   "published": "2026-10-16T06:25:48Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-skhy",
+   "categories": [
+    "holdings",
+    "semis"
+   ],
+   "symbols": [
+    "SKHY",
+    "DRAM"
+   ],
+   "base_score": 9.0,
+   "source_bonus": 0.0,
+   "score": 9.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-10-16T13:45:26Z"
+  },
+  {
    "id": "d953862498844464",
    "title": "SK海力士參加OCP峰會 展示下一代AI記憶體技術",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPclctYm9FRUZ0UkpnSUxQU2Q0WURnYWRHazI2NldWa09ZRUxReU5RTlRrYWFKUENfQlZBYWJSTXZnQ0hjNFF1OTlQWXFVNXJXSWVlRllNU3pqVFpTVm9tWGhqc3JQN054TWVQMHVBckN0NTNrZGs1d29WMmtIVFg0SUU1OHh5N1RUeUJKblNPRFRIOTRrd3c?oc=5",
@@ -3983,6 +4036,28 @@
    "first_seen": "2026-10-16T05:08:19Z"
   },
   {
+   "id": "bda5b19baeda0e9b",
+   "title": "Azwed Samples Y2K Ringtones on Pop-Rap Single ‘Nokia’",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2FRcHUxNVc2Y0pveFNCdzZDV3BaS3VJMlhIYnZiVGNLSTROYWR5UFdZSmM3ZEFCRGtUZGpPRnk4ZDh4SUhTVEpBN2NoQVNxa2xXVGdGNk1nbmdhT1QtcEJWb011YUVRQm1fTGlmXzUtZXR2aTM2VG9yOUoxQVJFUjN5dnlRLW5YY2xtdw?oc=5",
+   "source": "SceneNoise",
+   "published": "2026-10-16T04:47:08Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-nok",
+   "categories": [
+    "holdings"
+   ],
+   "symbols": [
+    "NOK"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-10-16T13:45:26Z"
+  },
+  {
    "id": "d2f89ede56d70984",
    "title": "華許未談利率 先看 AI 如何改變經濟 Fed 工作小組下月舊金山開公聽會 | 國際焦點 | 國際",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KZEpxMnFjT19BeVNxdVJjT1hlVnBmaTBqX2toOFNQcjhJbFRMaVBRTnRSaG5DSFQ0UnRkS3pPTlRlS09LZ2Q2bGV0OFNWek5meUhKUXJTQWhVUQ?oc=5",
@@ -4204,9 +4279,14 @@
    ],
    "base_score": 5.0,
    "source_bonus": 0.0,
-   "score": 5.0,
-   "coverage": 1,
-   "also": [],
+   "score": 5.5,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "PChome Online 新聞",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjBJem5OcHp6dFVFZDNBR1NkdlVPazVpMEM3dUhOYXRwa1JJSXhLYWxYT1VvWDdyMnBtbDhUZENVcEcyR2JSSDlybkswRmhVckJJZ25jN2QtT0plUktwNjF6ZzMwNGRMTGpxTDI3TE9xYXZHY2I0NzIxMGhHQzFoQmJzNnB4S2pXUXh3TQ?oc=5"
+    }
+   ],
    "first_seen": "2026-10-16T05:08:19Z"
   },
   {
@@ -4545,6 +4625,29 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-10-16T05:08:19Z"
+  },
+  {
+   "id": "b1de110d8ca4f824",
+   "title": "ETFs Investing in Nokia Oyj Stocks",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hUy1sMGJLWUNHaEtZa1M5RDZJNzVmZ2l4TGVaSE5BbUtRS0ppVThUdXBVYmFpYWt0U2xUOHJvY2pVRlRlTndGYkE1cTZDME1kRFVZbFBraEJ2dWQxbTZN?oc=5",
+   "source": "TradingView",
+   "published": "2026-10-16T03:34:04Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-nok",
+   "categories": [
+    "holdings",
+    "market"
+   ],
+   "symbols": [
+    "NOK"
+   ],
+   "base_score": 7.5,
+   "source_bonus": 0.0,
+   "score": 7.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "911952872d12f79b",
@@ -6172,7 +6275,7 @@
    "score": 5.5,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "077dbbd76cce744d",
@@ -6533,6 +6636,27 @@
    "first_seen": "2026-10-15T21:23:24Z"
   },
   {
+   "id": "04a5d4d9df9b4553",
+   "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZUJ1b3JBYnNmVHB4Z0gtQVFHRTVxVFBNaTQ5RFZzVE1kV1p0cnIwYTktaFBXX0RWYkhPREQwZ0NDMTRRNnBtZ0pQeTUtbHNmakpzdF9XMGVCQmJBMnh2U1l0am5mRTJoTDFwSTFCZXoxcUJWazVhTGhQVHNsLTJfc0lhc2hkS2JVckhjbTFDRW9mLWRNZ2FYYThRYnA4clRvZnlMRVFzblFfYWp5OUdRTWNlNjdXOE1lNHZrTDNNaHNXQzNrY2xyWW1DVDNsQQ?oc=5",
+   "source": "MarketWatch",
+   "published": "2026-10-15T19:26:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-market",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 1.0,
+   "score": 5.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-10-15T21:23:24Z"
+  },
+  {
    "id": "a4216c9a47fe9b0f",
    "title": "AI 股拋售潮 引發市場避險交易 美債殖利率降 投資機構買進",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80clpMTTk2U0czRVoybEduWWZFYldHbng1MHNZTHZmTF9KbURHcS1TQlVzYkoyXzAzQ1VqUTlDS2NTVWhGeS1VTnpKdkp4VzhPYkxHNGZlRkozZ9IBX0FVX3lxTE00S3U2MkVHd0RwR2dXNEc4SUFZT21ESklkeW1pY2ZPSnRaa1dXT2w1anlkOHNrQW5yS2VnRWZSV1I1NFdlQXNvdm5yZk9rNFdMTDQxaVltb1dWenhsaGNB?oc=5",
@@ -6670,7 +6794,7 @@
    "score": 6.0,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "7381faf561c1cc1c",
@@ -6988,7 +7112,7 @@
    "score": 6.0,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "fb29482328459d41",
@@ -7245,7 +7369,7 @@
    "score": 7.5,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-10-16T13:45:11Z"
+   "first_seen": "2026-10-16T13:45:26Z"
   },
   {
    "id": "4f1fdf34663afd8b",
