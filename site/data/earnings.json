@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T17:00:30Z",
+ "generated_at": "2026-10-17T05:02:54Z",
  "upcoming": [
   {
    "symbol": "LRCX",
@@ -22,10 +22,10 @@
    "date": "2026-10-21",
    "datetime": "2026-10-21T20:00:00Z",
    "session": "盤後",
-   "eps_est": 6.73583,
+   "eps_est": 6.75909,
    "eps_low": 3.92,
    "eps_high": 7.64,
-   "rev_est": 63350703390.0,
+   "rev_est": 63378695790.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -36,10 +36,10 @@
    "date": "2026-10-22",
    "datetime": "2026-10-22T12:00:00Z",
    "session": "盤前",
-   "eps_est": 0.07203,
+   "eps_est": 0.07193,
    "eps_low": 0.056,
-   "eps_high": 0.08023,
-   "rev_est": 5066953280.0,
+   "eps_high": 0.08,
+   "rev_est": 5069991980.0,
    "rev_currency": "EUR",
    "is_holding": true
   },
@@ -78,10 +78,10 @@
    "date": "2026-10-28",
    "datetime": "2026-10-28T20:00:00Z",
    "session": "盤後",
-   "eps_est": 2.96605,
+   "eps_est": 2.96791,
    "eps_low": 2.25023,
    "eps_high": 3.19,
-   "rev_est": 127651128910.0,
+   "rev_est": 127676941840.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -95,7 +95,7 @@
    "eps_est": 4.71837,
    "eps_low": 4.43,
    "eps_high": 4.85929,
-   "rev_est": 90706639040.0,
+   "rev_est": 90706507470.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -106,10 +106,10 @@
    "date": "2026-10-29",
    "datetime": "2026-10-29T20:00:00Z",
    "session": "盤後",
-   "eps_est": 1.97667,
+   "eps_est": 1.98071,
    "eps_low": 1.85,
    "eps_high": 2.22,
-   "rev_est": 202108146660.0,
+   "rev_est": 202162044620.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -120,10 +120,10 @@
    "date": "2026-10-29",
    "datetime": "2026-10-29T20:00:00Z",
    "session": "盤後",
-   "eps_est": 0.39265,
+   "eps_est": 0.39452,
    "eps_low": 0.37,
    "eps_high": 0.48,
-   "rev_est": 16456542430.0,
+   "rev_est": 16447416260.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -274,10 +274,10 @@
    "date": "2026-12-23",
    "datetime": "2026-12-23T21:00:00Z",
    "session": "盤後",
-   "eps_est": 38.21235,
+   "eps_est": 38.27861,
    "eps_low": 35.85,
    "eps_high": 40.47,
-   "rev_est": 61666930780.0,
+   "rev_est": 61744344580.0,
    "rev_currency": "USD",
    "is_holding": false
   }
