@@ -1,115 +1,55 @@
 {
- "generated_at": "2026-10-17T15:58:31Z",
+ "generated_at": "2026-10-18T05:12:03Z",
  "week": [
-  {
-   "title": "Core CPI m/m",
-   "title_zh": "核心 CPI 月增率",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "High",
-   "datetime": "2026-10-14T12:30:00Z",
-   "forecast": "0.2%",
-   "previous": "0.3%"
-  },
-  {
-   "title": "Core CPI y/y",
-   "title_zh": "核心 CPI 年增率",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "High",
-   "datetime": "2026-10-14T12:30:00Z",
-   "forecast": "2.5%",
-   "previous": "2.4%"
-  },
-  {
-   "title": "CPI m/m",
-   "title_zh": "CPI 月增率",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "High",
-   "datetime": "2026-10-14T12:30:00Z",
-   "forecast": "0.6%",
-   "previous": "0.4%"
-  },
-  {
-   "title": "CPI y/y",
-   "title_zh": "CPI 年增率",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "High",
-   "datetime": "2026-10-14T12:30:00Z",
-   "forecast": "3.6%",
-   "previous": "3.4%"
-  },
-  {
-   "title": "Core PPI m/m",
-   "title_zh": "核心 PPI 月增率",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "High",
-   "datetime": "2026-10-15T12:30:00Z",
-   "forecast": "0.3%",
-   "previous": "0.2%"
-  },
-  {
-   "title": "Core Retail Sales m/m",
-   "title_zh": "核心零售銷售月增率",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "High",
-   "datetime": "2026-10-15T12:30:00Z",
-   "forecast": "0.6%",
-   "previous": "1.4%"
-  },
-  {
-   "title": "PPI m/m",
-   "title_zh": "PPI 月增率",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "High",
-   "datetime": "2026-10-15T12:30:00Z",
-   "forecast": "0.6%",
-   "previous": "0.4%"
-  },
-  {
-   "title": "Retail Sales m/m",
-   "title_zh": "零售銷售月增率",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "High",
-   "datetime": "2026-10-15T12:30:00Z",
-   "forecast": "0.3%",
-   "previous": "1.2%"
-  },
-  {
-   "title": "Philly Fed Manufacturing Index",
-   "title_zh": "費城聯儲製造業指數",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "Medium",
-   "datetime": "2026-10-15T12:30:00Z",
-   "forecast": "28.2",
-   "previous": "37.8"
-  },
   {
    "title": "Unemployment Claims",
    "title_zh": "初領失業救濟金人數",
    "country": "USD",
    "country_label": "美國",
    "impact": "Medium",
-   "datetime": "2026-10-15T12:30:00Z",
-   "forecast": "199K",
-   "previous": "197K"
+   "datetime": "2026-10-22T12:30:00Z",
+   "forecast": "200K",
+   "previous": "199K"
   },
   {
-   "title": "Fed Chairman Warsh Speaks",
-   "title_zh": "聯準會主席 Warsh 談話",
+   "title": "Flash Manufacturing PMI",
+   "title_zh": "製造業 PMI（初值）",
    "country": "USD",
    "country_label": "美國",
-   "impact": "High",
-   "datetime": "2026-10-16T03:30:00Z",
+   "impact": "Medium",
+   "datetime": "2026-10-23T13:45:00Z",
+   "forecast": "55.5",
+   "previous": "57.0"
+  },
+  {
+   "title": "Flash Services PMI",
+   "title_zh": "服務業 PMI（初值）",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "Medium",
+   "datetime": "2026-10-23T13:45:00Z",
+   "forecast": "58.0",
+   "previous": "58.7"
+  },
+  {
+   "title": "Revised UoM Consumer Sentiment",
+   "title_zh": "密大消費者信心（終值）",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "Medium",
+   "datetime": "2026-10-23T14:00:00Z",
+   "forecast": "46.3",
+   "previous": "46.3"
+  },
+  {
+   "title": "Revised UoM Inflation Expectations",
+   "title_zh": "Revised UoM Inflation Expectations",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "Medium",
+   "datetime": "2026-10-23T14:00:00Z",
    "forecast": null,
-   "previous": null
+   "previous": "4.7%"
   }
  ],
  "upcoming": [
