@@ -1,130 +1,148 @@
 {
- "headline": "記憶體重挫拖累費半大跌3.8%，AI泡沫與通膨疑慮升溫",
+ "headline": "AI泡沫疑慮加殖利率飆升，費半重挫3.83%，期貨續跌",
  "mood": "偏空",
- "mood_reason": "費半-3.83%、那指期貨-2.5%、VIX大升，10年債息5.10%壓抑科技股",
+ "mood_reason": "費半大跌、那指期貨再跌2.5%、10年期殖利率5.10%、VIX升21%。",
  "key_points": [
   {
-   "title": "記憶體族群遭血洗",
-   "detail": "報導指美光、SK海力士等記憶體股急跌，海力士一度重挫約24%，全球半導體股四天市值蒸發逾32.4兆（以新聞所載幣別計）。",
+   "title": "AI泡沫疑慮與融資成本上升",
+   "detail": "費半收跌3.83%、那指跌2.14%。報導指亞洲AI股受融資成本升高壓抑，市場擔心AI支出榮景受威脅，VIX大漲逾21%。",
    "impact": "利空",
    "sources": [
     {
-     "n": 4,
-     "title": "美股AI概念股永续合约凌晨出现急跌，美光、SK海力士跌超6%",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZcnBQTWN0M0U4bEs1WW5walpSRTNQdHh0c3VtdkpoZ3hhYjY0OVJjZ1k2cjdkc0FFc3ZoX0JUY2JaZUJFN3VhRE5nZ2lvejBJNkNwQVRyQko3M2VneDByaTRjWFMwdw?oc=5",
-     "source": "TradingView"
-    },
-    {
-     "n": 6,
-     "title": "記憶體全線崩跌「海力士狂瀉24%」！法人點名南亞科Q4毛利率有上升空間 DRAM供給仍偏緊",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0TjJLY3JFYnpObmVrQUtpZWRoQnlmTVVHXzZkdDkya3ZJNFlJRTZYR0Rqa3NtMEc1M2VZSFJKVXI4VFFIZVdxc2pPUQ?oc=5",
-     "source": "FTNN新聞"
-    },
-    {
-     "n": 16,
-     "title": "全球半導體股遭血洗！市值「4天蒸發逾32.4兆」 三星、SK海力士成重災區隱憂曝光",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1bTZpcHZhMi1UTWNYbjBJTklwd3QtWUV4NUJXa2JNUmg1NmJNcHF1UktvRkU2ZFZUOFRPSmFta21lQ1Y0Q0hXQXBWZw?oc=5",
-     "source": "FTNN新聞"
-    },
-    {
-     "n": 8,
-     "title": "Memory-chip rout, inflation, CoreWeave: The week on Wall Street",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm80NkphNWEwMzJVM2pkbF9KSzEwSEtYOEJiWV9IUElUOGZBbGREOGNRS1ZRWXBabjdaeGRrUUFyVHd2b2RlVVhRTVZiQXlMeDhhcHpQWmhNYmdmdndmbERzOEx3czZTVTZ6V0VLTzBnYm8zbkctRW9Ja2VkS1B6dmNRalJaMld1eEd2aG05YlIyX3JBb2hKTTVmLU5EUzlOZUlvQ0cxeXlScmxYTXQxUXpaYWxNU0dEOWc?oc=5",
-     "source": "Detroit Free Press"
-    }
-   ]
-  },
-  {
-   "title": "中國CXMT供給疑慮",
-   "detail": "新聞提到CXMT「晶片炸彈」衝擊美股，另有分析提醒記憶體可能陷入惡性循環；不過法人認為DRAM供給仍偏緊。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 9,
-     "title": "What is CXMT's 'Chinese chip bomb' that has wiped billions off the US stock market",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM0d2dHVUS28tdjhyRzROTGxtR0w1MWFsdWxSSmhYZjhGb3lVOER4MFA1aDJYSVQwSEd2N29yTG5SUzNzald5RDI1VEp6ek5ZcHQzUXRIS180REFEVzRUbk9aODdzVGR2MTJiNnVzMVJMZWo2ZlBjSlRBT2RScnFfNkJSZnRvSUhPUHBIN29HVkR6Y2RxRTIwdEprVUtLMkU4S2NKUEdYdDZrWFVxS25rSzA1czZSWVhvNjY0ZkNkODUzeVVQUlpWYml3TDA2aVRHZWRtUXpqdXhqUkltYktObFI0bTVQcmp1eGNab0dFREgxSVNQ0gH6AUFVX3lxTE5PZzdaV2IyOC1ZaDBLdHN1elhObjJUd2dtNzBjNHAyeDlZY1oyZEZhTG45eWhIcDNKa0hRbTI4OC1VdjZXZ3cydWlYN2Z6TkZLY1ZVUThpM2E0VjVEZ1lHOWVrVkpRYnV2aGNIeWt1NUd2M2NGZDhfYnJzTmR6Y0NHbFU4YXVELUxNSVVaSy1nQUpETUpkalAxRzBBYXdNYUlyXzNYdWtlSlp1S19xS3ViNDF4QTVwUHQwTkxDdFpuRWN1V2s3azlDUEpNVzY1V29aUHNOdHV5UXhINW5BXzRNN1gwbVdYSE9xTGtRbUJoR2lRSzBrWnNSQWc?oc=5",
-     "source": "The Times of India"
-    },
-    {
-     "n": 1,
-     "title": "With Cathie Wood Warning of a Vicious Cycle in Memory Chipmakers, Here’s How You Should Play SKHY Stock Now",
-     "url": "https://www.barchart.com/story/news/8142726/with-cathie-wood-warning-of-a-vicious-cycle-in-memory-chipmakers-heres-how-you-should-play-skhy-stock-now?.tsrc=rss",
+     "n": 28,
+     "title": "Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg",
+     "url": "https://finance.yahoo.com/technology/ai/articles/asian-ai-stocks-fall-rising-023003094.html?.tsrc=rss",
      "source": "Yahoo Finance"
     },
     {
-     "n": 6,
-     "title": "記憶體全線崩跌「海力士狂瀉24%」！法人點名南亞科Q4毛利率有上升空間 DRAM供給仍偏緊",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0TjJLY3JFYnpObmVrQUtpZWRoQnlmTVVHXzZkdDkya3ZJNFlJRTZYR0Rqa3NtMEc1M2VZSFJKVXI4VFFIZVdxc2pPUQ?oc=5",
-     "source": "FTNN新聞"
-    }
-   ]
-  },
-  {
-   "title": "AI平倉潮與泡沫疑慮",
-   "detail": "AI交易平倉重創避險基金，市場擔憂AI獲利能力與估值，有報導警告標普500恐修正30%。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 3,
-     "title": "AI交易平倉潮重創全球避險基金 亞洲基金首當其衝",
-     "url": "https://news.cnyes.com/news/id/6632554",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 18,
+     "n": 12,
      "title": "美股繁榮是假象？AI泡沫疑慮升溫 標普500恐面臨30%修正",
      "url": "https://news.cnyes.com/news/id/6632643",
      "source": "鉅亨網"
     },
     {
-     "n": 22,
-     "title": "AI盈利能力存疑、油價攀升！美股科技股迎壓力測試",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb2pjdTFvMS13RjRhQThGNE9ORGRYYUotVjZEbkNsZXhhRFk5bGo3WE1vSzduWk94VlpCeHk5WGJKM2FBM0tkdC1XcXdPcmlEZ2U2R2hqS1lsTDFOaS0xZUVRRFNvUzhJRjVtZjVaWmZ6V2xrZVZzMnVpeWZCTDdIX3VqdUNpY3YwRnQwMw?oc=5",
-     "source": "搜狐"
+     "n": 19,
+     "title": "記憶體、半導體重挫AI多頭變天了？ 「鉅亨買基金」揭三大原因",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zX1BDV2pLM3ZkcmdfVnZIQ2ZwNE5mTzJlXzhLOC15YkZoMmNfaVVTNHB0aWIweUxVMU1sc3FoN0lmcGV2Q290TXlkQ0lrQm9CRmfSAVdBVV95cUxNMHBGZUhTeTVhcEQtSmZlYjVPQ2hKeVRyWUdzQVdQaFk4dktVZGxKY2xtOXN4b3IzbGEzV1BRQlRQMXEyQ3J6NHh3UVNralU2NVRsU0ZRYlE?oc=5",
+     "source": "UDN"
+    },
+    {
+     "n": 35,
+     "title": "DRAM ETF Records Biggest Daily Outflow as AI Bubble Fears Rise",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHctUE5UTW9IbVJPMlFqMlV6VHlCdFpKeUdxUDJublowbHgyeHpxbmd2SUpTRUd3NExHdWJYQUdUZ3FjckUzLUxQMDBpUk4ycGxPTjY1WHVnRFo5U1hzWk5vMVdPSy13RFNoVHRaMUFwZlVVM3FPcE9rb2lFbEx1Ym9jSjN4dnRsTEQ1bWFOSWxrRnU1dEM0SVNQMGJrMllKM0FyVEI5ekR1bHhBei1ITUtyaEw5OXBkV1dj?oc=5",
+     "source": "Benzinga"
     }
    ]
   },
   {
-   "title": "通膨與利率壓力",
-   "detail": "美債10年期殖利率5.10%，美銀預測聯準會10月可能升息；10/29將召開FOMC。",
+   "title": "美債殖利率高檔、升息預期",
+   "detail": "10年期殖利率5.10%。市場聚焦強勁財報與借貸成本上升的對決，本週操盤筆記提到Fed升息預期，10/29有FOMC決議。",
    "impact": "利空",
    "sources": [
     {
-     "n": 27,
-     "title": "美銀預測Fed 10月再升息！通膨升溫添變數",
-     "url": "https://news.cnyes.com/news/id/6631672",
+     "n": 10,
+     "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+     "url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+     "source": "MarketWatch"
+    },
+    {
+     "n": 9,
+     "title": "本週操盤筆記：Meta及特斯拉財報、AI漲勢動搖、Fed升息預期",
+     "url": "https://news.cnyes.com/news/id/6631990",
      "source": "鉅亨網"
     },
     {
-     "n": 10,
-     "title": "2330 台積電 - 美債殖利率飆升影響、台積電法說會重點，以及聯發科與記憶體後市- 股市爆料同學會",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WRzRxOTdVUlY3REY3TnhPaF95R3NqeURWZUdrMTN1dmZYZks0WFFVMHF2Nmd4bzQ2bjV1UkJtQkxFREhRQlNmWTd2Snd0aWNkSkdXN1daWjE?oc=5",
-     "source": "CMoney"
+     "n": 33,
+     "title": "Hubbis Macro Corner: Treasury Income, AI Financing Risks and Persistent Inflation Reshape Portfolio Choices",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcEVBcWdyTmVUa3Q1SVZjUm5EdXExLXYydnJTRmtLbFd2Y3JLdEQtMGFpbkxjMGZQLUhTdVRBdDVBQ2l0TWNnenUwZW1yLXpPR1B2UmxleVdHMm5LQ052S2JSVC1QOG53Ty1EaEVqNnItS2x0WHNRVWJCbzExdGJqV1VtbFpFVXM2amNmY0lsNzZ2TlFkTzlxNmxPbUJTNk41WXg5Q3lLZ192blhJdEk1SFlKaFNJUzhaLUliZkNiVEFRNFZ5NVJvMDNRcDlvdw?oc=5",
+     "source": "Hubbis"
     },
     {
-     "n": 8,
-     "title": "Memory-chip rout, inflation, CoreWeave: The week on Wall Street",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUm80NkphNWEwMzJVM2pkbF9KSzEwSEtYOEJiWV9IUElUOGZBbGREOGNRS1ZRWXBabjdaeGRrUUFyVHd2b2RlVVhRTVZiQXlMeDhhcHpQWmhNYmdmdndmbERzOEx3czZTVTZ6V0VLTzBnYm8zbkctRW9Ja2VkS1B6dmNRalJaMld1eEd2aG05YlIyX3JBb2hKTTVmLU5EUzlOZUlvQ0cxeXlScmxYTXQxUXpaYWxNU0dEOWc?oc=5",
-     "source": "Detroit Free Press"
+     "n": 40,
+     "title": "【MM一週盤前】通膨超預期、費半罕見八連跌，台積電法說優於預期！",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPV2JBaXowdm95WHJjMTR1dUhMbmZzOHlYclJPcjFEc09pZnUxTnR1LXBrTnJabGlHZjVsbWVSUldoYU5lR3ZmUkg0VW5SbG1Vc1dFaGFUTWJhQjFlRVIzTFl2LW5wYlRSenV0LXRmWERucGVNS3Y0VTlMT0dzazZ4VVhPZHloMkIxMTMyZjIwZE9KOEVzWHpBUnB6Uzh2Rnk3Y1k5N1B4bTNCV0lPdkFNeDIzdzFUNXdaRlIyVTZ4UWUyN204enNOMFA1RHloLWE5YlVMOHQ2T2hBZEttV3F1am04VmZRTW9UQmtDNDhNRmVMeTYwSDNWc3B3NlF3ZENZVDBfTDdsNlUwdkpYVUpxMWRDRkNmZw?oc=5",
+     "source": "MacroMicro"
     }
    ]
   },
   {
-   "title": "AI長期敘事仍有支撐",
-   "detail": "聯準會主席華許稱AI是一生中最深遠的經濟變革，也有基金經理人看好部分產業，但短線難抵賣壓。",
-   "impact": "中性",
+   "title": "中國DRAM突破與「DeepSeek衝擊」擔憂",
+   "detail": "報導稱中國CXMT記憶體動靜衝擊美股，Kioxia一度跌7.7%，韓媒憂週一再現類似衝擊。細節仍待觀察。",
+   "impact": "利空",
    "sources": [
     {
-     "n": 33,
-     "title": "Fed 主席華許：AI 是我一生中影響最深遠經濟變革",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQnY1eFA0eGVsOHRpOG1UVXYwMEdvTnNjXzV2eXp3TG1mclFZa0MxSkpfcFk0Mm9ITkV5bTBPM2hiWW1OT3lUUVFLTlhob2MxeFNheFdoalFzZzJVTElPRzZRc3lwanc2dVFPQUw2cGNZV1BYVlc0ZWt1eDhWc1RUTk9tem5mb2JlNW0tdjZ0ZUpmV1pL?oc=5",
-     "source": "TechNews 科技新報"
+     "n": 5,
+     "title": "What is CXMT's 'Chinese chip bomb' that has wiped billions off the US stock market",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM0d2dHVUS28tdjhyRzROTGxtR0w1MWFsdWxSSmhYZjhGb3lVOER4MFA1aDJYSVQwSEd2N29yTG5SUzNzald5RDI1VEp6ek5ZcHQzUXRIS180REFEVzRUbk9aODdzVGR2MTJiNnVzMVJMZWo2ZlBjSlRBT2RScnFfNkJSZnRvSUhPUHBIN29HVkR6Y2RxRTIwdEprVUtLMkU4S2NKUEdYdDZrWFVxS25rSzA1czZSWVhvNjY0ZkNkODUzeVVQUlpWYml3TDA2aVRHZWRtUXpqdXhqUkltYktObFI0bTVQcmp1eGNab0dFREgxSVNQ0gH6AUFVX3lxTE5PZzdaV2IyOC1ZaDBLdHN1elhObjJUd2dtNzBjNHAyeDlZY1oyZEZhTG45eWhIcDNKa0hRbTI4OC1VdjZXZ3cydWlYN2Z6TkZLY1ZVUThpM2E0VjVEZ1lHOWVrVkpRYnV2aGNIeWt1NUd2M2NGZDhfYnJzTmR6Y0NHbFU4YXVELUxNSVVaSy1nQUpETUpkalAxRzBBYXdNYUlyXzNYdWtlSlp1S19xS3ViNDF4QTVwUHQwTkxDdFpuRWN1V2s3azlDUEpNVzY1V29aUHNOdHV5UXhINW5BXzRNN1gwbVdYSE9xTGtRbUJoR2lRSzBrWnNSQWc?oc=5",
+     "source": "The Times of India"
+    },
+    {
+     "n": 25,
+     "title": "Kioxia Slips 7.7% as Chinese DRAM Breakthrough Rattles Memory Stocks",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN3pGTXI5Sm45dVFXZWlpa2dfNVp2Tko1SDcyVldvbUNRTUJRMmJ3Yjlkd1QxRE5kZVFyeTQxX2E3R3g2NWdGdVduc09OY1BFdVZKZTh4WTNLRWlUeFRHXzJickxjUmZhUTF6MWxZRDhOUktINzd5Vjl5ZjFYZ1ZuTmlBV3lDVXZKNXA4TEZTUUIwWHNOMmVsT0pnRkRvcWk2YjJ2d0NsN3NMYUVqcW1DY2ExdXAwWDZDd21ZbFNWR1p5d2JNeE5teTBnYm5Ycng2dHQ2UWItTQ?oc=5",
+     "source": "ad-hoc-news.de"
+    },
+    {
+     "n": 11,
+     "title": "What will happen to Samsung Electronics and SK hynix shares on Monday? ... Another “China DeepSeek shock” is said to be on the way",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lUnViNDFpOHB0cVh2RV81M2h6eG93UlpsbnZram9scDVuaUFfdmpZcjF0RWVCM1R3WUZ3Z25RWndJQk1yUkdrVXgwUlNTMnJPSi00?oc=5",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "title": "韓國記憶體股遭外資賣壓",
+   "detail": "外資賣出韓國晶片股84億美元，三星、SK海力士單週跌幅為金融海嘯以來最大。SKHY ADR仍有43%溢價，波動大。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 1,
+     "title": "Foreign Investors Dump $8.4 Billion in Korean Chip Stocks; Samsung, SK Hynix Post Biggest Weekly Plunge Since Global Financial Crisis",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50cTRwN205Wkx3eGVKUFp1a0tnTXZPWDJ1WC0zbU5jNElLUWlZYTlTaEpTNzBDVWJZNGVQaWZtUGdaYTNSdlg0OTZaNEh0ZEIxaHh3NTdzNWFiaUdqNGZPdmhBdEpnR2NRV0ZNRFAxc3h5TFFVNmc?oc=5",
+     "source": "BigGo Finance"
     },
     {
      "n": 2,
-     "title": "標普暗藏「怪獸級牛市」！避開AI燒錢股 避險基金經理看好這些產業",
-     "url": "https://news.cnyes.com/news/id/6631653",
-     "source": "鉅亨網"
+     "title": "美股AI概念股永续合约凌晨出现急跌，美光、SK海力士跌超6%",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZcnBQTWN0M0U4bEs1WW5walpSRTNQdHh0c3VtdkpoZ3hhYjY0OVJjZ1k2cjdkc0FFc3ZoX0JUY2JaZUJFN3VhRE5nZ2lvejBJNkNwQVRyQko3M2VneDByaTRjWFMwdw?oc=5",
+     "source": "TradingView"
+    },
+    {
+     "n": 3,
+     "title": "SK Hynix Bulls and Bears Dig In After a 24% Week Leaves the Chipmaker at 1,272,000 KRW",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX3N1VVl5cDNNTV90MjdCcC1mTTdWWTBWMlZUeGRUYmpEcVdMUkI3aXUxeFBpVnUxOVNjc25aaWdSUUtQRnR3MlJfY3l6eF9LaFdzcnBEcTQtTXhNaFZsaG1VM2pEb09TalEySERIaUdfNlAtWk1TMmRKQ1ZiWGFCcGhqNlJCV01jNjd3TG9NVmZLNUwwbW80ZjRGd0xpUTYxS3lHUENXUmdONjd3MjZRV3VvekI3YkVBUUF3TS1pZ1R6cUZyc3hZYTFCSU5JVVNReXFfNQ?oc=5",
+     "source": "ad-hoc-news.de"
+    }
+   ]
+  },
+  {
+   "title": "輝達HBM與台積電3奈米合作消息",
+   "detail": "韓媒指三星HBM基礎晶粒將依輝達要求採台積電3奈米，記憶體廠分工可能調整，屬正面但尚待官方證實。",
+   "impact": "中性",
+   "sources": [
+    {
+     "n": 14,
+     "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTGNMUXF2dV9QUjk4eThjcWVPaVBLYzc2c0NUaUN4UUVMcVZTSERiMDE5VXp0NDdoVFpuS2E0TGZoUnBrRTExcnZDRlJia1VNcU40SUxQcE1y?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "n": 15,
+     "title": "傳輝達要求自家 HBM 基礎晶粒 須用台積製程 三星配合",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aa2JEY0xYLVpvczR6cldfaURjaGJkN2JBel9lV2RWRV8zUkZ4WklYOW15TDd4bmlSNmpVWVNYcWFWMTNoczFxQ1VGTnhoS2FQLVJPRVNJMXhlUdIBX0FVX3lxTE1UaWlITVdDSjFISTZnMWEyT3NScTRydHoxTHBINFJPamJzMGpnM3YtejM1enYteC1vU0J1bDlhXzZTOFFBY0d1RTZ5dzZsLUJnckw4UjliZmYyWE5jV2hB?oc=5",
+     "source": "經濟日報"
+    },
+    {
+     "n": 17,
+     "title": "韓媒：三星應輝達要求下一代HBM基礎晶粒採台積電3奈米| 國際",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvOFROTGswVEk1dmN6SGw2dmpRM1NwUGp6WWNkZ3N1eHFpNlhrM2ZrX2RTcWNHYmtpbVpEWTkxZHgzeHhWNk0xUk1EckVRVF9ic1pRU3pEc0ZjTkw1cDlZ?oc=5",
+     "source": "中央社 CNA"
+    },
+    {
+     "n": 24,
+     "title": "重磅合作傳輝達指定三星HBM底層晶片採台積電3奈米製程- 國際",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yZ3pSbFNxVWtpSjRkVXRfeVlybnNCOXk0WUtxc2tmTnFyV1M5Q2k0dUxmYjRnc1VPR2NSZGhYdHZkbHluaFoydi0xVVptNE1wZ1hoSllMWjhmRXh2bGkw?oc=5",
+     "source": "工商時報"
     }
    ]
   }
@@ -132,95 +150,104 @@
  "holdings": [
   {
    "symbol": "SKHY",
-   "note": "收盤-6.58%，記憶體重挫與市場賣壓是主因；10/27將公布財報，ADR溢價仍高。",
+   "note": "收跌6.58%，受韓股外資賣壓、中國DRAM與AI泡沫疑慮拖累；10/27財報與Solidigm IPO消息為變數。",
    "sources": [
     {
-     "n": 6,
-     "title": "記憶體全線崩跌「海力士狂瀉24%」！法人點名南亞科Q4毛利率有上升空間 DRAM供給仍偏緊",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0TjJLY3JFYnpObmVrQUtpZWRoQnlmTVVHXzZkdDkya3ZJNFlJRTZYR0Rqa3NtMEc1M2VZSFJKVXI4VFFIZVdxc2pPUQ?oc=5",
-     "source": "FTNN新聞"
+     "n": 1,
+     "title": "Foreign Investors Dump $8.4 Billion in Korean Chip Stocks; Samsung, SK Hynix Post Biggest Weekly Plunge Since Global Financial Crisis",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50cTRwN205Wkx3eGVKUFp1a0tnTXZPWDJ1WC0zbU5jNElLUWlZYTlTaEpTNzBDVWJZNGVQaWZtUGdaYTNSdlg0OTZaNEh0ZEIxaHh3NTdzNWFiaUdqNGZPdmhBdEpnR2NRV0ZNRFAxc3h5TFFVNmc?oc=5",
+     "source": "BigGo Finance"
     },
     {
-     "n": 16,
-     "title": "全球半導體股遭血洗！市值「4天蒸發逾32.4兆」 三星、SK海力士成重災區隱憂曝光",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1bTZpcHZhMi1UTWNYbjBJTklwd3QtWUV4NUJXa2JNUmg1NmJNcHF1UktvRkU2ZFZUOFRPSmFta21lQ1Y0Q0hXQXBWZw?oc=5",
-     "source": "FTNN新聞"
-    },
-    {
-     "n": 4,
-     "title": "美股AI概念股永续合约凌晨出现急跌，美光、SK海力士跌超6%",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZcnBQTWN0M0U4bEs1WW5walpSRTNQdHh0c3VtdkpoZ3hhYjY0OVJjZ1k2cjdkc0FFc3ZoX0JUY2JaZUJFN3VhRE5nZ2lvejBJNkNwQVRyQko3M2VneDByaTRjWFMwdw?oc=5",
-     "source": "TradingView"
-    }
-   ]
-  },
-  {
-   "symbol": "DRAM",
-   "note": "記憶體ETF收盤-5.84%，隨美光、海力士等成分股同步下挫。",
-   "sources": [
-    {
-     "n": 4,
+     "n": 2,
      "title": "美股AI概念股永续合约凌晨出现急跌，美光、SK海力士跌超6%",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZcnBQTWN0M0U4bEs1WW5walpSRTNQdHh0c3VtdkpoZ3hhYjY0OVJjZ1k2cjdkc0FFc3ZoX0JUY2JaZUJFN3VhRE5nZ2lvejBJNkNwQVRyQko3M2VneDByaTRjWFMwdw?oc=5",
      "source": "TradingView"
     },
     {
      "n": 36,
-     "title": "美光VS晟碟，記憶體族群集體下跌，誰更值得長期投資？",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEQwOXNDalRSMGlHa1BXTXcxZG90cGJKOEQtRW54eTlOZmlETDJuVVhwbnBOTnJTUlNmODVmbmh6cjBjWnJrUzdvR3JDa09kTEtTa3dzV21aU3RuNmRHZ0lJNzJVckZyZE1zOWp0OVBacmxlaXR4VHplcGl0bjlzWWtzN1RDaGttd2hvOHJzNVcySE42WktvbWs5RHlTNE1tc1VjTjJnSG95NTJObzIyMDRaTm41bmZ4?oc=5",
-     "source": "TradingKey"
+     "title": "Solidigm IPO Sparks SK Hynix Shareholder Concerns",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOTFoU0l0QVQyd1Yxam9uSkZ1RmlYc0pOTlV2WWNFdTZUSlB6dUFSV0R2eGVqQUl1b090U2w3YmplSl80MlBfOFZDeU5XMnBjMXNHQTRUUlVtUm1TQUpPWnNWZEVYOEt4V0ZWcERZQVo2RzlPRlVwSWFsbE1CS2k5VlpEbEpoTTZaenR6Vm9B?oc=5",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "symbol": "DRAM",
+   "note": "收跌5.84%，Benzinga稱出現單日最大資金流出，記憶體族群情緒偏弱。",
+   "sources": [
+    {
+     "n": 35,
+     "title": "DRAM ETF Records Biggest Daily Outflow as AI Bubble Fears Rise",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHctUE5UTW9IbVJPMlFqMlV6VHlCdFpKeUdxUDJublowbHgyeHpxbmd2SUpTRUd3NExHdWJYQUdUZ3FjckUzLUxQMDBpUk4ycGxPTjY1WHVnRFo5U1hzWk5vMVdPSy13RFNoVHRaMUFwZlVVM3FPcE9rb2lFbEx1Ym9jSjN4dnRsTEQ1bWFOSWxrRnU1dEM0SVNQMGJrMllKM0FyVEI5ekR1bHhBei1ITUtyaEw5OXBkV1dj?oc=5",
+     "source": "Benzinga"
+    },
+    {
+     "n": 25,
+     "title": "Kioxia Slips 7.7% as Chinese DRAM Breakthrough Rattles Memory Stocks",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN3pGTXI5Sm45dVFXZWlpa2dfNVp2Tko1SDcyVldvbUNRTUJRMmJ3Yjlkd1QxRE5kZVFyeTQxX2E3R3g2NWdGdVduc09OY1BFdVZKZTh4WTNLRWlUeFRHXzJickxjUmZhUTF6MWxZRDhOUktINzd5Vjl5ZjFYZ1ZuTmlBV3lDVXZKNXA4TEZTUUIwWHNOMmVsT0pnRkRvcWk2YjJ2d0NsN3NMYUVqcW1DY2ExdXAwWDZDd21ZbFNWR1p5d2JNeE5teTBnYm5Ycng2dHQ2UWItTQ?oc=5",
+     "source": "ad-hoc-news.de"
     }
    ]
   },
   {
    "symbol": "NOK",
-   "note": "收盤-4.49%，報導稱屬科技股整體賣壓，本週為5年來最差；10/22公布財報。",
+   "note": "收跌4.49%，新聞稱隨類股一同下殺；10/22盤前公布財報。",
    "sources": [
-    {
-     "n": 15,
-     "title": "NOK Stock Faces Worst Week In 5 Years – But Retail Traders Are Not Giving Up On Nokia’s 'AI RAN Technology' Push",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPalRaWDM2Q216VHFBV1MydzRYRmNiNXBZa1dsbThGUUtPZ3dlWTM5SmJvY2hZMVBLYjJvc2kyY3JYcGo1SXlPZktOZm43cHlfYVl5VlNEelV0UmtqeXJLc1EtQUNxVC1fdHFlaVpDeGg5UlJCTXRPejV1SmZOck5tRnhPS3ZuOXhEUGJob29BSGFCLUlMakRIc0hEME15M0RSWEdodTJvcmlxSjEwbVQ0X21GTDRWR2xKSWRBaU52NXh2cG8wNER4V2ZNLTJwMDVjUzNxd2N1YVI5VUtLUkVtcms5NXBBenRISTFsbEZOWVcybDZaQzQxc3hTdGNmOTMxWFE?oc=5",
-     "source": "Stocktwits"
-    },
-    {
-     "n": 38,
-     "title": "Nokia's 4.5% Pullback Belongs to the Tech Tape, Not the Boardroom",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNTkxRG9tczdhZTBPNHlxeXVIYk0wVXlMa29QMm5VM3FuWjg1d09IallNblFxU1Z5SEhNWmo5UG01RkZtQU1oM3VrZkFqaW81Q3dZZDdudUF5ZFRoam1jNUxZUFkwekZxTnpxY3czaDZkYU1VR09objdoVUNuZHQ5SlNCU2NzVzQxUmhyVlNyNkxJY05VeGYtVGc4STluTF9pcGx5WGNYdTR6RDVraVNFTTdhN3pMWUdKMTlqRERnWHRHVjVRTnVrMDRhQ1BvR3JIQ0Rxd3RxTnZ5dE0?oc=5",
-     "source": "ad-hoc-news.de"
-    },
     {
      "n": 20,
      "title": "Nokia's Share Grants, Campus Edge Sale and Fiber Launch Cut Through a Sector-Wide Selloff",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMDZRUVNDNVF5dHcxUEFyVlJGWldZQjlEeEJUUkI3cnJVZXRiNEM0WGZRU1RTckRJYW84NmpTc1JmeUtORTAtQWlfSmZNWjBRZVMtUDB5eGs5WHc0SWZtVlUtUVJYd2xrMkxLdUhrcnNfS3hIRG9ndVduY3BpMHpyaGYtOHFSZzVqMFFKQ3ZGTUxNTGtucEFseHZtMkpfUTFHUXpYaDZxZXhOOGp2SkxJYTRDaWl4dkVjQmFHcHJFcFlUNkNkZnVSLTlfbkdZUF9sdUt0WlQ2Zw?oc=5",
+     "source": "ad-hoc-news.de"
+    },
+    {
+     "n": 38,
+     "title": "Nokia stock awaits October 22 report as company sets publication date",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcVhEaXVjdEJOdEtUZDhlbk0wSXR4ZXczVW1Pc1BRbDVqYUQwZ1V6SEFjOTJ2M0t5bi1XV3prZ1Rpb0ZQYVRab3hiSm5oRjRHd2NpUjJ6bEtBVzd3NThYWGpsVlhZWVhCdTQ0QzJvSXRKUHNScDJEU0t3SUxQb0d2OXczdUhLRnl1SkdobzdVdXBNUExHanVadnhJa29fc0dzVlVMRkhEbXhsaFIxSzR5WE9PcTg2S3JSVE1RR1FXLWx5cUtQNWZBQ3pxT1I?oc=5",
      "source": "ad-hoc-news.de"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "本批新聞無直接相關消息，收盤僅小跌0.35%。",
-   "sources": []
+   "note": "僅跌0.35%相對抗跌；有分析比較其與IonQ的前景，近期無直接利空新聞。",
+   "sources": [
+    {
+     "n": 16,
+     "title": "Quantinuum vs. IonQ: Why One Major Wall Street Firm Says This Stock Is the Better Bet",
+     "url": "https://www.fool.com/investing/2026/10/18/quantinuum-vs-ionq-why-wall-street-firm-better/?.tsrc=rss",
+     "source": "Yahoo Finance"
+    }
+   ]
   }
  ],
  "watch_next": [
   {
-   "when": "10/21（週三）",
-   "what": "韓國前20天出口初值；LRCX、META盤後公布財報"
+   "when": "10/19 週一開盤（亞股）",
+   "what": "觀察韓國三星、SK海力士與日本Kioxia開盤反應"
   },
   {
-   "when": "10/22（週四）凌晨至晚間",
-   "what": "NOK盤前財報；20:30美國初領失業救濟金"
+   "when": "10/21 韓國前20天出口初值",
+   "what": "檢視半導體出口動能"
   },
   {
-   "when": "10/23（週五）21:45–22:00",
-   "what": "美國PMI初值、密大消費者信心與通膨預期終值"
+   "when": "10/22 凌晨（美東10/21盤後）",
+   "what": "科林研發、Meta公布財報"
+  },
+  {
+   "when": "10/22 20:30",
+   "what": "美國初領失業救濟金（預期200K）"
+  },
+  {
+   "when": "10/22 盤前（台灣時間晚間）",
+   "what": "諾基亞公布財報"
   }
  ],
- "generated_at": "2026-10-18T05:12:03Z",
+ "generated_at": "2026-10-18T16:09:38Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5864,
-  "output_tokens": 1122
+  "input_tokens": 5854,
+  "output_tokens": 1294
  }
 }
