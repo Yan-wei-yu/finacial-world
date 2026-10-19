@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T16:09:38Z",
+ "generated_at": "2026-10-19T05:23:50Z",
  "upcoming": [
   {
    "symbol": "LRCX",
@@ -53,7 +53,7 @@
    "eps_est": 6.25287,
    "eps_low": 5.7586,
    "eps_high": 6.772,
-   "rev_est": 99676980720000.0,
+   "rev_est": 99594729060000.0,
    "rev_currency": "KRW",
    "is_holding": true
   },
