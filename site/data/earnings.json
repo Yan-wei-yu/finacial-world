@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T18:51:22Z",
+ "generated_at": "2026-10-20T05:23:46Z",
  "upcoming": [
   {
    "symbol": "LRCX",
@@ -53,7 +53,7 @@
    "eps_est": 6.25287,
    "eps_low": 5.7586,
    "eps_high": 6.772,
-   "rev_est": 99594729060000.0,
+   "rev_est": 99678538450000.0,
    "rev_currency": "KRW",
    "is_holding": true
   },
@@ -64,10 +64,10 @@
    "date": "2026-10-28",
    "datetime": "2026-10-28T06:00:00Z",
    "session": "盤前",
-   "eps_est": 13542.434,
+   "eps_est": 13710.027,
    "eps_low": 11793.08,
    "eps_high": 14955.0,
-   "rev_est": 196550856670000.0,
+   "rev_est": 196404689890000.0,
    "rev_currency": "KRW",
    "is_holding": false
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T18:51:22Z",
+ "generated_at": "2026-10-20T05:23:46Z",
  "holdings": [
   {
    "symbol": "NOK",
@@ -170,14 +170,18 @@
   "NOK": {
    "symbol": "NOK",
    "name": "Nokia Corporation Sponsored",
-   "price": 9.165,
+   "price": 9.08,
    "prev_close": 9.14,
-   "change": 0.025,
-   "change_pct": 0.27,
+   "change": -0.06,
+   "change_pct": -0.66,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-10-19T18:51:19Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 9.092,
+    "change_pct": 0.13
+   },
+   "as_of": "2026-10-19T20:00:03Z",
    "high_52w": 17.45,
    "low_52w": 5.45,
    "history": [
@@ -439,7 +443,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 9.165
+     "c": 9.08
     }
    ],
    "source": "info",
@@ -448,14 +452,18 @@
   "DRAM": {
    "symbol": "DRAM",
    "name": "Roundhill Memory ETF",
-   "price": 48.4101,
+   "price": 48.33,
    "prev_close": 46.45,
-   "change": 1.9601,
-   "change_pct": 4.22,
+   "change": 1.88,
+   "change_pct": 4.05,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-10-19T18:51:20Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 48.33,
+    "change_pct": 0.0
+   },
+   "as_of": "2026-10-19T20:00:01Z",
    "high_52w": 81.34,
    "low_52w": 26.14,
    "history": [
@@ -717,7 +725,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 48.4101
+     "c": 48.33
     }
    ],
    "source": "info",
@@ -726,14 +734,18 @@
   "QNT": {
    "symbol": "QNT",
    "name": "Quantinuum Inc.",
-   "price": 35.13,
+   "price": 34.93,
    "prev_close": 36.55,
-   "change": -1.42,
-   "change_pct": -3.89,
+   "change": -1.62,
+   "change_pct": -4.43,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-10-19T18:51:18Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 35.37,
+    "change_pct": 1.26
+   },
+   "as_of": "2026-10-19T20:00:00Z",
    "high_52w": 86.79,
    "low_52w": 33.02,
    "history": [
@@ -995,7 +1007,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 35.13
+     "c": 34.93
     }
    ],
    "source": "info",
@@ -1004,14 +1016,18 @@
   "SKHY": {
    "symbol": "SKHY",
    "name": "SK hynix Inc.",
-   "price": 143.415,
+   "price": 142.87,
    "prev_close": 136.49,
-   "change": 6.925,
-   "change_pct": 5.07,
+   "change": 6.38,
+   "change_pct": 4.67,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-10-19T18:51:19Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 142.5,
+    "change_pct": -0.26
+   },
+   "as_of": "2026-10-19T20:00:01Z",
    "high_52w": 199.87,
    "low_52w": 124.8,
    "history": [
@@ -1273,7 +1289,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 143.415
+     "c": 142.87
     }
    ],
    "source": "info",
@@ -1282,14 +1298,14 @@
   "^IXIC": {
    "symbol": "^IXIC",
    "name": "NASDAQ Composite",
-   "price": 26463.525,
+   "price": 26430.887,
    "prev_close": 26140.033,
-   "change": 323.492,
-   "change_pct": 1.24,
+   "change": 290.854,
+   "change_pct": 1.11,
    "currency": "USD",
-   "market_state": "REGULAR",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-10-19T18:51:21Z",
+   "as_of": "2026-10-19T21:15:59Z",
    "high_52w": 27722.75,
    "low_52w": 20690.25,
    "history": [
@@ -1551,7 +1567,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 26463.5254
+     "c": 26430.8906
     }
    ],
    "source": "info",
@@ -1560,14 +1576,14 @@
   "^SOX": {
    "symbol": "^SOX",
    "name": "PHLX Semiconductor",
-   "price": 11355.671,
+   "price": 11316.343,
    "prev_close": 11137.287,
-   "change": 218.384,
-   "change_pct": 1.96,
+   "change": 179.056,
+   "change_pct": 1.61,
    "currency": "USD",
-   "market_state": "REGULAR",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-10-19T18:51:24Z",
+   "as_of": "2026-10-19T21:15:59Z",
    "high_52w": 14655.29,
    "low_52w": 6160.05,
    "history": [
@@ -1829,7 +1845,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 11355.7236
+     "c": 11316.3398
     }
    ],
    "source": "info",
@@ -1838,14 +1854,14 @@
   "^GSPC": {
    "symbol": "^GSPC",
    "name": "S&P 500",
-   "price": 7702.66,
+   "price": 7690.73,
    "prev_close": 7659.44,
-   "change": 43.22,
-   "change_pct": 0.56,
+   "change": 31.29,
+   "change_pct": 0.41,
    "currency": "USD",
-   "market_state": "REGULAR",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-10-19T18:51:23Z",
+   "as_of": "2026-10-19T20:44:14Z",
    "high_52w": 7844.52,
    "low_52w": 6316.91,
    "history": [
@@ -2107,7 +2123,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 7702.6602
+     "c": 7690.73
     }
    ],
    "source": "info",
@@ -2116,14 +2132,14 @@
   "NQ=F": {
    "symbol": "NQ=F",
    "name": "Nasdaq 100 Dec 26",
-   "price": 29752.0,
-   "prev_close": 29391.5,
-   "change": 360.5,
-   "change_pct": 1.23,
+   "price": 29653.25,
+   "prev_close": 29722.5,
+   "change": -69.25,
+   "change_pct": -0.23,
    "currency": "USD",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-10-19T18:41:23Z",
+   "as_of": "2026-10-20T05:13:44Z",
    "high_52w": 31616.5,
    "low_52w": 22961.5,
    "history": [
@@ -2385,7 +2401,11 @@
     },
     {
      "d": "2026-10-19",
-     "c": 29749.0
+     "c": 29722.5
+    },
+    {
+     "d": "2026-10-20",
+     "c": 29653.25
     }
    ],
    "source": "info",
@@ -2394,16 +2414,16 @@
   "^VIX": {
    "symbol": "^VIX",
    "name": "CBOE Volatility Index",
-   "price": 18.51,
+   "price": 18.44,
    "prev_close": 19.99,
-   "change": -1.48,
-   "change_pct": -7.4,
+   "change": -1.55,
+   "change_pct": -7.75,
    "currency": "USD",
-   "market_state": "REGULAR",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-10-19T18:36:16Z",
+   "as_of": "2026-10-19T20:15:01Z",
    "high_52w": 35.3,
-   "low_52w": 13.38,
+   "low_52w": 0.0,
    "history": [
     {
      "d": "2026-07-20",
@@ -2667,7 +2687,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 18.51
+     "c": 18.44
     }
    ],
    "source": "info",
@@ -2676,14 +2696,14 @@
   "^TNX": {
    "symbol": "^TNX",
    "name": "10-Year Bond",
-   "price": 5.129,
+   "price": 5.136,
    "prev_close": 5.098,
-   "change": 0.031,
-   "change_pct": 0.61,
+   "change": 0.038,
+   "change_pct": 0.75,
    "currency": "USD",
-   "market_state": "REGULAR",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-10-19T18:36:23Z",
+   "as_of": "2026-10-19T18:59:53Z",
    "high_52w": 5.364,
    "low_52w": 3.947,
    "history": [
@@ -2945,7 +2965,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 5.129
+     "c": 5.136
     }
    ],
    "source": "info",
@@ -2954,14 +2974,14 @@
   "DX-Y.NYB": {
    "symbol": "DX-Y.NYB",
    "name": "ICE US Dollar Index - Index - C",
-   "price": 101.98,
-   "prev_close": 101.837,
-   "change": 0.143,
-   "change_pct": 0.14,
+   "price": 101.787,
+   "prev_close": 101.98,
+   "change": -0.193,
+   "change_pct": -0.19,
    "currency": "USD",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-10-19T18:41:23Z",
+   "as_of": "2026-10-20T05:13:47Z",
    "high_52w": 102.95,
    "low_52w": 95.55,
    "history": [
@@ -3224,6 +3244,10 @@
     {
      "d": "2026-10-19",
      "c": 101.98
+    },
+    {
+     "d": "2026-10-20",
+     "c": 101.786
     }
    ],
    "source": "info",
@@ -3232,21 +3256,17 @@
   "TWD=X": {
    "symbol": "TWD=X",
    "name": "USD/TWD",
-   "price": 32.458,
-   "prev_close": 32.428,
-   "change": 0.03,
-   "change_pct": 0.09,
+   "price": 32.587,
+   "prev_close": 32.475,
+   "change": 0.112,
+   "change_pct": 0.34,
    "currency": "TWD",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-10-19T18:50:16Z",
+   "as_of": "2026-10-20T05:23:47Z",
    "high_52w": 32.769,
    "low_52w": 30.362,
    "history": [
-    {
-     "d": "2026-07-20",
-     "c": 32.313
-    },
     {
      "d": "2026-07-21",
      "c": 32.2759
@@ -3505,7 +3525,11 @@
     },
     {
      "d": "2026-10-19",
-     "c": 32.458
+     "c": 32.387
+    },
+    {
+     "d": "2026-10-20",
+     "c": 32.587
     }
    ],
    "source": "info",
@@ -3514,14 +3538,18 @@
   "TSM": {
    "symbol": "TSM",
    "name": "Taiwan Semiconductor Manufactur",
-   "price": 421.75,
+   "price": 420.22,
    "prev_close": 412.61,
-   "change": 9.14,
-   "change_pct": 2.22,
+   "change": 7.61,
+   "change_pct": 1.84,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-10-19T18:51:23Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 420.88,
+    "change_pct": 0.16
+   },
+   "as_of": "2026-10-19T20:00:02Z",
    "high_52w": 487.47,
    "low_52w": 266.82,
    "history": [
@@ -3783,7 +3811,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 421.7225
+     "c": 420.22
     }
    ],
    "source": "info",
@@ -3792,14 +3820,14 @@
   "2330.TW": {
    "symbol": "2330.TW",
    "name": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-   "price": 2420.0,
+   "price": 2400.0,
    "prev_close": 2420.0,
-   "change": 0.0,
-   "change_pct": 0.0,
+   "change": -20.0,
+   "change_pct": -0.83,
    "currency": "TWD",
-   "market_state": "CLOSED",
+   "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-10-19T05:30:06Z",
+   "as_of": "2026-10-20T05:03:46Z",
    "high_52w": 2590.0,
    "low_52w": 1375.0,
    "history": [
@@ -4054,6 +4082,10 @@
     {
      "d": "2026-10-19",
      "c": 2420.0
+    },
+    {
+     "d": "2026-10-20",
+     "c": 2400.0
     }
    ],
    "source": "info",
@@ -4062,16 +4094,16 @@
   "000660.KS": {
    "symbol": "000660.KS",
    "name": "SK hynix",
-   "price": 1277000.0,
-   "prev_close": 1272000.0,
-   "change": 5000.0,
-   "change_pct": 0.39,
+   "price": 1214000.0,
+   "prev_close": 1277000.0,
+   "change": -63000.0,
+   "change_pct": -4.93,
    "currency": "KRW",
-   "market_state": "CLOSED",
+   "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-10-19T06:30:08Z",
+   "as_of": "2026-10-20T05:03:48Z",
    "high_52w": 2987000.0,
-   "low_52w": 0.0,
+   "low_52w": 468000.0,
    "history": [
     {
      "d": "2026-07-20",
@@ -4316,6 +4348,10 @@
     {
      "d": "2026-10-19",
      "c": 1277000.0
+    },
+    {
+     "d": "2026-10-20",
+     "c": 1214000.0
     }
    ],
    "source": "info",
@@ -4324,21 +4360,17 @@
   "KRW=X": {
    "symbol": "KRW=X",
    "name": "USD/KRW",
-   "price": 1331.51,
-   "prev_close": 1334.2,
-   "change": -2.69,
-   "change_pct": -0.2,
+   "price": 1328.07,
+   "prev_close": 1332.85,
+   "change": -4.78,
+   "change_pct": -0.36,
    "currency": "KRW",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-10-19T18:51:23Z",
+   "as_of": "2026-10-20T05:23:48Z",
    "high_52w": 1587.7,
    "low_52w": 1322.42,
    "history": [
-    {
-     "d": "2026-07-20",
-     "c": 1487.39
-    },
     {
      "d": "2026-07-21",
      "c": 1475.01
@@ -4597,7 +4629,11 @@
     },
     {
      "d": "2026-10-19",
-     "c": 1331.51
+     "c": 1333.4301
+    },
+    {
+     "d": "2026-10-20",
+     "c": 1328.0601
     }
    ],
    "source": "info",
@@ -4606,14 +4642,18 @@
   "NVDA": {
    "symbol": "NVDA",
    "name": "NVIDIA Corporation",
-   "price": 217.355,
+   "price": 217.09,
    "prev_close": 214.13,
-   "change": 3.225,
-   "change_pct": 1.51,
+   "change": 2.96,
+   "change_pct": 1.38,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-10-19T18:51:24Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 217.18,
+    "change_pct": 0.04
+   },
+   "as_of": "2026-10-19T20:00:01Z",
    "high_52w": 243.37,
    "low_52w": 164.27,
    "history": [
@@ -4875,7 +4915,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 217.36
+     "c": 217.09
     }
    ],
    "source": "info",
@@ -4884,14 +4924,18 @@
   "MU": {
    "symbol": "MU",
    "name": "Micron Technology, Inc.",
-   "price": 906.94,
+   "price": 904.9,
    "prev_close": 878.84,
-   "change": 28.1,
-   "change_pct": 3.2,
+   "change": 26.06,
+   "change_pct": 2.97,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-10-19T18:51:24Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 905.26,
+    "change_pct": 0.04
+   },
+   "as_of": "2026-10-19T20:00:00Z",
    "high_52w": 1255.0,
    "low_52w": 192.4,
    "history": [
@@ -5153,7 +5197,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 906.94
+     "c": 904.9
     }
    ],
    "source": "info",
@@ -5162,14 +5206,18 @@
   "SMH": {
    "symbol": "SMH",
    "name": "VanEck Semiconductor ETF",
-   "price": 550.2421,
+   "price": 548.46,
    "prev_close": 539.79,
-   "change": 10.4521,
-   "change_pct": 1.94,
+   "change": 8.67,
+   "change_pct": 1.61,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-10-19T18:51:22Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 548.6907,
+    "change_pct": 0.04
+   },
+   "as_of": "2026-10-19T20:00:01Z",
    "high_52w": 671.83,
    "low_52w": 315.05,
    "history": [
@@ -5431,7 +5479,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 550.25
+     "c": 548.46
     }
    ],
    "source": "info",
@@ -5443,10 +5491,10 @@
    "id": "adr-SKHY",
    "label": "SK 海力士 ADR 溢價",
    "note": "SKHY 相對首爾股價（1 ADR = 0.1 股）",
-   "value": 49.54,
+   "value": 56.29,
    "unit": "%",
-   "adr_price": 143.415,
-   "implied_price": 95.91,
+   "adr_price": 142.87,
+   "implied_price": 91.41,
    "history": [
     {
      "d": "2026-09-01",
@@ -5566,7 +5614,7 @@
     },
     {
      "d": "2026-10-19",
-     "c": 49.54
+     "c": 49.18
     }
    ]
   },
@@ -5574,10 +5622,10 @@
    "id": "adr-TSM",
    "label": "台積電 ADR 溢價",
    "note": "TSM 相對台股（1 ADR = 5 股）",
-   "value": 13.13,
+   "value": 14.11,
    "unit": "%",
-   "adr_price": 421.75,
-   "implied_price": 372.79,
+   "adr_price": 420.22,
+   "implied_price": 368.25,
    "history": [
     {
      "d": "2026-09-02",
@@ -5697,13 +5745,13 @@
     },
     {
      "d": "2026-10-19",
-     "c": 13.13
+     "c": 12.48
     }
    ]
   }
  ],
  "fx": {
-  "USDTWD": 32.458
+  "USDTWD": 32.587
  },
  "errors": []
 }
