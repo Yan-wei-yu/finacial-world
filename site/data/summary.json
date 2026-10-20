@@ -1,83 +1,89 @@
 {
- "headline": "記憶體股反彈帶動費半大漲，但10年債逾5%壓抑續航",
+ "headline": "美股盤中逆轉小漲，AI疑慮與高殖利率仍壓抑費半",
  "mood": "中性",
- "mood_reason": "AI與記憶體股止跌反彈，但美債殖利率高檔、亞股重挫且那指期貨小跌",
+ "mood_reason": "指數小漲、VIX回落，但美債10年5.13%且AI疑慮未除",
  "key_points": [
   {
-   "title": "記憶體股強彈，費半收漲1.61%",
-   "detail": "前週賣壓後，美光漲約3%至4%、SanDisk漲6%至7%、SK海力士ADR漲約5%，AI支出疑慮降溫，帶動費半與那指反彈。",
+   "title": "財報與油價回落帶動盤中逆轉",
+   "detail": "早盤因AI疑慮與油價回升開低，之後企業財報助攻、油價下挫，道瓊盤中一度漲逾700點，那指收漲0.19%、費半漲0.21%。",
    "impact": "利多",
    "sources": [
     {
+     "n": 1,
+     "title": "美股逆轉秀！企業財報助攻、國際油價跳水 道瓊盤中一度飆逾700點",
+     "url": "https://news.cnyes.com/news/id/6634532",
+     "source": "鉅亨網"
+    },
+    {
      "n": 7,
-     "title": "SK hynix Jumps 5%, Sandisk Up 6%, Micron Up 3% as Memory Stocks Bounce Back From Selloff",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDJYSnF2Z1RKU0xQZnVFUGUtdzhFUk1NMEoxa3hqSm9nSWZvWFdvNDd5MFAzYWttYkV6ajZaOXZRdEhXX0VuVG1HOWs2eHk2SDBwTUpjLWJmWUZxTndDYVZTWUpMZ2YtcHJ5S2otV01sSWJ4b3lyQ2lNcUhPRzN3dVIxWm4wZndQT3A1bXRqQzJCczg?oc=5",
-     "source": "Yahoo Finance"
+     "title": "〈美股早盤〉反彈又卡關！AI疑慮重燃、油價回升再添壓 主要指數開低",
+     "url": "https://news.cnyes.com/news/id/6634395",
+     "source": "鉅亨網"
     },
     {
-     "n": 9,
-     "title": "Memory chip stocks rebound as AI spending fears ease, with Micron up 4%, Sandisk 7%, and SK Hynix 5%.",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUWJxZWJLOTdkX0VsQzZlZlV6bWs5dGhKN0pzR1dqR0xYSTcxcWthMktLVVcxNGIxV0kydHJXNTl6SWU3Q0k5WHhXRkJVZW44aUZtcFczRkxKYzhlbjBaZS1DMkxIY1QyRGdtZDJOaGFKSkU5dTBfM29XUU1rcEROa2pFcHNMYlRhWWRFSUVn?oc=5",
-     "source": "Pluang"
-    },
-    {
-     "n": 10,
-     "title": "Micron, SanDisk and SK Hynix Stocks Rise After Last Week's Selloff",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWw0SnJVU0pfTjNIT3Y4bTZXaWRWdVZtQ1pNVHBNSnR6UFFPc3JNWU91Q0MzeXYxQmt5WWR3RHVfTkpTSUdLamdWU01QSEtoVXk3cjRRQnBTaXpibmRBWjNJRk9iN3g1OE0xNzFoZzR5RHBUWWhUTHJuSWgzRzBIQ3hQdG1YeFJxc3E0c243LVV1b0Fob0JJUTBrdUVGVmpVdE5vNGRMNDZKTTh2eUkyTzNfbVpldTBOTzVvTElVek5fbUE?oc=5",
-     "source": "TradingView"
-    },
-    {
-     "n": 6,
-     "title": "U.S. Semiconductor Shares Rally as Intel Gains More Than 6%; SK hynix Rises 6%",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ieDk2a0VEZ0JfamxFVExzMDExVENxWWRzNFl5ZzluYk54X1FTU2dhNi1LV1JKTi1pYnhZNWV4ckpRWTRBOFJaVDAtbGZ2TUJkY0VOa1RzWkZVQQ?oc=5",
-     "source": "www.tokenpost.com"
+     "n": 13,
+     "title": "油價飆升加劇通膨疑慮 美股盤前齊跌、AI科技股承壓 | 民視新聞網",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vYlE3RjlPZXBtLTJUeU93ZWk0NWxhaHRGbldaVEN6TVR3M2xoQll4Mk1ZTExQckF0bF9DTE5OX3hHMkRTTzBqelBZRXZ1OE1rTEZfM2JB?oc=5",
+     "source": "LINE TODAY"
     }
    ]
   },
   {
-   "title": "美債殖利率逾5%，反彈恐受壓",
-   "detail": "10年期美債殖利率報5.14%，財政部融資計畫令長債再升。多篇報導指高殖利率與融資成本，可能限制AI成長股續漲。",
+   "title": "殖利率逾5%，成長股承壓",
+   "detail": "美債10年殖利率仍在5.13%高檔，長債殖利率再升、融資成本上升，市場擔憂AI成長股賣壓未結束。",
    "impact": "利空",
    "sources": [
     {
-     "n": 1,
+     "n": 4,
      "title": "AI成長股賣壓恐未結束 美債殖利率逾5%、融資成本成雙重壓力",
      "url": "https://news.cnyes.com/news/id/6633831",
      "source": "鉅亨網"
     },
     {
-     "n": 4,
-     "title": "美股兩大力量死鬥！美債殖利率狂飆 AI股賺翻也難漲",
-     "url": "https://news.cnyes.com/news/id/6633068",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 33,
+     "n": 38,
      "title": "美長債殖利率再升 財政部融資計畫令華爾街重新繃緊神經",
      "url": "https://news.cnyes.com/news/id/6633894",
      "source": "鉅亨網"
     },
     {
-     "n": 36,
+     "n": 40,
      "title": "AI stocks rebound on Wall Street but Treasury yields could pour cold water on the recovery",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNREZqaGNFTnJhSm9teXFUZVY3YTdEc2gzTlpxc0lqMGJUVVlMTkhFNXpQYzlIVTRMQ0J6b0d0WDlzM1l2cmxOdFNkd2xNdlBnTkNiTjhqdGpZckhSWkpuck11TXlKTFU0X1d1QjdjYmVUc18wU3JOX19Kc19XcmNhbjhfUlZza0NvblVaamV0OHEwVHAyNkVZZnBvOU5SWVNyZ09qbWEyT0gyVXBCbUQxY1c4cGRabEhuWExfVTNua0N2UQ?oc=5",
      "source": "investingLive"
+    },
+    {
+     "n": 39,
+     "title": "Yes, the Fed Can Kill the AI Boom",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaG5tcWhGWmV0bXc2ak9ETmVQdC1QTmM3Mmx0SEt6TkhrN0w3WVY2TDZ4MzlOcnZFWDdkeDFyWmNCdUpIRERqUnFJWFptcFNLUTlkNFI5eHNhenA1SjZteHhodWNDLWZPMmt3TFBvZGxPbkhwQmRZYm5ma1pDMnB2aXlweHBSdw?oc=5",
+     "source": "WSJ"
     }
    ]
   },
   {
-   "title": "亞股重挫，韓股單日一度大跌",
-   "detail": "受AI疑慮影響，KOSPI下跌約4%至5%，SK海力士一度跌7%。SK海力士ADR溢價達56.29%，須留意波動。",
+   "title": "亞洲記憶體股劇烈震盪",
+   "detail": "AI支出疑慮使KOSPI一度重挫、SK海力士ADR盤前跌近4%；SK海力士一週跌11%，美光、SanDisk也受牽動。",
    "impact": "利空",
    "sources": [
     {
-     "n": 5,
+     "n": 8,
+     "title": "SK Hynix Sinks 4% as Seoul Selloff Revives AI Spending Fears; SanDisk Drops 3%, Micron Eases",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmNJeWEzRmp5QzkyeTJ5SVB4cjZHd2RaSzRtSTJ6SDNkVmJXNmJwUDJMT1pnZVZZQVk4YVBpVWpVUzJuOGxaU3JCTGRrLUJYdU9ZODd2SjZuNHZiWHlLZW1Zak5RVC04VDNTSkQ2dnNNVVVqaV9OQU1sVmIxM05XdU1KaTZnbnJWODhEVlJIWUE?oc=5",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 10,
+     "title": "US AI Stocks Weaken in Premarket; SK Hynix ADR Drops 3.95%",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MbFFzdHdYRDA1enNYem5mbW91STg2WUM4ZW1DUnRoUVNfUm9vbjVucUoxQ3JCZTA3SnNVYzhRSHdNTFM1TzlLdC1GbFhQRGh3a0owbA?oc=5",
+     "source": "bloomingbit"
+    },
+    {
+     "n": 11,
      "title": "Asian Stocks Plunge on AI Skepticism; KOSPI Tumbles 4%, SK Hynix Sinks 7%",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MOXg3bHp3amEzSmRRUVZpbTdYdnBYdkNLS0tRdkdzbGp6dER6WE5CcWgzMUVLVFlxY1VzaGRkNjljd0Y5MjgxSFVzRlNWYmx6eUVHSlluWFo3T21TNkZEZjFNSUlvc2tHaDJpQ3dVVUZyMmVSTHc?oc=5",
      "source": "BigGo Finance"
     },
     {
-     "n": 11,
+     "n": 14,
      "title": "外資法人聯手大賣！KOSPI連彈二日後又跌近5% 資料中心新股Elice上市首日慘崩30%",
      "url": "https://news.cnyes.com/news/id/6634051",
      "source": "鉅亨網"
@@ -85,58 +91,58 @@
    ]
   },
   {
-   "title": "AI通膨與債務疑慮升溫",
-   "detail": "路透指AI熱潮可能加重通膨壓力，聯準會處理手段恐波及其他產業；也有專家警告AI債務風險，CoreWeave被視為警訊。",
+   "title": "AI信用與估值疑慮升溫",
+   "detail": "CoreWeave信貸問題被拿來與矽谷銀行比較，加上AI債務疑慮，市場關注財報與聯準會是否打斷AI行情；標普7500點被視為關鍵。",
    "impact": "利空",
    "sources": [
     {
-     "n": 39,
-     "title": "AI is driving inflation. The Fed's fix may hurt everyone else.",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZdVRWYWJEWDBsUmR0bmVCblc1eTZXOENZYVRkejd0aHdSbVBxVURnUGhGcTViOHZ0NE1QTGtNQjNKaUpwWWpPNzJzLUNVV1UyR3hmcG5nQ19DYUxTMy1DTVhHNXJ6R0E?oc=5",
-     "source": "Reuters"
-    },
-    {
-     "n": 40,
-     "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-     "source": "Reuters"
-    },
-    {
-     "n": 38,
-     "title": "「CoreWeave是礦坑裡的金絲雀」專家警告更多AI債務恐陷入困境",
-     "url": "https://news.cnyes.com/news/id/6633856",
+     "n": 36,
+     "title": "CoreWeave信貸風暴 為何華爾街將其比作「矽谷銀行」？",
+     "url": "https://news.cnyes.com/news/id/6634250",
      "source": "鉅亨網"
+    },
+    {
+     "n": 3,
+     "title": "SK海力士重挫、AI債務疑慮雙重打擊，鎧俠控股一度跌逾600日圓，日本半導體股承壓",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FMXpncHB0RjNmclVERmxIemlDWS04NFFjUFpLdkdIYUs0dlE2VERkNWU5Zi1PRGkwN3FNaTU5eUo1MEJydTYtTldBelhIejJZODdBemZZQ1lCYVFDWUFpclpBWVBKeWxmQkVLeFFYWUVqWVdwYkt4VnRR?oc=5",
+     "source": "BigGo 財經"
+    },
+    {
+     "n": 35,
+     "title": "美股多頭還能撐？財報與Fed成考驗 標普7500點是關鍵防線",
+     "url": "https://news.cnyes.com/news/id/6634479",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 39,
+     "title": "Yes, the Fed Can Kill the AI Boom",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaG5tcWhGWmV0bXc2ak9ETmVQdC1QTmM3Mmx0SEt6TkhrN0w3WVY2TDZ4MzlOcnZFWDdkeDFyWmNCdUpIRERqUnFJWFptcFNLUTlkNFI5eHNhenA1SjZteHhodWNDLWZPMmt3TFBvZGxPbkhwQmRZYm5ma1pDMnB2aXlweHBSdw?oc=5",
+     "source": "WSJ"
     }
    ]
   },
   {
-   "title": "記憶體供應鏈題材偏正面",
-   "detail": "中國記憶體對手預告營收大增，輝達據報要求記憶體廠用台積電3奈米；SK海力士也推出2兆韓元供應鏈支持方案。",
-   "impact": "中性",
+   "title": "記憶體基本面仍有支撐",
+   "detail": "中國CXMT轉盈，顯示AI需求推升記憶體價格；美光一度止跌漲近3%，南韓官員也看好晶片榮景。",
+   "impact": "利多",
    "sources": [
     {
-     "n": 15,
+     "n": 33,
+     "title": "China's CXMT swings to profit as AI demand fuels memory chip price surge",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSlhxSlB3VmpJVXZyRmh3SUx4MnlwTk91eE9YOEJsNWoxaUY3TW1ZVzdOcC1sZmZDOWtwVVJmaG4zTWdEbXBoY2s1cF9YT1VneVpHZHhoM3JvREZGYW12a2ZOT3BUMVZBeWdJSEwtSlJ6TFpTcDBWMFRnWXZaRzVCTzN1SURyV2xpRnhQcFAzdzVQUms0dThHb0JfUUR1RkxTMGhVaGgxTE1MMHhwTlZ4UG1mR2lEQ1FBQnc4ZlgtRkVIaUNvMkRMOGZmbHpZWjFjREIw0gHYAUFVX3lxTE5aYWI0ZGY3Q2VWdFo3SDk0V0dzam43OWtFelIxeXpOXzNBV1dvcmFVVUk1ZFFfZzlDX2VvRjNuMzlhUUN2R1VxdGJlbVZlTDNxcTZaWkl6Z1VKcG9tamxnT1FzUkgzYWVlSXFSaHd0TnMyUzI2Tms1Uml3M0ZyUlNJR2tIQUF4RmtlYmNVcWNoWk5tUUFYMnEtSXZWZGNlblFvT3Z0YkZXemtRNUdIVnNRa09pREJLdU1qVnphcUNHRV9GVmM2QUxtZmZENVV4ZlVVYzVVVG9YVw?oc=5",
+     "source": "Business Standard"
+    },
+    {
+     "n": 18,
      "title": "美光止跌漲近3% 中國記憶體晶片對手預告營收暴增",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2UGlieUVjaElMMVkxbFdMdVJhVEV5bWsyWG1MSmUtdlhSUWZPTzlWQ2Z3blowOTZWN3dLU3VPeEI2bmZpZ0JzenExNjZBTkk?oc=5",
      "source": "鉅亨網"
     },
     {
-     "n": 16,
-     "title": "Micron Stock Rallies as China Memory Chip Rival Forecasts Revenue Boom",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzgycjVEZy1udFpGVjlVc0hxamM0WWNWZWRLazhJZGxqeFo3YThfRkFYX0VDVURZUVZSbWpCMXJCTEt3OEdNcFZTb0VnaTF3RUVOR3hKanBUZzJOQVJQOHJoVldMTWo5aF9IdVdxV2JkVHB4WEF3TFB4Q2ZWanR5MFo4aw?oc=5",
-     "source": "Barron's"
-    },
-    {
-     "n": 31,
-     "title": "Nvidia reportedly asks Samsung, SK Hynix, Micron to use TSMC 3nm",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDdXdlRQM2FmelE1NUNKVTRvbUcyRGtMRVZDTG5USTROUXFVVEJhSE1PczNUNjdxWXBpdWh6NUhCSnJXQ3pvemdfc2ExdERqb1JfWkF4SXE0MTE3NENVeXdQNDBmcktpMDV1Szk1RXQwVER5MUljUkFNcExJNC16bGdjdmQwTktaaWc?oc=5",
-     "source": "The Next Web"
-    },
-    {
-     "n": 22,
-     "title": "South Korean govt, SK Hynix launch KRW2 trillion loan guarantee program for chip suppliers",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdTNWOTJoV1ZHYnBzeW9ZQzRXNWxwQzRUUlhBX3VsSkhEUW85SjF0RU5Da2VGVXRVQnFOVWZtZ1lxRGpoQnprczc3MVhETUN1UzFGV2prWm5sSUs5YVVuaDI1ai1ZWHAycXBwUnQ3VkgydW51X3ZUQTh6UGZLbnpJSTlMTTJWQWRMcEEzM3BiQ1hXQ1l5czJYR2Vn?oc=5",
-     "source": "digitimes"
+     "n": 6,
+     "title": "South Korea’s finance chief bets chip boom outlasts selloff",
+     "url": "https://www.thestreet.com/technology/south-koreas-finance-minister-chip-boom-2027?.tsrc=rss",
+     "source": "Yahoo Finance"
     }
    ]
   }
@@ -144,99 +150,105 @@
  "holdings": [
   {
    "symbol": "SKHY",
-   "note": "收盤漲4.67%，受記憶體反彈與輝達合作報導支撐；但韓股今日重挫，盤後小跌0.26%，且10/27將公布財報。",
+   "note": "收跌1.67%；一週大跌、AI支出疑慮與中國競爭消息拖累，但官方與銀行推出2兆韓元供應商支持方案，10/27發財報。",
    "sources": [
     {
-     "n": 32,
-     "title": "SK hynix shares jump on Nvidia memory partnership report",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkNjNmZQMnhFUXNQZ2VDWHRDOXpXdlcxb2JyRFoxTEtxMDNXam82ZWZTUzhlV2hxWW5zV25SWDNfZDgyLVFCWjV2eTI1M1Zzc1d5N2lYeHI5d0xZYU4yRWJvcjRwMlBReHhJdXZOTGZCdFlaN1NRZUlDQXdEOVBjRi0xMXU0NVFxZDJHcXVudjlPYURuT3hjLWxwZGR6aUFIWEtOOHc5YmxLQllyZ05j?oc=5",
-     "source": "StreetInsider"
+     "n": 2,
+     "title": "SK hynix Sinks 11% in a Week. Elon Musk: “HBM Is a Tougher Hill to Climb”",
+     "url": "https://www.tikr.com/blog/sk-hynix-sinks-11-in-a-week-elon-musk-hbm-is-a-tougher-hill-to-climb?ref=yahoofinance&.tsrc=rss",
+     "source": "Yahoo Finance"
     },
     {
-     "n": 5,
-     "title": "Asian Stocks Plunge on AI Skepticism; KOSPI Tumbles 4%, SK Hynix Sinks 7%",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MOXg3bHp3amEzSmRRUVZpbTdYdnBYdkNLS0tRdkdzbGp6dER6WE5CcWgzMUVLVFlxY1VzaGRkNjljd0Y5MjgxSFVzRlNWYmx6eUVHSlluWFo3T21TNkZEZjFNSUlvc2tHaDJpQ3dVVUZyMmVSTHc?oc=5",
-     "source": "BigGo Finance"
+     "n": 8,
+     "title": "SK Hynix Sinks 4% as Seoul Selloff Revives AI Spending Fears; SanDisk Drops 3%, Micron Eases",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmNJeWEzRmp5QzkyeTJ5SVB4cjZHd2RaSzRtSTJ6SDNkVmJXNmJwUDJMT1pnZVZZQVk4YVBpVWpVUzJuOGxaU3JCTGRrLUJYdU9ZODd2SjZuNHZiWHlLZW1Zak5RVC04VDNTSkQ2dnNNVVVqaV9OQU1sVmIxM05XdU1KaTZnbnJWODhEVlJIWUE?oc=5",
+     "source": "Yahoo Finance"
     },
     {
-     "n": 11,
-     "title": "外資法人聯手大賣！KOSPI連彈二日後又跌近5% 資料中心新股Elice上市首日慘崩30%",
-     "url": "https://news.cnyes.com/news/id/6634051",
-     "source": "鉅亨網"
+     "n": 31,
+     "title": "South Korean govt, SK Hynix launch KRW2 trillion loan guarantee program for chip suppliers",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdTNWOTJoV1ZHYnBzeW9ZQzRXNWxwQzRUUlhBX3VsSkhEUW85SjF0RU5Da2VGVXRVQnFOVWZtZ1lxRGpoQnprczc3MVhETUN1UzFGV2prWm5sSUs5YVVuaDI1ai1ZWHAycXBwUnQ3VkgydW51X3ZUQTh6UGZLbnpJSTlMTTJWQWRMcEEzM3BiQ1hXQ1l5czJYR2Vn?oc=5",
+     "source": "digitimes"
+    },
+    {
+     "n": 34,
+     "title": "SK Hynix Drops 30% During China Competition, Solidigm IPO Doubts",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ3NkWHNHQUFUblprbmV5XzZrYkliSDhXY042Yjd0UTRfcTNkN2FaTmRsWHhiQUpGdURVYnpVdUduRjRHNDBGQVhWcHRKRHBlY2xJV251bjlkWmhMYTdBaFFHRlQ1Y0F2aDhDSE1nSGp6TWx3eUNnZWZ3cFlkWXBELU1sVDZvVG9mZl9yWlBwS0Freng0V3RhYWRuMnRmMU5rWFhNamNpUnBlYmxSbXpsaTFybmtNdw?oc=5",
+     "source": "Benzinga"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "記憶體ETF收漲4.05%，受美光、SanDisk等記憶體股反彈帶動。",
+   "note": "收跌0.38%；記憶體族群隨SK海力士波動，CXMT獲利與美光反彈提供部分支撐。",
    "sources": [
     {
-     "n": 7,
-     "title": "SK hynix Jumps 5%, Sandisk Up 6%, Micron Up 3% as Memory Stocks Bounce Back From Selloff",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDJYSnF2Z1RKU0xQZnVFUGUtdzhFUk1NMEoxa3hqSm9nSWZvWFdvNDd5MFAzYWttYkV6ajZaOXZRdEhXX0VuVG1HOWs2eHk2SDBwTUpjLWJmWUZxTndDYVZTWUpMZ2YtcHJ5S2otV01sSWJ4b3lyQ2lNcUhPRzN3dVIxWm4wZndQT3A1bXRqQzJCczg?oc=5",
+     "n": 8,
+     "title": "SK Hynix Sinks 4% as Seoul Selloff Revives AI Spending Fears; SanDisk Drops 3%, Micron Eases",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmNJeWEzRmp5QzkyeTJ5SVB4cjZHd2RaSzRtSTJ6SDNkVmJXNmJwUDJMT1pnZVZZQVk4YVBpVWpVUzJuOGxaU3JCTGRrLUJYdU9ZODd2SjZuNHZiWHlLZW1Zak5RVC04VDNTSkQ2dnNNVVVqaV9OQU1sVmIxM05XdU1KaTZnbnJWODhEVlJIWUE?oc=5",
      "source": "Yahoo Finance"
     },
     {
-     "n": 9,
-     "title": "Memory chip stocks rebound as AI spending fears ease, with Micron up 4%, Sandisk 7%, and SK Hynix 5%.",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUWJxZWJLOTdkX0VsQzZlZlV6bWs5dGhKN0pzR1dqR0xYSTcxcWthMktLVVcxNGIxV0kydHJXNTl6SWU3Q0k5WHhXRkJVZW44aUZtcFczRkxKYzhlbjBaZS1DMkxIY1QyRGdtZDJOaGFKSkU5dTBfM29XUU1rcEROa2pFcHNMYlRhWWRFSUVn?oc=5",
-     "source": "Pluang"
+     "n": 18,
+     "title": "美光止跌漲近3% 中國記憶體晶片對手預告營收暴增",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2UGlieUVjaElMMVkxbFdMdVJhVEV5bWsyWG1MSmUtdlhSUWZPTzlWQ2Z3blowOTZWN3dLU3VPeEI2bmZpZ0JzenExNjZBTkk?oc=5",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 33,
+     "title": "China's CXMT swings to profit as AI demand fuels memory chip price surge",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSlhxSlB3VmpJVXZyRmh3SUx4MnlwTk91eE9YOEJsNWoxaUY3TW1ZVzdOcC1sZmZDOWtwVVJmaG4zTWdEbXBoY2s1cF9YT1VneVpHZHhoM3JvREZGYW12a2ZOT3BUMVZBeWdJSEwtSlJ6TFpTcDBWMFRnWXZaRzVCTzN1SURyV2xpRnhQcFAzdzVQUms0dThHb0JfUUR1RkxTMGhVaGgxTE1MMHhwTlZ4UG1mR2lEQ1FBQnc4ZlgtRkVIaUNvMkRMOGZmbHpZWjFjREIw0gHYAUFVX3lxTE5aYWI0ZGY3Q2VWdFo3SDk0V0dzam43OWtFelIxeXpOXzNBV1dvcmFVVUk1ZFFfZzlDX2VvRjNuMzlhUUN2R1VxdGJlbVZlTDNxcTZaWkl6Z1VKcG9tamxnT1FzUkgzYWVlSXFSaHd0TnMyUzI2Tms1Uml3M0ZyUlNJR2tIQUF4RmtlYmNVcWNoWk5tUUFYMnEtSXZWZGNlblFvT3Z0YkZXemtRNUdIVnNRa09pREJLdU1qVnphcUNHRV9GVmM2QUxtZmZENVV4ZlVVYzVVVG9YVw?oc=5",
+     "source": "Business Standard"
     }
    ]
   },
   {
    "symbol": "NOK",
-   "note": "諾基亞與軟銀將在日本進行2027年商用AI-RAN測試，屬中長期題材；10/22盤前公布財報。",
+   "note": "收跌0.11%；與軟銀規劃2027年日本商用AI-RAN現場試驗，屬中長期題材，10/22盤前公布財報。",
    "sources": [
     {
-     "n": 17,
-     "title": "Nokia, SoftBank Plan Joint Commercial AI-RAN Field Trial in Japan in 2027",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMk9GQUdBaGpocXI5X3RhRi1vSUxFY25tblJZUWNCY2NrN2ktLUFxMEMzQjV2UVI3TGYtMjBDWUtGLXVTZVNJdzh0MVk2YklMWkdHXzZFZ2VQWlhnOVJETVlTdDJjWjRxcUoySW1rUVczQm5SaDhBaU1IOHlSdUN0TkY3SHZlSEpfQUlJdjczRmJHbEt3eHNoamt3bzU1cUVfTUZQVFR1UXZZQWc1MHE4RUdGT01fekEtMjVPVTJ2RVo4VFU?oc=5",
-     "source": "marketscreener.com"
-    },
-    {
-     "n": 21,
+     "n": 30,
      "title": "Nokia and SoftBank Corp. agree to conduct commercial AI-RAN field trial in Japan",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1RCbWxKMWh4YUlPSWwtLXBlUUhJMkpwNk02c3UxR2pDMVUwRWtIVjU3Z29jeTRjbTZHYzA0QjJDNHdoYUt2VXVYaWFuZ0syN3ZUYjRuV0R5WW4yLV9mdVU0cW5oVTZPc1NjaS00SEJJX3B6NzhzeFIySElnRDRBYl9DSjlVS3JkV180OHJJWXItYlZEdEp2dGVic3JWcUZiWHN2UG4xUGVWMFhma0xEbQ?oc=5",
      "source": "Nokia"
     },
     {
-     "n": 27,
-     "title": "Nokia Faces a Twin Test: SoftBank's 2027 AI-RAN Trial and a Capacity-Constrained Q3",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZG1rUkhDUDJqRnVocmNkazRxdTNLanRQWVlkcjZkVnJBQl8zTnRiRHZSdmRzeDRodVNVRWd5cUxnOXlXcGRaelZrdVo3cFJQOW5zMWJDZXVkMC1yNGRydmlTMDgyaU9rbF91U3BHYVlTSm0wYTV0Z0ZqUS1od0pmTW5FTXFkME10c2ppZzhUaERtRElqR2IyUjhya25Ub3VQdGVGeWhRandWNm94Q21lTHR2b1FKM3B4Z3A2akRLWlI5OHh3aTlMbEpBYW1NWHZCUU1qWUFmLU5vdmpoUllvdDdKYURSZTUwbkE?oc=5",
-     "source": "ad-hoc-news.de"
+     "n": 16,
+     "title": "Nokia, SoftBank Plan Joint Commercial AI-RAN Field Trial in Japan in 2027",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMk9GQUdBaGpocXI5X3RhRi1vSUxFY25tblJZUWNCY2NrN2ktLUFxMEMzQjV2UVI3TGYtMjBDWUtGLXVTZVNJdzh0MVk2YklMWkdHXzZFZ2VQWlhnOVJETVlTdDJjWjRxcUoySW1rUVczQm5SaDhBaU1IOHlSdUN0TkY3SHZlSEpfQUlJdjczRmJHbEt3eHNoamt3bzU1cUVfTUZQVFR1UXZZQWc1MHE4RUdGT01fekEtMjVPVTJ2RVo4VFU?oc=5",
+     "source": "marketscreener.com"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "提供的新聞中沒有直接相關消息；該股收盤跌4.43%，盤後回升1.26%。",
+   "note": "收漲1.15%；提供的新聞中無直接相關消息。",
    "sources": []
   }
  ],
  "watch_next": [
   {
-   "when": "10/21 台灣時間",
-   "what": "韓國前20天出口初值；盤後公布LRCX、META財報"
+   "when": "10/21 盤後（台灣時間10/22凌晨）",
+   "what": "科林研發、Meta公布財報，檢驗AI設備與資本支出動向"
   },
   {
-   "when": "10/22 盤前",
-   "what": "諾基亞公布財報"
+   "when": "10/21",
+   "what": "韓國前20天出口初值，觀察半導體出口"
+  },
+  {
+   "when": "10/22 盤前（台灣約晚間）",
+   "what": "諾基亞財報"
   },
   {
    "when": "10/22 20:30",
-   "what": "美國初領失業救濟金人數，預期200K"
-  },
-  {
-   "when": "10/23 21:45",
-   "what": "美國製造業與服務業PMI初值"
+   "what": "美國初領失業救濟金（預期200K）"
   }
  ],
- "generated_at": "2026-10-20T05:23:46Z",
+ "generated_at": "2026-10-20T17:34:38Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 6002,
-  "output_tokens": 1223
+  "input_tokens": 5763,
+  "output_tokens": 1233
  }
 }
