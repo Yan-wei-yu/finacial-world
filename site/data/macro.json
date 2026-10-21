@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T05:22:24Z",
+ "generated_at": "2026-10-21T17:42:03Z",
  "week": [
   {
    "title": "Unemployment Claims",
@@ -53,19 +53,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "korea-exports-20d",
-   "title": "韓國前 20 天出口初值",
-   "date": "2026-10-21",
-   "datetime": null,
-   "kind": "indicator",
-   "approx": false,
-   "affects": [
-    "SKHY",
-    "DRAM"
-   ],
-   "note": "每月 21 日公布當月前 20 天出口"
-  },
   {
    "id": "fomc-2026-10-28",
    "title": "FOMC 利率決議",
@@ -220,6 +207,19 @@
     "DRAM"
    ],
    "note": "每月 11 日公布當月前 10 天出口"
+  },
+  {
+   "id": "korea-exports-20d",
+   "title": "韓國前 20 天出口初值",
+   "date": "2026-12-21",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": false,
+   "affects": [
+    "SKHY",
+    "DRAM"
+   ],
+   "note": "每月 21 日公布當月前 20 天出口"
   }
  ],
  "errors": []
