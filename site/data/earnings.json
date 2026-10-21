@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T17:34:38Z",
+ "generated_at": "2026-10-21T05:22:24Z",
  "upcoming": [
   {
    "symbol": "LRCX",
@@ -25,7 +25,7 @@
    "eps_est": 6.80167,
    "eps_low": 3.92,
    "eps_high": 7.64,
-   "rev_est": 63405722410.0,
+   "rev_est": 63405681590.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -95,7 +95,7 @@
    "eps_est": 4.71606,
    "eps_low": 4.43,
    "eps_high": 4.85929,
-   "rev_est": 90724359020.0,
+   "rev_est": 90722902200.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -109,7 +109,7 @@
    "eps_est": 1.98071,
    "eps_low": 1.85,
    "eps_high": 2.22,
-   "rev_est": 202197758900.0,
+   "rev_est": 202202785780.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -148,10 +148,10 @@
    "date": "2026-11-03",
    "datetime": "2026-11-03T21:00:00Z",
    "session": "盤後",
-   "eps_est": 1.93439,
+   "eps_est": 1.93464,
    "eps_low": 1.72,
    "eps_high": 2.1,
-   "rev_est": 13077900250.0,
+   "rev_est": 13077889730.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -193,7 +193,7 @@
    "eps_est": 2.15531,
    "eps_low": 2.09,
    "eps_high": 2.24,
-   "rev_est": 10129786290.0,
+   "rev_est": 10139890290.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -372,9 +372,9 @@
     "datetime": "2026-07-29T00:00:00Z",
     "date": "2026-07-28",
     "eps_est": 4.87,
-    "eps_actual": 9.06,
-    "surprise_pct": 86.07,
-    "suspect": false
+    "eps_actual": 90.62,
+    "surprise_pct": null,
+    "suspect": true
    }
   ],
   "QNT": [
