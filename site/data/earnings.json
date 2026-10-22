@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-22T05:26:39Z",
+ "generated_at": "2026-10-22T17:40:20Z",
  "upcoming": [
   {
    "symbol": "NOK",
    "name_zh": "諾基亞",
    "group": "holding",
    "date": "2026-10-22",
-   "datetime": "2026-10-22T12:00:00Z",
-   "session": "盤前",
-   "eps_est": 0.07193,
-   "eps_low": 0.056,
-   "eps_high": 0.08,
-   "rev_est": 5064270210.0,
+   "datetime": null,
+   "session": "時間未定",
+   "eps_est": 0.17735,
+   "eps_low": 0.158,
+   "eps_high": 0.19042,
+   "rev_est": 6387144800.0,
    "rev_currency": "EUR",
    "is_holding": true
   },
@@ -249,7 +249,7 @@
    "eps_est": 38.28373,
    "eps_low": 35.85,
    "eps_high": 40.47,
-   "rev_est": 61751748960.0,
+   "rev_est": 61751761080.0,
    "rev_currency": "USD",
    "is_holding": false
   }
@@ -368,9 +368,9 @@
     "datetime": "2026-07-29T00:00:00Z",
     "date": "2026-07-28",
     "eps_est": 4.87,
-    "eps_actual": 90.62,
-    "surprise_pct": null,
-    "suspect": true
+    "eps_actual": 9.06,
+    "surprise_pct": 86.07,
+    "suspect": false
    }
   ],
   "QNT": [
