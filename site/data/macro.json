@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T17:42:03Z",
+ "generated_at": "2026-10-22T05:26:39Z",
  "week": [
   {
    "title": "Unemployment Claims",
@@ -28,7 +28,7 @@
    "country_label": "美國",
    "impact": "Medium",
    "datetime": "2026-10-23T13:45:00Z",
-   "forecast": "57.8",
+   "forecast": "57.9",
    "previous": "58.7"
   },
   {

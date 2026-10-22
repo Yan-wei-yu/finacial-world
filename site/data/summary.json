@@ -1,147 +1,27 @@
 {
- "headline": "科技股強彈，費半漲逾2%，但10年債5.11%仍是壓力",
- "mood": "偏多",
- "mood_reason": "那指、費半收漲，VIX下滑、期貨續揚；但殖利率高且AI投資疑慮未除。",
+ "headline": "科技股領漲、費半大漲近2%，但期貨轉弱、殖利率5.15%待觀察",
+ "mood": "中性",
+ "mood_reason": "費半強勢收高，但那指期貨-1.36%、10年債5.15%偏高，且FOMC將近。",
  "key_points": [
   {
-   "title": "記憶體股走強，三星、SK海力士升級中國廠",
-   "detail": "路透報導兩家廠商升級中國廠，生產更先進NAND／記憶體晶片以因應AI需求，並對抗長江存儲。盤前SK海力士一度漲逾4%，記憶體族群偏強。",
+   "title": "記憶體族群走強，供需成財報關鍵",
+   "detail": "費半收11,505.56（+1.97%）。記憶體股盤前走揚，SK海力士ADR溢價達55.62%。市場聚焦記憶體供需與即將到來的財報，但新聞未提供具體合約價數據。",
    "impact": "利多",
    "sources": [
     {
      "n": 2,
-     "title": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmZxYjhQQjhXcUZzRnh3dHJIMWQzWUxyNDFMLTM1b1R3d3NFMEFycFpkQkx5NW5sQjBNdVJldDNhakRYcUMxRERYRnR3ZWdoVDBZUmljM2VENTdmRzFVdVY4eUMxTDk3VmtCWk1jQ1dvZmY0cnVCQ1FpTl9uZ3lrWWU4MGp0aDRsbG9jNTBvUDBadXpoZVAwOUFYRUlITXVUMUMxakpMVGc3QXJmQjJxeWZoWWJlTHNDSHNmZGprUVY?oc=5",
-     "source": "Reuters"
+     "title": "AI晶片泡沫論中的財報變數 記憶體供需成關鍵",
+     "url": "https://news.cnyes.com/news/id/6635521",
+     "source": "鉅亨網"
     },
     {
-     "n": 4,
-     "title": "路透：三星、SK海力士升級中國廠盼產更先進晶片| 國際",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51QThnV0NDX2RUUS11VFZGREQ0Zk0za0xqaFJGc19ubFZKaFdlVE53dUhFbktUVHFMUVNndXYwUnE0YTZxT19xcjdudGY5c1llV1YwS0ZZLV92eDluM1NJ?oc=5",
-     "source": "中央社 CNA"
-    },
-    {
-     "n": 22,
+     "n": 10,
      "title": "Memory Chip Stocks Surge in Premarket; SK Hynix Up Over 4%, SpaceX Jumps 10% on Earnings Beat",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fZTNmOW0yZGNaZXRGUGFnSXdocUFoOGpndkZuLXJhSXdjVlR3cDF1Z1VUR0F4YTNvQlVJWEV0NlgwYXVQMXdnRy02TWFpbXN0a0ZKTTE0cGNfcGEyZlB3R1BNczBhYTBtM1NnaHdub3FRQ3NxNlE?oc=5",
      "source": "BigGo Finance"
     },
     {
-     "n": 12,
-     "title": "Samsung, SK Hynix upgrading China fabs to make advanced NAND chips - report",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUtwTTlLWnNnTjZyOWdPb3RYTzZEMlJPTGFhWXRvR1NHNk5Ud19KOGdJdks2bzllWHc1OTNmSkFoN1BrZmlKRHpfcmVzV2xjWExwMkowV3Bhemp6RE9BMWY2YlZfV3RJX2ljVEVXT0hicDFwQU9IdHZXNzhLV1VfRTdVbkJIZUU3dUxuMmRZZTQ4UFpzTlpGVDZhLUVEV3J4QVhpc0pR?oc=5",
-     "source": "Seeking Alpha"
-    }
-   ]
-  },
-  {
-   "title": "AI伺服器需求支撐半導體情緒",
-   "detail": "美超微財報後盤後大漲15%，但報導指晶片股投資人仍保持謹慎。費半單日漲2.14%，反映買盤回流。",
-   "impact": "利多",
-   "sources": [
-    {
-     "n": 26,
-     "title": "美超微AI需求強盤後飆15% 晶片股投資人仍保持謹慎？",
-     "url": "https://news.cnyes.com/news/id/6634726",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 22,
-     "title": "Memory Chip Stocks Surge in Premarket; SK Hynix Up Over 4%, SpaceX Jumps 10% on Earnings Beat",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fZTNmOW0yZGNaZXRGUGFnSXdocUFoOGpndkZuLXJhSXdjVlR3cDF1Z1VUR0F4YTNvQlVJWEV0NlgwYXVQMXdnRy02TWFpbXN0a0ZKTTE0cGNfcGEyZlB3R1BNczBhYTBtM1NnaHdub3FRQ3NxNlE?oc=5",
-     "source": "BigGo Finance"
-    }
-   ]
-  },
-  {
-   "title": "諾基亞受AI-RAN題材帶動",
-   "detail": "Nokia與輝達的AI-RAN合作持續有進展，包括與T-Mobile完成首通AI-RAN通話、BT進行試驗，Barron's稱其被視為AI交易。",
-   "impact": "利多",
-   "sources": [
-    {
-     "n": 19,
-     "title": "Nokia Stock Jumps Because Vintage Telecom Is Now an AI Trade",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LaEkwbDEyX1JMMXA2NTNFbW1ReTJ5bTkzXzA4Q3Z1QUZicTZ4QnFZZ0dVamx0S3VzRm5ObzUwaVJpZktoeURkTlZST256SGRpZUNjUV82OXhPVFpEYkJEdFFURHQydWRKaGg2VXlfOGMxSTVBUEpEQQ?oc=5",
-     "source": "Barron's"
-    },
-    {
-     "n": 29,
-     "title": "From the lab to the live network: Nokia, T-Mobile and NVIDIA complete world’s first AI-RAN call",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGtxMk1zNkJaRFhKNkhyQjJlelRBRDR4TGVyUjVCUmo5YWFFUUZzSHVicnJYUUk1UXVaVEkyTUJFTk96RUF5YlNWdXdUNkpLbFY0UGRaaWd4VWVsYmhDaldPTXJFeVhqOVczTmkxdmdpSG42U2JQaTlmNFdiejRnNkNSN0RON1VTbGhkX1VOeHBDY0Jla281OGhlQnNjZktJb0pSeWRpR2lQUVVZNFRRRmdlSnRkT19PbDNZWA?oc=5",
-     "source": "Nokia"
-    },
-    {
-     "n": 32,
-     "title": "BT bolsters 5G Standalone footprint, confirms AI-RAN trials with Nokia, Nvidia",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ3ZUdjRjNWIzOERacnhUME1OSWF5VWVjeHY4NDJTOEFEcTNWcnk1NExwNnU0a29IY3RRUHZIQnc3T3FHWDZ1a3hzM0t2Q3VfUXhxMTY3QTJjVWJBQVJhd3Y1cXg5QVczclZtay1Qd1NMZzNOY3hPVkI4aFhyZnhLaDlzNlREdmV0ZUFfTnBMcHR4UlRSczdPMmhwVXZ2cnpXZUd4ZTgyZ1dwQ0pBcDdiTHlNZ2tVWVY3eXl3cQ?oc=5",
-     "source": "Data Center Dynamics"
-    }
-   ]
-  },
-  {
-   "title": "高利率與通膨壓力限制AI建設速度",
-   "detail": "美歐債務發行因借貸成本升高放緩；Coronado認為通膨壓力使AI建設有速度上限。10年期美債殖利率5.11%。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 36,
-     "title": "借錢愈來愈貴！美歐逾50億美元債務發行踩煞車",
-     "url": "https://news.cnyes.com/news/id/6635323",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 40,
-     "title": "Watch Inflation Pressures Tell us There is Speed Limit to AI Buildout, Says Coronado",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd29JanlvTVVRcGRKTWotQW9VTmFDeHFCdmVJdnVTdjRyUU4wTmRFVmhvYVo3SU1sS3lsZTNjZXlwMl9qNXBSNk81Um5uUDFfRlFhU09xUUZjOWN1ZS1xSUFEYlYxaTZFcGN3X1hvME5UUGF2MmhDZzBfQnA3aHpLLXIxNVppRWkxbXVndTJUSHJrbWdLbTdkam5TZU9OS0lMdEFWVXJvLWV3QQ?oc=5",
-     "source": "Bloomberg.com"
-    }
-   ]
-  },
-  {
-   "title": "AI泡沫疑慮仍在",
-   "detail": "澳洲NextDC暴跌44%，美光前一日震盪收黑；Yardeni則認為AI泡沫破裂言之過早，市場看法分歧。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 39,
-     "title": "澳洲版CoreWeave？AI基建「風向球」NextDC暴跌44% 一天跌掉多年漲幅",
-     "url": "https://news.cnyes.com/news/id/6634841",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 18,
-     "title": "美光震盪收黑 AI投資疑慮升溫、韓國新股慘跌與桃園罷工添壓力",
-     "url": "https://news.cnyes.com/news/id/6634626",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 37,
-     "title": "AI泡沫即將破裂？Yardeni稱言之過早",
-     "url": "https://news.cnyes.com/news/id/6635210",
-     "source": "鉅亨網"
-    }
-   ]
-  }
- ],
- "holdings": [
-  {
-   "symbol": "SKHY",
-   "note": "中國廠升級消息與盤前走強帶動收漲2.22%；10/27財報將檢驗高營業利益率能否維持。",
-   "sources": [
-    {
-     "n": 2,
-     "title": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmZxYjhQQjhXcUZzRnh3dHJIMWQzWUxyNDFMLTM1b1R3d3NFMEFycFpkQkx5NW5sQjBNdVJldDNhakRYcUMxRERYRnR3ZWdoVDBZUmljM2VENTdmRzFVdVY4eUMxTDk3VmtCWk1jQ1dvZmY0cnVCQ1FpTl9uZ3lrWWU4MGp0aDRsbG9jNTBvUDBadXpoZVAwOUFYRUlITXVUMUMxakpMVGc3QXJmQjJxeWZoWWJlTHNDSHNmZGprUVY?oc=5",
-     "source": "Reuters"
-    },
-    {
-     "n": 22,
-     "title": "Memory Chip Stocks Surge in Premarket; SK Hynix Up Over 4%, SpaceX Jumps 10% on Earnings Beat",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fZTNmOW0yZGNaZXRGUGFnSXdocUFoOGpndkZuLXJhSXdjVlR3cDF1Z1VUR0F4YTNvQlVJWEV0NlgwYXVQMXdnRy02TWFpbXN0a0ZKTTE0cGNfcGEyZlB3R1BNczBhYTBtM1NnaHdub3FRQ3NxNlE?oc=5",
-     "source": "BigGo Finance"
-    },
-    {
-     "n": 23,
+     "n": 14,
      "title": "SK Hynix (SKHY) Earns a 76% Operating Margin, but Will It Hold?",
      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-skhy-earns-76-172819288.html?.tsrc=rss",
      "source": "Yahoo Finance"
@@ -149,82 +29,220 @@
    ]
   },
   {
-   "symbol": "DRAM",
-   "note": "記憶體族群受中國廠升級及AI需求題材帶動，收漲3.03%；另有報導指記憶體漲價已影響手機品牌。",
+   "title": "輝達Vera Rubin量產，HBM4格局分化",
+   "detail": "報導指Vera Rubin進入量產，HBM4版圖可能讓三星與SK海力士結果不同。AI基礎建設需求延續，也是半導體的支撐題材。",
+   "impact": "利多",
    "sources": [
     {
-     "n": 22,
-     "title": "Memory Chip Stocks Surge in Premarket; SK Hynix Up Over 4%, SpaceX Jumps 10% on Earnings Beat",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fZTNmOW0yZGNaZXRGUGFnSXdocUFoOGpndkZuLXJhSXdjVlR3cDF1Z1VUR0F4YTNvQlVJWEV0NlgwYXVQMXdnRy02TWFpbXN0a0ZKTTE0cGNfcGEyZlB3R1BNczBhYTBtM1NnaHdub3FRQ3NxNlE?oc=5",
+     "n": 30,
+     "title": "Nvidia's Vera Rubin Enters Full Production: HBM4 Landscape Could Split Fortunes for Samsung and SK Hynix",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04RVFaOXEtekc3UWRWSkhmSGlaT0pIcnloTlltVVJURnliWXlxTFBkZXhFQU4wSWxLQVIySU9IZGVmTHNHMkVaLXJXMmxDanZWTVBZdURpZXlHcXhKZjRER3JQN1pPTi1SeDREQVBFZWt1dzBaNlE?oc=5",
      "source": "BigGo Finance"
     },
     {
      "n": 31,
-     "title": "記憶體漲價逼急了？中國手機品牌傳用「回收DRAM」降本搶出貨",
-     "url": "https://news.cnyes.com/news/id/6633877",
-     "source": "鉅亨網"
+     "title": "Nvidia Vera Rubin正式量產，HBM4版圖三星與SK海力士兩樣情",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lb1R5S2RqMDJCVnpYU1lRd19fVFk0MmRwNnVhWWVEc3NCaHBQYzRPWEhLU0dhY094aWhRQTVpZ1NPZURBS2FTMnZFSmt4V3Q1eENlWjF3TWpiQklYT1dvdEQ1U2g4QWc2M3hYRFZwbUhNeEJxb2VtTzln?oc=5",
+     "source": "BigGo 財經"
     },
     {
-     "n": 35,
-     "title": "Memory chip inflation accelerates smartphone brands' retreat from low-end devices",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVGtLSjZ3Rm5VVXd5cXBpaWpadFBkcGZ3TWRGVC02WXBwX1FQR0h5dUJPQ3Ezbm1hRG5WMS16bkpieUExUGJNYkczdHVyLW1HeU1qeVlhRWNZdm92YklFUEt1clNUZVFUdEMxV3NqSVpDbjNZRk1IU2hHazlqN2gzd3p3NFMySjhYZGw4anB4X1hhb2dmRTA2OVZR?oc=5",
-     "source": "digitimes"
+     "n": 13,
+     "title": "黃仁勳GTC重點一次看 新晶片量產、AI工廠裝箱出貨、搶攻機器人",
+     "url": "https://news.cnyes.com/news/id/6635573",
+     "source": "鉅亨網"
     }
    ]
   },
   {
-   "symbol": "NOK",
-   "note": "AI-RAN與輝達合作題材持續發酵，收漲2.44%；台灣時間10/22盤前公布財報。",
+   "title": "三星、SK海力士升級中國廠",
+   "detail": "兩家業者升級中國廠，因應AI需求並對抗長江存儲、CXMT等在地對手；報導也提到受美國出口管制限制。",
+   "impact": "中性",
    "sources": [
     {
-     "n": 19,
+     "n": 1,
+     "title": "SK Hynix And Samsung Upgrade China Memory Plants To Counter Local AI Rivals",
+     "url": "https://www.tikr.com/blog/sk-hynix-stock-china-plant-upgrade-nand-samsung?ref=yahoofinance&.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 3,
+     "title": "Samsung, SK Hynix Modernise China Plants To Produce Advanced NAND Chips",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHBsaS1oY01wV3BpMFFCZDI0SE90Q2J1d2ZSN0xCU1E0T1E1ay1fNmVHaWM0QV9QajNUN0xiME1yYWlodUFGNHJPcmNoZWVUdUtzdjFMazR3MUpEMWZmV252T2YtdGU5SmRtTnEtNk9qaGV0LWFadThUdFpzVDZ4OFkza3JPdkpPQ3l0eGQ3MmQtR1lSbTBr?oc=5",
+     "source": "Arise News"
+    },
+    {
+     "n": 5,
+     "title": "三星與SK海力士升級中國晶片廠 因應AI需求並抵抗長江存儲擴張",
+     "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOcE1yYVRFZjZrcFR2dlYxUmh0NVZGWmNIcmNTUmdjNmNlSzlIbEVQc3YyYjVpOUtSeW9SQzgxLWpXWHBYN1Z5RDgtbHQ2NjZaTHBIcDdMSU5tQ1hUS2JEVkNEZzNteUFmcEgwMlNCQ1BUMllmcUx4Y2ZqeWdOeFV3WTlUT0E5RUtsZklWTmxHeTZiWmxrWThHZEl1b2dXOXRKNmF3VnZNSm9rSGJxMHZCQnJOWkZOU09xYUNYTmtTQTFwNi1TMTljWEFMU3EtczFUYmhleEZ0T3JVbWFOcW1WRkhhVldESXZJb3FIWjN0TlVYZjROYnBvRk9SbFZ5d1AtMUxnSDl3ZmZKekI0b3BNZ2tPVkhUUk1abWdDWm5nSDhkUGFORG53dXNWdnJ2cnNUU0xoNkU4WXhnMVZCLTJLNWg3bmdzalJjd09RR2lQNW1pd2lnSl9wX0RwZVR6d3p4QlRpWEJnTF92VnNvaXplRTJudm5uWEJlT2JWVGpfYWpfV3N5eC1Nd2M2YmxsQmZPd3c?oc=5",
+     "source": "Yahoo新聞"
+    },
+    {
+     "n": 6,
+     "title": "Samsung and SK Hynix are upgrading Chinese factories to produce advanced RAM chips as AI data center competition ramps up — big players move to fight off the threat from CXMT and co.",
+     "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNTjQtNUtfdjBfYVlVQVZZSnZXTl9pWnliTmVPc01oUDh2SlY5Zk1RVXk1anIxMTRTRU1MUFdDUkl0RFBrMHFoa1diaVp4ektVR21YYnA5aEdjeXJuMVo3X2tVekxmanlZajhfM1J3X3JfbW4tUGE3NE0wSHlXalRPQ001M2pZNDRFVVNIRUl0c0hYMTFUbkNVNmx2UTBBWG9EaEJjeVhHMmxCcG5oR25hVjlReHNJUjM2NHlyd0Fxc0VpRWR2cjY0UGxGSjZQNU1YVTFNcGU5MjVfam8yano2QTBNQkg3RThKUHg2LThtM0J6SmJJbXVqLVVfOFQtc3lYaGxjTHdpZnN6OU5tUTJxN2tnRWI3ajNBXzdEWnhnTlVDeTZoaHUySGR1OWIyY3I3UEtSYnZSV1doRW1DQ21NYzhGWTJTWFI4UDNj?oc=5",
+     "source": "Tom's Hardware"
+    }
+   ]
+  },
+  {
+   "title": "諾基亞財報優於預期，AI-RAN題材發酵",
+   "detail": "彭博報導諾基亞獲利優於預期，資料中心帶動成長；Q3營收年增9%。與輝達的AI-RAN合作也持續擴大。",
+   "impact": "利多",
+   "sources": [
+    {
+     "n": 12,
+     "title": "Nokia Profit Beats Estimates as Data Centers Fuel Growth",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTNaX2RFemNneTE5aUZ2V2RYSDlubG5MMU02SERxR1dIa3N4RXpGVnJ6U2dSOG9VMVpSaURjbFk2U25kNW8tRk0zRFNNVzNpc1RhVDNsVkVZWmxMYUgxOUQ3empCTXF6ZW9QRk1QNXV3X1ZMLUZzR2xkcFhJOVBQcEQ3bTlSSUdJRHRvcEZUczlNUndBT2VYdUZXSEJNYTVhOE94Z2djWVVjMEk?oc=5",
+     "source": "Bloomberg.com"
+    },
+    {
+     "n": 21,
+     "title": "Nokia reports Q3 revenue growth of 9% on AI demand By Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNejN2YUU5T290N3NoZnA1Nk5aOTk1NlFNdlRZYnpaOE43cnFnLUdDX19tYUFmMXNneUxlUWJKYnlSdHVZRWdfZm9XZHdfcVp4azJvVDJaQVdZd2c0ZWN1OTBnVFNXNS1HT0tIOVhWQWZMRDBkanJjWXZGTVYwUzRJWFhZZ1JhRHVOQU9feG5IaDVGcEZlVzFFXzlWeUVvbmU5dnpJYzVXSUhNVGVyaVBr?oc=5",
+     "source": "Investing.com Nigeria"
+    },
+    {
+     "n": 7,
      "title": "Nokia Stock Jumps Because Vintage Telecom Is Now an AI Trade",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LaEkwbDEyX1JMMXA2NTNFbW1ReTJ5bTkzXzA4Q3Z1QUZicTZ4QnFZZ0dVamx0S3VzRm5ObzUwaVJpZktoeURkTlZST256SGRpZUNjUV82OXhPVFpEYkJEdFFURHQydWRKaGg2VXlfOGMxSTVBUEpEQQ?oc=5",
      "source": "Barron's"
     },
     {
-     "n": 29,
-     "title": "From the lab to the live network: Nokia, T-Mobile and NVIDIA complete world’s first AI-RAN call",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGtxMk1zNkJaRFhKNkhyQjJlelRBRDR4TGVyUjVCUmo5YWFFUUZzSHVicnJYUUk1UXVaVEkyTUJFTk96RUF5YlNWdXdUNkpLbFY0UGRaaWd4VWVsYmhDaldPTXJFeVhqOVczTmkxdmdpSG42U2JQaTlmNFdiejRnNkNSN0RON1VTbGhkX1VOeHBDY0Jla281OGhlQnNjZktJb0pSeWRpR2lQUVVZNFRRRmdlSnRkT19PbDNZWA?oc=5",
-     "source": "Nokia"
+     "n": 16,
+     "title": "NVIDIA, Nokia AI-RAN Reaches Nearly 20 Telcos [2026]",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81blNXdnFCMjIyLWxjUHMwX2FPckJCVHd2cG1WNjRoSHBhaG4takZJSnRiS2VFbW1fY3g1ZG9qWjRnWHoxZ2xUZW9ZemM1MW96cURyS1RUUXpaRWZ4Zno3SVZmbU1JbWRsUFQ0SHBfTEE?oc=5",
+     "source": "shattered.io"
+    }
+   ]
+  },
+  {
+   "title": "利率與通膨壓力，AI泡沫疑慮仍在",
+   "detail": "美債10年殖利率5.15%，借貸成本升高；市場等待10/29 FOMC。Polymarket預測年底前AI泡沫破裂機率10%，Yardeni認為言之過早。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 34,
+     "title": "借錢愈來愈貴！美歐逾50億美元債務發行踩煞車",
+     "url": "https://news.cnyes.com/news/id/6635323",
+     "source": "鉅亨網"
     },
     {
-     "n": 33,
-     "title": "Nvidia and its sidekick Nokia claim European enthusiasm for AI-RAN",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdVlZdWRCZVdGeFYwcGFUSjFXVGRsWjIyWTZZcmQ3LVBUbFBqRjlueWhYLTF6WWpFR2lIT2pOaDRhT0o5ZldiSjZJRWhIRWxfU1RORlhSQ0lkLWJMM0daVmN5Wi1ncjdTajVMdXhaUzBNcjJmWUpja3RGUUw4NUN5LUloNVhTRzVFUGgwdE1XWnFWZklpRldsaDNRNWh6X1lzam1aY2xPeDhfdS10M0FXUA?oc=5",
-     "source": "Telecoms"
+     "n": 35,
+     "title": "AI泡沫即將破裂？Yardeni稱言之過早",
+     "url": "https://news.cnyes.com/news/id/6635210",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 39,
+     "title": "AI泡沫何時破？Polymarket押年底前破裂機率10%",
+     "url": "https://news.cnyes.com/news/id/6635436",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 40,
+     "title": "美銀剖析白宮盤算 Fed 升息 加重政府還債負擔",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlTmNDOU9NTDMwWXZfVG5wZGhzN2RKWTJFSmF3dTQ5cXFRMzNyTXR2MjZsbmpNZWlfR3NnUGplelNWdUFwS1hxZzJocm5VbmgyZlF6OHdiUWphSGNsbGpJ0gFfQVVfeXFMUGVOY0M5T01MMzBZdl9UbnBkaHM3ZEpZMkVKYXd1NDlxcVEzM3JNdHYyNmxuak1laV9Hc2dQamV6U1Z1QXBLWHFnMmhyblVuaDJmUXo4d2JRamFIY2xsakk?oc=5",
+     "source": "經濟日報"
+    }
+   ]
+  }
+ ],
+ "holdings": [
+  {
+   "symbol": "NOK",
+   "note": "財報營收年增9%、獲利優於預期，AI-RAN合作題材偏正面；盤後小跌0.32%。",
+   "sources": [
+    {
+     "n": 12,
+     "title": "Nokia Profit Beats Estimates as Data Centers Fuel Growth",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTNaX2RFemNneTE5aUZ2V2RYSDlubG5MMU02SERxR1dIa3N4RXpGVnJ6U2dSOG9VMVpSaURjbFk2U25kNW8tRk0zRFNNVzNpc1RhVDNsVkVZWmxMYUgxOUQ3empCTXF6ZW9QRk1QNXV3X1ZMLUZzR2xkcFhJOVBQcEQ3bTlSSUdJRHRvcEZUczlNUndBT2VYdUZXSEJNYTVhOE94Z2djWVVjMEk?oc=5",
+     "source": "Bloomberg.com"
+    },
+    {
+     "n": 21,
+     "title": "Nokia reports Q3 revenue growth of 9% on AI demand By Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNejN2YUU5T290N3NoZnA1Nk5aOTk1NlFNdlRZYnpaOE43cnFnLUdDX19tYUFmMXNneUxlUWJKYnlSdHVZRWdfZm9XZHdfcVp4azJvVDJaQVdZd2c0ZWN1OTBnVFNXNS1HT0tIOVhWQWZMRDBkanJjWXZGTVYwUzRJWFhZZ1JhRHVOQU9feG5IaDVGcEZlVzFFXzlWeUVvbmU5dnpJYzVXSUhNVGVyaVBr?oc=5",
+     "source": "Investing.com Nigeria"
+    },
+    {
+     "n": 7,
+     "title": "Nokia Stock Jumps Because Vintage Telecom Is Now an AI Trade",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LaEkwbDEyX1JMMXA2NTNFbW1ReTJ5bTkzXzA4Q3Z1QUZicTZ4QnFZZ0dVamx0S3VzRm5ObzUwaVJpZktoeURkTlZST256SGRpZUNjUV82OXhPVFpEYkJEdFFURHQydWRKaGg2VXlfOGMxSTVBUEpEQQ?oc=5",
+     "source": "Barron's"
+    }
+   ]
+  },
+  {
+   "symbol": "DRAM",
+   "note": "記憶體族群受供需與財報預期帶動，盤後回檔1.82%，後續看合約價與原廠財報。",
+   "sources": [
+    {
+     "n": 2,
+     "title": "AI晶片泡沫論中的財報變數 記憶體供需成關鍵",
+     "url": "https://news.cnyes.com/news/id/6635521",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 10,
+     "title": "Memory Chip Stocks Surge in Premarket; SK Hynix Up Over 4%, SpaceX Jumps 10% on Earnings Beat",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fZTNmOW0yZGNaZXRGUGFnSXdocUFoOGpndkZuLXJhSXdjVlR3cDF1Z1VUR0F4YTNvQlVJWEV0NlgwYXVQMXdnRy02TWFpbXN0a0ZKTTE0cGNfcGEyZlB3R1BNczBhYTBtM1NnaHdub3FRQ3NxNlE?oc=5",
+     "source": "BigGo Finance"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "收漲8.74%，但提供的新聞中沒有直接相關報導，原因資料不足。",
+   "note": "提供的新聞中沒有直接相關消息；收盤大漲8.32%、盤後回落1.16%，11/30另有IPO閉鎖期到期推估。",
    "sources": []
+  },
+  {
+   "symbol": "SKHY",
+   "note": "HBM4競爭與中國廠升級是焦點，10/27盤後公布財報；盤後跌1.78%。",
+   "sources": [
+    {
+     "n": 30,
+     "title": "Nvidia's Vera Rubin Enters Full Production: HBM4 Landscape Could Split Fortunes for Samsung and SK Hynix",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04RVFaOXEtekc3UWRWSkhmSGlaT0pIcnloTlltVVJURnliWXlxTFBkZXhFQU4wSWxLQVIySU9IZGVmTHNHMkVaLXJXMmxDanZWTVBZdURpZXlHcXhKZjRER3JQN1pPTi1SeDREQVBFZWt1dzBaNlE?oc=5",
+     "source": "BigGo Finance"
+    },
+    {
+     "n": 1,
+     "title": "SK Hynix And Samsung Upgrade China Memory Plants To Counter Local AI Rivals",
+     "url": "https://www.tikr.com/blog/sk-hynix-stock-china-plant-upgrade-nand-samsung?ref=yahoofinance&.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 14,
+     "title": "SK Hynix (SKHY) Earns a 76% Operating Margin, but Will It Hold?",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-skhy-earns-76-172819288.html?.tsrc=rss",
+     "source": "Yahoo Finance"
+    }
+   ]
   }
  ],
  "watch_next": [
-  {
-   "when": "10/22 盤前（台灣時間約傍晚前後）",
-   "what": "諾基亞財報，EPS預估0.07"
-  },
-  {
-   "when": "10/22 早盤",
-   "what": "科林研發、Meta盤後財報的市場反應"
-  },
   {
    "when": "10/22 20:30",
    "what": "美國初領失業救濟金人數，預期200K"
   },
   {
    "when": "10/23 21:45",
-   "what": "美國製造業與服務業PMI初值，預期55.4／57.8"
+   "what": "美國製造業與服務業PMI初值，預期55.4與57.9，均低於前值"
+  },
+  {
+   "when": "10/23 22:00",
+   "what": "密大消費者信心終值與通膨預期，前值4.7%"
+  },
+  {
+   "when": "10/22 晚間至10/23",
+   "what": "觀察那指期貨-1.36%與10年債5.15%對美股開盤的影響"
   }
  ],
- "generated_at": "2026-10-21T17:42:03Z",
+ "generated_at": "2026-10-22T05:26:39Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5916,
-  "output_tokens": 1235
+  "input_tokens": 5793,
+  "output_tokens": 1293
  }
 }
