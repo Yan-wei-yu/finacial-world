@@ -1,20 +1,6 @@
 {
- "generated_at": "2026-10-22T17:40:20Z",
+ "generated_at": "2026-10-23T05:26:36Z",
  "upcoming": [
-  {
-   "symbol": "NOK",
-   "name_zh": "諾基亞",
-   "group": "holding",
-   "date": "2026-10-22",
-   "datetime": null,
-   "session": "時間未定",
-   "eps_est": 0.17735,
-   "eps_low": 0.158,
-   "eps_high": 0.19042,
-   "rev_est": 6387144800.0,
-   "rev_currency": "EUR",
-   "is_holding": true
-  },
   {
    "symbol": "SKHY",
    "name_zh": "SK 海力士",
@@ -142,20 +128,6 @@
    "is_holding": false
   },
   {
-   "symbol": "IONQ",
-   "name_zh": "IonQ",
-   "group": "peer",
-   "date": "2026-11-04",
-   "datetime": "2026-11-04T21:00:00Z",
-   "session": "盤後",
-   "eps_est": -0.33727,
-   "eps_low": -0.45,
-   "eps_high": -0.25,
-   "rev_est": 141197670.0,
-   "rev_currency": "USD",
-   "is_holding": false
-  },
-  {
    "symbol": "QCOM",
    "name_zh": "高通",
    "group": "semis",
@@ -170,11 +142,25 @@
    "is_holding": false
   },
   {
+   "symbol": "IONQ",
+   "name_zh": "IonQ",
+   "group": "peer",
+   "date": "2026-11-05",
+   "datetime": "2026-11-05T21:00:00Z",
+   "session": "盤後",
+   "eps_est": -0.33727,
+   "eps_low": -0.45,
+   "eps_high": -0.25,
+   "rev_est": 141197670.0,
+   "rev_currency": "USD",
+   "is_holding": false
+  },
+  {
    "symbol": "QNT",
    "name_zh": "Quantinuum",
    "group": "holding",
-   "date": "2026-11-09",
-   "datetime": "2026-11-09T21:00:00Z",
+   "date": "2026-11-05",
+   "datetime": "2026-11-05T21:00:00Z",
    "session": "盤後",
    "eps_est": -0.3738,
    "eps_low": -0.49,

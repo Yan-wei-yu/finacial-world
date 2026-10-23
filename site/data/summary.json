@@ -1,136 +1,136 @@
 {
- "headline": "AI疑慮再起，費半重挫5.93%，資金轉進美債避險",
+ "headline": "AI股恐慌重挫，費半暴跌6.7%，資金湧向美債",
  "mood": "偏空",
- "mood_reason": "費半大跌近6%、那指期貨續跌2.68%，VIX升14%，資金轉向美債避險。",
+ "mood_reason": "費半重挫近7%、VIX大漲，亞股同步下挫；但期貨持平、盤後部分個股小幅反彈。",
  "key_points": [
   {
-   "title": "AI疑慮升溫，晶片股遭重殺",
-   "detail": "費半收跌5.93%、那指跌2.42%，美光等晶片股同步走低。早盤即因AI疑慮與油價上漲開低，市場關注AI泡沫論與記憶體供需。",
+   "title": "Meta重燃AI疑慮，費半狂瀉",
+   "detail": "Meta再度引發AI交易恐慌，費半收跌6.72%、那指跌2.60%，台積電ADR跌逾4.5%。Meta舉債擴建AI基建，也讓資料中心債券殖利率飆升、違約保險費創高。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 7,
+     "title": "〈美股盤後〉Meta重燃AI交易恐慌 費半狂瀉近7% 台積電ADR跌超4.5%",
+     "url": "https://news.cnyes.com/news/id/6636334",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 39,
+     "title": "Meta借錢擴張AI基建引爆債市警訊 資料中心債券殖利率飆升 違約保險費創新高",
+     "url": "https://news.cnyes.com/news/id/6636372",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 8,
+     "title": "〈美股早盤〉AI疑慮未散油價又漲！Meta與特斯拉走跌 主要指數開低",
+     "url": "https://news.cnyes.com/news/id/6636075",
+     "source": "鉅亨網"
+    }
+   ]
+  },
+  {
+   "title": "美債殖利率跌破5%，避險升溫",
+   "detail": "10年期美債殖利率跌穿5%，創2023年銀行危機以來最大降幅，日圓走強。市場同時擔憂AI疑慮與戰火風險，部分報導將情況比擬為矽谷銀行事件。",
+   "impact": "中性",
+   "sources": [
+    {
+     "n": 6,
+     "title": "10年期美債殖利率跌穿5% 創2023年銀行危機以來最大降幅",
+     "url": "https://news.cnyes.com/news/id/6636390",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 5,
+     "title": "AI股重挫掀避險潮 日圓勁升、美債殖利率跌破5% 今年升息押注降溫",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwam16NVZ0TGtLajhONHRDN2FncVVOaFlkVWR6QVV5WjZnUk84U1dwVGM0TmpHUWplOFBxZTE0emxodWJnb1F6dWtGSGFxMHNRaGVxeDh6eHdFQdIBX0FVX3lxTE9wR1huOFlrV09hQjJ6QVhJT29ld2JWRHVObGh6WGdMMXBvemZGeXhYcFZRaVZOVmptcFVQQ1BWLU9HSDUtSzBUZUFJX3pfOWdRMF8yS3FJWV9WcEE1Nk5N?oc=5",
+     "source": "經濟日報"
+    },
+    {
+     "n": 22,
+     "title": "AI疑慮與戰火風險升溫！資金轉抱美債 10年期殖利率跌破5%",
+     "url": "https://news.cnyes.com/news/id/6636276",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 37,
+     "title": "「像極了矽谷銀行那天！」 科技股血崩資金瘋搶美債 十年期殖利率摔破5% 黑天鵝序幕？",
+     "url": "https://news.cnyes.com/news/id/6636463",
+     "source": "鉅亨網"
+    }
+   ]
+  },
+  {
+   "title": "亞股連動重挫，記憶體股承壓",
+   "detail": "南韓KOSPI跌破5,400點，亞股受AI賣壓拖累。SK海力士暫停Solidigm赴美IPO，股價跌幅收斂，但未能明顯提振市場情緒。",
    "impact": "利空",
    "sources": [
     {
      "n": 1,
-     "title": "AI晶片泡沫論中的財報變數 記憶體供需成關鍵",
-     "url": "https://news.cnyes.com/news/id/6635521",
+     "title": "AI交易風向球跌！南韓KOSPI率亞洲股市下挫 日元和美債成避風港",
+     "url": "https://news.cnyes.com/news/id/6636446",
      "source": "鉅亨網"
     },
     {
-     "n": 3,
-     "title": "〈美股早盤〉AI疑慮未散油價又漲！Meta與特斯拉走跌 主要指數開低",
-     "url": "https://news.cnyes.com/news/id/6636075",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 30,
-     "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGZPNEpMdnlfTHU5OFFIbXZBM0VtWlJyWWhJTDNHWWRoUlBWLTdSR28zOXFrOU9GNG1Db2VhQ1VNVEZweFFJYlEtZTVnUTduQkR2bkRRdWJVQnhEZ3FzS3B5cTJ2c05tRTNLOExzY3BuVHV0MW9aRUlqMVhUTHExcDJHUkppaXloLVZta0hNMjhrSy1vOURaM3E3WUZaVENCRFRYamY5a1dYNHdNUTFYQw?oc=5",
-     "source": "MarketWatch"
-    }
-   ]
-  },
-  {
-   "title": "資金避險，美債殖利率跌破5%",
-   "detail": "10年期美債殖利率跌破5%，來到4.96%。資金也流向日圓與瑞郎，報導指AI疑慮與戰火風險同步升溫。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 13,
-     "title": "AI疑慮與戰火風險升溫！資金轉抱美債 10年期殖利率跌破5%",
-     "url": "https://news.cnyes.com/news/id/6636276",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 38,
-     "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
-     "url": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
-     "source": "MarketWatch"
-    },
-    {
-     "n": 39,
-     "title": "人工智慧疑慮再起 資金湧入美債、日元與瑞郎避險",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94LURkOF80LXFtZTdQM3BUa3lrUVVUZDRNTmFFS3JYRkRHeDBnTV92RzhUMXdYNGVhb1pKdUZXTEh2SEdRLWpnWlktQzdDNjg?oc=5",
-     "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "中東風險與油價添壓",
-   "detail": "有報導指美以可能在期中選舉後再度攻擊伊朗，目標鎖定能源與核設施。油價上漲加重通膨與市場風險情緒。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 3,
-     "title": "〈美股早盤〉AI疑慮未散油價又漲！Meta與特斯拉走跌 主要指數開低",
-     "url": "https://news.cnyes.com/news/id/6636075",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 16,
-     "title": "美以擬期中選後再襲伊朗 「3天密集猛打」鎖定能源、核設施",
-     "url": "https://news.cnyes.com/news/id/6635614",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 13,
-     "title": "AI疑慮與戰火風險升溫！資金轉抱美債 10年期殖利率跌破5%",
-     "url": "https://news.cnyes.com/news/id/6636276",
-     "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "南韓記憶體股走弱，SK海力士受關注",
-   "detail": "KOSPI週四重挫3.52%，三星與SK海力士大跌，並有SK海力士暫停庫藏股的報導。另有高盛指其若擴大ADR流通量，可能納入那斯達克100。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 5,
-     "title": "AI jitters and SK hynix buyback halt drive South Korea stocks down 3% - CHOSUNBIZ",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb1dmN3BoajFuWmUxWjBOTEZmcWpreTZoOVhpRnVjSENjZkJzNWNBT0tMTlZGQTBqQmp5eUs3VjRDaWlEQ2VaRXpRenNkM1JzT0FtYmEzS0dpUS1hV09LY3R4SVM1cUV2c3NTU2RmV05lbERObnJFZ3p0VndaRGR5edIBlAFBVV95cUxPUmdRdDM5bGVZUUxOVER4U0FSN2pIVUJRWmFobnNhaERlcDhrSzVRQms4LXVmWGhRY28xRlBmQ3BuYmRfUE5wUGFsNjRZR0F1UTY4UzZQU3cwalQ1Nkpxb1h0SjNXN0NTc3M0MVVZc0g5VXhjcUJES3N5azBCZE50amx4ZGdGNS1sUnQtOFRIbWEtd09l?oc=5",
-     "source": "Chosunbiz"
-    },
-    {
-     "n": 6,
-     "title": "韓股：半導體股承壓，KOSPI週四重挫3.52%，三星電子、SK海力士大跌",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVU4RlpsZmo5YktIa2c0bTV1a2ZXU0hlSDdydlNVQUpYX1RNSnNzUFBZNTBVZUJ5bG9YNDJqREE2QzgxVnE5WllRNTRZRk1vX1RaRk9sQ0NnSWdDakNLTk1uWnFQT3piQ3doWHBNTWJJR2EyM0hfRlNrd1BzTkFZc1Q2elY4RlF4?oc=5",
-     "source": "富聯網"
-    },
-    {
-     "n": 4,
-     "title": "SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-could-join-nasdaq-124316476.html?.tsrc=rss",
-     "source": "Yahoo Finance"
-    }
-   ]
-  },
-  {
-   "title": "諾基亞財報優於預期，股價仍大跌",
-   "detail": "諾基亞Q3獲利優於預期，AI與雲端銷售大增，但執行長稱供應吃緊是結構性成本上升，股價跌至六個月低點。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 8,
-     "title": "Nokia Profit Beats Estimates as Data Centers Fuel Growth",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTNaX2RFemNneTE5aUZ2V2RYSDlubG5MMU02SERxR1dIa3N4RXpGVnJ6U2dSOG9VMVpSaURjbFk2U25kNW8tRk0zRFNNVzNpc1RhVDNsVkVZWmxMYUgxOUQ3empCTXF6ZW9QRk1QNXV3X1ZMLUZzR2xkcFhJOVBQcEQ3bTlSSUdJRHRvcEZUczlNUndBT2VYdUZXSEJNYTVhOE94Z2djWVVjMEk?oc=5",
-     "source": "Bloomberg.com"
+     "n": 27,
+     "title": "KOSPI Breaks Below 5,400 as Philadelphia Semiconductor Index Plunges 6.7%; SK Hynix's Solidigm IPO Halt Fails to Lift Sentiment",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnN2NQQzZVTV93dmQtS2pKZVdfMjluVFVXYWtTRnd2NnlBQnZ4U0dYU0tUckhGVUE3cVNRR040TU1MRGRJT3pEeXQ1dmV4Y0tpZUt6NVhhZDFsSVdJMTkwUWRMbmFmdm5uR0tkWU40Y1NubURhVmc?oc=5",
+     "source": "BigGo Finance"
     },
     {
      "n": 14,
+     "title": "SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO on Market Jitters",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE9EOHNwRFRHSUJvQzhaNTByNHIxdFVEM3JVbEFsUXpQdDQzQ1lsaVpBYmRHdWlVTVhVZG5rWG0yMzIyU3ZCcGlSZ2VaRmlOWlJ3Z0ZfUzJ6bWFRWFdOcWR0Q2hRall5YzZ3ZUFmanNWaHo0WkFSMnQ1LXRvX2lLUGp5U2x3bC1ZVXdtd3EwcjZTZGxLYUNXMWt3TDNDcVhmM0dv?oc=5",
+     "source": "WSJ"
+    },
+    {
+     "n": 17,
+     "title": "SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakIxS1gtNjFlNDJKUVl5cUZZTGlsamY3UG5ST0Y5UjEyU1RUSmx2Skh3aXZIRE95MjFUdHdXOFhVZVpRZmVUclRwSVJMNUVnYWFSOXFRRzdYWXNBbDJxZlBMbXlmVGYtQ09KOWtrWnJZTXdEQmRzeHNDUi0tMGJoWXVmaHNqZTkyRm1CQmFUcUE4OEN3YnJWQ2M1cEo0d1hNQ3BzVVVLakd2SXVo?oc=5",
+     "source": "Reuters"
+    }
+   ]
+  },
+  {
+   "title": "輝達執行長看記憶體不會過剩",
+   "detail": "黃仁勳表示2029年記憶體市場過剩的可能性不大，是記憶體需求端的支撐論點。但當日股價仍受大盤賣壓主導。",
+   "impact": "利多",
+   "sources": [
+    {
+     "n": 3,
+     "title": "從「晶片荒」到「紅海」？ 輝達黃仁勳：2029年記憶體市場過剩可能性不大",
+     "url": "https://news.cnyes.com/news/id/6636454",
+     "source": "鉅亨網"
+    }
+   ]
+  },
+  {
+   "title": "量子與諾基亞個股同步走弱",
+   "detail": "量子運算概念股隨科技股下跌。諾基亞財報優於預期，AI與雲端訂單強勁，但執行長稱供應吃緊是結構性成本上升，股價跌至半年低點。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 12,
+     "title": "IonQ Sinks 3%, Rigetti Down 5%, D-Wave Down 4% as Quantum Stocks Slide Again in Tech Selloff",
+     "url": "https://www.tikr.com/blog/ionq-sinks-3-rigetti-down-5-d-wave-down-4-as-quantum-stocks-slide-again-in-tech-selloff?ref=yahoofinance&.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 23,
      "title": "Nokia CEO Says Supply Squeeze Is ‘A Structural Cost Increase, Not Just A Shortage': NOK Stock Drops To 6-Month Low Despite Q3 Beat",
      "url": "https://stocktwits.com/news-articles/markets/equity/nok-stock-nokia-ceo-says-supply-squeeze-is-a-structural-cost-increase-not-just-a-shortage/cZxwXVCRBD5?.tsrc=rss",
      "source": "Yahoo Finance"
     },
     {
-     "n": 20,
-     "title": "Nokia Tumbles 10% Despite Data Center-Driven Profit Beat; Ericsson Slips",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNVhEMTgwa2U5dmRyYnJkRmNqYktEd0p5VXl3V184d2tSdFh0RW90aUllUzJ5WmhKYk9YTWtmV2dMWXR0Zk5oVjF5bnJnY0JmSFdYNndBWDJ0ZHZqdmdOYmdFdmc1eTdUaWdsSVFfSk1WTW5DZXB1VUo0ZFFidEVVS0Zrc1E3MDRMUlVmSVlyZEQ1Y0Zh?oc=5",
-     "source": "Yahoo Finance"
+     "n": 18,
+     "title": "諾基亞AI和雲端訂單額年增118% 光傳輸、IP網路業務走強",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ0REa1JLUXQ4TXZtS082U2xmS1pmbHhLcHNkRWdPNGVDaFAwZmpmWC1qTC1OZzdsTmZDcGUyUUNGcGhud2lndlVNX1loaXNoZnloc3d0aUdJUm5VM0pqelpjTEQ0N0RzTTRWbk5MRmtXRzRLcUJxRUdTcGg1MDg3WWJsbnlucUFQM1NVUWVR?oc=5",
+     "source": "DIGITIMES"
     },
     {
      "n": 21,
-     "title": "【Nokia Oyj FY2026 Q3 法說會】AI與雲端銷售暴增123%，諾基亞上調2027年光網路與IP業務成長目標至25-30%",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qamFBRWM3SVY5YTQ0NDgyNWdaVWxKYWFGdlM1VUQxVGNlcFpMaEt1SnRxeUhCSGVleHRDRkhQZi1IV3lvSDN3akpqLUhKcmVkdzUxTTZmZUJoUmduWWtzVQ?oc=5",
-     "source": "BigGo 財經"
+     "title": "Why Nokia Sank today",
+     "url": "https://www.fool.com/investing/2026/10/22/why-nokia-sank-today/?.tsrc=rss",
+     "source": "Yahoo Finance"
     }
    ]
   }
@@ -138,91 +138,85 @@
  "holdings": [
   {
    "symbol": "NOK",
-   "note": "Q3獲利優於預期、AI與雲端訂單強，但供應成本上升的說法壓抑股價，收跌12.97%。",
+   "note": "單日重挫14.81%，財報雖優於預期且AI雲端訂單強，但供應吃緊推升成本壓抑股價；盤後小漲0.38%。",
    "sources": [
     {
-     "n": 14,
+     "n": 23,
      "title": "Nokia CEO Says Supply Squeeze Is ‘A Structural Cost Increase, Not Just A Shortage': NOK Stock Drops To 6-Month Low Despite Q3 Beat",
      "url": "https://stocktwits.com/news-articles/markets/equity/nok-stock-nokia-ceo-says-supply-squeeze-is-a-structural-cost-increase-not-just-a-shortage/cZxwXVCRBD5?.tsrc=rss",
      "source": "Yahoo Finance"
     },
     {
-     "n": 20,
-     "title": "Nokia Tumbles 10% Despite Data Center-Driven Profit Beat; Ericsson Slips",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNVhEMTgwa2U5dmRyYnJkRmNqYktEd0p5VXl3V184d2tSdFh0RW90aUllUzJ5WmhKYk9YTWtmV2dMWXR0Zk5oVjF5bnJnY0JmSFdYNndBWDJ0ZHZqdmdOYmdFdmc1eTdUaWdsSVFfSk1WTW5DZXB1VUo0ZFFidEVVS0Zrc1E3MDRMUlVmSVlyZEQ1Y0Zh?oc=5",
-     "source": "Yahoo Finance"
+     "n": 18,
+     "title": "諾基亞AI和雲端訂單額年增118% 光傳輸、IP網路業務走強",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ0REa1JLUXQ4TXZtS082U2xmS1pmbHhLcHNkRWdPNGVDaFAwZmpmWC1qTC1OZzdsTmZDcGUyUUNGcGhud2lndlVNX1loaXNoZnloc3d0aUdJUm5VM0pqelpjTEQ0N0RzTTRWbk5MRmtXRzRLcUJxRUdTcGg1MDg3WWJsbnlucUFQM1NVUWVR?oc=5",
+     "source": "DIGITIMES"
     },
     {
      "n": 21,
-     "title": "【Nokia Oyj FY2026 Q3 法說會】AI與雲端銷售暴增123%，諾基亞上調2027年光網路與IP業務成長目標至25-30%",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qamFBRWM3SVY5YTQ0NDgyNWdaVWxKYWFGdlM1VUQxVGNlcFpMaEt1SnRxeUhCSGVleHRDRkhQZi1IV3lvSDN3akpqLUhKcmVkdzUxTTZmZUJoUmduWWtzVQ?oc=5",
-     "source": "BigGo 財經"
+     "title": "Why Nokia Sank today",
+     "url": "https://www.fool.com/investing/2026/10/22/why-nokia-sank-today/?.tsrc=rss",
+     "source": "Yahoo Finance"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "記憶體族群隨晶片股與南韓記憶體股下挫，市場聚焦供需變數，收跌6.56%。",
+   "note": "跟隨記憶體股重挫7.08%；黃仁勳看法偏正面，但SK海力士IPO變數與大盤賣壓仍壓抑情緒。",
    "sources": [
     {
-     "n": 1,
-     "title": "AI晶片泡沫論中的財報變數 記憶體供需成關鍵",
-     "url": "https://news.cnyes.com/news/id/6635521",
+     "n": 3,
+     "title": "從「晶片荒」到「紅海」？ 輝達黃仁勳：2029年記憶體市場過剩可能性不大",
+     "url": "https://news.cnyes.com/news/id/6636454",
      "source": "鉅亨網"
     },
     {
-     "n": 6,
-     "title": "韓股：半導體股承壓，KOSPI週四重挫3.52%，三星電子、SK海力士大跌",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVU4RlpsZmo5YktIa2c0bTV1a2ZXU0hlSDdydlNVQUpYX1RNSnNzUFBZNTBVZUJ5bG9YNDJqREE2QzgxVnE5WllRNTRZRk1vX1RaRk9sQ0NnSWdDakNLTk1uWnFQT3piQ3doWHBNTWJJR2EyM0hfRlNrd1BzTkFZc1Q2elY4RlF4?oc=5",
-     "source": "富聯網"
-    },
-    {
-     "n": 30,
-     "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGZPNEpMdnlfTHU5OFFIbXZBM0VtWlJyWWhJTDNHWWRoUlBWLTdSR28zOXFrOU9GNG1Db2VhQ1VNVEZweFFJYlEtZTVnUTduQkR2bkRRdWJVQnhEZ3FzS3B5cTJ2c05tRTNLOExzY3BuVHV0MW9aRUlqMVhUTHExcDJHUkppaXloLVZta0hNMjhrSy1vOURaM3E3WUZaVENCRFRYamY5a1dYNHdNUTFYQw?oc=5",
-     "source": "MarketWatch"
+     "n": 14,
+     "title": "SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO on Market Jitters",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE9EOHNwRFRHSUJvQzhaNTByNHIxdFVEM3JVbEFsUXpQdDQzQ1lsaVpBYmRHdWlVTVhVZG5rWG0yMzIyU3ZCcGlSZ2VaRmlOWlJ3Z0ZfUzJ6bWFRWFdOcWR0Q2hRall5YzZ3ZUFmanNWaHo0WkFSMnQ1LXRvX2lLUGp5U2x3bC1ZVXdtd3EwcjZTZGxLYUNXMWt3TDNDcVhmM0dv?oc=5",
+     "source": "WSJ"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "與甲骨文合作取得Helios早期使用權的消息，未能抵銷大盤賣壓，收跌6.96%。",
+   "note": "量子概念股同步下跌；與甲骨文合作推出Helios早期體驗計畫，屬消息面正面但未擋住賣壓。",
    "sources": [
     {
-     "n": 22,
-     "title": "Quantinuum and Oracle Advance Hybrid Quantum-AI Computing with Early Access to Helios",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmxTWThjelZEZFhWVVNidXlhaXZqY0tMQndNTzV0S3MxQlBzeENwRzJibkZmcl9uRHJoS2FacVE3MUFaNFhkS3ZOVVpsT3lweF9xTnk0UUhMNmZybWtfRGpHaHpVSUx2V0hLNXd6Q0JTUDlxYTVFd0dHNURPb3Ixb3VIOHg3ZGd1RkI0bXRMalR4M0pCY3dQRzZOQl85OG5WTUhGR2dfN0tNQ1ZlRTEtUEhZMF9ZTXJU?oc=5",
-     "source": "Quantinuum"
+     "n": 12,
+     "title": "IonQ Sinks 3%, Rigetti Down 5%, D-Wave Down 4% as Quantum Stocks Slide Again in Tech Selloff",
+     "url": "https://www.tikr.com/blog/ionq-sinks-3-rigetti-down-5-d-wave-down-4-as-quantum-stocks-slide-again-in-tech-selloff?ref=yahoofinance&.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 25,
+     "title": "Quantinuum and Oracle Launch OCI Quantum AI Compute Beta Program for Early Access to Helios",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbDJVZHVETWFTOUZrNHVtMVZiS0R3TmVFQUMzd1doZzB2Y3JCQnpsbno0VEkxeENMTlVtY09qRlN2N0xkQlBaVjZSY0prODFJUlZBWC15R1hMcEMzc0RLeC1vQnFTWlVDTHVUMDFxMFBLR25IVGNONkE5LXVMQUNNWHBvQlhmRXpRempOVmtydmdjSFlwREJSUHB4dmRnSHZQR0w2Ukk3UXhIRlBSZjlVQmhWTGQtOWk1a2lrdUg4akJCRUNlbGfSAcsBQVVfeXFMUDNaQi1lSlJldkd1eTBGZzdmVGxVZ2pXdVQwR1p0Z1lYM3pwMVN1Ujl0d1Zwakt4YmV4cjJFREVJTlVPMHRuMHNZQW9CcjBTZ3BIak16QkY1cG5Kdmp1YjdCT3BBZHdrMWg0NWRPdzZvd0tpOTZlU0ctQ1ZVY3Z0WmQ3Vkk1VXlwOW9jNWNvU2wtOWNJUmlkQVU2elJISi1oU0ppNkg4R0YycUlKelUwTTNlc1RJY2VOREFXTWZUemwzMlh3M0dwOUlMdHc?oc=5",
+     "source": "Quantum Computing Report"
     }
    ]
   },
   {
    "symbol": "SKHY",
-   "note": "受KOSPI重挫、庫藏股暫停拖累，收跌6.65%；高盛的納入那指100說法與HBM散熱技術為題材。10/27將公布財報。",
+   "note": "收跌8.07%，暫停Solidigm赴美IPO雖讓跌幅收斂，仍難擋AI賣壓；10/27盤後公布財報。",
    "sources": [
     {
-     "n": 4,
-     "title": "SK Hynix could join the Nasdaq 100 if it expands its ADR float: Goldman",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-could-join-nasdaq-124316476.html?.tsrc=rss",
-     "source": "Yahoo Finance"
+     "n": 14,
+     "title": "SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO on Market Jitters",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE9EOHNwRFRHSUJvQzhaNTByNHIxdFVEM3JVbEFsUXpQdDQzQ1lsaVpBYmRHdWlVTVhVZG5rWG0yMzIyU3ZCcGlSZ2VaRmlOWlJ3Z0ZfUzJ6bWFRWFdOcWR0Q2hRall5YzZ3ZUFmanNWaHo0WkFSMnQ1LXRvX2lLUGp5U2x3bC1ZVXdtd3EwcjZTZGxLYUNXMWt3TDNDcVhmM0dv?oc=5",
+     "source": "WSJ"
     },
     {
-     "n": 5,
-     "title": "AI jitters and SK hynix buyback halt drive South Korea stocks down 3% - CHOSUNBIZ",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb1dmN3BoajFuWmUxWjBOTEZmcWpreTZoOVhpRnVjSENjZkJzNWNBT0tMTlZGQTBqQmp5eUs3VjRDaWlEQ2VaRXpRenNkM1JzT0FtYmEzS0dpUS1hV09LY3R4SVM1cUV2c3NTU2RmV05lbERObnJFZ3p0VndaRGR5edIBlAFBVV95cUxPUmdRdDM5bGVZUUxOVER4U0FSN2pIVUJRWmFobnNhaERlcDhrSzVRQms4LXVmWGhRY28xRlBmQ3BuYmRfUE5wUGFsNjRZR0F1UTY4UzZQU3cwalQ1Nkpxb1h0SjNXN0NTc3M0MVVZc0g5VXhjcUJES3N5azBCZE50amx4ZGdGNS1sUnQtOFRIbWEtd09l?oc=5",
-     "source": "Chosunbiz"
+     "n": 17,
+     "title": "SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakIxS1gtNjFlNDJKUVl5cUZZTGlsamY3UG5ST0Y5UjEyU1RUSmx2Skh3aXZIRE95MjFUdHdXOFhVZVpRZmVUclRwSVJMNUVnYWFSOXFRRzdYWXNBbDJxZlBMbXlmVGYtQ09KOWtrWnJZTXdEQmRzeHNDUi0tMGJoWXVmaHNqZTkyRm1CQmFUcUE4OEN3YnJWQ2M1cEo0d1hNQ3BzVVVLakd2SXVo?oc=5",
+     "source": "Reuters"
     },
     {
-     "n": 6,
-     "title": "韓股：半導體股承壓，KOSPI週四重挫3.52%，三星電子、SK海力士大跌",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVU4RlpsZmo5YktIa2c0bTV1a2ZXU0hlSDdydlNVQUpYX1RNSnNzUFBZNTBVZUJ5bG9YNDJqREE2QzgxVnE5WllRNTRZRk1vX1RaRk9sQ0NnSWdDakNLTk1uWnFQT3piQ3doWHBNTWJJR2EyM0hfRlNrd1BzTkFZc1Q2elY4RlF4?oc=5",
-     "source": "富聯網"
-    },
-    {
-     "n": 10,
-     "title": "HBM也要拚散熱！SK海力士新技術讓熱阻降逾30%",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15UjJoT3pOY0RORGg5UnI1aHhFVUlZdlRmYm96RFVTM2kxYXRXcjluaHBCMVJrQmthQkY2cDZwLS1vUFV3LXdiLVZ4WnJjZEU?oc=5",
-     "source": "鉅亨網"
+     "n": 27,
+     "title": "KOSPI Breaks Below 5,400 as Philadelphia Semiconductor Index Plunges 6.7%; SK Hynix's Solidigm IPO Halt Fails to Lift Sentiment",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnN2NQQzZVTV93dmQtS2pKZVdfMjluVFVXYWtTRnd2NnlBQnZ4U0dYU0tUckhGVUE3cVNRR040TU1MRGRJT3pEeXQ1dmV4Y0tpZUt6NVhhZDFsSVdJMTkwUWRMbmFmdm5uR0tkWU40Y1NubURhVmc?oc=5",
+     "source": "BigGo Finance"
     }
    ]
   }
@@ -230,26 +224,26 @@
  "watch_next": [
   {
    "when": "10/23 21:45",
-   "what": "美國製造業與服務業PMI初值（預期55.4、57.9，前值57.0、58.7）"
+   "what": "美國製造業與服務業PMI初值，預期分別為55.4與57.9，均低於前值"
   },
   {
    "when": "10/23 22:00",
-   "what": "密大消費者信心終值（預期46.3）與通膨預期修正值（前值4.7%）"
+   "what": "密大消費者信心終值（預期46.3）與通膨預期"
   },
   {
    "when": "10/23 晚間",
-   "what": "觀察那指期貨與費半能否止穩，以及美債殖利率、油價與中東消息"
+   "what": "美股開盤是否延續AI賣壓，留意那指期貨與費半反應"
   },
   {
-   "when": "10/27 盤後（下週）",
-   "what": "SK海力士財報，10/29有FOMC利率決議"
+   "when": "10/27 盤後",
+   "what": "SK海力士財報（下週一，超出48小時但攸關記憶體股）"
   }
  ],
- "generated_at": "2026-10-22T17:40:20Z",
+ "generated_at": "2026-10-23T05:26:36Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5718,
-  "output_tokens": 1310
+  "input_tokens": 5968,
+  "output_tokens": 1381
  }
 }
