@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T05:05:49Z",
+ "generated_at": "2026-10-24T16:17:31Z",
  "holdings": [
   {
    "symbol": "NOK",
@@ -1861,7 +1861,7 @@
    "currency": "USD",
    "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-10-23T20:38:20Z",
+   "as_of": "2026-10-23T20:38:21Z",
    "high_52w": 7844.52,
    "low_52w": 6316.91,
    "history": [
@@ -2701,7 +2701,7 @@
    "ext": null,
    "as_of": "2026-10-23T18:59:56Z",
    "high_52w": 5.364,
-   "low_52w": 3.956,
+   "low_52w": 0.0,
    "history": [
     {
      "d": "2026-07-23",
@@ -4099,7 +4099,7 @@
    "ext": null,
    "as_of": "2026-10-23T06:30:02Z",
    "high_52w": 2987000.0,
-   "low_52w": 491500.0,
+   "low_52w": 501000.0,
    "history": [
     {
      "d": "2026-07-23",
@@ -4363,7 +4363,7 @@
    "currency": "KRW",
    "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-10-24T03:30:52Z",
+   "as_of": "2026-10-24T03:30:32Z",
    "high_52w": 1587.7,
    "low_52w": 1319.52,
    "history": [
