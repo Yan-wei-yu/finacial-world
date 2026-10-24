@@ -1,130 +1,118 @@
 {
- "headline": "AI股前一日重挫後喘息，費半反彈、油價與殖利率仍壓抑",
+ "headline": "油價破百、AI疑慮壓抑,那指小跌、費半靠記憶體反彈收紅",
  "mood": "中性",
- "mood_reason": "費半反彈但那指S&P收跌，油價破100美元、VIX升，避險情緒未退",
+ "mood_reason": "費半收紅但週線連三黑,油價、殖利率與AI支出疑慮仍壓抑,下週事件密集",
  "key_points": [
   {
-   "title": "前一日AI股重挫，今日僅暫歇",
-   "detail": "Meta重燃AI恐慌，前一交易日費半重挫近7%、台積電ADR跌逾4.5%。今日費半收漲0.58%，那指期貨小漲，但屬跌深後的暫歇，是否止穩仍待觀察。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 10,
-     "title": "〈美股盤後〉Meta重燃AI交易恐慌 費半狂瀉近7% 台積電ADR跌超4.5%",
-     "url": "https://news.cnyes.com/news/id/6636334",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 22,
-     "title": "Nasdaq Futures Steady as AI Selloff Pauses",
-     "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-steady-as-ai-selloff-pauses-275c6454?.tsrc=rss",
-     "source": "Yahoo Finance"
-    }
-   ]
-  },
-  {
-   "title": "油價突破100美元，壓抑大盤",
-   "detail": "美股早盤報導美油突破100美元，市場重燃通膨憂慮，主要指數下挫。S&P 500收跌0.45%、VIX升至20.24，風險偏好偏弱。",
+   "title": "油價突破100美元,道瓊重挫",
+   "detail": "美油突破100美元重燃通膨與升息憂慮,道瓊一度挫逾650點、收盤跌逾1%;那指跌0.21%、S&P 500跌0.52%。",
    "impact": "利空",
    "sources": [
     {
-     "n": 6,
+     "n": 3,
+     "title": "〈美股盤後〉油價衝破100美元！道瓊挫逾650點 費半小幅收紅、周線連三黑",
+     "url": "https://news.cnyes.com/news/id/6636803",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 4,
      "title": "〈美股早盤〉 美油價格突破100美元 重燃市場憂心 主要指數下挫",
      "url": "https://news.cnyes.com/news/id/6636691",
      "source": "鉅亨網"
     },
     {
-     "n": 23,
-     "title": "Stock Market Reels From 2 World-Changing Factors",
-     "url": "https://finance.yahoo.com/m/fe465e5e-a239-3e50-8c3a-99434c1825f0/stock-market-reels-from-2.html?.tsrc=rss",
-     "source": "Yahoo Finance"
+     "n": 39,
+     "title": "美股收盤｜道瓊跌逾1%，市場緊盯科技巨頭AI支出與Fed決策",
+     "url": "https://news.cnyes.com/news/id/6636959",
+     "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "美債殖利率大幅波動、避險資金湧入",
-   "detail": "10年期殖利率前日跌破5%，創2023年銀行危機以來最大降幅，市場解讀為避險買盤。今日仍在4.99%附近，美銀Hartnett示警避險潮可能延續至11月中。",
+   "title": "AI支出疑慮擴大,信用風險升溫",
+   "detail": "對沖基金出現疫情以來罕見賣壓,新雲端業者重挫、信用風險攀升,AI基建資金面受關注。",
    "impact": "利空",
    "sources": [
     {
-     "n": 8,
-     "title": "AI股重挫掀避險潮 日圓勁升、美債殖利率跌破5% 今年升息押注降溫",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwam16NVZ0TGtLajhONHRDN2FncVVOaFlkVWR6QVV5WjZnUk84U1dwVGM0TmpHUWplOFBxZTE0emxodWJnb1F6dWtGSGFxMHNRaGVxeDh6eHdFQdIBX0FVX3lxTE9wR1huOFlrV09hQjJ6QVhJT29ld2JWRHVObGh6WGdMMXBvemZGeXhYcFZRaVZOVmptcFVQQ1BWLU9HSDUtSzBUZUFJX3pfOWdRMF8yS3FJWV9WcEE1Nk5N?oc=5",
-     "source": "經濟日報"
-    },
-    {
-     "n": 9,
-     "title": "10年期美債殖利率跌穿5% 創2023年銀行危機以來最大降幅",
-     "url": "https://news.cnyes.com/news/id/6636390",
+     "n": 1,
+     "title": "AI巨額支出疑慮引爆 全球對沖基金遭遇疫情以來罕見賣壓 三大策略同步跌逾1%",
+     "url": "https://news.cnyes.com/news/id/6637089",
      "source": "鉅亨網"
     },
     {
      "n": 37,
-     "title": "美銀Hartnett示警避險潮延續至11月中 股市、美元、殖利率齊跌",
-     "url": "https://news.cnyes.com/news/id/6636816",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 39,
-     "title": "「像極了矽谷銀行那天！」 科技股血崩資金瘋搶美債 十年期殖利率摔破5% 黑天鵝序幕？",
-     "url": "https://news.cnyes.com/news/id/6636463",
+     "title": "AI基建風暴升溫！新雲端業者全線重挫、信用風險攀升、Solidigm撤回IPO",
+     "url": "https://news.cnyes.com/news/id/6636976",
      "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "SK海力士取消Solidigm美國IPO，記憶體股反彈",
-   "detail": "SK海力士中止Solidigm赴美IPO，報導提及首爾當局關切與市場震盪；股價自早盤跌勢翻升逾4%，美光、SanDisk也走高。",
+   "title": "SK海力士撤回Solidigm美國IPO,記憶體股反彈",
+   "detail": "SK海力士ADR漲約4%,美光、SanDisk同步走高,帶動費半收紅0.44%,但週線仍連三黑。",
    "impact": "利多",
    "sources": [
     {
-     "n": 13,
-     "title": "SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO on Market Jitters",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE9EOHNwRFRHSUJvQzhaNTByNHIxdFVEM3JVbEFsUXpQdDQzQ1lsaVpBYmRHdWlVTVhVZG5rWG0yMzIyU3ZCcGlSZ2VaRmlOWlJ3Z0ZfUzJ6bWFRWFdOcWR0Q2hRall5YzZ3ZUFmanNWaHo0WkFSMnQ1LXRvX2lLUGp5U2x3bC1ZVXdtd3EwcjZTZGxLYUNXMWt3TDNDcVhmM0dv?oc=5",
-     "source": "WSJ"
+     "n": 3,
+     "title": "〈美股盤後〉油價衝破100美元！道瓊挫逾650點 費半小幅收紅、周線連三黑",
+     "url": "https://news.cnyes.com/news/id/6636803",
+     "source": "鉅亨網"
     },
     {
-     "n": 14,
+     "n": 7,
+     "title": "US Chip Stocks Rebound: Micron Jumps 3.5%, SK Hynix Gains 4.5% As Nasdaq Recovers",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2d4eV9XRF9xa25FNlJvVHowWnQ2d084QkMyTnM2dGJnaDdJVV9JS0hlYWVfZTZZcXlvTk1yNHlXYnEzcFRfWTY1YUxmanViUk5SaWhRc0ZXX2JXRDQ5UF91V082VEx4Ml9EMHlKOFRjTU1LSzhTZVdZZlY3VUk0a1kza2dvLVI5dWRoeDQ1VVBkUkFRZmpuM2YtSXJqTElsN0RtMDRtVlBUMHBIQkV6Tk1GY3NfUkwzT2FR0gHDAUFVX3lxTE95eFdySm5YbDQtNFVJQW9BYWQ3MWdIcEszYko2eHB3eTlFSEJscUR0a3ZsZGVvLWpma2ZtajFyOXI1LVRFRUUwNFpEQVc1MzltYWZfcmYzTllTTFVBUDE5blJ0RjVUNkFWQWIwcW91S2FNd1BwZHdnMGhWT1hpVGN6Ykl4aHNNWDRCNjNHSzlvVkthb3FEVTc2alZhcWFrTF9qQ09PU05WanpsSkNXcnZnMjdncmZOWTFQbDI0U3dPUGRHUQ?oc=5",
+     "source": "NDTV Profit"
+    },
+    {
+     "n": 10,
      "title": "SK Hynix Stock Jumps After Scrapping U.S. IPO of Memory-Chip Unit",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVlOVHRTZ1d3dlNOaUxUMUlkdkx5djZpdm1iaXA1Y1hwRGhfdF9vODIzLTVQaVJnbU8takxLNTB5dmt0Y3RFYTgwQzNkX0JhczUwcjNJS29UR1JwTHZURzU5Q2ZzTktvdFp0M3BoandZVEx4dFI1TWRzM0d6NE9uRkJYM05YMFk?oc=5",
      "source": "Barron's"
     },
     {
-     "n": 15,
-     "title": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans",
-     "url": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-     "source": "CNBC"
-    },
-    {
-     "n": 19,
-     "title": "SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakIxS1gtNjFlNDJKUVl5cUZZTGlsamY3UG5ST0Y5UjEyU1RUSmx2Skh3aXZIRE95MjFUdHdXOFhVZVpRZmVUclRwSVJMNUVnYWFSOXFRRzdYWXNBbDJxZlBMbXlmVGYtQ09KOWtrWnJZTXdEQmRzeHNDUi0tMGJoWXVmaHNqZTkyRm1CQmFUcUE4OEN3YnJWQ2M1cEo0d1hNQ3BzVVVLakd2SXVo?oc=5",
-     "source": "Reuters"
+     "n": 14,
+     "title": "Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGZ1Y0F6UWZ0UDhvYUp3TnZubjRhUUhFbi15TFB3alRuX0JVQ3BmbXA2YkdNUERzVjZLVk1Ld3BnWFlnNkU5RHdrMmQxTjE5OF9TZmlzWGZ6U2U5UllZeGxLZ0o2WUVTWmk4blJVN3hxSWhQbHkxVUxlLVF0bW82MzYzcEpRQ0RlZER0dEJDVXhRbGpZclZ2b0pnOVY0UGY2S3F4dTRtRXVvR3dtV1IzMFNRV2stRm03bEE?oc=5",
+     "source": "Investing.com"
     }
    ]
   },
   {
-   "title": "記憶體需求論述撐腰，但亞洲股市仍弱",
-   "detail": "黃仁勳稱記憶體需求不嫌多，2029年過剩可能性不大。不過KOSPI領跌亞股，AI交易風向仍脆弱。",
+   "title": "殖利率、衰退與升息預期交錯",
+   "detail": "美債10年殖利率約4.99%;有前Fed顧問警告美國恐已陷衰退,金價則因升息預期跌破4000美元。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 36,
+     "title": "美債殖利率急跌、企業信用風險飆升！前Fed顧問：美國恐已陷衰退！",
+     "url": "https://news.cnyes.com/news/id/6636970",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 38,
+     "title": "〈貴金屬盤後〉金價摜破4000美元、本周重挫4% 油價漲勢鞏固Fed升息預期",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCM1FZUWxiWlBILU1Jc2JrbTRMUE5ETFJIeHBGbDR2ZFhWbXljc2RaYjFubnRtWG1hWmVKYUxzdHhYYXJscThSc3NkZw?oc=5",
+     "source": "鉅亨網"
+    }
+   ]
+  },
+  {
+   "title": "下週財報與FOMC事件密集",
+   "detail": "CNBC提醒下週風險大,科技巨頭AI支出與Fed決策是焦點,SK海力士10/27、微軟與Alphabet 10/28發布財報。",
    "impact": "中性",
    "sources": [
     {
-     "n": 1,
-     "title": "AI交易風向球跌！南韓KOSPI率亞洲股市下挫 日元和美債成避風港",
-     "url": "https://news.cnyes.com/news/id/6636446",
+     "n": 39,
+     "title": "美股收盤｜道瓊跌逾1%，市場緊盯科技巨頭AI支出與Fed決策",
+     "url": "https://news.cnyes.com/news/id/6636959",
      "source": "鉅亨網"
     },
     {
-     "n": 2,
-     "title": "美光股價重挫別擔心？黃仁勳高喊「記憶體永遠不嫌多」 分析師看好衝三倍高",
-     "url": "https://news.cnyes.com/news/id/6636394",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 4,
-     "title": "從「晶片荒」到「紅海」？ 輝達黃仁勳：2029年記憶體市場過剩可能性不大",
-     "url": "https://news.cnyes.com/news/id/6636454",
-     "source": "鉅亨網"
+     "n": 40,
+     "title": "Next week brings major risks for the stock market, just as the AI trade keeps faltering",
+     "url": "https://www.cnbc.com/2026/10/23/next-week-brings-major-risks-for-the-stock-market-just-as-the-ai-trade-keeps-faltering.html",
+     "source": "CNBC"
     }
    ]
   }
@@ -132,40 +120,40 @@
  "holdings": [
   {
    "symbol": "SKHY",
-   "note": "收漲3.98%，Solidigm IPO取消後由跌轉漲；10/27盤後財報是下一關鍵。",
+   "note": "收盤漲4.05%,受惠Solidigm IPO撤回,市場解讀為避開AI selloff下的上市壓力;10/27盤後財報是下一個焦點。",
    "sources": [
     {
-     "n": 14,
+     "n": 10,
      "title": "SK Hynix Stock Jumps After Scrapping U.S. IPO of Memory-Chip Unit",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVlOVHRTZ1d3dlNOaUxUMUlkdkx5djZpdm1iaXA1Y1hwRGhfdF9vODIzLTVQaVJnbU8takxLNTB5dmt0Y3RFYTgwQzNkX0JhczUwcjNJS29UR1JwTHZURzU5Q2ZzTktvdFp0M3BoandZVEx4dFI1TWRzM0d6NE9uRkJYM05YMFk?oc=5",
      "source": "Barron's"
     },
     {
-     "n": 15,
-     "title": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans",
-     "url": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-     "source": "CNBC"
+     "n": 21,
+     "title": "SKHY Stock Pops as SK Hynix Scraps Solidigm's U.S. IPO",
+     "url": "https://www.barchart.com/story/news/8380701/skhy-stock-pops-as-sk-hynix-scraps-solidigm-s-u-s-ipo?.tsrc=rss",
+     "source": "Yahoo Finance"
     },
     {
-     "n": 30,
-     "title": "SK Hynix Jumps 4% After Scrapping Solidigm’s U.S. IPO; Micron and SanDisk Edge Higher",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWTFXQmRYcmRsR0FZN3J1UUR4ZXdzck95aWRDWTFtSGdyTXo4MERRbzR5ekhxQWJFVkxYdmlEbDAzQzdKRldxbE9XQmx3OFZIbjN1RmF2TjhMWjJWdGhvT0lqSzlvVnZILW53QkJrYThKckluMkl5Ui10QlZwYmpqTHk5UEFEaGZlNE9zUnpzeVVCdWktZXc?oc=5",
+     "n": 29,
+     "title": "SK Hynix calls off Solidigm US IPO — and investors may like it",
+     "url": "https://finance.yahoo.com/video/sk-hynix-calls-off-solidigm-us-ipo--and-investors-may-like-it-132210877.html?.tsrc=rss",
      "source": "Yahoo Finance"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "收漲3.39%，隨美光、SanDisk等記憶體股走高，並受黃仁勳需求談話支撐。",
+   "note": "跟隨美光、SanDisk等記憶體股走強,收盤漲3.02%。",
    "sources": [
     {
-     "n": 2,
-     "title": "美光股價重挫別擔心？黃仁勳高喊「記憶體永遠不嫌多」 分析師看好衝三倍高",
-     "url": "https://news.cnyes.com/news/id/6636394",
-     "source": "鉅亨網"
+     "n": 7,
+     "title": "US Chip Stocks Rebound: Micron Jumps 3.5%, SK Hynix Gains 4.5% As Nasdaq Recovers",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2d4eV9XRF9xa25FNlJvVHowWnQ2d084QkMyTnM2dGJnaDdJVV9JS0hlYWVfZTZZcXlvTk1yNHlXYnEzcFRfWTY1YUxmanViUk5SaWhRc0ZXX2JXRDQ5UF91V082VEx4Ml9EMHlKOFRjTU1LSzhTZVdZZlY3VUk0a1kza2dvLVI5dWRoeDQ1VVBkUkFRZmpuM2YtSXJqTElsN0RtMDRtVlBUMHBIQkV6Tk1GY3NfUkwzT2FR0gHDAUFVX3lxTE95eFdySm5YbDQtNFVJQW9BYWQ3MWdIcEszYko2eHB3eTlFSEJscUR0a3ZsZGVvLWpma2ZtajFyOXI1LVRFRUUwNFpEQVc1MzltYWZfcmYzTllTTFVBUDE5blJ0RjVUNkFWQWIwcW91S2FNd1BwZHdnMGhWT1hpVGN6Ykl4aHNNWDRCNjNHSzlvVkthb3FEVTc2alZhcWFrTF9qQ09PU05WanpsSkNXcnZnMjdncmZOWTFQbDI0U3dPUGRHUQ?oc=5",
+     "source": "NDTV Profit"
     },
     {
-     "n": 20,
+     "n": 14,
      "title": "Micron, Sandisk gain as SK Hynix scraps Solidigm IPO, LYNX says",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGZ1Y0F6UWZ0UDhvYUp3TnZubjRhUUhFbi15TFB3alRuX0JVQ3BmbXA2YkdNUERzVjZLVk1Ld3BnWFlnNkU5RHdrMmQxTjE5OF9TZmlzWGZ6U2U5UllZeGxLZ0o2WUVTWmk4blJVN3hxSWhQbHkxVUxlLVF0bW82MzYzcEpRQ0RlZER0dEJDVXhRbGpZclZ2b0pnOVY0UGY2S3F4dTRtRXVvR3dtV1IzMFNRV2stRm03bEE?oc=5",
      "source": "Investing.com"
@@ -174,70 +162,57 @@
   },
   {
    "symbol": "NOK",
-   "note": "收漲2.86%，新聞聚焦Q3獲利成長、AI需求、與輝達AI-RAN合作及烏克蘭衛星通訊意向書。",
+   "note": "收盤漲3.30%,新聞面有烏克蘭衛星通信意向書、與輝達合作AI-RAN及財報後AI成長展望。",
    "sources": [
     {
-     "n": 28,
-     "title": "AI and cloud demand propels Nokia to 35% profit despite supply chain pressures",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT1Z2elVSSzRfSjhyMlp1SUVPZkd6Q3pmakR1NEZjMTY3ang1bkktYVh1MnhRRFdNV3VOWk9vdmo0SWhfZ1c1SV9iTk96T0xtOVk5YzZJenAwTjdqV2FvNmJ1NG9YdGxsb25FYmhzSXhBc3NOQjA4VFY5Y25PZVNJUy10UzNzaTl5NWY1cGFMYlViaVE2QjFKNGhvT1R2eF9UTURSVUZJVkZQRXZYaGRV?oc=5",
-     "source": "SDxCentral"
+     "n": 13,
+     "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGRfU1R6cVY4XzVLSzAydnlzRGVVODFrTWN6MlJiOUg4bEpZd3kwRkQzSjlrZGFlbmZ0dWN5VG1vSXNxZDJCRFlIdkVLZ3BMaWpvWW9mSmp0YnNCVVA1aW9OS054ak9EeVM3V0FYbEdxOGVXRl9iMlFBb0dGRzI1Z1I0RmwzRjNrekoyMHh4M1RFeGw2UmtubXVHZzNPeGJI0gGmAUFVX3lxTE0ydmZXaV9YbXVhZFlubGRld2VaMG5fdU4tMy1iTWhHZERsSEIyWGZ5RG9jdWd2UVd2ZDhMb21keldLUVFjWkRMNk1FUUk3RkhuRERfVG9JMGV6cmZjWFZTYXBqNm94NGtGcEVmb2RNNVAwY3NZN3hFMXM0S2txQzVrekJGR0JqaTFiMzRwQkdRTWJSVlBEQ1plT0tYWnJXMTNYSExtdlE?oc=5",
+     "source": "CNBC"
     },
     {
-     "n": 29,
-     "title": "Nokia Q3 Earnings Call Highlights AI Growth and 2027 Outlook",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzB6SE0ySENIWWZSU0pUZXJIaHp5ZGhDdk8tQWhmWEtCVi1LY29SS1VfZl8xQXZSU1VEQ0VfS05MUk5sQmFuOHp5X3djOE1PaVQ1czVMYjM2RGp6aFF3S3h0eEJ3djZtT0pZV0lzdkxUN2tBMlJPVllkZFN1b2RiNF9yV3pLcURhRW9GRGlMVGtQLVJQMlZabFNJSTlYQQ?oc=5",
-     "source": "Yahoo Finance"
-    },
-    {
-     "n": 32,
+     "n": 30,
      "title": "Nokia, Nvidia accelerate AI-RAN, physical AI commercial deployment",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ01JVnBEV2lFZG1SYUpocVp1aG9ZRVk0SURHQWN2SDhITjgyNW84aVhWa0hIdElZYVdqX0ZaSzJjMXFBa29hYVZFSlhNcFF0NUxSWG5wRXNkcTBWUEREWXdLZlRWWUlZZnowUlB2eTg5UXY5UzJtYzh6NldocVBaX0prcWcxc0ZtY0MyQWI1eWtUTlIzTG5BMU1ycVNfNjd2Q1dseGVPNzNtU1JYV1VB?oc=5",
      "source": "Computer Weekly"
     },
     {
-     "n": 35,
-     "title": "Ukraine signs letter of intent with Nokia and ICEYE on sovereign satellite communications",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObl82QmxvVnhRUFRpMUhBckNXcEdzdWM3QXN0M2RNc1VobFMxQmpjUjZXT2Q2U3Y3NDJORXBNYlhUQjl4NVJNTm9KOWlyQnZSUUx5SWR3OW8wYzFiU0tWemdkenpBNUJGTGFBYjl5YUNxazZrZWFoZ2xSNUpZUlhiU2szNy1hZlBlaExJaUFSOC1hcWZVNklqbTV5cE1vQzc2UVBmbkZqVUtJTERSbDN2Zkc5TW01bWVibHc?oc=5",
-     "source": "Defence Industry Europe"
+     "n": 26,
+     "title": "Nokia Q3 Earnings Call Highlights AI Growth and 2027 Outlook",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzB6SE0ySENIWWZSU0pUZXJIaHp5ZGhDdk8tQWhmWEtCVi1LY29SS1VfZl8xQXZSU1VEQ0VfS05MUk5sQmFuOHp5X3djOE1PaVQ1czVMYjM2RGp6aFF3S3h0eEJ3djZtT0pZV0lzdkxUN2tBMlJPVllkZFN1b2RiNF9yV3pLcURhRW9GRGlMVGtQLVJQMlZabFNJSTlYQQ?oc=5",
+     "source": "Yahoo Finance"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "收漲2.98%；有報導提到美國擴大管制AI、量子運算等領域的資金流向，屬潛在政策風險。",
-   "sources": [
-    {
-     "n": 7,
-     "title": "不只禁晶片出口！美國再從資金下手 AI、量子運算、極音速與生技都納管",
-     "url": "https://news.cnyes.com/news/id/6636450",
-     "source": "鉅亨網"
-    }
-   ]
+   "note": "提供的新聞中沒有直接相關消息;11/5有財報,推估11/30 IPO閉鎖期到期。",
+   "sources": []
   }
  ],
  "watch_next": [
   {
-   "when": "10/24（週六）",
-   "what": "美股休市；留意週末油價、地緣與政策消息"
+   "when": "10/27(週二)盤後",
+   "what": "SK海力士財報,觀察記憶體需求與AI支出訊號"
   },
   {
-   "when": "10/27（週一）盤後",
-   "what": "SK海力士財報，EPS預估6.25"
+   "when": "10/28(週三)",
+   "what": "三星盤前財報,微軟與Alphabet盤後財報"
   },
   {
-   "when": "10/28（週二）",
-   "what": "三星盤前財報；Alphabet、微軟盤後財報"
+   "when": "10/29(週四)凌晨",
+   "what": "FOMC利率決議(台灣時間約10/30凌晨,實際時點以官方為準)"
   },
   {
-   "when": "10/29（週三）",
-   "what": "FOMC利率決議（台灣時間以公布為準）；亞馬遜、英特爾、SanDisk財報"
+   "when": "10/31(週六)",
+   "what": "TrendForce DRAM/NAND合約價公布"
   }
  ],
- "generated_at": "2026-10-23T17:30:23Z",
+ "generated_at": "2026-10-24T05:05:49Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5772,
-  "output_tokens": 1331
+  "input_tokens": 5811,
+  "output_tokens": 1233
  }
 }
