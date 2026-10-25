@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T05:22:55Z",
+ "generated_at": "2026-10-25T16:51:29Z",
  "holdings": [
   {
    "symbol": "NOK",
@@ -3251,14 +3251,10 @@
    "currency": "TWD",
    "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-10-23T21:29:05Z",
+   "as_of": "2026-10-25T13:52:00Z",
    "high_52w": 32.769,
    "low_52w": 30.362,
    "history": [
-    {
-     "d": "2026-07-24",
-     "c": 32.299
-    },
     {
      "d": "2026-07-27",
      "c": 32.3223
@@ -3517,6 +3513,10 @@
     },
     {
      "d": "2026-10-23",
+     "c": 32.597
+    },
+    {
+     "d": "2026-10-25",
      "c": 32.57
     }
    ],
@@ -4348,14 +4348,14 @@
   "KRW=X": {
    "symbol": "KRW=X",
    "name": "USD/KRW",
-   "price": 1325.4,
+   "price": 1323.66,
    "prev_close": 1325.4,
-   "change": 0.0,
-   "change_pct": 0.0,
+   "change": -1.74,
+   "change_pct": -0.13,
    "currency": "KRW",
    "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-10-25T03:30:32Z",
+   "as_of": "2026-10-25T13:52:00Z",
    "high_52w": 1587.7,
    "low_52w": 1319.52,
    "history": [
@@ -4621,7 +4621,7 @@
     },
     {
      "d": "2026-10-25",
-     "c": 1325.4
+     "c": 1323.66
     }
    ],
    "source": "info",
@@ -5479,10 +5479,10 @@
    "id": "adr-SKHY",
    "label": "SK 海力士 ADR 溢價",
    "note": "SKHY 相對首爾股價（1 ADR = 0.1 股）",
-   "value": 42.21,
+   "value": 42.03,
    "unit": "%",
    "adr_price": 137.02,
-   "implied_price": 96.35,
+   "implied_price": 96.47,
    "history": [
     {
      "d": "2026-09-08",
@@ -5733,7 +5733,7 @@
     },
     {
      "d": "2026-10-23",
-     "c": 14.3
+     "c": 14.4
     }
    ]
   }
