@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T16:17:31Z",
+ "generated_at": "2026-10-25T05:22:55Z",
  "upcoming": [
   {
    "symbol": "SKHY",
@@ -50,10 +50,10 @@
    "date": "2026-10-28",
    "datetime": "2026-10-28T20:00:00Z",
    "session": "盤後",
-   "eps_est": 4.71529,
+   "eps_est": 4.71992,
    "eps_low": 4.43,
-   "eps_high": 4.85929,
-   "rev_est": 90716592940.0,
+   "eps_high": 4.86,
+   "rev_est": 90751435050.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -120,10 +120,10 @@
    "date": "2026-11-04",
    "datetime": "2026-11-04T21:00:00Z",
    "session": "盤後",
-   "eps_est": 0.47446,
+   "eps_est": 0.47534,
    "eps_low": 0.46,
-   "eps_high": 0.49,
-   "rev_est": 1377405590.0,
+   "eps_high": 0.5,
+   "rev_est": 1377533970.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -354,9 +354,9 @@
     "datetime": "2026-07-29T00:00:00Z",
     "date": "2026-07-28",
     "eps_est": 4.87,
-    "eps_actual": 90.62,
-    "surprise_pct": null,
-    "suspect": true
+    "eps_actual": 9.06,
+    "surprise_pct": 86.07,
+    "suspect": false
    }
   ],
   "QNT": [

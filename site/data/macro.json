@@ -1,55 +1,135 @@
 {
- "generated_at": "2026-10-24T16:17:31Z",
+ "generated_at": "2026-10-25T05:22:55Z",
  "week": [
+  {
+   "title": "CB Consumer Confidence",
+   "title_zh": "經濟諮商會消費者信心",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "Medium",
+   "datetime": "2026-10-27T14:00:00Z",
+   "forecast": "80.5",
+   "previous": "81.9"
+  },
+  {
+   "title": "Federal Funds Rate",
+   "title_zh": "聯邦基金利率決議",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-28T18:00:00Z",
+   "forecast": "4.00%",
+   "previous": "4.00%"
+  },
+  {
+   "title": "FOMC Statement",
+   "title_zh": "FOMC 聲明",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-28T18:00:00Z",
+   "forecast": null,
+   "previous": null
+  },
+  {
+   "title": "FOMC Press Conference",
+   "title_zh": "FOMC 記者會",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-28T18:30:00Z",
+   "forecast": null,
+   "previous": null
+  },
+  {
+   "title": "Advance GDP q/q",
+   "title_zh": "GDP 季增年率（初值）",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-29T12:30:00Z",
+   "forecast": "3.2%",
+   "previous": "1.5%"
+  },
+  {
+   "title": "Core PCE Price Index m/m",
+   "title_zh": "核心 PCE 物價月增率",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "High",
+   "datetime": "2026-10-29T12:30:00Z",
+   "forecast": "0.3%",
+   "previous": "0.2%"
+  },
+  {
+   "title": "Advance GDP Price Index q/q",
+   "title_zh": "Advance GDP Price Index q/q",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "Medium",
+   "datetime": "2026-10-29T12:30:00Z",
+   "forecast": "3.5%",
+   "previous": "6.2%"
+  },
   {
    "title": "Unemployment Claims",
    "title_zh": "初領失業救濟金人數",
    "country": "USD",
    "country_label": "美國",
    "impact": "Medium",
-   "datetime": "2026-10-22T12:30:00Z",
-   "forecast": "200K",
-   "previous": "199K"
+   "datetime": "2026-10-29T12:30:00Z",
+   "forecast": "198K",
+   "previous": "194K"
   },
   {
-   "title": "Flash Manufacturing PMI",
-   "title_zh": "製造業 PMI（初值）",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "Medium",
-   "datetime": "2026-10-23T13:45:00Z",
-   "forecast": "55.4",
-   "previous": "57.0"
+   "title": "BOJ Policy Rate",
+   "title_zh": "日本央行利率決議",
+   "country": "JPY",
+   "country_label": "日本",
+   "impact": "High",
+   "datetime": "2026-10-30T02:30:00Z",
+   "forecast": "<1.25%",
+   "previous": "<1.25%"
   },
   {
-   "title": "Flash Services PMI",
-   "title_zh": "服務業 PMI（初值）",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "Medium",
-   "datetime": "2026-10-23T13:45:00Z",
-   "forecast": "57.9",
-   "previous": "58.7"
-  },
-  {
-   "title": "Revised UoM Consumer Sentiment",
-   "title_zh": "密大消費者信心（終值）",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "Medium",
-   "datetime": "2026-10-23T14:00:00Z",
-   "forecast": "46.3",
-   "previous": "46.3"
-  },
-  {
-   "title": "Revised UoM Inflation Expectations",
-   "title_zh": "Revised UoM Inflation Expectations",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "Medium",
-   "datetime": "2026-10-23T14:00:00Z",
+   "title": "Monetary Policy Statement",
+   "title_zh": "貨幣政策聲明",
+   "country": "JPY",
+   "country_label": "日本",
+   "impact": "High",
+   "datetime": "2026-10-30T02:30:00Z",
    "forecast": null,
-   "previous": "4.7%"
+   "previous": null
+  },
+  {
+   "title": "BOJ Outlook Report",
+   "title_zh": "BOJ Outlook Report",
+   "country": "JPY",
+   "country_label": "日本",
+   "impact": "High",
+   "datetime": "2026-10-30T02:31:00Z",
+   "forecast": null,
+   "previous": null
+  },
+  {
+   "title": "BOJ Press Conference",
+   "title_zh": "日本央行記者會",
+   "country": "JPY",
+   "country_label": "日本",
+   "impact": "High",
+   "datetime": "2026-10-30T05:30:00Z",
+   "forecast": null,
+   "previous": null
+  },
+  {
+   "title": "Employment Cost Index q/q",
+   "title_zh": "就業成本指數季增率",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "Medium",
+   "datetime": "2026-10-30T12:30:00Z",
+   "forecast": "0.8%",
+   "previous": "0.9%"
   }
  ],
  "upcoming": [

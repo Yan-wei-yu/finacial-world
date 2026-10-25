@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T16:17:31Z",
+ "generated_at": "2026-10-25T05:22:55Z",
  "holdings": [
   {
    "symbol": "NOK",
@@ -1299,8 +1299,8 @@
    "symbol": "^IXIC",
    "name": "NASDAQ Composite",
    "price": 25955.342,
-   "prev_close": 26008.86,
-   "change": -53.518,
+   "prev_close": 26008.9,
+   "change": -53.558,
    "change_pct": -0.21,
    "currency": "USD",
    "market_state": "CLOSED",
@@ -1577,8 +1577,8 @@
    "symbol": "^SOX",
    "name": "PHLX Semiconductor",
    "price": 10779.464,
-   "prev_close": 10731.978,
-   "change": 47.486,
+   "prev_close": 10732.0,
+   "change": 47.464,
    "change_pct": 0.44,
    "currency": "USD",
    "market_state": "CLOSED",
@@ -2137,16 +2137,12 @@
    "change": -24.25,
    "change_pct": -0.08,
    "currency": "USD",
-   "market_state": "CLOSED",
+   "market_state": "REGULAR",
    "ext": null,
    "as_of": "2026-10-23T20:59:59Z",
    "high_52w": 31616.5,
    "low_52w": 22961.5,
    "history": [
-    {
-     "d": "2026-07-24",
-     "c": 28282.25
-    },
     {
      "d": "2026-07-27",
      "c": 28190.0
@@ -2691,7 +2687,7 @@
   },
   "^TNX": {
    "symbol": "^TNX",
-   "name": "10-Year Bond",
+   "name": "CBOE Interest Rate 10 Year T No",
    "price": 4.988,
    "prev_close": 4.953,
    "change": 0.035,
@@ -2979,16 +2975,12 @@
    "change": -0.058,
    "change_pct": -0.06,
    "currency": "USD",
-   "market_state": "CLOSED",
+   "market_state": "REGULAR",
    "ext": null,
    "as_of": "2026-10-23T20:59:59Z",
    "high_52w": 102.95,
    "low_52w": 95.55,
    "history": [
-    {
-     "d": "2026-07-24",
-     "c": 101.47
-    },
     {
      "d": "2026-07-27",
      "c": 101.51
@@ -3823,7 +3815,7 @@
    "currency": "TWD",
    "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-10-22T05:30:09Z",
+   "as_of": "2026-10-22T05:30:10Z",
    "high_52w": 2590.0,
    "low_52w": 1375.0,
    "history": [
@@ -4363,7 +4355,7 @@
    "currency": "KRW",
    "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-10-24T03:30:32Z",
+   "as_of": "2026-10-25T03:30:32Z",
    "high_52w": 1587.7,
    "low_52w": 1319.52,
    "history": [
@@ -4628,7 +4620,7 @@
      "c": 1325.99
     },
     {
-     "d": "2026-10-24",
+     "d": "2026-10-25",
      "c": 1325.4
     }
    ],
