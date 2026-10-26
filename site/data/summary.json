@@ -1,58 +1,102 @@
 {
- "headline": "AI交易降溫、殖利率近5%，週中聯準會與財報密集登場",
- "mood": "中性",
- "mood_reason": "那指小跌、費半收高，但美債10年達4.99%、記憶體循環疑慮升溫，大事件待揭曉",
+ "headline": "晶片股領軍反彈，費半大漲3.48%，焦點轉向財報與聯準會",
+ "mood": "偏多",
+ "mood_reason": "費半大漲、恐慌指數降、期貨續揚，但機構示警估值與AI風險",
  "key_points": [
   {
-   "title": "AI交易降溫，跨資產震盪",
-   "detail": "野村示警科技巨頭資本支出進退兩難，高盛提醒AI交易反轉與能源通膨可能推升美債殖利率風險；美債10年殖利率4.99%，壓抑科技股評價。",
+   "title": "Anthropic申請IPO點燃AI買盤",
+   "detail": "Anthropic搶上市帶動AI熱情，晶片股帶頭反彈，輝達、美光同步走揚，費半收漲3.48%、那指漲0.90%。",
+   "impact": "利多",
+   "sources": [
+    {
+     "n": 5,
+     "title": "〈美股早盤〉Anthropic搶上市點燃AI熱情！晶片股帶頭反彈 主要指數開高",
+     "url": "https://news.cnyes.com/news/id/6637786",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 34,
+     "title": "Anthropic申請IPO激勵科技股！美股開高輝達、美光同步走揚- 國際",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xWDNJc3JqNXBOYzJ3R3JrUVAyR1NKV19lSl9Qa2xIaVRWdFVES0xtQjZMcjJhV294bkpMUVpkV0x1YWdGSUx2OTVqODNWNkpZaDJUaWtab3FBTm8zcWdB?oc=5",
+     "source": "工商時報"
+    },
+    {
+     "n": 37,
+     "title": "Dow rises 200 points as oil falls and chip stocks rally ahead of a Fed decision",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kbFhIanJocXNwa3hTMHdnd1VONng2bWJpNjZ0dzF1Y19FbE01dFEyV0FHX3VEUWdUUUVLcDk4MEdPRmhNNjBsZy00LTVYZ0RDMExEZEJkaDh6eGxBQlFmZldDcGZvOUg3bUl3?oc=5",
+     "source": "Quartz"
+    }
+   ]
+  },
+  {
+   "title": "記憶體股走強，SK海力士傳特別股息",
+   "detail": "傳SK海力士出售鎧俠持股，將發約121億美元特別股息，周三揭曉；美銀對記憶體轉趨更正面，美光、SanDisk同步上揚。",
+   "impact": "利多",
+   "sources": [
+    {
+     "n": 11,
+     "title": "SK海力士傳發121億美元特別股息！出售鎧俠持股獲利20兆韓元、周三揭曉",
+     "url": "https://news.cnyes.com/news/id/6637573",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 22,
+     "title": "SK hynix Gains 3% on Reported $12 Billion Special Dividend From Kioxia Stake Sale",
+     "url": "https://www.tikr.com/blog/sk-hynix-gains-3-on-reported-12-billion-special-dividend-from-kioxia-stake-sale?ref=yahoofinance&.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 18,
+     "title": "Micron Rises as Bank of America Gets “Incrementally More Positive on Memory” After Executive Meetings",
+     "url": "https://www.tikr.com/blog/micron-rises-as-bank-of-america-gets-incrementally-more-positive-on-memory-after-executive-meetings?ref=yahoofinance&.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 8,
+     "title": "Micron, SanDisk and SK Hynix Stocks Climb as AI Memory Demand Takes Center Stage",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzBRR01wVzQtWkt5V0FsYVJDN3B5aE9GT0N3UXpPYkRPMjVURk5qNTc2dVpXNEZvZ2hIMXlTUjVhN1hMeGVGOVFJalhTM0g1QjdKZFV0WGNUSnNCeEQxWGdSTGxIS3JRcHBVWkJscnY5YkRxSXhUbXpzR1ZUR2R2UzhpeGZTVkZGazRfYnh6b0lYUjB6RUw0TFZFOA?oc=5",
+     "source": "Yahoo Finance"
+    }
+   ]
+  },
+  {
+   "title": "機構示警估值與AI風險",
+   "detail": "貝萊德降至中性、美銀警告估值偏高、匯豐也由加碼退到中立，點名中東與AI風險，追價情緒需留意。",
    "impact": "利空",
    "sources": [
     {
-     "n": 22,
-     "title": "AI交易降溫引爆跨資產震盪！野村示警：科技巨頭資本支出進退兩難",
-     "url": "https://news.cnyes.com/news/id/6637387",
+     "n": 2,
+     "title": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高",
+     "url": "https://news.cnyes.com/news/id/6637645",
      "source": "鉅亨網"
     },
     {
-     "n": 38,
-     "title": "Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uc3dDY3ZPZ1FUWmlhbGNhT19aaGdua3hSanZjb2EwRDVXbVo5YmVzSUdyNFAwQ3RhTWdRSGhWY0dJeVpNRGt3ZzNNVQ?oc=5",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 21,
-     "title": "AI跌倒、美債吃飽？全球資金爭奪戰 市場用錢投票",
-     "url": "https://news.cnyes.com/news/id/6637098",
+     "n": 12,
+     "title": "從最高加碼退到中立！匯豐看股市信心降溫 點名中東與AI風險",
+     "url": "https://news.cnyes.com/news/id/6637886",
      "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "記憶體循環見頂與中國競爭疑慮",
-   "detail": "CNBC引述CIO稱記憶體榮景接近循環高點，中國長鑫（CXMT）擴產帶來競爭；另有報導稱SK海力士預測偏弱，拖累記憶體股。",
+   "title": "記憶體循環與陸廠競爭疑慮",
+   "detail": "CNBC提到記憶體榮景接近循環高點、陸廠競爭升溫；長鑫傳優先供應中國市場、力拚DRAM自主。",
    "impact": "利空",
    "sources": [
     {
-     "n": 9,
+     "n": 14,
      "title": "Memory chip boom nears cyclical peak as Chinese competition grows: CIO",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjhzaGtPQWZmd2k1ZzFVd0F4MXN3cjFrWFM0UTE0bTlRTzhiRVFmTlQya0x6ZV9hcTZITzhicnUyVDlaQlZ0bXhyRmdIU0VNM19lTU9sVGxaaGdrZXh5U0p0YzFWYjNJUml4d05pb2M5ZC13Q2tsZE80aldvZkZybmZRcDB3aEQ2cS03c3ZNbV95U3N2clBfU2kzYnhrXzRNamJ6cmJKMzlTRmJwWmo3bzBB?oc=5",
      "source": "CNBC"
     },
     {
-     "n": 34,
-     "title": "CXMT DRAM Expansion: Risks to Micron and Memory Stocks",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHZneVhUVGtlMEN6WTFHRGhHcFY0NG1hckRwdnhzb3BUSDFLdWtmUE53dVFpWURSZERNcV9YQ25hbVFXc0lPRmVVVEVJTHJhai11enhIS05PdERrU1JLRnNEQVV5NTQzQTFSZl9jZ2kyRVhSY2M3TGJxX2Z4ejEwTjJZb3g4UlhkZThWcEQyNkVhdw?oc=5",
-     "source": "www.equiti.com"
+     "n": 13,
+     "title": "長鑫科技傳拒絕蘋果、台灣製造商記憶體訂單！優先供應中國市場、力拚DRAM自主",
+     "url": "https://news.cnyes.com/news/id/6637774",
+     "source": "鉅亨網"
     },
     {
-     "n": 35,
-     "title": "MU, SNDK, WDC, Memory Stocks Plunge After SK Hynix Issues Weak Forecast: Analyst Says ‘Estimates Are BS In Exponential Growth’",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVHR5dmVmZEZDZmpubGhUZVVJdGdsbS1OYlFiZGk4M2c5djd0M1hmWF9iRUpfNDhoNmtjOVVzMVhhamN3dFlhX1ZQMHFieFBXRlVLcEpoeXZQUFN6cXpkMzVOWjdOVkwzUFo1OUlEdjdFbHpjeUphYkJVUzM1RDdHLUJZX0tFMUFjS1RJV3NNRFFsWlpPdmVCYk9MMnhId1FGREVUd2ZtZ2x4MG1ZNVN2eWhzZTFGc21KQzRvczduTTZqVDlsM2N4SncyT3o5N3RNcmJMQlRtRDFra3VtQ2QzZTVhWkY4c1RCMnNCZUtucWhWdnVMQ2ZsYUpGTS0wb2QwZEhLQ3ZrNGsta2tRbVdvUS13?oc=5",
-     "source": "Stocktwits"
-    },
-    {
-     "n": 2,
+     "n": 3,
      "title": "China's CXMT Reportedly Won't Discount for Apple, Quoting Prices on Par with Samsung, SK hynix and Micron",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZVd2RllGUTdJLVNJNTNDWVBMWWNhQVRhdzR6eEQxRDJoN1ZWLU5Jb0tRTEdVU1lyd3BveTB4Y2JMX0FvblVWNElySHB3Nm45QVVQX1QwdXFrS3czV19va2l2Ym1MRzVvcEVGUlNxNTdQenNBbER1V2R1OVBuMjNKdHVJUmpkQQ?oc=5",
      "source": "XenoSpectrum"
@@ -60,199 +104,137 @@
    ]
   },
   {
-   "title": "SK海力士特別股息與財報",
-   "detail": "傳SK海力士因出售鎧俠持股獲利，擬發約121億美元特別股息，10/28（週三）公布股東回饋措施；10/27盤後另有財報。三星、SK海力士被預期Q3獲利創高。",
-   "impact": "利多",
-   "sources": [
-    {
-     "n": 8,
-     "title": "SK海力士傳發121億美元特別股息！出售鎧俠持股獲利20兆韓元、周三揭曉",
-     "url": "https://news.cnyes.com/news/id/6637573",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 28,
-     "title": "SK Hynix to announce steps to boost shareholder returns on Wednesday",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWx4UTlDVjlGVEQ4VlRud29jaTNKbVFVTTAwdDNMaGRUeVJYaHk1WnpZMFhTSkNBMmpZLVNFaThKQnlGbGNLZnF4Q3RkRWxzQ01QdFZRak5zUURmc19BX0NybFhwU3dweGh0LUYtTVY3N3pXMGVvalo5Rm5wU1UwcmZzSFJvRElQQXdzVWlBLUQ5b05LdWk0T0FTY1RmVml5aXZyVDZfS2dQc3Zsdzk3eklLM1M?oc=5",
-     "source": "Reuters"
-    },
-    {
-     "n": 31,
-     "title": "SK Hynix Plans $12 Billion Dividend From Kioxia Gains: Report",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0hwdnFGTF9JTmhhcG5QWFNkRjlxUS1XMzhBQ01SdllhS054dE11RHFrN0cyVDVmRy1oa3ZJSUFBNkstdUo3UkJvQVhtTDRXTzBXZC1hRVU2WlhDUVJHby1MaTFwZjZfN21ONmJBVjhMeG95SUt1bWo3VHF2amxRWGpmU09vZTUxUnU3Tldfd3BMM2pZV1k5by05Wng0ZkRROFBZUTBrZnMtQXFpOVZB?oc=5",
-     "source": "Bloomberg.com"
-    },
-    {
-     "n": 12,
-     "title": "Samsung, SK hynix Poised for Record Q3 Profits, Riding AI Memory Boom",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jaDVJTHVYUEw4aWtrYUVuTVREUmloNTZZclpTdldjUmZRVW1KTzRTdXpzVG1nX0hOYjNPNUdpcXk0RGExY3lGTzhwUmRMY1FpTGo0eU5LMnV4OEpBMk5YRGlCVXo0VmFrRDYycHAtRVc0Vjhq?oc=5",
-     "source": "Businesskorea"
-    }
-   ]
-  },
-  {
-   "title": "本週聯準會與大型科技財報",
-   "detail": "10/29 02:00 FOMC決議，預期利率維持4.00%；Alphabet、微軟、亞馬遜、英特爾財報將檢驗AI資本支出。",
+   "title": "本週財報與聯準會決議密集",
+   "detail": "微軟、Alphabet、亞馬遜財報將與FOMC同週登場，市場預期聯準會按兵不動，通膨升溫仍是變數。",
    "impact": "中性",
    "sources": [
     {
-     "n": 5,
-     "title": "本週操盤筆記：Fed議息會議、歐加日紐泰央行利率決議、谷歌微軟英特爾財報",
-     "url": "https://news.cnyes.com/news/id/6637099",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 26,
-     "title": "AI財報、聯準會利率決策華爾街進入關鍵一週| 國際焦點",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QWWxUNGhYVjJuRlV0UUNjMzh4eWRoTDQ3eHBOVmdSZFEwcnV0TUkzc1hJOFFuZHRtdWdBaC1uaW8tQWtiejNBUjVrQ1FNZ016cmZIOXBnMWRoY3Iy?oc=5",
-     "source": "太報 TaiSounds"
-    },
-    {
-     "n": 27,
-     "title": "【2026-10-26】《商傳媒｜美財經一週大事》美股市場從通膨陰影轉向AI股輪動",
-     "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxOUnN2aFhlUktFUF9tcUlSWllYWEMwRFdXTko0OFhhbW9IWmlPeldTSlNlWEt0UHhlR1R0WHZncnBxTnpDRl9HWkoyQjNYWGxheWRPUVlMYl9Uc25KN3BYUkotcXFvT2g5dlVnVEhZOFRDRUJzU2FheURJeUlSU0l0Ti1kZUhiaFNWbFk4RngxTW9ObThlVzVHOUF0blVDT3VEVmFteE1VUTBLMFpaSWJad1hCa3l3WkRZQjhyaWc3X2ZWeVEza3BhbGlIcXBEdER6Z0hBa3VIakNHZDVSaC1Ea1lPUlpNcDZyc0hacl9ibjNtQzRZdjBnOHgzaDA4aEJ3ZVF0dnRaVXpRcmF5RXY2Si1KVFlmRC15RGQzOU1sZjd6REN6anVhbXhIZV9UTVYzdjY1YkI4NjdnTmNqOVBzWGJuNm5ZWWJ6MFlQeFNnbXBCNUN4TnlnLXNvRWQ4S2l3a05KRVF2SjFpeWNCanRxVjVub3RqQ28tbjNpVW1TXzhWN0FTNW5ack8wMFQyQU13anV0Q0kwUTJhM2tGRng2NlpGakczTHdzbmJJLXYzbGxlN2pQS2EyVzJYZ0VrR2tvU1N3?oc=5",
-     "source": "商傳媒 - SUN MEDIA"
-    }
-   ]
-  },
-  {
-   "title": "南韓股市評價與目標價調整",
-   "detail": "韓股預估本益比僅4.2倍，高盛下調KOSPI目標價25%，但仍看好上漲逾60%；亞股今日晶片股拖累日韓股市。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 3,
-     "title": "韓股便宜到破紀錄 預估本益比僅4.2倍、兆美元市場首見",
-     "url": "https://news.cnyes.com/news/id/6636662",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 20,
-     "title": "高盛大砍南韓KOSPI目標價25%！但仍看好逾60%上漲空間",
-     "url": "https://news.cnyes.com/news/id/6637425",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 14,
-     "title": "Goldman Sachs Cuts Its Price Target for South Korea’s KOSPI",
-     "url": "https://beincrypto.com/goldman-sachs-cuts-kospi-target/?.tsrc=rss",
+     "n": 36,
+     "title": "Microsoft, Alphabet, Amazon Earnings Meet Fed Rate Decision: 3 Charts To Watch This Week",
+     "url": "https://stocktwits.com/news-articles/markets/equity/microsoft-alphanet-amazon-earnings-meet-fed-rate-decision-3-charts-to-watch-this-week/cZUdCB2RByS?.tsrc=rss",
      "source": "Yahoo Finance"
     },
     {
-     "n": 29,
-     "title": "Asian Markets Today: Nikkei, Kospi Fall As Chip Stocks Drag; Advantest, Tokyo Electron Shares Drop",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM1hzMVZzN0NSZjZtQnZzVmNZekZ0dUJXblFjOHN0MEp2bE5lX3NWN05ydFgwTlcwZW9JTlFBN2w3ZHpuT1NDaHFHMVhZbWJVcVhMa0JtY2RyV2ZDdHF1eFF4VHVONkRhcU80Sk5kT3FWSWdSVExid1dkMlNwU0NINl9zQ3FTT1FCUUpmNnlrTEVMZ1ZiRWFNb0tCcE9oUmhqTXFkQTQ4b29wV21fT1F4S0JCNlJlUlFrWmZTWi1RYWwxcUE2SlhHR2NQaHBodEdrdkljMNIB3AFBVV95cUxNeURXMjl5QnFyT3lUYzlUcjZtUmNNb1RBMVd2eDNrYnpCeFl2RF9SbGd1aXBGa010VF95MEQ0elpON3ZNS0RndHVWdTg5Z01QcHl1emZtTjQtVnR1d1FjakpUbEV3YTVVMWxTUEFyVVZqVkhKckE2RVBteGxqdExmRmwxbEJNd1dPZlNhSWFXZk1naTIyY084clNjZ0UyTGlmXy1QQy10ajZvVDVfOHdIcC04TTcwLXFWR0Q5X0U2YnlreEp3NWN5OUgyVGZScm5tMGdzeF9FZWRudm1X?oc=5",
-     "source": "NDTV Profit"
+     "n": 39,
+     "title": "通膨升溫為何不升息？Fed傳聲筒揭本周料按兵不動原因",
+     "url": "https://news.cnyes.com/news/id/6637869",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 33,
+     "title": "AI財報、聯準會關鍵決策與期中選舉：股市迎來關鍵兩週",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUjBkYkt1U1E2bkFHemtiT2ZFMDN3NFpxZGNGYnRrWnN6Q2FvWEYybXBPNWxDX0NJS1FMckFzeGJKOVZONmJfMzEyeHhEYm0yV1prbkFn?oc=5",
+     "source": "Business Insider Taiwan"
     }
    ]
   }
  ],
  "holdings": [
   {
-   "symbol": "SKHY",
-   "note": "今晚財報、週三股東回饋與特別股息傳聞是焦點；但報導指美國槓桿型相關基金將下市，且市場有AI降溫疑慮。",
+   "symbol": "NOK",
+   "note": "與輝達合作的AI-RAN在英國O2實網部署，報導稱效率提升約20%，題材面偏正面。",
    "sources": [
     {
-     "n": 1,
-     "title": "SK Hynix Leveraged Funds to Be Delisted in US as AI Rally Cools",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjFkb2lzQWp0RVhLeW4xek1mdk00blExYWVfYk9EZVZzS05pNWJydkpPaHBmcEJSYjg1SGZ5Ukl1Wk9YbUlFaHpzUXdCcTdGSHg0X0EwSTRJSEFsbGwxZDdVeEg5NUJScXlGSmpKT3FsM3MxN3IzZHg5eV9HWWtCVzJUNVM3YlZkT3NTYnVoamE4NHZtSXBiN1l4c0ZBWXdYNDJuRWNhUUNuMDBDS1ZCQTQ5VU4?oc=5",
-     "source": "Bloomberg.com"
-    },
-    {
-     "n": 8,
-     "title": "SK海力士傳發121億美元特別股息！出售鎧俠持股獲利20兆韓元、周三揭曉",
-     "url": "https://news.cnyes.com/news/id/6637573",
-     "source": "鉅亨網"
+     "n": 16,
+     "title": "O2 and Nokia deploy AI-RAN on live 5G network",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXNfRXVvaGtQVDY3RUJpTkJJX2VMbHZoS0pxb2RVenJXNXhTWDg3NDZQWTUyWndIeGR3UlNqQVotZFpTWFhaV3dWeW1EN19oRDhpaGlMM1ROai1aMGtudms1bDJPNnBubmZhWWFFd2tpTHQwTW1HWHFpNS16Qm1PcEU5MGRhbEQzYnlVNQ?oc=5",
+     "source": "Telecoms Tech News"
     },
     {
      "n": 28,
-     "title": "SK Hynix to announce steps to boost shareholder returns on Wednesday",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWx4UTlDVjlGVEQ4VlRud29jaTNKbVFVTTAwdDNMaGRUeVJYaHk1WnpZMFhTSkNBMmpZLVNFaThKQnlGbGNLZnF4Q3RkRWxzQ01QdFZRak5zUURmc19BX0NybFhwU3dweGh0LUYtTVY3N3pXMGVvalo5Rm5wU1UwcmZzSFJvRElQQXdzVWlBLUQ5b05LdWk0T0FTY1RmVml5aXZyVDZfS2dQc3Zsdzk3eklLM1M?oc=5",
-     "source": "Reuters"
+     "title": "O2 UK Trials Nokia AI-Powered RAN, 20% Efficiency Gain",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXlVMEdqZUpHNGpCUEtMcTAtaGtXNHNaQ1FaWGVjZW5HS2VKWGRFN3doNEgyS3BlZDZkX2xMRTJ4anUySE9fU1F5NlFVUUVlaVRNcjRyV2pQam5GZ2ZmZ2ZXaHBlR2tPU1BJUTJyc2VpcDlnSWVnRjdpV1BSUkI0cFcwT05KYWZTcC1GSUlqZEhTcEt4RzYwQ0dKSko2a3JvWXlCVGc2WF9SUGlQSXR0bjY5SmFrWWVfQ0ZtX1FVaTZiejJZVUE?oc=5",
+     "source": "Konsulteer"
+    },
+    {
+     "n": 23,
+     "title": "Bullish Nvidia proclaims AI-RAN work with Nokia as EMEA telcos pile in (and AI markets grow twitchy)",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSXc3Ylc2bF9mbm82MXA1VFBrM2d0YkM5dlN4dUFwaXRwR3Z4NnRSblcxZWgwUEVibTByLTR4eHQ1S2dCVkgwZDhnWl8yMkh1THdqZkp4Z2pSTjJvdGMwZHd1eTNTRDZJTlJNWlFzbVpXb0M2dy1reXRZLVU1bWl2VGkwQ2lWYVdWVUFHQUFqTURkZHlldEthRHNQMHVsbXhJWm5GZm5LVXJvS19hcDRudnVFUVpZNG1rT2FkMWFQcnJVcnlh?oc=5",
+     "source": "RCR Wireless News"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "記憶體循環見頂、長鑫擴產疑慮與SK海力士、三星財報並存，波動可能偏大。",
+   "note": "記憶體股走強，美銀轉趨正面；但陸廠競爭與循環高點疑慮仍在。",
    "sources": [
     {
-     "n": 9,
+     "n": 18,
+     "title": "Micron Rises as Bank of America Gets “Incrementally More Positive on Memory” After Executive Meetings",
+     "url": "https://www.tikr.com/blog/micron-rises-as-bank-of-america-gets-incrementally-more-positive-on-memory-after-executive-meetings?ref=yahoofinance&.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 14,
      "title": "Memory chip boom nears cyclical peak as Chinese competition grows: CIO",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjhzaGtPQWZmd2k1ZzFVd0F4MXN3cjFrWFM0UTE0bTlRTzhiRVFmTlQya0x6ZV9hcTZITzhicnUyVDlaQlZ0bXhyRmdIU0VNM19lTU9sVGxaaGdrZXh5U0p0YzFWYjNJUml4d05pb2M5ZC13Q2tsZE80aldvZkZybmZRcDB3aEQ2cS03c3ZNbV95U3N2clBfU2kzYnhrXzRNamJ6cmJKMzlTRmJwWmo3bzBB?oc=5",
      "source": "CNBC"
     },
     {
-     "n": 34,
-     "title": "CXMT DRAM Expansion: Risks to Micron and Memory Stocks",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHZneVhUVGtlMEN6WTFHRGhHcFY0NG1hckRwdnhzb3BUSDFLdWtmUE53dVFpWURSZERNcV9YQ25hbVFXc0lPRmVVVEVJTHJhai11enhIS05PdERrU1JLRnNEQVV5NTQzQTFSZl9jZ2kyRVhSY2M3TGJxX2Z4ejEwTjJZb3g4UlhkZThWcEQyNkVhdw?oc=5",
-     "source": "www.equiti.com"
-    },
-    {
-     "n": 12,
-     "title": "Samsung, SK hynix Poised for Record Q3 Profits, Riding AI Memory Boom",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jaDVJTHVYUEw4aWtrYUVuTVREUmloNTZZclpTdldjUmZRVW1KTzRTdXpzVG1nX0hOYjNPNUdpcXk0RGExY3lGTzhwUmRMY1FpTGo0eU5LMnV4OEpBMk5YRGlCVXo0VmFrRDYycHAtRVc0Vjhq?oc=5",
-     "source": "Businesskorea"
-    }
-   ]
-  },
-  {
-   "symbol": "NOK",
-   "note": "報導稱AI與雲端業務成長123%，但現金流入尚未跟上；另與ICEYE合作烏克蘭衛星通訊。",
-   "sources": [
-    {
-     "n": 17,
-     "title": "Nokia Q3 Earnings Beat Estimates as AI and Cloud Grow 123%, Yet Stock Still Falls Over 3% Pre-Market",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNmt5eGpiSkNWZ01nMzlPLTF6VndXVzBZd3lJY01KbDBYcHRHMC1DQ3pybXNiRXpEZUFIakI3MWxhdERfU2Y0OTVwNEo3bVl6X05lZ241amxub0J0c2ZXNVV4R3MxZUZLWnFtT1FDU1lIeXo3djNmc1B4cjNsX1dDaFJTd0g1U0I0Q0dPRzFDSEtETUwxb2pzNW1oV0Z1aFFwNTlDQnZ4aWMtT1pza0RJbVltX1NSclcwLU85OTB2dVRsWGZLZDNlQjB1bw?oc=5",
-     "source": "TradingKey"
-    },
-    {
-     "n": 16,
-     "title": "Nokia's AI Order Book Is Filling Fast, but the Cash Register Is Still Empty",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQmQ3ODNpRDZsM0lXcHRVXy1lVDFWS0pyQ0dOU1JpQ0JHeE1ZRURONGRMbXNxWlFJR1ZJdkxFVkhISnZWY0t6RWN2VXY5LWZ0QjZLWmZ5ZHpibFRQbW9LRlZsV2dITkxjSVNINGczdC1DU1p3enFjcEo3d183ZWJHcS1TbUR2a2Q0RkZNSmpFY2VNUVRyR0N3VkV6bl81aHpTWHMtbjByVl9wcExjSVM4NWFSdGpfN0pGSGJfV0RFaEdIQkZtMmNneDY0cVBmaTBlQ0pHbGZwZFZuaGRyWDRR?oc=5",
-     "source": "ad-hoc-news.de"
-    },
-    {
-     "n": 24,
-     "title": "ICEYE and Nokia Partner With Ministry of Defence of Ukraine to Develop Sovereign Satcom Capability",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWHZlS0lOUWlwWW91dExZOHJzckIxUkFjT2Y4eEFfTUp2Qjk0cDdIcHRSYWxVM0hGVldmZV82cjJUY2NXbnl2UFVYdy1memtVdW05ZzBRUEpnTTUxSExXc2JXNl9oWjBBS205ck1YekVaRVJrWmZPLVJfblNQVHI4MkNmQXhudzVvakdySFA0Q0FBaUUxMzRxMDZfWlh3X20ydFIwNEQzQU1aNUZ4Q1EteWxvUjZ0T0JKbUEwNVhfRjZMbllQT3RUR1IzVTNaMmhIckEydTBWNFByRGk0R0dGZWZKTQ?oc=5",
-     "source": "Homeland Security Today"
+     "n": 13,
+     "title": "長鑫科技傳拒絕蘋果、台灣製造商記憶體訂單！優先供應中國市場、力拚DRAM自主",
+     "url": "https://news.cnyes.com/news/id/6637774",
+     "source": "鉅亨網"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "所提供新聞中沒有直接相關消息；財報排在11/5盤後，IPO閉鎖期推估11/30到期。",
+   "note": "提供的新聞無直接相關消息；11/5將公布財報，另有IPO閉鎖期到期推估日11/30。",
    "sources": []
+  },
+  {
+   "symbol": "SKHY",
+   "note": "特別股息傳聞與券商看好支撐股價；今日盤後財報及周三股息揭曉為焦點。美國槓桿基金下市消息需留意。",
+   "sources": [
+    {
+     "n": 11,
+     "title": "SK海力士傳發121億美元特別股息！出售鎧俠持股獲利20兆韓元、周三揭曉",
+     "url": "https://news.cnyes.com/news/id/6637573",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 17,
+     "title": "RBC Sees SK Hynix Riding AI’s Memory Boom",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BQWVPNlI5aUdMbXNKNkM4MkF1V1U2bHdDT0ZYSEVCcEdRU3VsdHp0Vzg3ejRyWWRfMVplMm9ZSG1pUExEN1B4M0oxQTQzZGJGUzVrT3Vka0xLU056OFYxcXE0YTRTUVBlZS1kbnluR2dnN21vdGFmRg?oc=5",
+     "source": "Finimize"
+    },
+    {
+     "n": 1,
+     "title": "SK Hynix Leveraged Funds to Be Delisted in US as AI Rally Cools",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjFkb2lzQWp0RVhLeW4xek1mdk00blExYWVfYk9EZVZzS05pNWJydkpPaHBmcEJSYjg1SGZ5Ukl1Wk9YbUlFaHpzUXdCcTdGSHg0X0EwSTRJSEFsbGwxZDdVeEg5NUJScXlGSmpKT3FsM3MxN3IzZHg5eV9HWWtCVzJUNVM3YlZkT3NTYnVoamE4NHZtSXBiN1l4c0ZBWXdYNDJuRWNhUUNuMDBDS1ZCQTQ5VU4?oc=5",
+     "source": "Bloomberg.com"
+    }
+   ]
   }
  ],
  "watch_next": [
   {
-   "when": "10/26 晚間至10/27",
-   "what": "SK海力士財報（10/27盤後，美東時間）及美股盤勢反應"
+   "when": "10/27 22:00",
+   "what": "美國經濟諮商會消費者信心（預期80.7，前值81.9）"
   },
   {
-   "when": "10/27 22:00",
-   "what": "美國消費者信心指數（預期80.5，前值81.9）"
+   "when": "10/27 盤後",
+   "what": "SK海力士財報（EPS預估6.42）"
   },
   {
    "when": "10/28 盤前",
-   "what": "三星電子財報；週三SK海力士公布股東回饋措施"
+   "what": "三星電子財報"
+  },
+  {
+   "when": "10/28 盤後",
+   "what": "Alphabet、微軟財報；傳SK海力士特別股息揭曉"
   },
   {
    "when": "10/29 02:00–02:30",
-   "what": "FOMC利率決議與記者會（預期維持4.00%）"
-  },
-  {
-   "when": "10/29 20:30",
-   "what": "美國GDP初值（預期3.2%）與核心PCE月增率（預期0.3%）"
+   "what": "聯準會利率決議（預期維持4.00%）與記者會"
   }
  ],
- "generated_at": "2026-10-26T05:25:28Z",
+ "generated_at": "2026-10-26T18:53:02Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 6228,
-  "output_tokens": 1360
+  "input_tokens": 6090,
+  "output_tokens": 1242
  }
 }
