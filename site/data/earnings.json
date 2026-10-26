@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T16:51:29Z",
+ "generated_at": "2026-10-26T05:25:28Z",
  "upcoming": [
   {
    "symbol": "SKHY",
@@ -8,7 +8,7 @@
    "date": "2026-10-27",
    "datetime": "2026-10-27T20:00:00Z",
    "session": "盤後",
-   "eps_est": 6.25287,
+   "eps_est": 6.42053,
    "eps_low": 5.7586,
    "eps_high": 6.772,
    "rev_est": 99678538450000.0,
@@ -81,7 +81,7 @@
    "eps_est": 0.39526,
    "eps_low": 0.37,
    "eps_high": 0.48,
-   "rev_est": 16473360700.0,
+   "rev_est": 16473499590.0,
    "rev_currency": "USD",
    "is_holding": false
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T16:51:29Z",
+ "generated_at": "2026-10-26T05:25:28Z",
  "holdings": [
   {
    "symbol": "NOK",
@@ -2132,14 +2132,14 @@
   "NQ=F": {
    "symbol": "NQ=F",
    "name": "Nasdaq 100 Dec 26",
-   "price": 29117.75,
-   "prev_close": 29142.0,
-   "change": -24.25,
-   "change_pct": -0.08,
+   "price": 29194.0,
+   "prev_close": 29117.75,
+   "change": 76.25,
+   "change_pct": 0.26,
    "currency": "USD",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-10-23T20:59:59Z",
+   "as_of": "2026-10-26T05:15:22Z",
    "high_52w": 31616.5,
    "low_52w": 22961.5,
    "history": [
@@ -2398,6 +2398,10 @@
     {
      "d": "2026-10-23",
      "c": 29117.75
+    },
+    {
+     "d": "2026-10-26",
+     "c": 29194.0
     }
    ],
    "source": "info",
@@ -2415,7 +2419,7 @@
    "ext": null,
    "as_of": "2026-10-23T20:15:01Z",
    "high_52w": 35.3,
-   "low_52w": 13.38,
+   "low_52w": 0.0,
    "history": [
     {
      "d": "2026-07-24",
@@ -2687,7 +2691,7 @@
   },
   "^TNX": {
    "symbol": "^TNX",
-   "name": "CBOE Interest Rate 10 Year T No",
+   "name": "10-Year Bond",
    "price": 4.988,
    "prev_close": 4.953,
    "change": 0.035,
@@ -2970,14 +2974,14 @@
   "DX-Y.NYB": {
    "symbol": "DX-Y.NYB",
    "name": "ICE US Dollar Index - Index - C",
-   "price": 101.752,
-   "prev_close": 101.81,
-   "change": -0.058,
-   "change_pct": -0.06,
+   "price": 101.657,
+   "prev_close": 101.607,
+   "change": 0.05,
+   "change_pct": 0.05,
    "currency": "USD",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-10-23T20:59:59Z",
+   "as_of": "2026-10-26T05:15:27Z",
    "high_52w": 102.95,
    "low_52w": 95.55,
    "history": [
@@ -3236,6 +3240,10 @@
     {
      "d": "2026-10-23",
      "c": 101.81
+    },
+    {
+     "d": "2026-10-26",
+     "c": 101.658
     }
    ],
    "source": "info",
@@ -3244,14 +3252,14 @@
   "TWD=X": {
    "symbol": "TWD=X",
    "name": "USD/TWD",
-   "price": 32.57,
-   "prev_close": 32.597,
-   "change": -0.027,
-   "change_pct": -0.08,
+   "price": 32.558,
+   "prev_close": 32.57,
+   "change": -0.012,
+   "change_pct": -0.04,
    "currency": "TWD",
-   "market_state": "CLOSED",
+   "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-10-25T13:52:00Z",
+   "as_of": "2026-10-26T05:25:26Z",
    "high_52w": 32.769,
    "low_52w": 30.362,
    "history": [
@@ -3516,8 +3524,8 @@
      "c": 32.597
     },
     {
-     "d": "2026-10-25",
-     "c": 32.57
+     "d": "2026-10-26",
+     "c": 32.558
     }
    ],
    "source": "info",
@@ -4082,25 +4090,17 @@
   "000660.KS": {
    "symbol": "000660.KS",
    "name": "SK hynix",
-   "price": 1277000.0,
-   "prev_close": 1223000.0,
-   "change": 54000.0,
-   "change_pct": 4.42,
+   "price": 1302000.0,
+   "prev_close": 1277000.0,
+   "change": 25000.0,
+   "change_pct": 1.96,
    "currency": "KRW",
-   "market_state": "CLOSED",
+   "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-10-23T06:30:02Z",
+   "as_of": "2026-10-26T05:05:28Z",
    "high_52w": 2987000.0,
    "low_52w": 501000.0,
    "history": [
-    {
-     "d": "2026-07-23",
-     "c": 1919000.0
-    },
-    {
-     "d": "2026-07-24",
-     "c": 1759000.0
-    },
     {
      "d": "2026-07-27",
      "c": 1816000.0
@@ -4340,6 +4340,10 @@
     {
      "d": "2026-10-23",
      "c": 1277000.0
+    },
+    {
+     "d": "2026-10-26",
+     "c": 1302000.0
     }
    ],
    "source": "info",
@@ -4348,14 +4352,14 @@
   "KRW=X": {
    "symbol": "KRW=X",
    "name": "USD/KRW",
-   "price": 1323.66,
-   "prev_close": 1325.4,
-   "change": -1.74,
-   "change_pct": -0.13,
+   "price": 1321.87,
+   "prev_close": 1323.66,
+   "change": -1.79,
+   "change_pct": -0.14,
    "currency": "KRW",
-   "market_state": "CLOSED",
+   "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-10-25T13:52:00Z",
+   "as_of": "2026-10-26T05:25:27Z",
    "high_52w": 1587.7,
    "low_52w": 1319.52,
    "history": [
@@ -4620,8 +4624,8 @@
      "c": 1325.99
     },
     {
-     "d": "2026-10-25",
-     "c": 1323.66
+     "d": "2026-10-26",
+     "c": 1321.78
     }
    ],
    "source": "info",
@@ -5479,10 +5483,10 @@
    "id": "adr-SKHY",
    "label": "SK 海力士 ADR 溢價",
    "note": "SKHY 相對首爾股價（1 ADR = 0.1 股）",
-   "value": 42.03,
+   "value": 39.11,
    "unit": "%",
    "adr_price": 137.02,
-   "implied_price": 96.47,
+   "implied_price": 98.5,
    "history": [
     {
      "d": "2026-09-08",
@@ -5610,10 +5614,10 @@
    "id": "adr-TSM",
    "label": "台積電 ADR 溢價",
    "note": "TSM 相對台股（1 ADR = 5 股）",
-   "value": 14.3,
+   "value": 14.26,
    "unit": "%",
    "adr_price": 418.51,
-   "implied_price": 366.13,
+   "implied_price": 366.27,
    "history": [
     {
      "d": "2026-09-09",
@@ -5739,7 +5743,7 @@
   }
  ],
  "fx": {
-  "USDTWD": 32.57
+  "USDTWD": 32.558
  },
  "errors": []
 }
