@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T18:53:02Z",
+ "generated_at": "2026-10-27T05:40:43Z",
  "week": [
   {
    "title": "CB Consumer Confidence",
@@ -8,7 +8,7 @@
    "country_label": "美國",
    "impact": "Medium",
    "datetime": "2026-10-27T14:00:00Z",
-   "forecast": "80.7",
+   "forecast": "81.2",
    "previous": "81.9"
   },
   {
@@ -68,7 +68,7 @@
    "country_label": "美國",
    "impact": "Medium",
    "datetime": "2026-10-29T12:30:00Z",
-   "forecast": "3.5%",
+   "forecast": "3.3%",
    "previous": "6.2%"
   },
   {

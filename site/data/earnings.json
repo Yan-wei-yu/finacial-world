@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T18:53:02Z",
+ "generated_at": "2026-10-27T05:40:43Z",
  "upcoming": [
   {
    "symbol": "SKHY",
@@ -11,7 +11,7 @@
    "eps_est": 6.42053,
    "eps_low": 5.7586,
    "eps_high": 6.772,
-   "rev_est": 99678538450000.0,
+   "rev_est": 99592133040000.0,
    "rev_currency": "KRW",
    "is_holding": true
   },
@@ -50,10 +50,10 @@
    "date": "2026-10-28",
    "datetime": "2026-10-28T20:00:00Z",
    "session": "盤後",
-   "eps_est": 4.71992,
+   "eps_est": 4.72072,
    "eps_low": 4.43,
    "eps_high": 4.86,
-   "rev_est": 90751435050.0,
+   "rev_est": 90735945570.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -64,10 +64,10 @@
    "date": "2026-10-29",
    "datetime": "2026-10-29T20:00:00Z",
    "session": "盤後",
-   "eps_est": 1.98231,
+   "eps_est": 1.98917,
    "eps_low": 1.85,
    "eps_high": 2.22,
-   "rev_est": 202202781700.0,
+   "rev_est": 202242791190.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -242,6 +242,18 @@
  ],
  "recent": [
   {
+   "symbol": "NOK",
+   "name_zh": "諾基亞",
+   "group": "holding",
+   "is_holding": true,
+   "datetime": "2026-10-22T10:00:00Z",
+   "date": "2026-10-22",
+   "eps_est": 0.07,
+   "eps_actual": 0.1,
+   "surprise_pct": 37.18,
+   "suspect": false
+  },
+  {
    "symbol": "LRCX",
    "name_zh": "科林研發",
    "group": "semis",
@@ -317,6 +329,14 @@
  "history": {
   "NOK": [
    {
+    "datetime": "2026-10-22T10:00:00Z",
+    "date": "2026-10-22",
+    "eps_est": 0.07,
+    "eps_actual": 0.1,
+    "surprise_pct": 37.18,
+    "suspect": false
+   },
+   {
     "datetime": "2026-07-23T05:00:00Z",
     "date": "2026-07-23",
     "eps_est": 0.07,
@@ -338,14 +358,6 @@
     "eps_est": 0.17,
     "eps_actual": 0.19,
     "surprise_pct": 15.33,
-    "suspect": false
-   },
-   {
-    "datetime": "2025-10-23T05:00:00Z",
-    "date": "2025-10-23",
-    "eps_est": 0.06,
-    "eps_actual": 0.07,
-    "surprise_pct": 26.03,
     "suspect": false
    }
   ],
