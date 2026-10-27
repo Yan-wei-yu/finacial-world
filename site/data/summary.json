@@ -1,71 +1,133 @@
 {
- "headline": "晶片股領軍反彈，費半大漲2.8%，聚焦海力士財報與FOMC",
+ "headline": "晶片股領軍反彈，費半大漲3.4%，靜待聯準會決議",
  "mood": "偏多",
- "mood_reason": "費半漲2.82%、VIX回落，記憶體題材強；但10年債4.99%與估值疑慮仍在。",
+ "mood_reason": "記憶體與AI晶片帶動反彈、油價回落，但10年期殖利率近5%、FOMC待決",
  "key_points": [
   {
-   "title": "AI與記憶體股帶動晶片反彈",
-   "detail": "Anthropic搶上市點燃AI熱情，晶片股帶頭反彈；美光、SanDisk、SK海力士同步走強，費半收漲2.82%、那指漲0.82%。",
+   "title": "記憶體族群走強帶動費半",
+   "detail": "費半大漲3.39%，那指漲1.12%。西部數據漲逾6%，SK海力士、美光漲逾2%；韓股also大漲逾4%，資金回頭買AI記憶體。",
    "impact": "利多",
    "sources": [
     {
-     "n": 5,
-     "title": "〈美股早盤〉Anthropic搶上市點燃AI熱情！晶片股帶頭反彈 主要指數開高",
-     "url": "https://news.cnyes.com/news/id/6637786",
+     "n": 1,
+     "title": "〈美股早盤〉油價回落、晶片股續揚 主要指數開高靜待Fed決策",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0Q2cxT2s0UUxTVWRCdjR6SlllRUhiSU1ydDVhQ1VwUFFGU2picFcwYUVxODFmZmtHeUJvY19iZlNlV0hzR2ljaVVkZ0oyb0E?oc=5",
      "source": "鉅亨網"
     },
     {
-     "n": 10,
-     "title": "U.S. Stocks Open Higher as SK Hynix, Micron and SanDisk Advance",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BUXdMT1pWbU90QmxVVVNCSlhwRW1KY0I3VFlRTHZVbmRKX0djZzJ3T3RjYUU5TGo4MzlRYkE1VDZJWmsyUnRiOFNzeXdxbHJ5SmgxbXlhREpOQQ?oc=5",
-     "source": "www.tokenpost.com"
+     "n": 5,
+     "title": "美股異動｜存儲概念股走強，西部數據升超6%，SK海力士、美光升超2%",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zRE1uTHVacENOZTB3amc1QWhxNG1JWUNDUXNkbzFHVF9vOFQxMzZFem14LVZ5QUpST3RiU3FVMFBvNFV0ZDRubER0YnFEOU56OGlGLVpabXdwUEEyeDNjODJvUUFPcWE5cGc?oc=5",
+     "source": "TradingView"
     },
     {
-     "n": 13,
-     "title": "Micron, SanDisk and SK Hynix Stocks Climb as AI Memory Demand Takes Center Stage",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzBRR01wVzQtWkt5V0FsYVJDN3B5aE9GT0N3UXpPYkRPMjVURk5qNTc2dVpXNEZvZ2hIMXlTUjVhN1hMeGVGOVFJalhTM0g1QjdKZFV0WGNUSnNCeEQxWGdSTGxIS3JRcHBVWkJscnY5YkRxSXhUbXpzR1ZUR2R2UzhpeGZTVkZGazRfYnh6b0lYUjB6RUw0TFZFOA?oc=5",
+     "n": 6,
+     "title": "SK Hynix Jumps 6% as Asia Buys Back Into AI",
+     "url": "https://247wallst.com/investing/2026/10/27/sk-hynix-jumps-6-as-asia-buys-back-into-ai/?.tsrc=rss",
      "source": "Yahoo Finance"
+    },
+    {
+     "n": 9,
+     "title": "Global Market: South Korean shares jump over 4% as AI chip rally lifts Samsung, SK Hynix",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSkladGpEdlJWN1o4NERPSGtvT2lNWWZjcDV3WGpyQUozN0FGUWV0V19LdDRqTktTYlFZeTZJV25laXdEXzVOTFlCaEJOSzducTlrd2F5YmpTMXZIRDgzZ2o4VEJmQ2hZZkVIVGYwZF8wdEY3WXNuei13VWp2WlJmLWxpRG1iZTUwWVVnaXlhZkQ5UHN3anNjSmdwUHR5eUw0NG5FTFZWT1g4amhsTG8tcGVhRlNzWHZlVUhleWxOQWRUNTNCQ0JTUWhCMERpOWdJOUExTVZsQi02akk0Wm1JVGhmQWc0clpqanRQVlhMWDQ3bktD0gH6AUFVX3lxTE1wR1NLZWFIV2JMZFJQbDhzeERUeHJxSUJQYUhxTDd3c3FybU1zTkJKUm8yU3Z0bDVFajBzQnZSQlAzNGJFams1QUtIUGhleGhPQ2taMGx5TWFMLUp4b0gwR0tTdDFVVEZ6ejY1aC1xTG5ibFlxelU1QldtOEluV2tCLXV1UlVjQkE2blhjTTdYRm5QeVhSZ2Zic014WVdHd0tGMllfenRSbXhZQ01fTnlZSThQTmNGQ3M5S3NMbEN6SU9oMjBuOVA2My16MkJkVmZ3LVhROGJNaWE1TzFRQjJiZVktRWdKa2p5b2hKdDhaenlhWlcyNmtGcmc?oc=5",
+     "source": "The Economic Times"
     }
    ]
   },
   {
-   "title": "SK海力士股東回饋與財報登場",
-   "detail": "傳擬砸約60兆韓元回饋股東，今日盤後公布財報；市場關注AI記憶體榮景能否獲驗證，南韓股市一度大漲逾4%。",
+   "title": "SK海力士財報與股東回饋",
+   "detail": "報導指SK海力士擬加碼約60兆韓元回饋股東，全年獲利上看100兆韓元。財報已公布，市場在檢驗記憶體超級週期。",
    "impact": "利多",
    "sources": [
     {
-     "n": 8,
+     "n": 10,
      "title": "AI記憶體賺翻了！SK海力士擬砸60兆韓元回饋股東 全年上看100兆創新高",
      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPUnF1ZTZfbGVRUDJlY1A3bG1mb0xpdjZZR3dSbmVHV1J5a09rbHZnVFYtaFV0V2g5U1lYaENtMHlrLTY3Ni1FdTc5bXBLS0FwVnl5dmt0TUo2TzBXWFJpSmthOFNUUEVuRkJnVjFjWXY5UEpHMEl5ZkRRaUZiOFBiUzUyMXFGV1ZzYmY1ZTJJNXh5c3huWDRzWXhFZHdraVZ6ekZoNW4ycDN6Y25vaW1qT0VrbWUtazhQbnZGME1naXZrV01WWUxTY01VTmxDWE4teTZkbWZ6Q04yN3ItUGt0bC1CY2pMbU9yZ1F4ek1NbWo4RmlZQUxaUFBmMFJDM0t4azdKVFFHemEzMGZxT1RnT1RrQ09KSHZJckt5cHFydlpYOTdLMFNHTHNWZjRKblR6SjByQUJaN25jOTlXNEZEWl9BN3RVcmg5WXNyeWhuOVNNd2lTZW9rOHByWHJEbmpyTV83dVF0UHhtVGN4MEExZVNlbEFkekVVRm1QR0Exc2I4eEZyRkxXMkRmTVRKc0RPWHhuNGZJVWlCU0lfT0VGMjJR?oc=5",
      "source": "Yahoo股市"
     },
     {
-     "n": 9,
+     "n": 11,
      "title": "AI記憶體帶旺現金流 SK海力士擬加碼60兆韓元回饋股東",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vSDR6eVg2WTIxSlQ5OFoxUFppbVJPXzRfWXI3N1A0c25GdHczNkxiazF3a2N2dnJUZGNUSnN3ZjNVT280dERQNW1sb0lscVE?oc=5",
      "source": "鉅亨網"
     },
     {
-     "n": 19,
+     "n": 23,
      "title": "SK Hynix shares rise to two-week high on report of $12 billion dividend",
      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-shares-rise-two-020511834.html?.tsrc=rss",
      "source": "Yahoo Finance"
     },
     {
-     "n": 26,
-     "title": "AI存儲繁榮進入驗證期，SK海力士財報要回答三個關鍵問題",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbTRveDh2ZDY3MW5JeFctS3p3bmMzUmY4VUU1cGpRXzZsYThqdFR1SllkaFJjYnAwWmJ3S2VyTDdYeDhCVDBlUm9iRnBnY3NQbHR3U3d0eGw1VWV2dGFTbnlYNWVvLV9KeHZDcGtDZ1NKbmxmTVNiamFZXzhBdVhoWE8weDZIaW9rdHd1UEttRXhEVllLOGpad2hiNnlSLVFn?oc=5",
-     "source": "群益期貨"
+     "n": 28,
+     "title": "TradFi News | SK Hynix Reports Q3 With a New Shareholder-Return Plan as Investors Test the AI Memory Supercycle",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nSVpzaURJRlg1enVFV3FMX3dObzltazh1WVpzQ21oRk1GcmZPdFJBNEZSa1lfNi14TnJIX2lTNGFNMTZjcm9KQUVCZkR2N0FFTnpteWNUcUdBZ0tWV3hPRnNmcWk?oc=5",
+     "source": "Binance"
     }
    ]
   },
   {
-   "title": "HBM4與記憶體供應吃緊題材",
-   "detail": "傳三星與SK海力士2027年第二季量產8層HBM4供應輝達；另有報導稱記憶體荒延續至2027年，海力士目標價被上調。",
+   "title": "油價回落、伊朗和平預期",
+   "detail": "油價因伊朗和平預期下滑，期貨走高，緩解停滯性通膨疑慮。但10年期殖利率仍在4.99%，是估值的壓力。",
    "impact": "利多",
    "sources": [
     {
-     "n": 6,
+     "n": 12,
+     "title": "U.S. Futures Climb as Oil Falls on Iran Peace Hopes, Chip Stocks Extend Gains; FOMC Meeting on Tap",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXYtZDFIcDM5OXZRUkFORFR1SjlXZlJOZVlvd1lVb1dDWFN2Nk9ObzlmbFh2SGw0ZkZxUzR1cnNFRmJWU0hnay1LcnphTkhmQlpyUVg0dXZtLVpmRzM1VEduQVdRVTExenZDZXNtcVdreFo0WE4xT3VkYkQ5TGlGbzZZZC1nSlVLQ29qQ1lrd0pUM1VtTEg1OEdLM2dvb3l5NkRBSkpoenJ0WTNxdFctczlHM0dUc0RXRkNNOVNBZFU?oc=5",
+     "source": "Barchart.com"
+    },
+    {
+     "n": 1,
+     "title": "〈美股早盤〉油價回落、晶片股續揚 主要指數開高靜待Fed決策",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0Q2cxT2s0UUxTVWRCdjR6SlllRUhiSU1ydDVhQ1VwUFFGU2picFcwYUVxODFmZmtHeUJvY19iZlNlV0hzR2ljaVVkZ0oyb0E?oc=5",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 40,
+     "title": "AI熱潮降溫碰上油價飆漲 停滯性通膨陰影恐重返市場",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zMDBhVDhnSEpqdHZOQXM3WFVUVjl4NUFXbnhCY0MtQnMyMmFGTmdra1NUV0Q3X204TEhPSWV2aWZOMTQzd19zVmEtRXNZQzZmYXRlcVJvc0lMcmg0V0FpZ1pMXzdRUQ?oc=5",
+     "source": "民視財經網"
+    },
+    {
+     "n": 37,
+     "title": "美債10月反彈停歇 殖利率下一步牽動美股走向",
+     "url": "https://news.cnyes.com/news/id/6637956",
+     "source": "鉅亨網"
+    }
+   ]
+  },
+  {
+   "title": "FOMC與重磅財報週",
+   "detail": "聯準會預期按兵不動（4.00%），重點在聲明與記者會。Alphabet、微軟、亞馬遜、英特爾陸續公布財報，左右AI資本支出預期。",
+   "impact": "中性",
+   "sources": [
+    {
+     "n": 1,
+     "title": "〈美股早盤〉油價回落、晶片股續揚 主要指數開高靜待Fed決策",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0Q2cxT2s0UUxTVWRCdjR6SlllRUhiSU1ydDVhQ1VwUFFGU2picFcwYUVxODFmZmtHeUJvY19iZlNlV0hzR2ljaVVkZ0oyb0E?oc=5",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 12,
+     "title": "U.S. Futures Climb as Oil Falls on Iran Peace Hopes, Chip Stocks Extend Gains; FOMC Meeting on Tap",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXYtZDFIcDM5OXZRUkFORFR1SjlXZlJOZVlvd1lVb1dDWFN2Nk9ObzlmbFh2SGw0ZkZxUzR1cnNFRmJWU0hnay1LcnphTkhmQlpyUVg0dXZtLVpmRzM1VEduQVdRVTExenZDZXNtcVdreFo0WE4xT3VkYkQ5TGlGbzZZZC1nSlVLQ29qQ1lrd0pUM1VtTEg1OEdLM2dvb3l5NkRBSkpoenJ0WTNxdFctczlHM0dUc0RXRkNNOVNBZFU?oc=5",
+     "source": "Barchart.com"
+    },
+    {
+     "n": 18,
+     "title": "美股反彈，AI相關類股領軍上攻；市場預期聯準會按兵不動，殖利率持平、日圓貶至157字頭",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vN1gyRWw2cEpoTVlBXzctOS1iME1qaDR4Vm11Qm5yRXJqcWpDOU1QTzBHaU9qMmhjeVVnZk1WQzhoTUVSTHVqTUw3UjBPOGZkTkRadUEzeDl0bHh5ODBwSVFKcTJweExnQ2lLUUpfMC1BMmcwTW0tOGVR?oc=5",
+     "source": "BigGo 財經"
+    }
+   ]
+  },
+  {
+   "title": "HBM4供應鏈消息",
+   "detail": "韓媒指三星與SK海力士將於2027年第二季量產8層HBM4供應輝達；另有報導稱三星HBM營收可能首度超越SK海力士。",
+   "impact": "中性",
+   "sources": [
+    {
+     "n": 8,
      "title": "韓媒：三星電子與SK海力士2027年第二季量產8層HBM4供應輝達",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWa0stVUtrNTVkZUItcjktZGVlYXViNEJ2OTl1YVZHRnk1RlhidmoxNWd6aFRLZy1JREdmeG1vbWpLeUdxZ3A2QUNYT2NoU2c?oc=5",
      "source": "鉅亨網"
@@ -77,60 +139,10 @@
      "source": "DIGITIMES"
     },
     {
-     "n": 24,
-     "title": "Memory Chip Shortage Extends Into 2027 as SK Hynix Price Target Raised 40%",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KYjVuZEJabmRya3o3eEd5alUyLW4zTkNuWkV0WEw4OTRqOWpRYTJwa2Q2Z3lFRF8tMGJSME9QVkFEVDVOT1U3LXFIazdFNUpRV3dGVzJaMEJkamF3TFFaSnF0cVRKVGd2SHV2WVpFTXVJNURGeGc?oc=5",
-     "source": "BigGo Finance"
-    }
-   ]
-  },
-  {
-   "title": "機構示警估值與風險",
-   "detail": "貝萊德降至中性、美銀稱估值偏高、匯豐也下調看法；也有人認為回檔是買點。10年債殖利率在4.99%的高檔，油價與通膨仍是壓力。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 1,
-     "title": "多家機構示警美股風險！貝萊德降至中性、AI仍獲看好、美銀警告估值偏高",
-     "url": "https://news.cnyes.com/news/id/6637645",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 2,
-     "title": "美股有驚就是買點？Yardeni點名四大風險：牛市仍將延續",
-     "url": "https://news.cnyes.com/news/id/6638268",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 21,
-     "title": "從最高加碼退到中立！匯豐看股市信心降溫 點名中東與AI風險",
-     "url": "https://news.cnyes.com/news/id/6637886",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 36,
-     "title": "美債10月反彈停歇 殖利率下一步牽動美股走向",
-     "url": "https://news.cnyes.com/news/id/6637956",
-     "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "本週FOMC與大型科技財報密集",
-   "detail": "聯準會10/29凌晨決議，市場預期按兵不動；Alphabet、微軟、亞馬遜、英特爾等財報接連公布。那指期貨目前小跌0.31%。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 17,
-     "title": "美股反彈，AI相關類股領軍上攻；市場預期聯準會按兵不動，殖利率持平、日圓貶至157字頭",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vN1gyRWw2cEpoTVlBXzctOS1iME1qaDR4Vm11Qm5yRXJqcWpDOU1QTzBHaU9qMmhjeVVnZk1WQzhoTUVSTHVqTUw3UjBPOGZkTkRadUEzeDl0bHh5ODBwSVFKcTJweExnQ2lLUUpfMC1BMmcwTW0tOGVR?oc=5",
-     "source": "BigGo 財經"
-    },
-    {
-     "n": 40,
-     "title": "AI財報、聯準會關鍵決策與期中選舉：股市迎來關鍵兩週",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUjBkYkt1U1E2bkFHemtiT2ZFMDN3NFpxZGNGYnRrWnN6Q2FvWEYybXBPNWxDX0NJS1FMckFzeGJKOVZONmJfMzEyeHhEYm0yV1prbkFn?oc=5",
-     "source": "Business Insider Taiwan"
+     "n": 26,
+     "title": "Samsung Poised to Top SK Hynix in HBM Revenue for First Time, With Q4 Share Near 40%",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IR1c4Qk9oXzhfZDZ6ellQQW5ZSEhFRHppY2NJT0t0YS1rbktBTGYxdGJ6X0dBOUY3bzVzcjZsVUhIQlpRM3pLWkVjU3IwamhEQ0Nwbw?oc=5",
+     "source": "bloomingbit"
     }
    ]
   }
@@ -138,79 +150,85 @@
  "holdings": [
   {
    "symbol": "SKHY",
-   "note": "受股東回饋傳聞與HBM4消息推升，今晚盤後財報是短線焦點；ADR溢價約39%，波動可能偏大。",
+   "note": "SK海力士股東回饋計畫與記憶體需求題材推升股價，但ADR溢價達44%，須留意財報後波動。",
    "sources": [
     {
-     "n": 8,
+     "n": 10,
      "title": "AI記憶體賺翻了！SK海力士擬砸60兆韓元回饋股東 全年上看100兆創新高",
      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPUnF1ZTZfbGVRUDJlY1A3bG1mb0xpdjZZR3dSbmVHV1J5a09rbHZnVFYtaFV0V2g5U1lYaENtMHlrLTY3Ni1FdTc5bXBLS0FwVnl5dmt0TUo2TzBXWFJpSmthOFNUUEVuRkJnVjFjWXY5UEpHMEl5ZkRRaUZiOFBiUzUyMXFGV1ZzYmY1ZTJJNXh5c3huWDRzWXhFZHdraVZ6ekZoNW4ycDN6Y25vaW1qT0VrbWUtazhQbnZGME1naXZrV01WWUxTY01VTmxDWE4teTZkbWZ6Q04yN3ItUGt0bC1CY2pMbU9yZ1F4ek1NbWo4RmlZQUxaUFBmMFJDM0t4azdKVFFHemEzMGZxT1RnT1RrQ09KSHZJckt5cHFydlpYOTdLMFNHTHNWZjRKblR6SjByQUJaN25jOTlXNEZEWl9BN3RVcmg5WXNyeWhuOVNNd2lTZW9rOHByWHJEbmpyTV83dVF0UHhtVGN4MEExZVNlbEFkekVVRm1QR0Exc2I4eEZyRkxXMkRmTVRKc0RPWHhuNGZJVWlCU0lfT0VGMjJR?oc=5",
      "source": "Yahoo股市"
     },
     {
-     "n": 19,
+     "n": 23,
      "title": "SK Hynix shares rise to two-week high on report of $12 billion dividend",
      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-shares-rise-two-020511834.html?.tsrc=rss",
      "source": "Yahoo Finance"
     },
     {
-     "n": 6,
-     "title": "韓媒：三星電子與SK海力士2027年第二季量產8層HBM4供應輝達",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWa0stVUtrNTVkZUItcjktZGVlYXViNEJ2OTl1YVZHRnk1RlhidmoxNWd6aFRLZy1JREdmeG1vbWpLeUdxZ3A2QUNYT2NoU2c?oc=5",
-     "source": "鉅亨網"
+     "n": 28,
+     "title": "TradFi News | SK Hynix Reports Q3 With a New Shareholder-Return Plan as Investors Test the AI Memory Supercycle",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nSVpzaURJRlg1enVFV3FMX3dObzltazh1WVpzQ21oRk1GcmZPdFJBNEZSa1lfNi14TnJIX2lTNGFNMTZjcm9KQUVCZkR2N0FFTnpteWNUcUdBZ0tWV3hPRnNmcWk?oc=5",
+     "source": "Binance"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "記憶體供應吃緊與海力士、美光、SanDisk走強有利題材，但長鑫優先供應中國市場的消息值得留意。",
+   "note": "記憶體概念股同步走強，馬斯克談機器人記憶體需求，並有中國業者洽談長期合約的消息。",
    "sources": [
     {
-     "n": 13,
-     "title": "Micron, SanDisk and SK Hynix Stocks Climb as AI Memory Demand Takes Center Stage",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzBRR01wVzQtWkt5V0FsYVJDN3B5aE9GT0N3UXpPYkRPMjVURk5qNTc2dVpXNEZvZ2hIMXlTUjVhN1hMeGVGOVFJalhTM0g1QjdKZFV0WGNUSnNCeEQxWGdSTGxIS3JRcHBVWkJscnY5YkRxSXhUbXpzR1ZUR2R2UzhpeGZTVkZGazRfYnh6b0lYUjB6RUw0TFZFOA?oc=5",
+     "n": 5,
+     "title": "美股異動｜存儲概念股走強，西部數據升超6%，SK海力士、美光升超2%",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zRE1uTHVacENOZTB3amc1QWhxNG1JWUNDUXNkbzFHVF9vOFQxMzZFem14LVZ5QUpST3RiU3FVMFBvNFV0ZDRubER0YnFEOU56OGlGLVpabXdwUEEyeDNjODJvUUFPcWE5cGc?oc=5",
+     "source": "TradingView"
+    },
+    {
+     "n": 7,
+     "title": "Elon Musk Says Robots Will Need More Memory Than 'Everything Else on Earth' — This Analyst Sees 'Much Bigger Volume Story' for Micron, SK Hynix",
+     "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-robots-more-063041305.html?.tsrc=rss",
      "source": "Yahoo Finance"
     },
     {
-     "n": 24,
-     "title": "Memory Chip Shortage Extends Into 2027 as SK Hynix Price Target Raised 40%",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KYjVuZEJabmRya3o3eEd5alUyLW4zTkNuWkV0WEw4OTRqOWpRYTJwa2Q2Z3lFRF8tMGJSME9QVkFEVDVOT1U3LXFIazdFNUpRV3dGVzJaMEJkamF3TFFaSnF0cVRKVGd2SHV2WVpFTXVJNURGeGc?oc=5",
-     "source": "BigGo Finance"
-    },
-    {
-     "n": 23,
-     "title": "長鑫科技傳拒絕蘋果、台灣製造商記憶體訂單！優先供應中國市場、力拚DRAM自主",
-     "url": "https://news.cnyes.com/news/id/6637774",
-     "source": "鉅亨網"
+     "n": 33,
+     "title": "Chinese tech giants seek 10-year memory chip contracts with Samsung",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2ZKdV9Ia241RkdMcjNqcmtnZnRsaFJIRlhHbWR5WTZpbVRUbksteHVnLUpqczV1OGtWZHctdFdnLXM4cERyUXktSGZEOXBvZGp6TEJKdnZXZ2ZEZWF3a0xPSTBFNTVfcU1DSjBMY1BlNTV1Xzd0MzNGTDhQem1oVG1RUDBXWHFWQ1RyUFBVSQ?oc=5",
+     "source": "SamMobile"
     }
    ]
   },
   {
    "symbol": "NOK",
-   "note": "與輝達合作的AI-RAN在英國O2、BT實際網路部署的消息偏正面，股價收盤大漲6.14%。",
+   "note": "AI-RAN題材持續，與輝達合作並在英國、日本進行測試；有報導稱AI與雲端銷售年增123%。",
    "sources": [
     {
-     "n": 27,
-     "title": "Nokia advances AI-RAN toward commercial deployment and physical AI, launches sovereign agentic AI platform for telco autonomy with NVIDIA",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOOEQyaHRRa0NUQVZDLVJQZXVJUkVjTmJDaFhnR2QzQ2x2TXJfR3E3bk1QUnp5cFNGLUhRSUt2M2ZySVQwc01GTkwxckFsNzJNZ3V0X25BTzlZcHJiRVJxODU1ZWxqbE4zMUx3U3lOR3pHcmdMRzYzVDZBM3JXa0ZCbDhoY21lSUJ0ZkdMVl95ajJXaE1nWnRfUVZobG9aOUtqYmZTcTBhSzQ4Q2NyUzFHQmpBV00yV253NTNXZzZ4Ukg1aG45ck1RSnY1MWNPSFVPR2VGMW9jZWE5UFNBejhwMU1xOVE0UDZvZXAzbW9EcVJvZTBfalpNTVYtd3FYakV1MUNOTjVCeXJXTE0?oc=5",
-     "source": "Cyprus Shipping News"
+     "n": 25,
+     "title": "Capacity Global at NVIDIA GTC 2026: Nokia and NVIDIA on AI-RAN’s Next Phase",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEYxTV9lNml2UmFfbzRrQmhjalNwOV9PNFNJOXI5c3NnTHdhSVRDVEhzSFZHSjEtQ3pTaVdQUnZDMkVjdkJoUmhFMGwtV1FRMjI3ODhPbURwZGdMRHk5TWwwM3VWRWQ0ZHFuU0VYRGxSZmdXVVQ1bWlldnpQSGZ3Tnpoc19ER3pHRWcwRlVoM3VqcXdPZWZnQ2d2aDJ4el90M3pucDJiX3NEUQ?oc=5",
+     "source": "Capacity Media"
     },
     {
-     "n": 34,
-     "title": "BT to pioneer live AI-RAN deployment in the UK with NVIDIA and Nokia – now we need to make its future even brighter",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWlMbmNvdXhMaE5Xb3BnWXNYdDFmQmRiVERjRkljX2dDdnA4dDkzM1VtZGFiM2J5QzFRalZCeUtZYWRfcHFLY0NKdk9VanZvR1BreFlyY1RPT1l2YU1qUENSbzl5U3FQdVpnNk82eW1kRmlOUlhpMV9HaWdfY1NOZ0RUaDVLTGF5dHhWZkJ4RW9VNFFkMUQ2QmpYQVk2cTE5?oc=5",
-     "source": "BT Group"
+     "n": 27,
+     "title": "Nokia's AI and Cloud Sales Grew 123% in a Year. CEO Says the Demand Is \"Insatiable.\"",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFgxQmRNTTNjQmhQVVNTSmdYekNta25wQUpPTVZVM25oOWlRMTdEQ20tYlZ0amNnT0dON2JwTEVOd1VJTDF6S3dzZGZ0OGxNLWRUelFvQ0JMYWo4dFBzUnBxLXBxZEpUa0JaQlBHaUM3Q005ckZpd2dHOTlZYXppTGdxR05UVlg0NlJlM0hEUE10a2QwbVlDb1VZZjhONDB6d2lsU2VzNzdKZ2k2dmY5a3FXcGJwUWtKaFE?oc=5",
+     "source": "AIM Media House"
+    },
+    {
+     "n": 32,
+     "title": "O2 and Nokia claim first live deployment of 5G AI-RAN in UK",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQVlrd1FQT2FvMWhXWHBFU1RDOV9KMXpMalktdHkxVzhOQjl5QVR0Tm9ZYTlzUXpBSEtxYnQtYUw4ZDVoOXVlNXJzUHl2MFFKWlhkUFRmd0pNZFF0MFZ3LWZBUjdVSUZiYkZiQ2V1c2Z0QjFNa1FCRnZKcWdsalB6WGo0bmhBTmZ3NXlKeGNuUTVRc2Jia3RHNVE3UTNvRk5EMVJN?oc=5",
+     "source": "Computer Weekly"
     },
     {
      "n": 35,
-     "title": "O2 and Nokia deploy AI-RAN on live 5G network",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXNfRXVvaGtQVDY3RUJpTkJJX2VMbHZoS0pxb2RVenJXNXhTWDg3NDZQWTUyWndIeGR3UlNqQVotZFpTWFhaV3dWeW1EN19oRDhpaGlMM1ROai1aMGtudms1bDJPNnBubmZhWWFFd2tpTHQwTW1HWHFpNS16Qm1PcEU5MGRhbEQzYnlVNQ?oc=5",
-     "source": "Telecoms Tech News"
+     "title": "Nokia and SoftBank test AI-RAN in Japan",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VYm5tS0pzZWowWkdJUVRrcHBfZGY3UmR0ZEdRUWpRRU94UmNCeEJOXzJiUk05UW16ZjFRRVFIbU9jbUZiNThhRVVGVzE1YjY4UVNGVGVIRzhSa3hxRWZfM1dBNWowQ1ZBSUFEZmVPUQ?oc=5",
+     "source": "Total Telecom"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "英特爾收購Classiq，顯示量子運算題材升溫；Quantinuum與Oracle合作也有消息。11/5將公布財報。",
+   "note": "英特爾收購量子新創Classiq，帶動量子運算題材；本批新聞沒有Quantinuum的直接消息。",
    "sources": [
     {
      "n": 15,
@@ -219,51 +237,41 @@
      "source": "經濟日報"
     },
     {
-     "n": 20,
+     "n": 17,
      "title": "英特爾宣布收購以色列新創Classiq 強化量子運算軟硬體布局- 國際",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oT0NSdmNrLWg5XzBxeDRZY1JzR2Jlb3R2RGE3ejZIUGdRd3NjN0ZHTVVOemIxRGdxT1dQTkVYVTk1ZFJvYzk3d0dvQ2JVeEhNOW8tUFQ1Mk5NSnRzOEhn?oc=5",
      "source": "工商時報"
-    },
-    {
-     "n": 33,
-     "title": "Quantinuum And Oracle Advance Hybrid Quantum-AI Computing",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzYjdSTTlFWC00Z24zMWNxbXZMT0tXaU9uMHJCMm9wZ2EzRk9qc2NOeEZfeU9PbjRFTjg0cko4ZDVmUWxYc3lkS1BtSGdBTTVfOTY2RUtyUTJLcUZkdXRFUnpFMDdoQkJja0dRdXN5R1VkcW8?oc=5",
-     "source": "Quantum Zeitgeist"
     }
    ]
   }
  ],
  "watch_next": [
   {
-   "when": "10/27 22:00",
-   "what": "美國經濟諮商會消費者信心（預期81.2，前值81.9）"
+   "when": "10/28 盤前（台灣時間）",
+   "what": "三星電子財報，觀察HBM與記憶體展望"
   },
   {
-   "when": "10/27 盤後",
-   "what": "SK海力士財報（EPS預估6.42）"
-  },
-  {
-   "when": "10/28 盤前／盤後",
-   "what": "三星電子財報；Alphabet、微軟盤後財報"
+   "when": "10/28 盤後",
+   "what": "Alphabet、微軟財報，觀察AI資本支出"
   },
   {
    "when": "10/29 02:00–02:30",
-   "what": "FOMC利率決議（預期維持4.00%）、聲明與記者會"
-  },
-  {
-   "when": "10/29 20:30",
-   "what": "美國GDP初值（預期3.2%）、核心PCE、初領失業金"
+   "what": "FOMC利率決議與記者會，預期維持4.00%"
   },
   {
    "when": "10/29 盤後",
    "what": "亞馬遜、英特爾、SanDisk財報"
+  },
+  {
+   "when": "10/29 20:30",
+   "what": "美國GDP初值（預期3.2%）與核心PCE月增（預期0.3%）"
   }
  ],
- "generated_at": "2026-10-27T05:40:43Z",
+ "generated_at": "2026-10-27T18:21:41Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 6103,
-  "output_tokens": 1386
+  "input_tokens": 6143,
+  "output_tokens": 1295
  }
 }
