@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T06:21:31Z",
+ "generated_at": "2026-10-28T18:31:40Z",
  "upcoming": [
   {
    "symbol": "005930.KS",
@@ -53,7 +53,7 @@
    "eps_est": 1.98917,
    "eps_low": 1.85,
    "eps_high": 2.22,
-   "rev_est": 202242791190.0,
+   "rev_est": 202244141010.0,
    "rev_currency": "USD",
    "is_holding": false
   },
