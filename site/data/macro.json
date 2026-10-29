@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T18:31:40Z",
+ "generated_at": "2026-10-29T06:31:54Z",
  "week": [
   {
    "title": "CB Consumer Confidence",
@@ -133,19 +133,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "fomc-2026-10-28",
-   "title": "FOMC 利率決議",
-   "date": "2026-10-29",
-   "datetime": "2026-10-28T18:00:00Z",
-   "kind": "fomc",
-   "approx": false,
-   "affects": [
-    "NASDAQ",
-    "SOX"
-   ],
-   "note": "聲明公布後 30 分鐘主席召開記者會"
-  },
   {
    "id": "dram-contract",
    "title": "DRAM／NAND 合約價（TrendForce）",

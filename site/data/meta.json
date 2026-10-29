@@ -1,30 +1,30 @@
 {
- "last_full_run": "2026-10-28T18:31:40Z",
+ "last_full_run": "2026-10-29T06:31:54Z",
  "stages": {
   "quotes": {
    "ok": true,
    "message": "19/19 symbols updated",
-   "at": "2026-10-28T18:31:40Z"
+   "at": "2026-10-29T06:31:54Z"
   },
   "news": {
    "ok": true,
-   "message": "706 relevant of 808 fetched, 400 kept",
-   "at": "2026-10-28T18:31:40Z"
+   "message": "702 relevant of 791 fetched, 400 kept",
+   "at": "2026-10-29T06:31:54Z"
   },
   "earnings": {
    "ok": true,
-   "message": "16 upcoming, 8 recent",
-   "at": "2026-10-28T18:31:40Z"
+   "message": "13 upcoming, 10 recent",
+   "at": "2026-10-29T06:31:54Z"
   },
   "macro": {
    "ok": true,
-   "message": "13 events this week, 13 upcoming",
-   "at": "2026-10-28T18:31:40Z"
+   "message": "13 events this week, 12 upcoming",
+   "at": "2026-10-29T06:31:54Z"
   },
   "summary": {
-   "ok": true,
-   "message": "ok",
-   "at": "2026-10-28T18:31:40Z"
+   "ok": false,
+   "message": "error: Claude Code exit 1: You've hit your session limit · resets 7am (UTC)",
+   "at": "2026-10-29T06:31:54Z"
   }
  }
 }

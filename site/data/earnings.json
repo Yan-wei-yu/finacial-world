@@ -1,48 +1,6 @@
 {
- "generated_at": "2026-10-28T18:31:40Z",
+ "generated_at": "2026-10-29T06:31:54Z",
  "upcoming": [
-  {
-   "symbol": "005930.KS",
-   "name_zh": "三星電子",
-   "group": "memory",
-   "date": "2026-10-28",
-   "datetime": "2026-10-28T06:00:00Z",
-   "session": "盤前",
-   "eps_est": 13710.027,
-   "eps_low": 11793.08,
-   "eps_high": 14955.0,
-   "rev_est": 195940858880000.0,
-   "rev_currency": "KRW",
-   "is_holding": false
-  },
-  {
-   "symbol": "GOOGL",
-   "name_zh": "Alphabet",
-   "group": "capex",
-   "date": "2026-10-28",
-   "datetime": "2026-10-28T20:00:00Z",
-   "session": "盤後",
-   "eps_est": 2.96591,
-   "eps_low": 2.25023,
-   "eps_high": 3.19,
-   "rev_est": 127913936970.0,
-   "rev_currency": "USD",
-   "is_holding": false
-  },
-  {
-   "symbol": "MSFT",
-   "name_zh": "微軟",
-   "group": "capex",
-   "date": "2026-10-28",
-   "datetime": "2026-10-28T20:00:00Z",
-   "session": "盤後",
-   "eps_est": 4.72072,
-   "eps_low": 4.43,
-   "eps_high": 4.86,
-   "rev_est": 90736182420.0,
-   "rev_currency": "USD",
-   "is_holding": false
-  },
   {
    "symbol": "AMZN",
    "name_zh": "亞馬遜",
@@ -50,10 +8,10 @@
    "date": "2026-10-29",
    "datetime": "2026-10-29T20:00:00Z",
    "session": "盤後",
-   "eps_est": 1.98917,
+   "eps_est": 1.9925,
    "eps_low": 1.85,
    "eps_high": 2.22,
-   "rev_est": 202244141010.0,
+   "rev_est": 202264872830.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -92,10 +50,10 @@
    "date": "2026-11-03",
    "datetime": "2026-11-03T21:00:00Z",
    "session": "盤後",
-   "eps_est": 1.93464,
+   "eps_est": 1.93659,
    "eps_low": 1.72,
    "eps_high": 2.1,
-   "rev_est": 13077889730.0,
+   "rev_est": 13083021310.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -148,7 +106,7 @@
    "date": "2026-11-05",
    "datetime": "2026-11-05T21:00:00Z",
    "session": "盤後",
-   "eps_est": -0.3738,
+   "eps_est": -0.37394,
    "eps_low": -0.49,
    "eps_high": -0.31,
    "rev_est": 8066790.0,
@@ -227,6 +185,30 @@
   }
  ],
  "recent": [
+  {
+   "symbol": "MSFT",
+   "name_zh": "微軟",
+   "group": "capex",
+   "is_holding": false,
+   "datetime": "2026-10-28T20:00:00Z",
+   "date": "2026-10-28",
+   "eps_est": 4.72,
+   "eps_actual": 4.89,
+   "surprise_pct": 3.59,
+   "suspect": false
+  },
+  {
+   "symbol": "GOOGL",
+   "name_zh": "Alphabet",
+   "group": "capex",
+   "is_holding": false,
+   "datetime": "2026-10-28T20:00:00Z",
+   "date": "2026-10-28",
+   "eps_est": 3.01,
+   "eps_actual": 2.12,
+   "surprise_pct": -29.52,
+   "suspect": false
+  },
   {
    "symbol": "SKHY",
    "name_zh": "SK 海力士",
@@ -372,9 +354,9 @@
     "datetime": "2026-07-29T00:00:00Z",
     "date": "2026-07-28",
     "eps_est": 4.87,
-    "eps_actual": 9.06,
-    "surprise_pct": 86.07,
-    "suspect": false
+    "eps_actual": 90.62,
+    "surprise_pct": null,
+    "suspect": true
    }
   ],
   "QNT": [
