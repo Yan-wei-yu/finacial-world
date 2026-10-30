@@ -1,136 +1,167 @@
 {
- "headline": "科技股回檔，那指跌1.72%、費半跌2.31%，記憶體股領跌",
- "mood": "中性",
- "mood_reason": "前一日記憶體大漲後今日回落，費半跌逾2%，Alphabet財報與通膨壓抑風險偏好",
+ "headline": "AI支出疑慮重挫科技股，那指費半跌逾1.3%，期貨續跌近2%",
+ "mood": "偏空",
+ "mood_reason": "AI獲利疑慮擴散、亞股重挫，那指期貨再跌1.95%，持股盤後普遍走弱。",
  "key_points": [
   {
-   "title": "AI資本支出回收疑慮，科技股開低",
-   "detail": "Alphabet財報失色，加上通膨數據施壓，美股早盤主要指數開低，市場關注AI砸錢何時回本。那指期貨同步跌1.70%。",
+   "title": "Alphabet、Marvell暴跌拖累科技股",
+   "detail": "Alphabet重挫12%、Marvell崩跌逾13%，市場重新擔憂AI資本支出何時回本，那指與費半收盤各跌約1.4%，標普終止連三紅。",
    "impact": "利空",
    "sources": [
     {
-     "n": 32,
+     "n": 26,
+     "title": "〈美股盤後〉Alphabet狂瀉12% Marvell暴跌逾13% 拖累那指費半 標普終止連三紅",
+     "url": "https://news.cnyes.com/news/id/6641087",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 24,
+     "title": "一夜4790億美元沒了！谷歌暴跌12%、邁威爾崩13% 日股開低1.3% KOSPI跌逾4%",
+     "url": "https://news.cnyes.com/news/id/6641467",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 28,
      "title": "〈美股早盤〉AI砸錢何時回本？Alphabet財報失色、通膨又施壓 主要指數開低",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rS3BXUnBINkszbkptVTVJRUxDQ2c1ZWNpWklpT3AyRjVBMVNScTJkMXhTcE1Ha0pnNC10NWhKMzduczZfMno3Nm51dGN3cnM?oc=5",
      "source": "鉅亨網"
     },
     {
-     "n": 30,
-     "title": "Today’s Market Recap: Fed Holds Rates Steady, Memory Chip Sector Surges, Micron Up Over 5%, SanDisk Up Over 7%, Google Drops Nearly 10% After Hours",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU2l5Zm51N1Y5QXNpd2tpa0xRVTVMZkhxbkhOTVVoMmE2dzdjWDdFOXQ0alZDdDJaazZYOFpGOUg4eEVQVEQ0VlBmdTY1VTltdWo5cUFfLTRpLXJ1SVQ1cmJ0S25ZN2pYR0FqdFpGV0JfTTRaMnRfVDRObTU1VXhxb0NXMEtyUWszb0J4UEI3ZWJpQ2JRdmd4MU9yblpkV0ZIelJBcGtFMlRpMXlUeUNQZFl5MkZjSnJWLW03NFVtekJDby1CUy1nd1J4YWlCSV91a1Q0LVVlNUI?oc=5",
-     "source": "TradingKey"
-    },
-    {
-     "n": 31,
-     "title": "美股收紅、費半連漲四天！記憶體財報報喜，微軟與Google盤後兩樣情",
-     "url": "https://news.cnyes.com/news/id/6640216",
+     "n": 29,
+     "title": "邁威爾重挫13% 收購Lumentum傳聞為何讓投資人恐慌？",
+     "url": "https://news.cnyes.com/news/id/6641301",
      "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "記憶體族群獲利了結",
-   "detail": "SK海力士財報創高、稱缺貨延續至2030年，前一交易日ADR曾大漲逾10%。今日記憶體相關持股回落，DRAM ETF跌5.26%，需留意漲多後震盪。",
+   "title": "英特爾財測疲弱，PC受記憶體拖累",
+   "detail": "英特爾財測不如預期暴跌20%，歸咎PC市場放緩；報導指記憶體成本拖累PC，也波及三星與SK海力士。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 30,
+     "title": "〈財報〉英特爾財測疲弱暴跌20% 歸咎PC市場放緩",
+     "url": "https://news.cnyes.com/news/id/6641299",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 34,
+     "title": "半導體｜伺服器CPU缺到2028年 PC卻被記憶體拖垮 Intel財測低於預期",
+     "url": "https://news.cnyes.com/news/id/6641377",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 15,
+     "title": "Intel, Amazon Earnings Shock Send Samsung Electronics, SK Hynix Down 5% in Premarket",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fdHNROUktUXJHZHdsN2JFVUczell6U3FtY0xTT1ZSSE9ObjVRUHhjNm9FdEowZmhxWk80bDNmYklyUnhlSV9lb0p6dXVrNHZtcnNBQ0RyRXI3ck4zRk96MlRRNXRhMFZFMTEzbEFRUl80aUxMRkE?oc=5",
+     "source": "BigGo Finance"
+    }
+   ]
+  },
+  {
+   "title": "記憶體股遭獲利了結，亞股重挫",
+   "detail": "三星財報未達高標，美光、Sandisk一度跌約5%；韓股KOSPI跌逾4%至5%，日經跌逾1,600點。SKHY盤後再跌4.85%。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 6,
+     "title": "Sandisk and Micron Slide 5% as Samsung Miss Cools Memory Rally Ahead of Sandisk Earnings; SK Hynix Falls 3%, Western Digital Dips",
+     "url": "https://247wallst.com/investing/2026/10/29/sandisk-and-micron-slide-5-as-samsung-miss-cools-memory-rally-ahead-of-sandisk-earnings-sk-hynix-falls-3-western-digital-dips/?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 14,
+     "title": "KOSPI Plunges 4% as Samsung, SK Hynix Fall on U.S. AI Concerns",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVFiZ041cHJYcEpIZlpzS3BPZmF3UjNUMmNDTnRJejQ4T0x5Ml9vT25GajhHd1VqVEZESmhqdEJUb3o5d213VzF3WmNfTnpWbUNiZVV6QUF2MDFlcHM5c0lVOXQ3TXA3SFRNZnV5WWZmM045MWJnUjZncnNEMWN3TEx2Z0dNNTgzcDVJSDRR?oc=5",
+     "source": "조선일보"
+    },
+    {
+     "n": 23,
+     "title": "AI投資獲利疑慮再起！亞股跟隨美股重挫 日經跌逾1,600點、韓股續摔逾5％",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIOHR6WnJ0X0U4VHVONHdmRmNyWWNNZkRGb0VLRWR3eVkxanR1Q19oNjR6Ym53dTlTanJNdUpaUjR6X1J4QWt0STVjbTFwR2RMYWF4QUwzSldzZGRBeTk4?oc=5",
+     "source": "工商時報"
+    },
+    {
+     "n": 36,
+     "title": "Micron Stock Falls as Samsung Earnings Show the High Bar for Memory Stocks",
+     "url": "https://finance.yahoo.com/m/7fbdd7ac-29cf-35e9-899a-c22b75e113b8/micron-stock-falls-as-samsung.html?.tsrc=rss",
+     "source": "Yahoo Finance"
+    }
+   ]
+  },
+  {
+   "title": "AI融資壓力與信貸疑慮升溫",
+   "detail": "華爾街信貸市場開始擔憂AI燒錢潮的融資天花板，美銀建議年底前避免重押，市場對風吹草動更敏感。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 27,
+     "title": "AI燒錢潮撞融資天花板 華爾街信貸市場開始擔憂「吃不消」",
+     "url": "https://news.cnyes.com/news/id/6640460",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 40,
+     "title": "一點風吹草動就可能再跌！美銀年底前避免重押 緊盯AI舉債風險",
+     "url": "https://news.cnyes.com/news/id/6641155",
+     "source": "鉅亨網"
+    }
+   ]
+  },
+  {
+   "title": "記憶體基本面仍強，但難擋賣壓",
+   "detail": "SK海力士、三星獲利創紀錄，券商稱DRAM與HBM產能賣到2029年；Sandisk營收年增378%、毛利率85%，股價仍遭賣壓。",
    "impact": "中性",
    "sources": [
     {
-     "n": 4,
-     "title": "SK海力士ADR狂飆13%！營益率衝破天花板達80% 看好記憶體缺貨至2030年",
-     "url": "https://news.cnyes.com/news/id/6639734",
-     "source": "鉅亨網"
+     "n": 7,
+     "title": "三星電子SK海力士獲利創紀錄 看好AI前景齊擴大資本支出",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zMWN0QzBLWU85Y2Jyek5ydDhJMXhwQjN2Mzdld0hhRExUNmk3bmdWT2xZYjBNRkpQejZTOURhaVpmZklXUjAxVUVMTElJVXk5LWhN?oc=5",
+     "source": "中央社 CNA"
     },
     {
-     "n": 6,
-     "title": "美股｜Fed利率不動！4大指數齊紅 記憶體嗨起來 SK海力士奔漲13％",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9idGVhSFRzbFRjWU9sRlhuT3cwMHBFTUEyNzM4U0tiTGNVaVFTenF3WlhNYTAxVGlZY0JzTFE3QUFtUDRsWmlYTXFvM2l3V3VNUkQ5QTA5U2RHLTFIZ3V3?oc=5",
-     "source": "工商時報"
-    },
-    {
-     "n": 27,
-     "title": "AI記憶體需求強勁 SK海力士看缺貨延續至2030年",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JZGVrc1lOcUlfMWhuMkNTLTZlMTBXeUFEMnZCMVE3S1AxTlhTZnRBS01RSloxNkM2Q0dfR0FyeEg2anhpbS1VZnZPX3pmZk5NUVVVdURGMA?oc=5",
-     "source": "Rti 中央廣播電臺"
-    },
-    {
-     "n": 13,
-     "title": "記憶體搶貨潮炸裂！SK海力士、三星HBM產能接連售罄 客戶瘋簽長約鎖貨到2029年",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2MUtON0lYdVQ2X0tCYzlMazg0STUwVWQyQzZWbjU1b3NuU3otWmM5WWxqcmpWTjdJUWlSRHZYT2NhWHRfSDZGQVAxVEdmRGVqMkNzX01meGZxZGVQTldR?oc=5",
-     "source": "工商時報"
-    }
-   ]
-  },
-  {
-   "title": "記憶體基本面仍強",
-   "detail": "SK海力士、三星HBM產能傳售罄至2029年，券商上調SK海力士目標價至370萬韓元，支撐中長期題材。三星淨利遜預期、早盤一度跌逾5%。",
-   "impact": "利多",
-   "sources": [
-    {
-     "n": 13,
-     "title": "記憶體搶貨潮炸裂！SK海力士、三星HBM產能接連售罄 客戶瘋簽長約鎖貨到2029年",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2MUtON0lYdVQ2X0tCYzlMazg0STUwVWQyQzZWbjU1b3NuU3otWmM5WWxqcmpWTjdJUWlSRHZYT2NhWHRfSDZGQVAxVEdmRGVqMkNzX01meGZxZGVQTldR?oc=5",
-     "source": "工商時報"
-    },
-    {
-     "n": 18,
-     "title": "South Korea's SK Hynix Price Target Raised to 3.7 Million Won on \"DRAM, HBM Sold Out Through 2029\"",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLNWdGa3E2bGJ0aTVEdmduQVRxajFyZDlMaVNEQjVtWG5zblByWm53RXV0QS0teFBVR25SWjBxNmJFWTFaTWx4TUI4UG1yX3pyNjJvTnNFX25LNGZwWDFYemtMWU56eXNvZ0VSYUphWnh2ZXFFekE?oc=5",
-     "source": "BigGo Finance"
-    },
-    {
-     "n": 19,
+     "n": 17,
      "title": "SK海力士目標價上調至370萬韓元，券商看好DRAM與HBM產能「賣到2029年」",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aZ3pOZHVuQ0xGbGVZUFNxWHR1Q1dtc3RydEZVQUM1Y19CX0ZYMHA1Mm90ZGYyZ3ByVkFaX1RhOHVfc1laZ3ExWGFZVjNNN2x3U1dIUG90RUNQdGdVdHZhOTVXRU40REZyeUdLTElQend2Q0pqQ2p2RlB3?oc=5",
      "source": "BigGo 財經"
     },
     {
-     "n": 34,
-     "title": "〈財報〉三星Q3營收、營業利潤連四季創史高 惟淨利遜預期 早盤跌逾5%",
-     "url": "https://news.cnyes.com/news/id/6640279",
-     "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "Fed按兵不動，但利率前景仍受關注",
-   "detail": "Fed維持利率不變，前一日三大指數連三紅。美債10年殖利率4.99%，高利率是否拖累AI榮景仍是市場討論焦點。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 3,
-     "title": "〈美股盤後〉Fed按兵不動 三大指數連三紅 SK海力士ADR、甲骨文狂飆超10%",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DX1VDbG5TSVJlR1FUZGpLNXIyaGZYQ1hNd2xEeXpxVXFoRDlPWGtjYVFOckVVNE1WbEpudl9JOWpTMm1UT2FoTU5fMEs1WTg?oc=5",
+     "n": 25,
+     "title": "SanDisk Q1營收年增378% 宣布1拆8股票分割",
+     "url": "https://news.cnyes.com/news/id/6641304",
      "source": "鉅亨網"
     },
-    {
-     "n": 37,
-     "title": "The Fed’s AI Puzzle: Will High Rates Slow the Boom?",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd1ZMQXk2eUlQTVZkd1RXUDVkbFg3Z2tUVjR2dklsLXQ3YkYxNVNWbGM4TFU5am9rdUhwSGxrVnk2bjF1RzVJbG5hMGtjVjlReEwwMmJKN05fUmprYW9yNWt2QTg4dTlycEVjbktmVzVJQ0kwd013UGF0em84MTBrbXhjbS1qZnRyNjB1c2Fwck56M3VDMFU1dzRXaDFDaVdzNXRV?oc=5",
-     "source": "WSJ"
-    },
-    {
-     "n": 17,
-     "title": "「沒聽到任何人談論政治」華許駁斥期中選舉影響利率決策",
-     "url": "https://news.cnyes.com/news/id/6640099",
-     "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "歐央行同樣維持利率不變",
-   "detail": "歐洲央行與Fed皆未調整利率，歐股收高，全球央行政策暫無新驚喜。",
-   "impact": "中性",
-   "sources": [
     {
      "n": 39,
-     "title": "聯準會與歐洲央行維持利率不變 歐股收高",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uNWFlbzVKQ1ZKN1R0Vm9tcEptbDQ5amtVZktOUGxURWpVWVpKelZCOHA1UU9PVE81YkV1eUtrR0hPLVhQRzgyUzJFTlVkVGJjWFRHR21ISEQ0Z9IBX0FVX3lxTE1POUZmZVE5MV81SHZXaDFlZkEwaHFfbDhqd3JBeV80YmktR1JWUklIa1F1dDRMS1MzRHlYY253MHo0TVlfVHlydXNiTUNpMndPcHk5YzRwZ2FEUnpETXRB?oc=5",
+     "title": "Sandisk 財報／毛利率85%也難討好 晟碟盤後仍跌 市場憂記憶體好景不常",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrQlVOWW9TTDJiQkgxbC1ZeThKWkZBTl9STWFBYWN2ekEzcmxTSHpXVmJ1ekxBVWlwR2ZaZkl1ZkJsVTNJcHlsaUlSbXZxLXB6c0c1VUVJaDVtbklm0gFiQVVfeXFMTnVQTTNNM0pJQmZUOWstTlF5cjQteVlOQVlnbDBFZzRCY2szVUE4YllncUxyVU5NbFZmOC1zRm01cEZOUDFmdUM1Q1I4eTFkbVczT1g3UkdUZ2ZoT2p5SjBzdXc?oc=5",
      "source": "經濟日報"
+    }
+   ]
+  },
+  {
+   "title": "日銀按兵不動，日圓走強",
+   "detail": "日銀維持利率1.25%，首度認定通膨達標，為12月升息鋪路，日圓走強、美元因AI賣壓走軟。",
+   "impact": "中性",
+   "sources": [
+    {
+     "n": 33,
+     "title": "日銀按兵不動、首度認定通膨「達標」！為12月升息鋪路 日元兌美元應聲漲",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XRGlNQjYyYXV4SzJxS3pNTmROOVRveS1lUmpfdE0wU2JRQXNodEpKY1h2OGFiVmNETEc2SFJpdUhHOHFTYy1rRzdJbjRVSlU?oc=5",
+     "source": "鉅亨網"
     },
     {
-     "n": 40,
-     "title": "歐洲央行利率按兵不動 聚焦能源通膨與拉加德繼任人選",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zWUUzM2Fsc2dmcFVwcnVnOG1jaHYxdFhfRGJwamRKMTlya2FQMWsxT3Ntc19fSGdzNV9JOUJoZlQyRkZYOWNJbEVEOHdwTDA?oc=5",
-     "source": "鉅亨網"
+     "n": 38,
+     "title": "日本央行宣布通膨率達成2%目標維持利率1.25%不變| 國際",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kZ1JjMnRPTjRxekxEaGhQblpLb0dpY3JFLUxTZW1GYzlJSFAyZ2didGxxMkNNZFdEZDJuZWd3RTJIRjFVcU5CTFF6YUNEQTZVRmFNc3hMOHVaRnJxV1Fn?oc=5",
+     "source": "中央社 CNA"
+    },
+    {
+     "n": 22,
+     "title": "日本央行按兵不動示警通膨 日圓走強美元因AI賣壓走軟",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiNm9Oc3lQR1lpRG1FX092dHRsdDNyUURMWnVlazBwXzRmVXQzYVVqWU9lV2xVRFBiLVljaW5WZzd2ZnNPd1p4YW9NcVhvak5PZmJRZ2lfd0NKbzlKUVVrcUItR201UQ?oc=5",
+     "source": "民視財經網"
     }
    ]
   }
@@ -138,85 +169,106 @@
  "holdings": [
   {
    "symbol": "SKHY",
-   "note": "前日大漲後今日回落3.40%，基本面消息仍偏正面（缺貨至2030年、目標價上調）。",
+   "note": "受韓股崩跌與AI疑慮拖累，盤後再跌4.85%；基本面與目標價消息暫難抵銷賣壓。",
    "sources": [
     {
-     "n": 4,
-     "title": "SK海力士ADR狂飆13%！營益率衝破天花板達80% 看好記憶體缺貨至2030年",
-     "url": "https://news.cnyes.com/news/id/6639734",
-     "source": "鉅亨網"
+     "n": 14,
+     "title": "KOSPI Plunges 4% as Samsung, SK Hynix Fall on U.S. AI Concerns",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVFiZ041cHJYcEpIZlpzS3BPZmF3UjNUMmNDTnRJejQ4T0x5Ml9vT25GajhHd1VqVEZESmhqdEJUb3o5d213VzF3WmNfTnpWbUNiZVV6QUF2MDFlcHM5c0lVOXQ3TXA3SFRNZnV5WWZmM045MWJnUjZncnNEMWN3TEx2Z0dNNTgzcDVJSDRR?oc=5",
+     "source": "조선일보"
     },
     {
-     "n": 19,
+     "n": 17,
      "title": "SK海力士目標價上調至370萬韓元，券商看好DRAM與HBM產能「賣到2029年」",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aZ3pOZHVuQ0xGbGVZUFNxWHR1Q1dtc3RydEZVQUM1Y19CX0ZYMHA1Mm90ZGYyZ3ByVkFaX1RhOHVfc1laZ3ExWGFZVjNNN2x3U1dIUG90RUNQdGdVdHZhOTVXRU40REZyeUdLTElQend2Q0pqQ2p2RlB3?oc=5",
      "source": "BigGo 財經"
+    },
+    {
+     "n": 32,
+     "title": "Korean stocks tumble as US tech selloff hammers Samsung, SK Hynix",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXeFVKRE43QUh4YTQxaE84MXhYT0FKa0VZTTlDR2JscVI4Vy0yUjlGY0dHTVRmWG40YTNfdmpVMVUzby11NzJyemZUSl9kMG1EbWdldVhNSF9JZlMzTGRRNTdfdmw5Z1pCdXg5ZVh6ek05ZjczeERTcUFB?oc=5",
+     "source": "KED Global"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "記憶體ETF跌5.26%，跌幅大於大盤，反映前期漲多後的獲利回吐。",
+   "note": "追蹤記憶體族群，三星財報後美光、Sandisk走弱，盤後再跌4.35%。",
    "sources": [
     {
-     "n": 30,
-     "title": "Today’s Market Recap: Fed Holds Rates Steady, Memory Chip Sector Surges, Micron Up Over 5%, SanDisk Up Over 7%, Google Drops Nearly 10% After Hours",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU2l5Zm51N1Y5QXNpd2tpa0xRVTVMZkhxbkhOTVVoMmE2dzdjWDdFOXQ0alZDdDJaazZYOFpGOUg4eEVQVEQ0VlBmdTY1VTltdWo5cUFfLTRpLXJ1SVQ1cmJ0S25ZN2pYR0FqdFpGV0JfTTRaMnRfVDRObTU1VXhxb0NXMEtyUWszb0J4UEI3ZWJpQ2JRdmd4MU9yblpkV0ZIelJBcGtFMlRpMXlUeUNQZFl5MkZjSnJWLW03NFVtekJDby1CUy1nd1J4YWlCSV91a1Q0LVVlNUI?oc=5",
-     "source": "TradingKey"
+     "n": 6,
+     "title": "Sandisk and Micron Slide 5% as Samsung Miss Cools Memory Rally Ahead of Sandisk Earnings; SK Hynix Falls 3%, Western Digital Dips",
+     "url": "https://247wallst.com/investing/2026/10/29/sandisk-and-micron-slide-5-as-samsung-miss-cools-memory-rally-ahead-of-sandisk-earnings-sk-hynix-falls-3-western-digital-dips/?.tsrc=rss",
+     "source": "Yahoo Finance"
     },
     {
-     "n": 31,
-     "title": "美股收紅、費半連漲四天！記憶體財報報喜，微軟與Google盤後兩樣情",
-     "url": "https://news.cnyes.com/news/id/6640216",
+     "n": 36,
+     "title": "Micron Stock Falls as Samsung Earnings Show the High Bar for Memory Stocks",
+     "url": "https://finance.yahoo.com/m/7fbdd7ac-29cf-35e9-899a-c22b75e113b8/micron-stock-falls-as-samsung.html?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 39,
+     "title": "Sandisk 財報／毛利率85%也難討好 晟碟盤後仍跌 市場憂記憶體好景不常",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrQlVOWW9TTDJiQkgxbC1ZeThKWkZBTl9STWFBYWN2ekEzcmxTSHpXVmJ1ekxBVWlwR2ZaZkl1ZkJsVTNJcHlsaUlSbXZxLXB6c0c1VUVJaDVtbklm0gFiQVVfeXFMTnVQTTNNM0pJQmZUOWstTlF5cjQteVlOQVlnbDBFZzRCY2szVUE4YllncUxyVU5NbFZmOC1zRm01cEZOUDFmdUM1Q1I4eTFkbVczT1g3UkdUZ2ZoT2p5SjBzdXc?oc=5",
+     "source": "經濟日報"
+    }
+   ]
+  },
+  {
+   "symbol": "NOK",
+   "note": "收盤上漲，盤後跌3.76%；與軟銀測試AI-RAN屬題材消息，暫無足夠資料顯示直接影響。",
+   "sources": [
+    {
+     "n": 12,
+     "title": "Nokia and SoftBank test AI-RAN in Japan",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VYm5tS0pzZWowWkdJUVRrcHBfZGY3UmR0ZEdRUWpRRU94UmNCeEJOXzJiUk05UW16ZjFRRVFIbU9jbUZiNThhRVVGVzE1YjY4UVNGVGVIRzhSa3hxRWZfM1dBNWowQ1ZBSUFEZmVPUQ?oc=5",
+     "source": "Total Telecom"
+    },
+    {
+     "n": 24,
+     "title": "一夜4790億美元沒了！谷歌暴跌12%、邁威爾崩13% 日股開低1.3% KOSPI跌逾4%",
+     "url": "https://news.cnyes.com/news/id/6641467",
      "source": "鉅亨網"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "跌3.31%；提供的新聞未直接提及，11/5有財報，閉鎖期推估11/30到期。",
-   "sources": []
-  },
-  {
-   "symbol": "NOK",
-   "note": "逆勢漲0.81%；新聞僅提到與Semidynamics探索歐洲主權AI合作，影響有限。",
+   "note": "Quantinuum宣稱量子糾錯創紀錄，但盤後仍跌3.29%；11/5將公布財報。",
    "sources": [
     {
-     "n": 24,
-     "title": "Semidynamics and Nokia Explore Collaboration to Strengthen Europe’s Sovereign AI Capabilities",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWWp4YTJXQ2NUMG9BTVVqWU1wWDQ2QnZFTk53bExiRjdJOG45eHpmblpodTFfb3ZZczRxZjR5eUl6YjBMdjBib1Z1aGNxaGRIdFBzM2FnT2g0Ul9vbHIzemttdVpTR1VreHZnWHBqYmZrRlA1WjktOUdjazVZaW9lTUZOZHhPcHFoUjREaS1KRDlNR1BrcWpsUVlVUXdaZmtuWUdRWWNRYnlQRnFlZGR5T2FqLTFsVHAyS19zNk1hNDVuLWw1VmxRNGtNeW5oVW9v?oc=5",
-     "source": "EIN News"
+     "n": 31,
+     "title": "Quantinuum claims world record in quantum error correction",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeERZQW1QcWoyeXZXc1AtaDREREVsd3IteDdPaDZJc2JHS2thUFplc29HRldRWmNDWXczVnJha0Qya0tmSmdBblBtTGEtQ2FvNVFTb3dDd2NhaTdNbHRsY2V5SUVYaDlBNnB1eGR5eVdzQjdwV1l6aDBoNUh1RFhVdlBRSHNLc0w2dzhHaWpPYw?oc=5",
+     "source": "IT Brief New Zealand"
     }
    ]
   }
  ],
  "watch_next": [
   {
-   "when": "10/30 10:30–13:30",
-   "what": "日本央行利率決議與記者會"
+   "when": "10/30 20:30",
+   "what": "美國就業成本指數季增率（預期0.8%，前值0.9%），關注通膨與利率路徑"
   },
   {
-   "when": "10/30 20:30",
-   "what": "美國就業成本指數（預期0.8%，前值0.9%）"
+   "when": "10/30 美股盤中",
+   "what": "觀察那指期貨跌勢是否延續，以及SKHY、記憶體股盤後弱勢能否收斂"
   },
   {
    "when": "10/31",
-   "what": "TrendForce DRAM／NAND合約價"
+   "what": "TrendForce DRAM／NAND合約價，檢視記憶體報價動能"
   },
   {
    "when": "11/1",
-   "what": "韓國出口數據（含半導體）"
-  },
-  {
-   "when": "10/30 美股盤後",
-   "what": "留意亞馬遜、英特爾、SanDisk（10/29盤後公布）財報後的市場反應"
+   "what": "韓國10月出口數據（含半導體）"
   }
  ],
- "generated_at": "2026-10-29T18:40:22Z",
+ "generated_at": "2026-10-30T06:31:39Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 6240,
-  "output_tokens": 1223
+  "input_tokens": 6113,
+  "output_tokens": 1403
  }
 }
