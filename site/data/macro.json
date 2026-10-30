@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T06:31:39Z",
+ "generated_at": "2026-10-30T18:16:05Z",
  "week": [
   {
    "title": "CB Consumer Confidence",
@@ -117,7 +117,7 @@
    "country": "JPY",
    "country_label": "日本",
    "impact": "High",
-   "datetime": "2026-10-30T05:30:00Z",
+   "datetime": "2026-10-30T06:30:00Z",
    "forecast": null,
    "previous": null
   },

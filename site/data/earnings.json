@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T06:31:39Z",
+ "generated_at": "2026-10-30T18:16:05Z",
  "upcoming": [
   {
    "symbol": "AMD",
@@ -22,10 +22,10 @@
    "date": "2026-11-04",
    "datetime": "2026-11-04T21:00:00Z",
    "session": "盤後",
-   "eps_est": 0.47534,
+   "eps_est": 0.47583,
    "eps_low": 0.46,
    "eps_high": 0.5,
-   "rev_est": 1377533970.0,
+   "rev_est": 1378136240.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -224,7 +224,7 @@
    "date": "2026-10-27",
    "eps_est": 6.24,
    "eps_actual": 4.1,
-   "surprise_pct": -34.25,
+   "surprise_pct": -34.24,
    "suspect": false
   },
   {
@@ -353,16 +353,16 @@
     "date": "2026-10-27",
     "eps_est": 6.24,
     "eps_actual": 4.1,
-    "surprise_pct": -34.25,
+    "surprise_pct": -34.24,
     "suspect": false
    },
    {
     "datetime": "2026-07-29T00:00:00Z",
     "date": "2026-07-28",
     "eps_est": 4.87,
-    "eps_actual": 90.62,
-    "surprise_pct": null,
-    "suspect": true
+    "eps_actual": 9.06,
+    "surprise_pct": 86.07,
+    "suspect": false
    }
   ],
   "QNT": [
