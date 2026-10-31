@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T06:21:19Z",
+ "generated_at": "2026-10-31T17:22:49Z",
  "holdings": [
   {
    "symbol": "NOK",
@@ -2139,7 +2139,7 @@
    "currency": "USD",
    "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-10-30T20:59:59Z",
+   "as_of": "2026-10-30T21:00:00Z",
    "high_52w": 31616.5,
    "low_52w": 22961.5,
    "history": [
@@ -4359,7 +4359,7 @@
    "currency": "KRW",
    "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-10-31T03:30:51Z",
+   "as_of": "2026-10-31T03:30:33Z",
    "high_52w": 1587.7,
    "low_52w": 1319.52,
    "history": [

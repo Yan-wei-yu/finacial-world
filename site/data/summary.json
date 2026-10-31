@@ -1,142 +1,148 @@
 {
- "headline": "英特爾崩跌拖累費半重挫7%，AI疑慮壓抑科技股",
+ "headline": "AI融資疑慮引爆科技股重挫，費半暴跌7.2%",
  "mood": "偏空",
- "mood_reason": "費半大跌7.2%、那指期貨再跌逾3%，AI融資與獲利疑慮升溫",
+ "mood_reason": "費半單日重挫7.2%、那指期貨再跌逾3%，英特爾、超微崩跌，AI融資疑慮升溫",
  "key_points": [
   {
-   "title": "英特爾暴跌近29%拖累費半",
-   "detail": "英特爾單日崩跌近29%，被報導為1974年來最慘，並與記憶體成本飆升、PC市場疲弱有關。費半收跌7.2%，超微也有報導稱重挫11%。",
+   "title": "英特爾、超微崩跌拖累費半",
+   "detail": "英特爾單日暴跌近29%，為1974年來最慘；超微重挫11%。10月多檔晶片股跌逾20%，費半收跌7.2%。",
    "impact": "利空",
    "sources": [
     {
-     "n": 2,
-     "title": "〈美股盤後〉英特爾暴跌近29% 費半下殺超7% 記憶體ETF DRAM單月崩約20%",
-     "url": "https://news.cnyes.com/news/id/6642189",
+     "n": 11,
+     "title": "超微單日重挫11%！英特爾崩近30%揭兩大警訊 下周財報能否突圍？",
+     "url": "https://news.cnyes.com/news/id/6642740",
      "source": "鉅亨網"
     },
     {
-     "n": 22,
+     "n": 12,
      "title": "英特爾暴跌近29%淪1974年來最慘 川普政府持股蒸發百億美元",
      "url": "https://news.cnyes.com/news/id/6642749",
      "source": "鉅亨網"
     },
     {
-     "n": 29,
-     "title": "英特爾因記憶體成本飆升與個人電腦市場疲弱重挫25%",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBUXI0NVprWWRnaW94Tk44VVNKZDV5eUwxYTFIWFN4aHZ0TUJ6MERxcW9QOFMydzZDSVVpMEpiQ0VablZPZUZSRHBzTEd1Wk9PTkktTFRB?oc=5",
-     "source": "Business Insider Taiwan"
+     "n": 15,
+     "title": "AI 融資警報響！費半大跌7.2%、英特爾跌近29% 下周財報和選舉再考驗",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Fc1MxdmpNRTFFb2hjanlUeGFYZGhlckgxekU4ZHJ5Q25ZZDh5OGlsUFU2TXdEQ3RMZ0ZmT3g0dFNxRm1Xc0VtSHMtMnI4d05XdGJxdE9tZDJQbmFG0gFiQVVfeXFMTUREclRKSV9ET0pqOXphQ3Y0OXUxYjZhbHc1NnlURzc3ZFRfdGdDTlRNLXJDcEZUYW44YkVQTWRQZF9yT0RkbmszVEFpU2c3Tm1wMTJuWVhkSDFKbHhtalltTmc?oc=5",
+     "source": "經濟日報"
     },
     {
-     "n": 17,
-     "title": "超微單日重挫11%！英特爾崩近30%揭兩大警訊 下周財報能否突圍？",
-     "url": "https://news.cnyes.com/news/id/6642740",
+     "n": 22,
+     "title": "晶片股提前迎「黑色星期五」英特爾等11個股10月跌逾20%",
+     "url": "https://news.cnyes.com/news/id/6642848",
      "source": "鉅亨網"
     }
    ]
   },
   {
    "title": "AI融資與舉債疑慮升溫",
-   "detail": "報導指科技債今年重挫9%，CoreWeave債券殖利率逼近15%，亞馬遜也新增800億美元融資額度，市場擔心AI投資的資金面。",
+   "detail": "CoreWeave債券殖利率逼近15%，巴克萊稱華爾街仍在「否認階段」；亞馬遜支出承諾升至8836億美元，科技債今年重挫9%。",
    "impact": "利空",
    "sources": [
     {
-     "n": 15,
+     "n": 8,
+     "title": "科技債成「待發掘鑽石」！策略師：AI巨頭舉債之際投資人迎來機會",
+     "url": "https://news.cnyes.com/news/id/6642849",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 9,
      "title": "抄底機會來了？AI巨頭瘋狂舉債 科技債今年重挫9%",
      "url": "https://news.cnyes.com/news/id/6642852",
      "source": "鉅亨網"
     },
     {
-     "n": 16,
+     "n": 10,
      "title": "AI融資問題已經顯現？巴克萊：華爾街仍陷「否認階段」、CoreWeave債券殖利率逼近15%",
      "url": "https://news.cnyes.com/news/id/6642873",
      "source": "鉅亨網"
     },
     {
-     "n": 30,
+     "n": 21,
      "title": "亞馬遜未來支出承諾飆至8836億美元 新增800億美元融資額度支援AI擴張",
      "url": "https://news.cnyes.com/news/id/6642881",
      "source": "鉅亨網"
-    },
-    {
-     "n": 3,
-     "title": "科技巨頭AI魔法正在褪色 華爾街年終行情面臨艱難考驗",
-     "url": "https://news.cnyes.com/news/id/6641340",
-     "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "記憶體基本面強，股價卻轉弱",
-   "detail": "SK海力士公布營業利潤暴增七倍，三星也喊缺貨到2028年。但DRAM ETF單月跌約20%，市場仍擔心景氣高點與中國CXMT競爭。",
+   "title": "盤後期貨續跌，記憶體股逆勢",
+   "detail": "那指期貨盤後重挫約3.5%，但記憶體晶片股盤後逆勢上漲。持股盤後也小幅反彈，但期貨偏弱。",
    "impact": "中性",
    "sources": [
     {
-     "n": 40,
-     "title": "SK hynix posts seven-fold surge in operating profit",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWlNSWxYV2pmUzJLT0RUdkVhZi1JS2R1LTJtcXJCamE4VXgtLUIyYmJrVWZ5RUxONk1uNllQWlpzZWdFUjhxNDRLOEE5Tk05WjFnemlJT1pMY3llU1J3OV9MZVFlamU1eS1vNmM3T0FremwtdkY3RkY3VjNXMUdIVnR5Nmxmc0tTTmV3eS1QV1BlTkhSY2t4TmVpUi1qTXZ6VWI5Wkl0T1pJenUyWVJ6YmNvSmQ?oc=5",
-     "source": "The Daily Star"
-    },
-    {
-     "n": 35,
-     "title": "三星喊缺貨到2028年！SK 海力士ADR 飆13% 記憶體族群為何開高走低？",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VZktqTGFJdXEwWlpKYXJ6VWMwVkctek9vOGVmMTZ4Z0NMaE5TNlVxUTVCZWNYRURUM2syeTQ3TVlLUWJmdmM5b25Xcy1YQlY5a1F5YUoyT2JEZ9IBX0FVX3lxTE84WS1pVDVFeVJfRjBnNEF5Z2QwSWJ5OEdWN2RGSE5JUy1NU1pYR2JhLUZscTVOdFpvWFM3NUNpT2tJOW12YXFSY0M0LUliLVJZWWxjczdUS1c4a0I3QVVF?oc=5",
-     "source": "經濟日報"
-    },
-    {
-     "n": 2,
-     "title": "〈美股盤後〉英特爾暴跌近29% 費半下殺超7% 記憶體ETF DRAM單月崩約20%",
-     "url": "https://news.cnyes.com/news/id/6642189",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 21,
-     "title": "Micron Stock Slides As China’s CXMT DRAM Breakthrough Rattles Traders",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTU15Wm03cS1iUDR1MjR0dllFd3NqaV9OSmhzdXBOc1lkdUdGejZnWG40ZjdTdjVhSjBYdHJiM1dYSjJfYU50SHdKbTl0QUx2UjVaZXBpZXdpdU9qaThZZG9WRXNuNldMTXZJUXpISC1Ua2ZRcUZ5ckNiMk9fN1FkYg?oc=5",
-     "source": "Timothy Sykes"
-    }
-   ]
-  },
-  {
-   "title": "期貨續跌、波動升高",
-   "detail": "那指期貨盤後跌約3.5%，恐慌指數升近13%。有報導指記憶體股盤後逆勢走強，但整體風險情緒仍偏弱。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 25,
+     "n": 16,
      "title": "US Stock Futures Fall Across the Board After Hours; Nasdaq Futures Plunge 3.45% as Memory Chip Stocks Buck the Trend",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xVVB1TElBV2p3M1ZsdVJwV3JHMGJwUnlWM1NHMFc3V1IwTkVBVktwUnFtbE4xdWdxQmdOVEF2MHRIaFotZHZsVG1EX19BamVpVkdpRmdLel8zalVrU19aaGJsSFIxT3MxOWEtS19WZjVFT0JLMGc?oc=5",
      "source": "BigGo Finance"
     },
     {
-     "n": 26,
+     "n": 17,
      "title": "美股盤後三大期指齊跌，納指期貨重挫3.45%，記憶體晶片股逆勢普漲",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UWWNNc3Z3cjVRX3VfaGNPZlNSdEZpZWRTeElCUlBBOWV3WWRza0tES3ZGRlg0eHVGeHc5ZThuQ2Zzckt0TTBsSHg0bTdMR2RJS3NhQ1ItamlySFdnZ3VNcG5VcmwwX2szNE4xSzByYVI0XzF5amJNYVVR?oc=5",
      "source": "BigGo 財經"
-    },
-    {
-     "n": 27,
-     "title": "Inflation, AI concerns take their toll on Wall Street",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQk8zelhJbFJqc25zLXlOQm1fQjJyRUpEaW5LQXN5UUQxNExJVTlhQXlHajBuVzlKNEZEQkZwLW9nMVIzRkNyOHdpQXdTY2FtLXduSTg0bFYxbjVseS1pV1RBRGdveG1NLVhGSTE4d3RaXzRFeHBuRW41Rzdnc2tiX3pGNmNVdW5WSHFv?oc=5",
-     "source": "Courthouse News"
     }
    ]
   },
   {
-   "title": "利率與美元預期壓抑估值",
-   "detail": "報導提到美元10月走升、升息預期居高不下，對高估值科技股不利。",
-   "impact": "利空",
+   "title": "記憶體供不應求題材仍在",
+   "detail": "報導稱SK海力士記憶體已賣到2029年，OpenAI奧特曼訪韓洽談記憶體供應。但也有報導提醒漲價可能埋下景氣反轉隱憂。",
+   "impact": "中性",
    "sources": [
     {
-     "n": 23,
-     "title": "〈紐約匯市〉美元10月上漲 升息預期居高不下",
-     "url": "https://news.cnyes.com/news/id/6641920",
+     "n": 3,
+     "title": "The Blade Weekly: SK Hynix Sells Out Memory Through 2029 as Memory Costs Cut Intel's PC Outlook",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb2F2ZTlwVmZVRWtfcDBsX3hYUk5sa3pFM081VVVpVE1qNDBtS2dOZzkyZzhtUHllM1duSUVBX0piSjFrMmJISzRMNzdUQzBIUm1JUHdGSkpuXzliM21UcTBqUHZ3Rk1FTnVRRzhxb3cwTGZNcXZ6TEtwME9sb1RodjNfSUhHQzhfWWFFakF3ejNOTEp3Y2F2WHIxd2hRcHFIclExTDVYcW1BOVoxLTBRZkR1VDVLMlhiUDBVMWRqeFYwWUkzQVJJMEdR?oc=5",
+     "source": "Smartkarma"
+    },
+    {
+     "n": 20,
+     "title": "奧特曼訪南韓會三星高層！OpenAI深化記憶體合作、劍指AI資料中心與星際之門",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tR2FIWFVKTmduUTQ2X0c0N2RiYU9IZWU0SDJIOU8za1Q4Tl9VUWlRcjU0VW0zcTBpeU1DTWluT1RaaTdRS3ZycUgyTQ?oc=5",
      "source": "鉅亨網"
     },
     {
-     "n": 27,
-     "title": "Inflation, AI concerns take their toll on Wall Street",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQk8zelhJbFJqc25zLXlOQm1fQjJyRUpEaW5LQXN5UUQxNExJVTlhQXlHajBuVzlKNEZEQkZwLW9nMVIzRkNyOHdpQXdTY2FtLXduSTg0bFYxbjVseS1pV1RBRGdveG1NLVhGSTE4d3RaXzRFeHBuRW41Rzdnc2tiX3pGNmNVdW5WSHFv?oc=5",
-     "source": "Courthouse News"
+     "n": 37,
+     "title": "OpenAI CEO Sam Altman meets Samsung executives to discuss memory chip supply, AI infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRERIRjRBSjJBWFpVRFdqNTJwUDBELXZtMnRuUVROSl9mbFhjVHJzY2wyeTAyMjJNdUlOWTJMdkxjWERxQ0tsYmxacUQteUxXNDBiallwUXpVWmw2YUNtSWlHRUhrejFDdE5reEdNZEVQTk4wU2JXNmJKYVJwZGh5UjlmS0dybVd3NExDZ0NKbG1hMmpfRzBZWXFnRUIwbmVkTk5DQWx1bWZxR0hvRjFMM1FJVGhzWjdVMU5KWlljazFHdXdrSVBVVnk1WGFkbzMwc2ljM3V0RVB5WGFNWVpNVnVNRzlBRTY1OTE3QlhDU21fR1BuV0VtTW1qa0HSAYICQVVfeXFMT181UjI3X1ZmdVJ1S2owSUhmanBSWnp3YmdMTUV1Ums1Qzdtb19MbkdydUpzbnIzZFZrNE1NNC1FR0kwZXlhTEtKYTdBRXFGdlplWTc0NTVhcVVQY0NZamY3TXpBZ3Zjd1p0VzdVTGZGQzVHc2dtU3ZUa19wbWR5UzlJcmExWTNaekhQTXVrcHhXcy1UWXlnY2M0LVJvOFdSRzhRby1Id3A4TGxNUjN2MFRkRVhWdWdWaVZaclRIb1FTWEs4VE8wZmd5a2hXcWNjSG4ydzJISjd0eUpwYk40UURTMnhRc1JWNU54V2t2UEpGSy1iWjcwaEZUT05ROWVlN253?oc=5",
+     "source": "ET Enterprise AI"
+    },
+    {
+     "n": 5,
+     "title": "記憶體漲價成雙面刃！美光坐享高利潤卻埋下景氣反轉隱憂",
+     "url": "https://news.cnyes.com/news/id/6642910",
+     "source": "鉅亨網"
+    }
+   ]
+  },
+  {
+   "title": "下週財報與選舉增添波動",
+   "detail": "超微下週財報備受關注，市場預期科技財報與期中選舉使震盪加劇；美元10月走升，升息預期居高不下。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 11,
+     "title": "超微單日重挫11%！英特爾崩近30%揭兩大警訊 下周財報能否突圍？",
+     "url": "https://news.cnyes.com/news/id/6642740",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 15,
+     "title": "AI 融資警報響！費半大跌7.2%、英特爾跌近29% 下周財報和選舉再考驗",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Fc1MxdmpNRTFFb2hjanlUeGFYZGhlckgxekU4ZHJ5Q25ZZDh5OGlsUFU2TXdEQ3RMZ0ZmT3g0dFNxRm1Xc0VtSHMtMnI4d05XdGJxdE9tZDJQbmFG0gFiQVVfeXFMTUREclRKSV9ET0pqOXphQ3Y0OXUxYjZhbHc1NnlURzc3ZFRfdGdDTlRNLXJDcEZUYW44YkVQTWRQZF9yT0RkbmszVEFpU2c3Tm1wMTJuWVhkSDFKbHhtalltTmc?oc=5",
+     "source": "經濟日報"
+    },
+    {
+     "n": 24,
+     "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+     "url": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
+     "source": "CNBC"
+    },
+    {
+     "n": 13,
+     "title": "〈紐約匯市〉美元10月上漲 升息預期居高不下",
+     "url": "https://news.cnyes.com/news/id/6641920",
+     "source": "鉅亨網"
     }
    ]
   }
@@ -144,111 +150,83 @@
  "holdings": [
   {
    "symbol": "SKHY",
-   "note": "收盤跌7.95%，盤後小漲0.39%。獲利大增與供給吃緊是利多，但AI族群賣壓與長約議題壓抑股價。",
+   "note": "收盤跌7.95%，盤後小漲0.39%；報導指其記憶體銷售已排到2029年，Wedbush也看好，但市場波動大。",
    "sources": [
     {
-     "n": 40,
-     "title": "SK hynix posts seven-fold surge in operating profit",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWlNSWxYV2pmUzJLT0RUdkVhZi1JS2R1LTJtcXJCamE4VXgtLUIyYmJrVWZ5RUxONk1uNllQWlpzZWdFUjhxNDRLOEE5Tk05WjFnemlJT1pMY3llU1J3OV9MZVFlamU1eS1vNmM3T0FremwtdkY3RkY3VjNXMUdIVnR5Nmxmc0tTTmV3eS1QV1BlTkhSY2t4TmVpUi1qTXZ6VWI5Wkl0T1pJenUyWVJ6YmNvSmQ?oc=5",
-     "source": "The Daily Star"
-    },
-    {
-     "n": 28,
-     "title": "SK Hynix Stocks Decline 7.1% With Long-Term Memory Contracts in Focus",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1pkTmxJR3lJUTd3aV9Ea0VMUGk0RTdnLXlYS1p5eEoyQkFmS1VwOEIxUHhFYWJvZmYyWDRjT2pCNm0xNlQwM1lBVUpTNTF5d3ZTU3NXYmdmN0RPUlczT29PRGIxVElLbXFESE85aERYM0E2Y3JaNmtMaC1GWGhwNE50S1BQZFVYYjVfOWhIQi1HZm1Ma0V5MWJzNHVyMVZMa05SWk9yQ3ktSmphQWpfVlJHSjFaQXN3cWVsUHVyaS1ybGhuTEIw?oc=5",
-     "source": "TradingView"
-    },
-    {
-     "n": 6,
-     "title": "SK hynix shares fall amid AI sector selloff",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDdhc0h6cTVGZWxKc1lFMkdsTlF3QWNKNFE0SFQzQzZ6QU9Kc05VTkROZExEWkdiTTBORTBEcHVWZmlsM2IyV2llZmRSVmFEYVFRNmE3SWRCelQtZF90WU9ycmtRTEFVamZFUnpWNGcxck5DaGg2THdhaW9mWllZTUw5eFBfQVF3a1diLUYyTjY2RWpJc1FGVnBzNW1XQQ?oc=5",
-     "source": "StreetInsider"
+     "n": 3,
+     "title": "The Blade Weekly: SK Hynix Sells Out Memory Through 2029 as Memory Costs Cut Intel's PC Outlook",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb2F2ZTlwVmZVRWtfcDBsX3hYUk5sa3pFM081VVVpVE1qNDBtS2dOZzkyZzhtUHllM1duSUVBX0piSjFrMmJISzRMNzdUQzBIUm1JUHdGSkpuXzliM21UcTBqUHZ3Rk1FTnVRRzhxb3cwTGZNcXZ6TEtwME9sb1RodjNfSUhHQzhfWWFFakF3ejNOTEp3Y2F2WHIxd2hRcHFIclExTDVYcW1BOVoxLTBRZkR1VDVLMlhiUDBVMWRqeFYwWUkzQVJJMEdR?oc=5",
+     "source": "Smartkarma"
     },
     {
      "n": 35,
-     "title": "三星喊缺貨到2028年！SK 海力士ADR 飆13% 記憶體族群為何開高走低？",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VZktqTGFJdXEwWlpKYXJ6VWMwVkctek9vOGVmMTZ4Z0NMaE5TNlVxUTVCZWNYRURUM2syeTQ3TVlLUWJmdmM5b25Xcy1YQlY5a1F5YUoyT2JEZ9IBX0FVX3lxTE84WS1pVDVFeVJfRjBnNEF5Z2QwSWJ5OEdWN2RGSE5JUy1NU1pYR2JhLUZscTVOdFpvWFM3NUNpT2tJOW12YXFSY0M0LUliLVJZWWxjczdUS1c4a0I3QVVF?oc=5",
-     "source": "經濟日報"
+     "title": "Why Wedbush Is Betting Big on SK Hynix Stock After Earnings",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3BwdHhZZE1oQWExcVl6dHdnMkljY1VLaTBocFhZYU9PRnVaMVYtdENIbUgyaEVnTlhoMzN4QXk1VVBzb091UG1DQUY5M0YtcjhQaDNCcU0tOTlNYlZKLXBJZmx1dE52aWk3RFM5Q2dSSUM5YkIxVkxCamNsMHEyZlhqNDVMUW9xVGhkRnU0eTZUWnFzTnNHRFIxLVlGcm8yb0hsa0FR?oc=5",
+     "source": "Barchart.com"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "收盤跌7.23%，單月約跌20%；盤後回升0.75%，漲價利多與景氣反轉疑慮並存。",
+   "note": "收盤跌7.23%，盤後回升0.75%；記憶體股盤後逆勢走強，奧特曼談記憶體資源優先配置給AI資料中心。",
    "sources": [
     {
-     "n": 2,
-     "title": "〈美股盤後〉英特爾暴跌近29% 費半下殺超7% 記憶體ETF DRAM單月崩約20%",
-     "url": "https://news.cnyes.com/news/id/6642189",
-     "source": "鉅亨網"
+     "n": 16,
+     "title": "US Stock Futures Fall Across the Board After Hours; Nasdaq Futures Plunge 3.45% as Memory Chip Stocks Buck the Trend",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xVVB1TElBV2p3M1ZsdVJwV3JHMGJwUnlWM1NHMFc3V1IwTkVBVktwUnFtbE4xdWdxQmdOVEF2MHRIaFotZHZsVG1EX19BamVpVkdpRmdLel8zalVrU19aaGJsSFIxT3MxOWEtS19WZjVFT0JLMGc?oc=5",
+     "source": "BigGo Finance"
     },
     {
-     "n": 14,
-     "title": "記憶體漲價成雙面刃！美光坐享高利潤卻埋下景氣反轉隱憂",
-     "url": "https://news.cnyes.com/news/id/6642910",
-     "source": "鉅亨網"
+     "n": 33,
+     "title": "批 PC 配大量 DRAM「相當糟糕」！Sam Altman：應優先配置 AI 資料中心",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aM1Y5TUN3UGcwN1ZLdnFISnpqR2xmZEVPNEp6SW5OY19EQm8zelVLMktELU1UMmtpOWZOMzBRQlNYM1pmcXNLM084V1plSUFmdUtJZTNGR0hsMnRBWDB0LXpVU2VDR01hbHlCSGNtQW5aekRZQV96Tg?oc=5",
+     "source": "TechNews 科技新報"
+    }
+   ]
+  },
+  {
+   "symbol": "NOK",
+   "note": "收盤跌8.06%，盤後小跌0.47%；提供的新聞多為手機產品訊息，無明確基本面催化。",
+   "sources": [
+    {
+     "n": 25,
+     "title": "Nokia Corp. ADR outperforms competitors despite losses on the day",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUtlV3hSS00ySzNoVGM4LTIzUE1oeHlkZkhQRjhDLUlMZmJKb1M1Vi04NXpEeVNZQWdaQTlPRVBVRWtmSHB2b1RWdXFSaUU1cjI2WEl6SDV0TWNNV054ZXZPdDRDRDZNeW9oN1hrcWw1Wmh5T3lEOFBod1daUWRqa051VjN0ck5ydlNrRms3Ny05YjNKbFY4LW1KVDk3MEJsdy1XakFuUThzUDBWSDBtM19qWXBlaTEtd0JoSkpMUlpnUkxEUi1QdEJOR0U5cmRtVkhPdGstV0VOZw?oc=5",
+     "source": "MarketWatch"
     },
     {
-     "n": 26,
-     "title": "美股盤後三大期指齊跌，納指期貨重挫3.45%，記憶體晶片股逆勢普漲",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UWWNNc3Z3cjVRX3VfaGNPZlNSdEZpZWRTeElCUlBBOWV3WWRza0tES3ZGRlg0eHVGeHc5ZThuQ2Zzckt0TTBsSHg0bTdMR2RJS3NhQ1ItamlySFdnZ3VNcG5VcmwwX2szNE4xSzByYVI0XzF5amJNYVVR?oc=5",
-     "source": "BigGo 財經"
+     "n": 31,
+     "title": "Nokia 2360 Flip launched with dual displays and SOS button: Features and more",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV3hlOHN4QXdvRHdfa092aUh1Z2FFYVBpZW5WNW1SblJHdXg5VThFUGMwQURWUzlTTndmejZuR3ZpaWlvVTlpMnJZM0hoX29odUFPeXYyRWFMLWtsbWVobkxRVVhZX19xdnFqR2NqRDBYZ3IwZVd3YzRBdV92a1pXMkcxRXAwRGU3OXY0OW1oSTE0dTNxeVpXWVhDUGFGQ3pWQ0doZy1oN3ZiVzZicFo2bkJWd3FCdXg1NVk4dDlKTEdCRjd0bG9sTjBhRm1xT1FCVEdyMdIB2gFBVV95cUxOaWJucmI5QXZsZTUwRFpLRDhsaTBQVGo1bEZEalpBbFptTnVka3JFODNrSlZ6STZCd25mTUhsRDFjMUtxSVpQZkxzclp4Q0I1VmQ1SUFtcXpyTUlKVXYwNzU2OUNFSTE1R0NNM29KWnRyRzN5VkowQ3ZxcUUwYU1uM1BzYkVwbnpCZ1ZmblBhcmtuTjM2ajZPam9BQVNzZnRsSExWaDR5V1FRNXVZajVuM3pkTms5RFFWM096NjdZT1ZpMURDOGRmZzdadzlsU1gxQ1JTODFZVmhJdw?oc=5",
+     "source": "Moneycontrol.com"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "收盤跌10.39%，所附新聞未直接談到該公司；11/5有財報，預估推算11/30為IPO閉鎖期到期。",
+   "note": "收盤跌10.39%，盤後漲1.13%；提供新聞沒有直接相關報導，11/5盤後公布財報。",
    "sources": []
-  },
-  {
-   "symbol": "NOK",
-   "note": "收盤跌8.06%，新聞多為衛星網與功能手機AI助理等消息，未見明確基本面利空。",
-   "sources": [
-    {
-     "n": 9,
-     "title": "烏克蘭擬建自主衛星網 Iceye、諾基亞出手支援",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EeWpZS0ZwQzVpWGdrNXFra0t4RjhnLU5tZHQ5cmdRd21oRHA3YVNkdjFBTkhVeWxOSjNLSWdHOENaMXBhb0xIY0wzTWZjbUhCOElqeGI2MllYd0NWdnBpQmxISFh4QnBZNkV3?oc=5",
-     "source": "DIGITIMES"
-    },
-    {
-     "n": 12,
-     "title": "Nokia Adds AI Assistant To New Generation Of Feature Phones",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDNqenJ3R0JITnlqNnNoc2NoOVdtSnVWSWpiek5CS05oLXROejZTajRydkFWVTF4b01hS1k1N0J0N21PMklmbXN4d3cwcDJsRUtiQ2p5WG1YdTdWajlVVzloSUNnWFFOdHFySFJpekVDRUg0SEJGUUg1X2tYNWpoak13OWlMbngxNVlTUFpseEJhb1py?oc=5",
-     "source": "SmartHouse"
-    },
-    {
-     "n": 33,
-     "title": "Nokia Corp. ADR outperforms competitors despite losses on the day",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUtlV3hSS00ySzNoVGM4LTIzUE1oeHlkZkhQRjhDLUlMZmJKb1M1Vi04NXpEeVNZQWdaQTlPRVBVRWtmSHB2b1RWdXFSaUU1cjI2WEl6SDV0TWNNV054ZXZPdDRDRDZNeW9oN1hrcWw1Wmh5T3lEOFBod1daUWRqa051VjN0ck5ydlNrRms3Ny05YjNKbFY4LW1KVDk3MEJsdy1XakFuUThzUDBWSDBtM19qWXBlaTEtd0JoSkpMUlpnUkxEUi1QdEJOR0U5cmRtVkhPdGstV0VOZw?oc=5",
-     "source": "MarketWatch"
-    }
-   ]
   }
  ],
  "watch_next": [
   {
-   "when": "10/31 台灣時間",
-   "what": "TrendForce公布DRAM／NAND合約價"
+   "when": "11/1（週日）",
+   "what": "韓國10月出口數據（含半導體），觀察記憶體需求"
   },
   {
-   "when": "11/1",
-   "what": "韓國10月出口數據（含半導體）"
+   "when": "11/3 盤後（台灣時間11/4清晨）",
+   "what": "超微財報，EPS預估1.94"
   },
   {
-   "when": "11/3（週二）盤後",
-   "what": "AMD財報，EPS預估1.94"
-  },
-  {
-   "when": "11/4–11/5",
-   "what": "ARM、高通財報（11/4盤後），IonQ與Quantinuum財報（11/5盤後）"
+   "when": "週一開盤（台灣時間11/2深夜起）",
+   "what": "觀察那指期貨與費半能否止穩，英特爾、超微後續走勢"
   }
  ],
- "generated_at": "2026-10-31T06:21:19Z",
+ "generated_at": "2026-10-31T17:22:49Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 6099,
-  "output_tokens": 1225
+  "input_tokens": 6068,
+  "output_tokens": 1238
  }
 }

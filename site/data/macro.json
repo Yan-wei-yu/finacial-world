@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T06:21:19Z",
+ "generated_at": "2026-10-31T17:22:49Z",
  "week": [
   {
    "title": "CB Consumer Confidence",
@@ -133,19 +133,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "dram-contract",
-   "title": "DRAM／NAND 合約價（TrendForce）",
-   "date": "2026-10-31",
-   "datetime": null,
-   "kind": "indicator",
-   "approx": true,
-   "affects": [
-    "DRAM",
-    "SKHY"
-   ],
-   "note": "約在月底公布當月合約價，觀察記憶體報價趨勢"
-  },
   {
    "id": "korea-exports",
    "title": "韓國出口數據（含半導體）",
@@ -287,6 +274,19 @@
     "DRAM"
    ],
    "note": "每月 21 日公布當月前 20 天出口"
+  },
+  {
+   "id": "dram-contract",
+   "title": "DRAM／NAND 合約價（TrendForce）",
+   "date": "2026-12-31",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": true,
+   "affects": [
+    "DRAM",
+    "SKHY"
+   ],
+   "note": "約在月底公布當月合約價，觀察記憶體報價趨勢"
   }
  ],
  "errors": []
