@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T18:16:05Z",
+ "generated_at": "2026-10-31T06:21:19Z",
  "upcoming": [
   {
    "symbol": "AMD",
@@ -22,10 +22,10 @@
    "date": "2026-11-04",
    "datetime": "2026-11-04T21:00:00Z",
    "session": "盤後",
-   "eps_est": 0.47583,
+   "eps_est": 0.47564,
    "eps_low": 0.46,
    "eps_high": 0.5,
-   "rev_est": 1378136240.0,
+   "rev_est": 1378098370.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -140,6 +140,20 @@
    "rev_est": 61744368110.0,
    "rev_currency": "USD",
    "is_holding": false
+  },
+  {
+   "symbol": "TSM",
+   "name_zh": "台積電",
+   "group": "semis",
+   "date": "2027-01-14",
+   "datetime": "2027-01-14T12:00:00Z",
+   "session": "盤前",
+   "eps_est": 5.1641,
+   "eps_low": 5.102,
+   "eps_high": 5.28,
+   "rev_est": 1705011253270.0,
+   "rev_currency": "TWD",
+   "is_holding": false
   }
  ],
  "recent": [
@@ -164,7 +178,7 @@
    "date": "2026-10-29",
    "eps_est": 0.4,
    "eps_actual": 0.52,
-   "surprise_pct": 30.47,
+   "surprise_pct": 30.29,
    "suspect": false
   },
   {
@@ -176,7 +190,7 @@
    "date": "2026-10-29",
    "eps_est": 1.96,
    "eps_actual": 1.89,
-   "surprise_pct": -3.54,
+   "surprise_pct": -3.47,
    "suspect": false
   },
   {
@@ -297,18 +311,6 @@
    "eps_est": 10.76,
    "eps_actual": 11.82,
    "surprise_pct": 9.86,
-   "suspect": false
-  },
-  {
-   "symbol": "MU",
-   "name_zh": "美光",
-   "group": "memory",
-   "is_holding": false,
-   "datetime": "2026-09-30T20:00:00Z",
-   "date": "2026-09-30",
-   "eps_est": 31.82,
-   "eps_actual": 33.42,
-   "surprise_pct": 5.03,
    "suspect": false
   }
  ],
