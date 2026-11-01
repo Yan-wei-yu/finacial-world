@@ -1,75 +1,45 @@
 {
- "generated_at": "2026-10-31T17:22:49Z",
+ "generated_at": "2026-11-01T06:54:15Z",
  "week": [
   {
-   "title": "CB Consumer Confidence",
-   "title_zh": "經濟諮商會消費者信心",
+   "title": "ISM Manufacturing PMI",
+   "title_zh": "ISM 製造業 PMI",
    "country": "USD",
    "country_label": "美國",
    "impact": "Medium",
-   "datetime": "2026-10-27T14:00:00Z",
-   "forecast": "81.2",
-   "previous": "81.9"
+   "datetime": "2026-11-02T15:00:00Z",
+   "forecast": "54.7",
+   "previous": "54.5"
   },
   {
-   "title": "Federal Funds Rate",
-   "title_zh": "聯邦基金利率決議",
+   "title": "JOLTS Job Openings",
+   "title_zh": "JOLTS 職缺數",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "Medium",
+   "datetime": "2026-11-03T15:00:00Z",
+   "forecast": "7.11M",
+   "previous": "7.08M"
+  },
+  {
+   "title": "Congressional Elections",
+   "title_zh": "Congressional Elections",
    "country": "USD",
    "country_label": "美國",
    "impact": "High",
-   "datetime": "2026-10-28T18:00:00Z",
-   "forecast": "4.00%",
-   "previous": "4.00%"
-  },
-  {
-   "title": "FOMC Statement",
-   "title_zh": "FOMC 聲明",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "High",
-   "datetime": "2026-10-28T18:00:00Z",
+   "datetime": "2026-11-03T15:16:00Z",
    "forecast": null,
    "previous": null
   },
   {
-   "title": "FOMC Press Conference",
-   "title_zh": "FOMC 記者會",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "High",
-   "datetime": "2026-10-28T18:30:00Z",
-   "forecast": null,
-   "previous": null
-  },
-  {
-   "title": "Advance GDP q/q",
-   "title_zh": "GDP 季增年率（初值）",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "High",
-   "datetime": "2026-10-29T12:30:00Z",
-   "forecast": "3.2%",
-   "previous": "1.5%"
-  },
-  {
-   "title": "Core PCE Price Index m/m",
-   "title_zh": "核心 PCE 物價月增率",
-   "country": "USD",
-   "country_label": "美國",
-   "impact": "High",
-   "datetime": "2026-10-29T12:30:00Z",
-   "forecast": "0.3%",
-   "previous": "0.2%"
-  },
-  {
-   "title": "Advance GDP Price Index q/q",
-   "title_zh": "Advance GDP Price Index q/q",
+   "title": "ISM Services PMI",
+   "title_zh": "ISM 服務業 PMI",
    "country": "USD",
    "country_label": "美國",
    "impact": "Medium",
-   "datetime": "2026-10-29T12:30:00Z",
-   "forecast": "3.2%",
-   "previous": "6.2%"
+   "datetime": "2026-11-04T15:00:00Z",
+   "forecast": "54.9",
+   "previous": "54.9"
   },
   {
    "title": "Unemployment Claims",
@@ -77,59 +47,69 @@
    "country": "USD",
    "country_label": "美國",
    "impact": "Medium",
-   "datetime": "2026-10-29T12:30:00Z",
-   "forecast": "198K",
+   "datetime": "2026-11-05T13:30:00Z",
+   "forecast": "197K",
    "previous": "194K"
   },
   {
-   "title": "BOJ Outlook Report",
-   "title_zh": "BOJ Outlook Report",
-   "country": "JPY",
-   "country_label": "日本",
+   "title": "Average Hourly Earnings m/m",
+   "title_zh": "平均時薪月增率",
+   "country": "USD",
+   "country_label": "美國",
    "impact": "High",
-   "datetime": "2026-10-30T03:02:00Z",
-   "forecast": null,
-   "previous": null
+   "datetime": "2026-11-06T13:30:00Z",
+   "forecast": "0.3%",
+   "previous": "0.1%"
   },
   {
-   "title": "BOJ Policy Rate",
-   "title_zh": "日本央行利率決議",
-   "country": "JPY",
-   "country_label": "日本",
+   "title": "Non-Farm Employment Change",
+   "title_zh": "非農就業人數",
+   "country": "USD",
+   "country_label": "美國",
    "impact": "High",
-   "datetime": "2026-10-30T03:02:00Z",
-   "forecast": "<1.25%",
-   "previous": "<1.25%"
+   "datetime": "2026-11-06T13:30:00Z",
+   "forecast": "63K",
+   "previous": "29K"
   },
   {
-   "title": "Monetary Policy Statement",
-   "title_zh": "貨幣政策聲明",
-   "country": "JPY",
-   "country_label": "日本",
+   "title": "Unemployment Rate",
+   "title_zh": "失業率",
+   "country": "USD",
+   "country_label": "美國",
    "impact": "High",
-   "datetime": "2026-10-30T03:02:00Z",
-   "forecast": null,
-   "previous": null
+   "datetime": "2026-11-06T13:30:00Z",
+   "forecast": "4.2%",
+   "previous": "4.2%"
   },
   {
-   "title": "BOJ Press Conference",
-   "title_zh": "日本央行記者會",
-   "country": "JPY",
-   "country_label": "日本",
-   "impact": "High",
-   "datetime": "2026-10-30T06:30:00Z",
-   "forecast": null,
-   "previous": null
-  },
-  {
-   "title": "Employment Cost Index q/q",
-   "title_zh": "就業成本指數季增率",
+   "title": "Prelim UoM Consumer Sentiment",
+   "title_zh": "密大消費者信心（初值）",
    "country": "USD",
    "country_label": "美國",
    "impact": "Medium",
-   "datetime": "2026-10-30T12:30:00Z",
-   "forecast": "0.8%",
-   "previous": "0.9%"
+   "datetime": "2026-11-06T15:00:00Z",
+   "forecast": "47.8",
+   "previous": "46.3"
+  },
+  {
+   "title": "Prelim UoM Inflation Expectations",
+   "title_zh": "密大通膨預期（初值）",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "Medium",
+   "datetime": "2026-11-06T15:00:00Z",
+   "forecast": null,
+   "previous": "4.7%"
+  },
+  {
+   "title": "BOJ Gov Ueda Speaks",
+   "title_zh": "日本央行總裁 Ueda 談話",
+   "country": "JPY",
+   "country_label": "日本",
+   "impact": "High",
+   "datetime": "2026-11-06T16:00:00Z",
+   "forecast": null,
+   "previous": null
   }
  ],
  "upcoming": [

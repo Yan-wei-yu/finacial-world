@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T17:22:49Z",
+ "generated_at": "2026-11-01T06:54:15Z",
  "upcoming": [
   {
    "symbol": "AMD",
@@ -11,7 +11,7 @@
    "eps_est": 1.93659,
    "eps_low": 1.72,
    "eps_high": 2.1,
-   "rev_est": 13083021310.0,
+   "rev_est": 13084823940.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -128,6 +128,20 @@
    "is_holding": false
   },
   {
+   "symbol": "CIEN",
+   "name_zh": "Ciena",
+   "group": "peer",
+   "date": "2026-12-10",
+   "datetime": "2026-12-10T13:00:00Z",
+   "session": "盤前",
+   "eps_est": 2.07665,
+   "eps_low": 1.89,
+   "eps_high": 2.2237,
+   "rev_est": 1759664870.0,
+   "rev_currency": "USD",
+   "is_holding": false
+  },
+  {
    "symbol": "MU",
    "name_zh": "美光",
    "group": "memory",
@@ -146,7 +160,7 @@
    "name_zh": "台積電",
    "group": "semis",
    "date": "2027-01-14",
-   "datetime": "2027-01-14T12:00:00Z",
+   "datetime": "2027-01-14T13:00:00Z",
    "session": "盤前",
    "eps_est": 5.1641,
    "eps_low": 5.102,
@@ -362,9 +376,9 @@
     "datetime": "2026-07-29T00:00:00Z",
     "date": "2026-07-28",
     "eps_est": 4.87,
-    "eps_actual": 90.62,
-    "surprise_pct": null,
-    "suspect": true
+    "eps_actual": 9.06,
+    "surprise_pct": 86.07,
+    "suspect": false
    }
   ],
   "QNT": [
