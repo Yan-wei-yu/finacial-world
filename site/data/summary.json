@@ -1,48 +1,208 @@
 {
- "headline": "科技股恐慌重挫，費半單日大跌7.2%",
+ "headline": "AI資本支出疑慮重挫科技股，費半單日大跌7.2%",
  "mood": "偏空",
- "mood_reason": "費半重挫7.2%、那指期貨再跌3.48%，記憶體與AI融資疑慮升溫，利率與選舉不確定。",
+ "mood_reason": "費半重挫7.2%、那指期貨再跌3.48%，AI支出見頂疑慮未散",
  "key_points": [
   {
-   "title": "科技股Q4開局重挫",
-   "detail": "那斯達克收跌2.86%、費半大跌7.20%，報導指那指連三黑、跌近8%，AI融資疑慮與期中選舉是焦點。那指期貨續跌3.48%，週一開盤壓力偏大。",
+   "title": "AI資本支出見頂疑慮壓抑科技股",
+   "detail": "高盛示警AI資本支出成長恐見頂，科技巨頭變現能力受考驗；報導也提到大型科技股現金吃緊，半導體股因此重挫。",
    "impact": "利空",
    "sources": [
     {
-     "n": 15,
-     "title": "全球科技股Q4開局慘！韓股、費半重挫逾15% 台股跌近6%今年仍稱霸",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXdsMXU5S1dtUDlwcmJjUmFncURsYnJwdGRTTXlQbXhiOGZnMTlfX0QxaWFzeWdnNWFETnZObUNhajlJNDJNOXNiWGtfM3J4NFJwcG9vTUpYYnFMZ2pucXZqeDNOdVp0WjZKV1ZmRDlrYW5TY04tbl9DRXlBdDJhX0xn?oc=5",
-     "source": "壹蘋新聞網"
+     "n": 4,
+     "title": "高盛示警AI資本支出成長恐見頂！科技巨頭變現能力受考驗、年底股市關鍵看油價",
+     "url": "https://news.cnyes.com/news/id/6643103",
+     "source": "鉅亨網"
     },
     {
-     "n": 19,
+     "n": 29,
+     "title": "Semiconductor Stocks Plunge on Big Tech Cash Crunch",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0wzbW1uWXU5YjBwSUxhVHpPQWxKc2VWZHZPYmpSZ0V3VmEySzlTRzFIRldxS3ZaMzc1Y01LYTlPa2hPUHFFTER3ZEN2N0FHZTRuaGJOeUhiZk9IeFlJREhIVXp6SHdFUWgtQW54MGdaWDBnV2k5MHBnM1V2NXlLTVZxaXVzdVhx?oc=5",
+     "source": "조선일보"
+    },
+    {
+     "n": 3,
+     "title": "Record profits fail to shield Samsung, SK hynix stocks as AI spending fears rattle markets",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYVc4aFZabjFNWnZjNGFjRnl6ZDI2NEtmQVBxU3ZXa0lHZ3pCQ05oQnd2YXpwN25mMVFIWi11blZ1U05sMnhHQU1FQlcwZlBDN1VmRm9sa2JqTVNfdE1mNW5oZjBjMGNYSThNZTE0YmRfa2pCVFN6MkhpTEZuTEp4U3pFV285LWtPYXhqUDhocTlKY2E0ZVdUX1EteGtUbkx5TXhvdGdDOU5KeExwRWJwbDV5cGpHYnozbVNISks3dXZqOE5hTHZEZnA5YjRUVkFXemRKVjFFSWNBdw?oc=5",
+     "source": "Korea JoongAng Daily"
+    }
+   ]
+  },
+  {
+   "title": "那指連三黑、費半大跌，期貨續弱",
+   "detail": "報導指那斯達克連三黑跌近8%，全球科技股Q4開局慘淡，費半與韓股重挫。那指期貨再跌3.48%，VIX升至19.42。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 25,
      "title": "恐慌性拋售席捲美股：那斯達克連三黑跌近8%，AI融資疑慮與期中選舉成焦點",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ybEVhYmZEa09TVWVleld1X0pLcl9TRnFveU1MUGgyaHdITzQ5cjFlVWN6c0RTWkJacnlxcHlYTDlLdk5XQkZtOU5zWXF3MENOUTlabEpPajd6SFpudmgwS3haVlF1T05GUHdVd3FlU0Q3N2dHWUdjVUZ3?oc=5",
      "source": "BigGo 財經"
+    },
+    {
+     "n": 19,
+     "title": "全球科技股Q4開局慘！韓股、費半重挫逾15% 台股跌近6%今年仍稱霸",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXdsMXU5S1dtUDlwcmJjUmFncURsYnJwdGRTTXlQbXhiOGZnMTlfX0QxaWFzeWdnNWFETnZObUNhajlJNDJNOXNiWGtfM3J4NFJwcG9vTUpYYnFMZ2pucXZqeDNOdVp0WjZKV1ZmRDlrYW5TY04tbl9DRXlBdDJhX0xn?oc=5",
+     "source": "壹蘋新聞網"
+    }
+   ]
+  },
+  {
+   "title": "對沖基金大舉賣出AI股",
+   "detail": "報導稱美國避險基金已賣出2025年以來買進的所有AI股，加上韓股市值蒸發約1兆美元，記憶體族群壓力大。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 32,
+     "title": "US Hedge Funds Just Sold Every AI Stock They Bought Since 2025",
+     "url": "https://beincrypto.com/hedge-funds-dump-ai-stocks/?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 30,
+     "title": "Korea’s Stock Market Crashed $1 Trillion. What Does That Mean for the Global AI Race?",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FaUZ6X3pJUGlzeWEyMTRZSE1WT0QwTmFJb0Q1d3lLYUt6clBpVDNvdDhIeTEtM09UeGhoZjA4cjBBY1ZTdEhnNHVsdXh2LVFaeVRtQjJGVWhOQjlvY1lKOWRVMDFiVFkzY0VmZE1OUHhRSms4R184?oc=5",
+     "source": "ChinaTalk | Jordan Schneider"
+    }
+   ]
+  },
+  {
+   "title": "記憶體基本面仍有支撐，但股價不領情",
+   "detail": "三星、SK海力士獲利創高仍擋不住跌勢；黃仁勳看記憶體2029年前不易過剩，業界預期2027年DRAM缺貨加劇。",
+   "impact": "中性",
+   "sources": [
+    {
+     "n": 3,
+     "title": "Record profits fail to shield Samsung, SK hynix stocks as AI spending fears rattle markets",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYVc4aFZabjFNWnZjNGFjRnl6ZDI2NEtmQVBxU3ZXa0lHZ3pCQ05oQnd2YXpwN25mMVFIWi11blZ1U05sMnhHQU1FQlcwZlBDN1VmRm9sa2JqTVNfdE1mNW5oZjBjMGNYSThNZTE0YmRfa2pCVFN6MkhpTEZuTEp4U3pFV285LWtPYXhqUDhocTlKY2E0ZVdUX1EteGtUbkx5TXhvdGdDOU5KeExwRWJwbDV5cGpHYnozbVNISks3dXZqOE5hTHZEZnA5YjRUVkFXemRKVjFFSWNBdw?oc=5",
+     "source": "Korea JoongAng Daily"
+    },
+    {
+     "n": 28,
+     "title": "AI還能衝多遠？黃仁勳看記憶體2029年前不易過剩、新雲端需求爆表 卻卡在「這一關」",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HU2tlbWxQdm1kQXo3WTNRMlQ5OTdraFFTekkyOWFPYUZBWWh2N1JIOVhCazBGOEt5bFZpXzRnamJ4MER5cmVhR2VLdi15VXIzMl9pYUl5TVVjSVBBdXo0?oc=5",
+     "source": "工商時報"
+    },
+    {
+     "n": 35,
+     "title": "熱門族群》記憶體族群迎AI需求紅利 2027年DRAM缺貨恐加劇",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyemtnYmpCcmpoR0RFUFE1X3ZZcG1VbUFVWF9oczdXZmo4SG5WSGtXMW0xa0NYVTgybVRGRVg3clpsNmZsR09KSmVzbVIwd19uTmJMbEFXQlZjREU5VFFN0gFkQVVfeXFMTVlqNUtLM1FWMU1Yam1SWmdveXY4NEVKajlfM19XUFhLSGJtVUl3RU40UUpYd0VpcHNoTFA4eDFiZEJmWjBNSkI2LWF6dUxUWW8xVDF0NzltTVV4SzNkWjI2Y3VIRw?oc=5",
+     "source": "自由財經"
+    }
+   ]
+  },
+  {
+   "title": "總經與美元風險",
+   "detail": "PIMCO認為12月升息1碼機率高；德銀警告美元恐掀拋售潮。BMO則認為AI支出放緩可能減輕通膨壓力。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 27,
+     "title": "高通膨與高殖利率拉鋸！PIMCO解析Fed：12月升息1碼機率高 長期維持高利率",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yMkhzQ2YzdUE3WFhwS1p4YmxrZ2ZHUWlxLWU1dVBzcTRZYTBCaHpCa1RCdnZBd1BhdXpLeXo2R2dzZXkwY1Bmdkg5N0pIS0U?oc=5",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 13,
+     "title": "AI退燒最危險的不是科技股 德銀警告美元恐掀拋售潮",
+     "url": "https://news.cnyes.com/news/id/6642588",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 39,
+     "title": "BMO Economist Says Slower AI Spending Could Ease Fed Inflation Pressure",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwYThmSUd3MmNIQ2R4dUZEcXBFTUZRbnhDNDVXbll0NDN3WnNVN0ZTNG5FUXVGeTBnWW54bGZ4dHBvTDJOai1RTmFKNjlmMW9xVHJiQm56STNuUQ?oc=5",
+     "source": "www.tokenpost.com"
     }
    ]
   }
  ],
- "holdings": [],
+ "holdings": [
+  {
+   "symbol": "SKHY",
+   "note": "收盤跌7.95%，一個月跌幅約33%；基本面獲利強，但受AI支出疑慮與韓股重挫拖累。",
+   "sources": [
+    {
+     "n": 1,
+     "title": "SK hynix Just Dropped 33% in a Month. Is It Time to Sell, or Load Up?",
+     "url": "https://www.tikr.com/blog/sk-hynix-just-dropped-33-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261101-wv59jg34&.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 3,
+     "title": "Record profits fail to shield Samsung, SK hynix stocks as AI spending fears rattle markets",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYVc4aFZabjFNWnZjNGFjRnl6ZDI2NEtmQVBxU3ZXa0lHZ3pCQ05oQnd2YXpwN25mMVFIWi11blZ1U05sMnhHQU1FQlcwZlBDN1VmRm9sa2JqTVNfdE1mNW5oZjBjMGNYSThNZTE0YmRfa2pCVFN6MkhpTEZuTEp4U3pFV285LWtPYXhqUDhocTlKY2E0ZVdUX1EteGtUbkx5TXhvdGdDOU5KeExwRWJwbDV5cGpHYnozbVNISks3dXZqOE5hTHZEZnA5YjRUVkFXemRKVjFFSWNBdw?oc=5",
+     "source": "Korea JoongAng Daily"
+    },
+    {
+     "n": 19,
+     "title": "全球科技股Q4開局慘！韓股、費半重挫逾15% 台股跌近6%今年仍稱霸",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXdsMXU5S1dtUDlwcmJjUmFncURsYnJwdGRTTXlQbXhiOGZnMTlfX0QxaWFzeWdnNWFETnZObUNhajlJNDJNOXNiWGtfM3J4NFJwcG9vTUpYYnFMZ2pucXZqeDNOdVp0WjZKV1ZmRDlrYW5TY04tbl9DRXlBdDJhX0xn?oc=5",
+     "source": "壹蘋新聞網"
+    }
+   ]
+  },
+  {
+   "symbol": "DRAM",
+   "note": "收盤跌7.23%，記憶體需求題材仍在，但短線隨半導體大跌。",
+   "sources": [
+    {
+     "n": 35,
+     "title": "熱門族群》記憶體族群迎AI需求紅利 2027年DRAM缺貨恐加劇",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyemtnYmpCcmpoR0RFUFE1X3ZZcG1VbUFVWF9oczdXZmo4SG5WSGtXMW0xa0NYVTgybVRGRVg3clpsNmZsR09KSmVzbVIwd19uTmJMbEFXQlZjREU5VFFN0gFkQVVfeXFMTVlqNUtLM1FWMU1Yam1SWmdveXY4NEVKajlfM19XUFhLSGJtVUl3RU40UUpYd0VpcHNoTFA4eDFiZEJmWjBNSkI2LWF6dUxUWW8xVDF0NzltTVV4SzNkWjI2Y3VIRw?oc=5",
+     "source": "自由財經"
+    },
+    {
+     "n": 28,
+     "title": "AI還能衝多遠？黃仁勳看記憶體2029年前不易過剩、新雲端需求爆表 卻卡在「這一關」",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HU2tlbWxQdm1kQXo3WTNRMlQ5OTdraFFTekkyOWFPYUZBWWh2N1JIOVhCazBGOEt5bFZpXzRnamJ4MER5cmVhR2VLdi15VXIzMl9pYUl5TVVjSVBBdXo0?oc=5",
+     "source": "工商時報"
+    }
+   ]
+  },
+  {
+   "symbol": "NOK",
+   "note": "收盤跌8.06%，Q3 AI業務強勁（AI銷售年增123%），但財報後股價下挫。",
+   "sources": [
+    {
+     "n": 5,
+     "title": "Nokia Q3 2026: Strong AI growth, but shares tumble",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1ZjM3FSQkl3WFRNcHo2ekw3RTJhaXZPWmJCekNJZDdSNW5FZWRiNDJrTTI1Q2N2d25janZMTmtpQWlnTDBOUnBfYmhrNzh5NzkyRG43SnNiMEIyUEpWVnlzcnBfWUo4RzJ2b3VFSDhCSkZZMnNPTndwamhKcjJHM2VoV01xQVli?oc=5",
+     "source": "Nokiamob"
+    },
+    {
+     "n": 10,
+     "title": "Nokia AI Sales Jump 123% as Ericsson Grows 7% [2026]",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZDlaWFdNdF9BSmR5SU50NmxsTzQ4RW56ejRBUFlST256UUhrRVp0TEdqYW9kMThyZFp3a3dlMERhOUF1RHhQVmgtSENtckhtd3ZIcUU3TVl4b3JQN19ULTZrcWEyTVc1bG9QeThtYzhXY0t0Wmx1dktUaTdXZGtjYldzUGxNV2FpcUpXSw?oc=5",
+     "source": "https://tech-insider.org/"
+    }
+   ]
+  },
+  {
+   "symbol": "QNT",
+   "note": "收盤跌10.39%，11/5盤後公布財報，11/30 IPO閉鎖期預計到期；新聞清單無直接相關報導。",
+   "sources": []
+  }
+ ],
  "watch_next": [
   {
    "when": "11/02 23:00",
    "what": "ISM製造業PMI（預期54.7，前值54.5）"
   },
   {
-   "when": "11/03 盤後",
-   "what": "AMD財報（EPS預估1.94）"
+   "when": "11/03 23:00",
+   "what": "JOLTS職缺數（預期7.11M）；同日盤後AMD財報（EPS預估1.94）"
   },
   {
-   "when": "11/03 23:00",
-   "what": "JOLTS職缺數與期中選舉相關日程"
+   "when": "11/04 23:00",
+   "what": "ISM服務業PMI；盤後ARM、高通財報"
   }
  ],
- "generated_at": "2026-11-01T06:54:15Z",
+ "generated_at": "2026-11-01T18:08:50Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 6079,
-  "output_tokens": 451
+  "input_tokens": 5916,
+  "output_tokens": 1184
  }
 }

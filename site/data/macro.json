@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T06:54:15Z",
+ "generated_at": "2026-11-01T18:08:50Z",
  "week": [
   {
    "title": "ISM Manufacturing PMI",
@@ -113,19 +113,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "korea-exports",
-   "title": "韓國出口數據（含半導體）",
-   "date": "2026-11-01",
-   "datetime": null,
-   "kind": "indicator",
-   "approx": false,
-   "affects": [
-    "SKHY",
-    "DRAM"
-   ],
-   "note": "每月 1 日公布上月出口，記憶體景氣的領先指標"
-  },
   {
    "id": "tsmc-revenue",
    "title": "台積電月營收",
@@ -267,6 +254,19 @@
     "SKHY"
    ],
    "note": "約在月底公布當月合約價，觀察記憶體報價趨勢"
+  },
+  {
+   "id": "korea-exports",
+   "title": "韓國出口數據（含半導體）",
+   "date": "2027-01-01",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": false,
+   "affects": [
+    "SKHY",
+    "DRAM"
+   ],
+   "note": "每月 1 日公布上月出口，記憶體景氣的領先指標"
   }
  ],
  "errors": []
