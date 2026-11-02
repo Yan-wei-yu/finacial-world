@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T06:54:29Z",
+ "generated_at": "2026-11-02T21:57:18Z",
  "week": [
   {
    "title": "ISM Manufacturing PMI",
@@ -18,7 +18,7 @@
    "country_label": "美國",
    "impact": "Medium",
    "datetime": "2026-11-03T15:00:00Z",
-   "forecast": "7.11M",
+   "forecast": "7.15M",
    "previous": "7.08M"
   },
   {
@@ -38,7 +38,7 @@
    "country_label": "美國",
    "impact": "Medium",
    "datetime": "2026-11-04T15:00:00Z",
-   "forecast": "54.9",
+   "forecast": "54.8",
    "previous": "54.9"
   },
   {
@@ -68,7 +68,7 @@
    "country_label": "美國",
    "impact": "High",
    "datetime": "2026-11-06T13:30:00Z",
-   "forecast": "63K",
+   "forecast": "65K",
    "previous": "29K"
   },
   {
@@ -88,7 +88,7 @@
    "country_label": "美國",
    "impact": "Medium",
    "datetime": "2026-11-06T15:00:00Z",
-   "forecast": "47.8",
+   "forecast": "48.1",
    "previous": "46.3"
   },
   {
