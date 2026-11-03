@@ -14,16 +14,16 @@ def test_real_config_loads_user_holdings(config):
     symbols = [h.symbol for h in config.holdings]
     shares = {h.symbol: h.shares for h in config.holdings}
 
-    assert symbols == ["NOK", "DRAM", "QNT", "SKHY"]
-    assert shares == {"NOK": 820, "DRAM": 75, "QNT": 40, "SKHY": 3}
+    assert symbols == ["NOK", "DRAM", "QNT", "SITM"]
+    assert shares == {"NOK": 850, "DRAM": 80, "QNT": 40, "SITM": 1}
 
 
 def test_quote_symbols_are_unique_and_include_adr_dependencies(config):
     symbols = config.quote_symbols
 
     assert len(symbols) == len(set(symbols))
-    assert symbols[:4] == ["NOK", "DRAM", "QNT", "SKHY"]
-    for needed in ("^SOX", "^IXIC", "TWD=X", "000660.KS", "KRW=X", "2330.TW"):
+    assert symbols[:4] == ["NOK", "DRAM", "QNT", "SITM"]
+    for needed in ("^SOX", "^IXIC", "TWD=X", "SKHY", "000660.KS", "KRW=X", "2330.TW"):
         assert needed in symbols
 
 
@@ -31,7 +31,7 @@ def test_public_holding_view_hides_matching_keywords(config):
     public = config.holdings[0].to_public()
 
     assert public["symbol"] == "NOK"
-    assert public["shares"] == 820
+    assert public["shares"] == 850
     assert "aliases" not in public and "topics" not in public
     assert public["drivers"]
 

@@ -31,9 +31,9 @@ def fake_news(feeds, now, settings):
                 "published": "2026-10-15T12:00:00Z",
                 "summary": "",
                 "lang": "en",
-                "feed": "gn-en-skhy",
+                "feed": "gn-en-hynix",
                 "hint_categories": [],
-                "hint_symbols": ["SKHY"],
+                "hint_symbols": ["DRAM"],
             }
         ],
         {"cnbc-top": "HTTP 503"},
@@ -69,7 +69,7 @@ def test_quotes_mode_only_writes_quotes(root, now):
     data = root / "site" / "data"
     quotes = read_json(data / "quotes.json", None)
     assert code == 0
-    assert [h["symbol"] for h in quotes["holdings"]] == ["NOK", "DRAM", "QNT", "SKHY"]
+    assert [h["symbol"] for h in quotes["holdings"]] == ["NOK", "DRAM", "QNT", "SITM"]
     assert quotes["quotes"]["NOK"]["price"] == 10.0
     assert quotes["fx"]["USDTWD"] == 10.0
     assert any(entry["tv_symbol"] == "NASDAQ:SOXX" for entry in quotes["tradingview"])
@@ -96,7 +96,7 @@ def test_full_mode_writes_every_file_and_meta(root, now):
     news = read_json(data / "news.json", None)
     meta = read_json(data / "meta.json", None)
     assert code == 0
-    assert news["items"][0]["symbols"][0] == "SKHY"
+    assert news["items"][0]["symbols"] == ["DRAM"]
     assert news["generated_at"] == "2026-10-15T13:00:00Z"
     assert news["categories"]["semis"] == "半導體／AI"
     assert read_json(data / "earnings.json", None)["upcoming"] == [{"symbol": "NOK"}]

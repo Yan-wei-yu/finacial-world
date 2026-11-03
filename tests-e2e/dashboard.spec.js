@@ -1,6 +1,10 @@
+import { readFileSync } from 'node:fs';
 import { expect, test } from '@playwright/test';
 
-const SYMBOLS = ['NOK', 'DRAM', 'QNT', 'SKHY'];
+// Holdings come from the generated data, which the pipeline refreshes after config/portfolio.json changes.
+const quotesDoc = JSON.parse(readFileSync(new URL('../site/data/quotes.json', import.meta.url), 'utf-8'));
+const SYMBOLS = quotesDoc.holdings.map((holding) => holding.symbol);
+const FILTER_SYMBOL = 'NOK';
 
 async function openDashboard(page, { allowTradingView = false } = {}) {
   const errors = [];
@@ -21,7 +25,7 @@ test('loads the portfolio, holdings and every section without errors', async ({ 
   await expect(page.locator('.hero__value')).toContainText('US$');
   const rows = page.locator('#holdings-body tr.position .ticker__symbol');
   await expect(rows).toHaveText(SYMBOLS);
-  await expect(page.locator('.alloc__legend li')).toHaveCount(4);
+  await expect(page.locator('.alloc__legend li')).toHaveCount(SYMBOLS.length);
   await expect(page.locator('#market-pulse .tile')).toHaveCount(8);
   await expect(page.locator('#news-body .news-item').first()).toBeVisible();
   await expect(page.locator('#earnings-body .event').first()).toBeVisible();
@@ -33,18 +37,19 @@ test('loads the portfolio, holdings and every section without errors', async ({ 
 test('news filters narrow the list and are kept in the URL', async ({ page }) => {
   await openDashboard(page);
 
-  await page.getByRole('button', { name: /^SKHY \d+$/ }).click();
+  const filterButton = page.getByRole('button', { name: new RegExp(`^${FILTER_SYMBOL} \\d+$`) });
+  await filterButton.click();
 
-  await expect(page).toHaveURL(/news=sym%3ASKHY|news=sym:SKHY/);
+  await expect(page).toHaveURL(new RegExp(`news=sym(%3A|:)${FILTER_SYMBOL}`));
   const badges = page.locator('#news-body .news-item');
   const count = await badges.count();
   expect(count).toBeGreaterThan(0);
   for (let i = 0; i < Math.min(count, 10); i += 1) {
-    await expect(badges.nth(i).locator('.badge.mono', { hasText: 'SKHY' })).toHaveCount(1);
+    await expect(badges.nth(i).locator('.badge.mono', { hasText: FILTER_SYMBOL })).toHaveCount(1);
   }
 
   await page.reload();
-  await expect(page.getByRole('button', { name: /^SKHY \d+$/ })).toHaveAttribute('aria-pressed', 'true');
+  await expect(filterButton).toHaveAttribute('aria-pressed', 'true');
 });
 
 test('cost basis entered in settings stays in this browser and drives P/L', async ({ page }) => {

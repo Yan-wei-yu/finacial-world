@@ -55,11 +55,18 @@ def test_jaccard_bounds():
 
 
 def test_classify_holding_alias_scores_highest(rules):
-    result = classify("SK hynix shares jump on HBM orders", "", [], [], rules)
+    result = classify("SiTime shares jump on data center timing demand", "", [], [], rules)
 
     assert "holdings" in result["categories"]
-    assert result["symbols"][0] == "SKHY"
+    assert result["symbols"][0] == "SITM"
     assert result["score"] >= 6
+
+
+def test_classify_sk_hynix_news_maps_to_dram_etf_after_skhy_was_sold(rules):
+    result = classify("SK hynix posts record quarterly profit", "", [], [], rules)
+
+    assert result["symbols"] == ["DRAM"]
+    assert "holdings" in result["categories"]
 
 
 def test_classify_topic_links_memory_news_to_dram_etf(rules):

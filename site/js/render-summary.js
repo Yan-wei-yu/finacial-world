@@ -24,7 +24,7 @@ function setupHint() {
       {},
       h('li', { text: '用 Claude 訂閱（Pro／Max）：在自己的電腦執行 claude setup-token，取得 token' }),
       h('li', { text: '在 GitHub repo → Settings → Secrets and variables → Actions 新增 CLAUDE_CODE_OAUTH_TOKEN，貼上 token' }),
-      h('li', { text: '之後每天 08:52、09:52、20:52、21:52（台灣時間）自動產生；想馬上看到可到 Actions 手動 Run workflow' }),
+      h('li', { text: '之後每天 08:52、09:52、21:17、21:52（台灣時間）自動產生；想馬上看到可到 Actions 手動 Run workflow' }),
     ),
   );
 }

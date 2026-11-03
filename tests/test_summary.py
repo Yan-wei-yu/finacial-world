@@ -20,7 +20,7 @@ def _news(i, now, hours_ago=1.0, score=5.0):
         "source": "Reuters",
         "published": to_iso(now - timedelta(hours=hours_ago)),
         "categories": ["semis"],
-        "symbols": ["SKHY"] if i == 0 else [],
+        "symbols": ["DRAM"] if i == 0 else [],
         "score": score,
     }
 
@@ -55,7 +55,7 @@ def test_build_prompt_contains_numbered_news_and_context(ctx, now):
     assert "[1] " in prompt and "Headline 0" in prompt
     assert "Headline 2" not in prompt  # outside the time window
     assert "台灣時間" in prompt
-    assert "NOK" in prompt and "820" in prompt
+    assert "NOK" in prompt and "850" in prompt
     assert "費城半導體" in prompt
     assert "核心 PPI 月增率" in prompt
     assert "諾基亞" in prompt
@@ -69,7 +69,7 @@ VALID_INPUT = {
         {"title": "費半大跌", "detail": "記憶體與設備股領跌", "impact": "利空", "refs": [1, 99]},
         {"title": "x" * 500, "detail": "細節", "impact": "奇怪", "refs": [1]},
     ],
-    "holdings": [{"symbol": "SKHY", "note": "隨韓股下跌", "refs": [1]}, {"symbol": "FAKE", "note": "不該出現"}],
+    "holdings": [{"symbol": "DRAM", "note": "隨記憶體股下跌", "refs": [1]}, {"symbol": "SKHY", "note": "已賣出，不該出現"}, {"symbol": "FAKE", "note": "不該出現"}],
     "watch_next": [{"when": "今晚 20:30", "what": "核心 PPI"}],
 }
 
@@ -83,7 +83,7 @@ def test_parse_brief_resolves_refs_and_sanitises(ctx, now):
     assert first["sources"] == [{"n": 1, "title": "Headline 0", "url": "https://example.com/0", "source": "Reuters"}]
     assert len(brief["key_points"][1]["title"]) <= 120
     assert brief["key_points"][1]["impact"] == "中性"
-    assert [h["symbol"] for h in brief["holdings"]] == ["SKHY"]
+    assert [h["symbol"] for h in brief["holdings"]] == ["DRAM"]
     assert brief["mood"] == "偏空"
     assert brief["watch_next"] == [{"when": "今晚 20:30", "what": "核心 PPI"}]
 
