@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T07:18:02Z",
+ "generated_at": "2026-11-03T15:13:23Z",
  "upcoming": [
   {
    "symbol": "AMD",
@@ -42,6 +42,20 @@
    "rev_est": 10145914290.0,
    "rev_currency": "USD",
    "is_holding": false
+  },
+  {
+   "symbol": "SITM",
+   "name_zh": "SiTime",
+   "group": "holding",
+   "date": "2026-11-04",
+   "datetime": "2026-11-04T21:00:00Z",
+   "session": "盤後",
+   "eps_est": 3.55982,
+   "eps_low": 2.87,
+   "eps_high": 3.86,
+   "rev_est": 288925500.0,
+   "rev_currency": "USD",
+   "is_holding": true
   },
   {
    "symbol": "IONQ",
@@ -246,8 +260,8 @@
   {
    "symbol": "SKHY",
    "name_zh": "SK 海力士",
-   "group": "holding",
-   "is_holding": true,
+   "group": "memory",
+   "is_holding": false,
    "datetime": "2026-10-28T00:00:00Z",
    "date": "2026-10-27",
    "eps_est": 6.24,
@@ -363,24 +377,6 @@
     "suspect": false
    }
   ],
-  "SKHY": [
-   {
-    "datetime": "2026-10-28T00:00:00Z",
-    "date": "2026-10-27",
-    "eps_est": 6.24,
-    "eps_actual": 4.1,
-    "surprise_pct": -34.24,
-    "suspect": false
-   },
-   {
-    "datetime": "2026-07-29T00:00:00Z",
-    "date": "2026-07-28",
-    "eps_est": 4.87,
-    "eps_actual": 90.62,
-    "surprise_pct": null,
-    "suspect": true
-   }
-  ],
   "QNT": [
    {
     "datetime": "2026-08-11T20:00:00Z",
@@ -388,6 +384,40 @@
     "eps_est": -0.26,
     "eps_actual": -0.28,
     "surprise_pct": -8.21,
+    "suspect": false
+   }
+  ],
+  "SITM": [
+   {
+    "datetime": "2026-08-05T20:00:00Z",
+    "date": "2026-08-05",
+    "eps_est": 1.95,
+    "eps_actual": 2.34,
+    "surprise_pct": 19.74,
+    "suspect": false
+   },
+   {
+    "datetime": "2026-05-06T20:00:00Z",
+    "date": "2026-05-06",
+    "eps_est": 1.16,
+    "eps_actual": 1.44,
+    "surprise_pct": 24.44,
+    "suspect": false
+   },
+   {
+    "datetime": "2026-02-04T21:00:00Z",
+    "date": "2026-02-04",
+    "eps_est": 1.21,
+    "eps_actual": 1.53,
+    "surprise_pct": 26.6,
+    "suspect": false
+   },
+   {
+    "datetime": "2025-11-05T21:00:00Z",
+    "date": "2025-11-05",
+    "eps_est": 0.71,
+    "eps_actual": 0.87,
+    "surprise_pct": 22.48,
     "suspect": false
    }
   ]
