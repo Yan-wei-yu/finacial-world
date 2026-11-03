@@ -7,7 +7,7 @@ import { sessionAt } from './market-clock.js';
 const NEWS_RUNS = [
   [8, 52],
   [9, 52],
-  [20, 52],
+  [21, 17],
   [21, 52],
 ];
 

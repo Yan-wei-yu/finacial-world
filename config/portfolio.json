@@ -2,7 +2,7 @@
   "holdings": [
     {
       "symbol": "NOK",
-      "shares": 820,
+      "shares": 850,
       "cost": null,
       "name": "Nokia",
       "name_zh": "諾基亞",
@@ -20,7 +20,7 @@
     },
     {
       "symbol": "DRAM",
-      "shares": 75,
+      "shares": 80,
       "cost": null,
       "name": "Roundhill Memory ETF",
       "name_zh": "Roundhill 記憶體 ETF",
@@ -28,7 +28,7 @@
       "exchange": "Cboe BZX",
       "tv_symbol": "CBOE:DRAM",
       "aliases": ["Roundhill Memory", "memory ETF", "記憶體ETF"],
-      "topics": ["DRAM", "HBM", "NAND", "memory chip", "memory chips", "memory prices", "Micron", "美光", "Samsung Electronics", "三星電子", "Kioxia", "鎧俠", "SanDisk", "記憶體"],
+      "topics": ["DRAM", "HBM", "NAND", "memory chip", "memory chips", "memory prices", "Micron", "美光", "Samsung Electronics", "三星電子", "SK hynix", "海力士", "Kioxia", "鎧俠", "SanDisk", "記憶體"],
       "drivers": [
         "DRAM／NAND 合約價與現貨價（TrendForce 約每月月底公布）",
         "HBM 供需與 AI 伺服器出貨",
@@ -55,21 +55,21 @@
       ]
     },
     {
-      "symbol": "SKHY",
-      "shares": 3,
+      "symbol": "SITM",
+      "shares": 1,
       "cost": null,
-      "name": "SK hynix ADR",
-      "name_zh": "SK 海力士 ADR",
-      "kind": "ADR",
+      "name": "SiTime",
+      "name_zh": "SiTime 時脈晶片",
+      "kind": "Stock",
       "exchange": "NASDAQ",
-      "tv_symbol": "NASDAQ:SKHY",
-      "aliases": ["SK hynix", "Hynix", "海力士"],
-      "topics": ["HBM", "DRAM", "記憶體", "KOSPI", "韓股"],
+      "tv_symbol": "NASDAQ:SITM",
+      "aliases": ["SiTime"],
+      "topics": ["MEMS timing", "MEMS oscillator", "MEMS oscillators", "timing chip", "timing chips", "時脈晶片", "MEMS 時脈"],
       "drivers": [
-        "HBM 出貨與輝達等 AI 客戶訂單",
-        "ADR 相對首爾股價的溢價（下方指標區即時計算），溢價收斂是風險",
-        "記憶體報價、韓國出口數據、韓元匯率",
-        "1 股 ADR = 0.1 股韓國普通股"
+        "AI 資料中心需求：光通訊模組、交換器、伺服器用的高精度時脈元件（通訊、企業與資料中心部門）",
+        "MEMS 時脈取代傳統石英元件的滲透率，對手包含石英元件廠與 TI、Microchip",
+        "季報營收、毛利率與下季財測；另兩個部門為手機／物聯網／消費性、工業／車用／航太",
+        "高本益比成長股，股價對 AI 類股情緒與利率變化敏感"
       ]
     }
   ]

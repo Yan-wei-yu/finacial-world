@@ -26,9 +26,10 @@
   ],
   "earnings_watch": [
     {"symbol": "NOK", "name_zh": "諾基亞", "group": "holding", "rev_currency": "EUR"},
-    {"symbol": "SKHY", "name_zh": "SK 海力士", "group": "holding", "rev_currency": "KRW"},
     {"symbol": "QNT", "name_zh": "Quantinuum", "group": "holding", "rev_currency": "USD"},
+    {"symbol": "SITM", "name_zh": "SiTime", "group": "holding", "rev_currency": "USD"},
     {"symbol": "MU", "name_zh": "美光", "group": "memory", "rev_currency": "USD"},
+    {"symbol": "SKHY", "name_zh": "SK 海力士", "group": "memory", "rev_currency": "KRW"},
     {"symbol": "005930.KS", "name_zh": "三星電子", "group": "memory", "rev_currency": "KRW"},
     {"symbol": "SNDK", "name_zh": "SanDisk", "group": "memory", "rev_currency": "USD"},
     {"symbol": "TSM", "name_zh": "台積電", "group": "semis", "rev_currency": "TWD"},

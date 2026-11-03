@@ -2,8 +2,11 @@ name: 更新資料並部署網站
 
 on:
   schedule:
-    # 新聞、財報、總經、AI 摘要：台灣時間 08:52、09:52、20:52、21:52（9、10 點與晚上 9、10 點前備妥）
-    - cron: "52 0,1,12,13 * * *"
+    # 新聞、財報、總經、AI 摘要：台灣時間 08:52、09:52、21:17、21:52（早上 9、10 點與晚上 9:30、10 點前備妥）
+    # 美國冬令時間美股 22:30（台灣時間）開盤：21:30 是開盤前 1 小時，22:00 是開盤前 30 分鐘。
+    # 21:17 錯開報價排程的 :07／:22，避免同時部署。改這裡時也要改下方兩處判斷與 site/js/render-header.js。
+    - cron: "52 0,1,13 * * *"
+    - cron: "17 13 * * *"
     # 報價快照：美股交易日盤前到收盤約每 15 分鐘（台灣時間 20:07–05:52，避開整點壅塞）
     - cron: "7,22,37 12-21 * * 1-5"
     - cron: "52 14-21 * * 1-5"
@@ -36,7 +39,7 @@ jobs:
     permissions:
       contents: read
     concurrency:
-      group: build-${{ github.event_name == 'push' && 'push' || (github.event_name == 'schedule' && github.event.schedule != '52 0,1,12,13 * * *' && 'quotes' || 'full') }}
+      group: build-${{ github.event_name == 'push' && 'push' || (github.event_name == 'schedule' && github.event.schedule != '52 0,1,13 * * *' && github.event.schedule != '17 13 * * *' && 'quotes' || 'full') }}
       cancel-in-progress: false
     outputs:
       mode: ${{ steps.mode.outputs.mode }}
@@ -65,7 +68,12 @@ jobs:
         run: |
           mode=full
           summary=true
-          if [ "$EVENT" = "schedule" ] && [ "$SCHEDULE" != "52 0,1,12,13 * * *" ]; then mode=quotes; fi
+          if [ "$EVENT" = "schedule" ]; then
+            case "$SCHEDULE" in
+              "52 0,1,13 * * *" | "17 13 * * *") ;;
+              *) mode=quotes ;;
+            esac
+          fi
           if [ "$EVENT" = "workflow_dispatch" ]; then
             [ "$INPUT_MODE" = "quotes" ] && mode=quotes
             [ "$INPUT_SUMMARY" = "false" ] && summary=false
