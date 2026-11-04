@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T07:00:39Z",
+ "generated_at": "2026-11-04T13:21:46Z",
  "upcoming": [
   {
    "symbol": "ARM",
@@ -22,10 +22,10 @@
    "date": "2026-11-04",
    "datetime": "2026-11-04T21:00:00Z",
    "session": "盤後",
-   "eps_est": 2.16073,
+   "eps_est": 2.15954,
    "eps_low": 2.09,
    "eps_high": 2.26,
-   "rev_est": 10145914290.0,
+   "rev_est": 10141474290.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -165,7 +165,7 @@
    "eps_est": 5.1641,
    "eps_low": 5.102,
    "eps_high": 5.28,
-   "rev_est": 1705011253270.0,
+   "rev_est": 1707801676350.0,
    "rev_currency": "TWD",
    "is_holding": false
   }
