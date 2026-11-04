@@ -1,217 +1,220 @@
 {
- "headline": "晶片股強彈費半漲近3%，AMD財報與非農待考",
- "mood": "偏多",
- "mood_reason": "費半自前一日大跌反彈，油價回落；但10年債4.95%與AI融資疑慮仍壓抑。",
+ "headline": "晶片股強彈費半漲2.6%，選舉與10年期4.95%壓抑期貨",
+ "mood": "中性",
+ "mood_reason": "現貨晶片反彈強，但那指期貨-0.40%，選舉與高殖利率添變數",
  "key_points": [
   {
-   "title": "晶片股反彈，費半收漲2.91%",
-   "detail": "前一交易日費半挫逾3%，今日輝達、美光、AMD領軍反彈，SK海力士、SanDisk盤中最多漲約7%，AMD財報前買盤回流。",
+   "title": "晶片股反彈領漲",
+   "detail": "費半漲2.63%、那指漲0.83%。輝達、美光、超微等晶片股自多週修正中反彈，記憶體股走強。",
    "impact": "利多",
    "sources": [
     {
-     "n": 3,
+     "n": 4,
      "title": "〈美股早盤〉晶片股回神！那指反彈走高 蘋果卻拖累道瓊",
      "url": "https://news.cnyes.com/news/id/6645464",
      "source": "鉅亨網"
     },
     {
-     "n": 5,
-     "title": "〈美股盤後〉川普稱不急於再打伊朗、鎧俠財測拖累記憶體股 費半11月首日挫逾3%",
-     "url": "https://news.cnyes.com/news/id/6644206",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 39,
+     "n": 35,
      "title": "Nvidia, SK Hynix, SanDisk Spike Up To 7% Ahead Of AMD Earnings As Chips Rebound From Multi-Week Selloff",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaFdvOU5EXzZqeXUwend1YU9pTHd6dXVoOGF5emNLdDR1dG5vckFpRTk5NlBXMFJPYlVFai1BSlhFQkFDWVBMWUpMNXBMWjBhb3NJVUpTUTBQcnFzT2JSMjJCVkM0X21HaEdxbURSY3JWTmlha3FfR1JQLUE1WmVlRWppSno1cU1jZEN6bmc0WTBoalgyNW1fOTVXWElodWRaOTh6U1VRTXBJbVRFTWswMFd4YmFGNU40eGVZNkcyRmVzbF9ON1RRQVNoZzdTVml0M3BLX3BJUEswZGxi0gHkAUFVX3lxTE9ELVNIdGxvZXFLeExobENfYk9fVmRXaUM4OFlWOUJ1Tm1jTmppNmM5dXdHNGlMbXV0R0J3eVdIQXdZdzU2TzV4aUxNakpPdVktSFNmTXJVQkhpRHBUX0g5UUlKcUdBS2tpQjJYUWN6N2E4QkZzRXBBN3RDRHVGRjNoaDlsQXJjVmlVYnVoZzJRbUN6bkpTcmN0cWJXOHNUR3FxaUdPQUhhcUtVZWx2NXYzSlpfUXZPdzZybVFlY2hhenJyWjNtdTBOOHREdmpTOGZKbkpvOF9HM0FEOUNlWlV4OWNVbQ?oc=5",
      "source": "NDTV Profit"
     },
     {
-     "n": 40,
+     "n": 37,
      "title": "Micron, Nvidia, and AMD lead chip stocks rebound",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR241WmdKTExjbmZJcndhY3BOVG91eVFPT29xVzBLcVQ4NGQtUExYVDlray1hM1c5dENLekg3bkxyaHFramhTTVEwclZnci1uLWdvbi0zc21pbUMzazNZOFlRUEduSDF5al9jRjMxUG5FOGlTaTdTQVVKZVNRTWplRzh4UjdiYnNhZzBpTHlzS0Q4NzZLZmpfcjJLM1p3TlI3?oc=5",
      "source": "Yahoo Finance"
+    },
+    {
+     "n": 38,
+     "title": "US Pre-Market: Memory Chip Stocks Rally Broadly, SanDisk and Micron Each Up More Than 3%",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKU0ZYTXNYWDFJNmZaOWlhREVZRHVwdE1fM2UtVl9tWjNrWWhwVDdjRFVMczRZWkg2VWVKVTdaMjlwZjRqZm55eVh0VEZHaDhjYVhraXlXdFRnbGNKaU9jSW1UWVU0b0l1ODhlVlNUNXUyVVduZlE?oc=5",
+     "source": "BigGo Finance"
     }
    ]
   },
   {
-   "title": "蘋果警告記憶體漲價侵蝕毛利",
-   "detail": "蘋果執行長稱記憶體漲價是「空前災難」，成本預計更高，毛利率展望不如預期，蘋果盤前跌約4%並拖累道瓊。對記憶體廠是漲價訊號，對終端廠是成本壓力。",
-   "impact": "中性",
+   "title": "期中選舉：民主黨有望掌控國會",
+   "detail": "初步票數顯示民主黨有望拿下兩院，報導稱那指期貨一度挫2%，美元與殖利率下滑。目前期貨仍-0.40%，華爾街警惕選後回檔風險。",
+   "impact": "利空",
    "sources": [
     {
-     "n": 1,
-     "title": "毛利率警報！蘋果執行長特納斯親口承認：記憶體漲價是「空前災難」 預計未來成本會更高",
-     "url": "https://news.cnyes.com/news/id/6644803",
+     "n": 3,
+     "title": "〈美國期中選舉〉初步票數出爐！民主黨有望拿下國會兩院 那指期挫2%、美元美債殖利率下滑",
+     "url": "https://news.cnyes.com/news/id/6645997",
      "source": "鉅亨網"
     },
     {
-     "n": 2,
-     "title": "蘋果法說四大議題一次看：iPhone Duo缺貨、Siri AI上線，本季營收估創新高，記憶體漲價卻讓毛利率展望不如預期",
-     "url": "https://news.cnyes.com/news/id/6644680",
+     "n": 28,
+     "title": "「藍潮」籠罩！華爾街警惕選後標普兩位數回檔風險 四大族群重新定價",
+     "url": "https://news.cnyes.com/news/id/6646241",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 29,
+     "title": "〈美國期中選舉〉「藍色浪潮」料橫掃國會 華爾街下一階段走向何方？",
+     "url": "https://news.cnyes.com/news/id/6646269",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 30,
+     "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2FPb0VDa1pUYWotYjQwXzBBYm1nN0dhMUw1X0hLZ3B1MTRPeTh3ZnhkT1BPVDVMYS1tZDVRYjIzS19SNkh5dlFMZzZEZktrdTk2dmR4ZXYyZVA1VWxEMEJadkZXcXFLelM2VEp6c19sSjdybnZzMFgweU5lNndHemoyY29qVXgyaFh5TlBOYnQ0ZHpJS1VwbVZqanhpcDVZQXFVVdIBqgFBVV95cUxPaE54YmlQLU1IZ2hRWnFkOGZHRzg1VFJTQVlkaGxkVUVzZTlvSFdXOUplRmhUUURkMnJybkpxMkNERjFQbkFlb0xTbS1KUmJIbHBKSmw4aG9fOXF6c3pQSHl3bmE3N1lyR1VNTEhiblRKX3VMYm5qWXRsc05aYkxNaHJ3SERJT1NESjg1QTcxSnBXcVJhbVpramJSUDFydnF0dnp4bU15cmlMUQ?oc=5",
+     "source": "CNBC"
+    }
+   ]
+  },
+  {
+   "title": "AI伺服器需求強勁",
+   "detail": "美超微上修全年營收展望，盤後漲11%，輝達RTX Pro 5500亦供不應求，支撐AI硬體題材。",
+   "impact": "利多",
+   "sources": [
+    {
+     "n": 39,
+     "title": "〈財報〉AI伺服器野火燎原！超微電腦Q1營收暴衝297% 上調全年預期 盤後噴漲11%",
+     "url": "https://news.cnyes.com/news/id/6645930",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 40,
+     "title": "AI伺服器需求強勁 美超微上修全年營收展望、毛利率優於初估",
+     "url": "https://news.cnyes.com/news/id/6645851",
      "source": "鉅亨網"
     },
     {
      "n": 10,
-     "title": "iPhone上季營收創同期新高！蘋果盤前股價為何還跌約4%？",
-     "url": "https://news.cnyes.com/news/id/6645485",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 12,
-     "title": "特納斯首秀遇亂流！蘋果財報解讀：Mac成亮點、晶片成本攀升、購物季財測保守、定義AI變現路徑",
-     "url": "https://news.cnyes.com/news/id/6644139",
+     "title": "輝達RTX Pro 5500晶片供不應求！阿里、騰訊等中國企業訂單僅能到貨1%",
+     "url": "https://news.cnyes.com/news/id/6646159",
      "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "AI獲利疑慮與融資泡沫警訊",
-   "detail": "韓股因AI獲利質疑大跌，三星、SK海力士一度下挫；PIMCO示警AI融資五年內恐達10兆美元並「過度」，德銀也警告市場恐隨時崩潰。",
+   "title": "SK海力士美國擴廠與HBM走私議題",
+   "detail": "路透報導SK海力士紐約廠計畫受美國對中限制影響；另有韓製HBM走私中國報導，監管風險升溫。",
    "impact": "利空",
    "sources": [
     {
-     "n": 8,
-     "title": "Samsung, SK hynix Slide on U.S. AI Selloff; KOSPI Tests 5,700",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd1pJcHJRRmQxOUhIRkNaQmdZMUZLNTlmSEhfMGxLUGxvMkhoYkpOX2t2RWlnc2tIRlFfYzNsY0c4TnI3bHQwdmxLU0dYVWEwNERvanliVlVqY2FEaktZRmtMV0wzZXVwbUVWRzNQZzZDU1p1d01mbHNUVXd3ZXNsckFkOXhIUGVFbVcxN0k4d1JnaEptU0FxbkZXUGg3cHM?oc=5",
-     "source": "Seoul Economic Daily"
-    },
-    {
-     "n": 13,
-     "title": "PIMCO執行長示警：AI融資規模五年內恐達10兆美元 最終將「過度」",
-     "url": "https://news.cnyes.com/news/id/6644861",
-     "source": "鉅亨網"
+     "n": 6,
+     "title": "EXCLUSIVE: SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdlpsRXVkdXRtR00xTmR6NndmaHV0RE55OEVwcHQ2YzhwdXIxQlo0Z2dOYnpBeHZhRjhSQXlRcUt2TURXbUZZczlQaVlNc2EtWWhtODU2enpxaVM4ZXk3d0FJT0g3VHRMN1VfRlB0MThZU21UNFBYQXhKMWlXcUwwa0hlajJQb1c2Q1ZHczNRX1Y0dTNveE4zV0Jpb0JhQjhOVzNGU3RwU1gyTU56b29OeEFyT2tuenlBb2RfcnZIVW5Pa00?oc=5",
+     "source": "Reuters"
     },
     {
      "n": 20,
-     "title": "KOSPI Plunges 3% as AI Profitability Doubts Reignite; Samsung Electronics, SK Hynix Tumble 4-5%",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hSElQUlJKOTAxcW8xSzh0VnA3ampWcHptYllyZl95MkhPT1FoZ3JpMFZ6ODR3RjhfbnlyYXBGR1NCVDljb3ZQT21pYmp6UDFZT2t0VXFubGt6SFl6d0xtcy1QcDRjWXctV1F0bUVTSm0wUlZpQnc?oc=5",
-     "source": "BigGo Finance"
+     "title": "US chip curbs on China complicate SK Hynix's US$45 billion NAND plan",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWDdjSy1rT1FBd1J0LVdRZXloN2RHeElEbUZmTXVDYV9aNlpoMzA2a3hKeUNQdmFqdWtnMVdFNEx5Wm1vU3Y1LXhtUWI1QUszSzBlbXptYUNMR3FDc3BHQloxdUNmXzFMOGUzYmF4dVJhbkdyak1CMmFmMFhsOVBVOXZLLUREX1d2TExCMmtkSUNpZ2JETEVB?oc=5",
+     "source": "digitimes"
     },
     {
-     "n": 35,
-     "title": "德銀示警全球市場恐「隨時崩潰」！揭五大「危險錯位」：油價、通膨與債市訊號背離",
-     "url": "https://news.cnyes.com/news/id/6644814",
-     "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "油價回落、美債殖利率仍高",
-   "detail": "油價下跌提振股市，期中選舉前美元走弱；但美債10年期4.95%（+1.10%），且有報導指Fed年底恐升息，壓抑高估值科技股。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 30,
-     "title": "Fed年底恐升息 外資大舉賣超韓股、台股 台幣、韓元、日圓普跌",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqczk3ZHFkVjZBTWhkSVZiQnV6a1lsMWNaZzRMZzc2SW00Z3JHTnpwY0R4TDZMSUp4UWNlYWFvZFdLNy1yUDJBNEJxai16NTc4UlU2cDhxOUU0UQ?oc=5",
-     "source": "信傳媒"
-    },
-    {
-     "n": 36,
-     "title": "Jim Cramer says lower oil prices are giving stocks a boost. Can it last?",
-     "url": "https://www.cnbc.com/2026/11/02/jim-cramer-oil-yields-non-tech-stocks.html",
-     "source": "CNBC"
-    },
-    {
-     "n": 38,
-     "title": "〈紐約匯市〉美國期中選舉前美元走弱 油價大跌",
-     "url": "https://news.cnyes.com/news/id/6644080",
-     "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "HBM走私與輝達對中曝險",
-   "detail": "報導指業者以搭配低階處理器方式，將受管制的HBM從南韓送往中國；FT稱輝達要求資料中心客戶降低對中國曝險，政策風險仍在。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 26,
-     "title": "不肖業者鑽漏洞，將禁售HBM繫結低階伺服器晶片走私進中國",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNZDVIZFFYYmZOc3k3cVNxTXdiSTlhdVZkd1JYcERtMzk2LUE3QmtyNkIyckZ0a0tGZ3VSVEFKdWp0VGZNdS1fYXdkU3pabDZrY0MwaGlKTU84QWstMlJDQVZqUFlLMzNyLUpuRXQ4ZTlxdElEVUNtVEVn?oc=5",
-     "source": "BigGo 財經"
+     "n": 19,
+     "title": "外媒披露中國瞞天過海走私韓國 HBM，台灣封裝廠遭點名牽涉其中",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU21vS1ItLXVnSzcwdkJ5VVVSVVZRMkk3cF96aGtwZUIwaEtscnhQWGhyZzF2TmVyODhiNWpQVzJ2ZjhnUGlkLUdzTy1SYzhEcGQ5NlNDa2FHWGdVMXk3bm5peVc5LWtPclpsWGhsMDdQSkpOWm5sNTlQcWNUUjJ0SWNETWtoRGVvcnF0VEcydngtUXBmd0szZ1RTZkZfNVVUUnN0d0Eyb0hMNDhX?oc=5",
+     "source": "TechNews 科技新報"
     },
     {
      "n": 27,
      "title": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China — expensive memory chips packaged with cheap, unsanctioned processors to become legal exports",
      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNczB1bmd3Umc1VkpITE9hR0cybF9uMTNvT01RcWVodndZRlZpUS1TTTBDOEs2WlFWMGo5OC1UR2szQ3VENE1fbHFSYW9mdG52R3RwSVFfNjNRM2F0MGtIWFVWMzdpWndQYzg0OWNyV3l2NnV6SFNzNmVPOTVnYWxEZUFQRlZIbEdXbXBZNlpOTVBzVS1HSWhHaEVNcklmX2Vza3VZQ25KbU1KZzVKbS1INjZMN2Z5MEtCTmctT1hSVjhtYU0zdnhBcDNsQ1FmRkZWX2lDUjIya2RCdXFjR0J3V2JWdVFCMHZSbjlnSno5RDBkdnItOFFKTkVUNmhzU0tNY2ZFLXNGWkY5LU93VnROZFZqQi1sdldaN29zRExpN20xbnRUMjlnM216ZGtDaUsyWFVfY1pzY2N1eEFOMXlvWTNOUWNtTlNNa1R4WU1nYlpPcVFlZ0ZWZC13S2NHYnc1Ym5R?oc=5",
      "source": "Tom's Hardware"
+    }
+   ]
+  },
+  {
+   "title": "蘋果受記憶體漲價侵蝕利潤",
+   "detail": "蘋果財報後下跌，報導指記憶體價格上漲侵蝕毛利率，凸顯記憶體漲價對下游壓力、對記憶體廠偏正面。",
+   "impact": "中性",
+   "sources": [
+    {
+     "n": 7,
+     "title": "蘋果財報後跌2% 記憶體價格上漲侵蝕利潤率",
+     "url": "https://news.cnyes.com/news/id/6645808",
+     "source": "鉅亨網"
     },
     {
-     "n": 31,
-     "title": "Nvidia orders data centre clients to reduce China exposure",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcERsWE1GekIyVGJ1cmZzdHdvQnp2TkUtUi00eW5kUlBoeFZNbE5xNFZCMHNZdC02cmhvWXFudFRhRmM3RlpHUWtaZEdpR21rWnpwaFBaajNGMHY0WHYwcGlKbFZwUnhCLVQtRmZGZ0tBVV9fd1dlV041LUg3bnhDcE14emY?oc=5",
-     "source": "Financial Times"
+     "n": 8,
+     "title": "iPhone上季營收創同期新高！蘋果盤前股價為何還跌約4%？",
+     "url": "https://news.cnyes.com/news/id/6645485",
+     "source": "鉅亨網"
     }
    ]
   }
  ],
  "holdings": [
   {
-   "symbol": "DRAM",
-   "note": "記憶體ETF收漲3.08%；蘋果點出記憶體漲價，但韓國記憶體股前一日因AI疑慮重挫，波動仍大。",
+   "symbol": "NOK",
+   "note": "穆迪升至投資級（Baa3），並有AI網路合作消息，收盤+2.17%。",
    "sources": [
     {
-     "n": 1,
-     "title": "毛利率警報！蘋果執行長特納斯親口承認：記憶體漲價是「空前災難」 預計未來成本會更高",
-     "url": "https://news.cnyes.com/news/id/6644803",
-     "source": "鉅亨網"
+     "n": 12,
+     "title": "Moody’s lifts Nokia to Baa3 investment grade on AI and cloud momentum By Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRGtYNUF5Y1dMUUVQendoblg3OFlXQkNfZ0VUQm9vNjFWU0JMMXpsRl95TWlRbHU4elhpZjZGdFNLZmt6Z2hXREpnME5yRm1ZTVgwbnZ6RFdvVjRjcE9nZWRwajJOOHFQVVVpUTFvcUZsSGt5VVcxVXRheUpxSGc4Z05QM3BXSHFpWWkxT0owVDZXa0phWVJNb0RiY1BWbFVydUNwMWJGRmF1b3R1cWNsOHREN2hTdHhVaWZGSmZmLXlXUFU?oc=5",
+     "source": "Investing.com"
     },
     {
-     "n": 5,
-     "title": "〈美股盤後〉川普稱不急於再打伊朗、鎧俠財測拖累記憶體股 費半11月首日挫逾3%",
-     "url": "https://news.cnyes.com/news/id/6644206",
-     "source": "鉅亨網"
+     "n": 14,
+     "title": "Nokia to hot wire AI network for HotWire Communications",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQjFSclRoYlQyTDdpMm5PUFNOdThsSktKSkxRb2JTZkZjU0JxT3JxQldSWXcyZnF5YVRXNWxpWXdQQ1JBeVdfSEx4R2h2S2Y5ZTljNVJFZ1hCdUhVUEpVMHhKWUtUYTBaN1o4eFZwbklGdmNmcEswVDJzbmV4VkZ2THRsMEZmZTVueDRCZEJHTWVEZw?oc=5",
+     "source": "SDxCentral"
     },
     {
-     "n": 39,
-     "title": "Nvidia, SK Hynix, SanDisk Spike Up To 7% Ahead Of AMD Earnings As Chips Rebound From Multi-Week Selloff",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaFdvOU5EXzZqeXUwend1YU9pTHd6dXVoOGF5emNLdDR1dG5vckFpRTk5NlBXMFJPYlVFai1BSlhFQkFDWVBMWUpMNXBMWjBhb3NJVUpTUTBQcnFzT2JSMjJCVkM0X21HaEdxbURSY3JWTmlha3FfR1JQLUE1WmVlRWppSno1cU1jZEN6bmc0WTBoalgyNW1fOTVXWElodWRaOTh6U1VRTXBJbVRFTWswMFd4YmFGNU40eGVZNkcyRmVzbF9ON1RRQVNoZzdTVml0M3BLX3BJUEswZGxi0gHkAUFVX3lxTE9ELVNIdGxvZXFLeExobENfYk9fVmRXaUM4OFlWOUJ1Tm1jTmppNmM5dXdHNGlMbXV0R0J3eVdIQXdZdzU2TzV4aUxNakpPdVktSFNmTXJVQkhpRHBUX0g5UUlKcUdBS2tpQjJYUWN6N2E4QkZzRXBBN3RDRHVGRjNoaDlsQXJjVmlVYnVoZzJRbUN6bkpTcmN0cWJXOHNUR3FxaUdPQUhhcUtVZWx2NXYzSlpfUXZPdzZybVFlY2hhenJyWjNtdTBOOHREdmpTOGZKbkpvOF9HM0FEOUNlWlV4OWNVbQ?oc=5",
-     "source": "NDTV Profit"
+     "n": 17,
+     "title": "Semidynamics looks to Nokia for the networking behind its AI racks",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0llSjB1VjFyR2M5REZEREw3d3d6anBBZGFvbmlNcXh3QzlMenBPS0NkTENkYjk0R2NFNkNWcWo5QkRZaENUVUc3akhQTVdIcTA1bzY2MkJqWjZxSWtjSEJRaXA1UHQ2UlZWVjJDUG9TRGpRUUN4dFVXZ2dzWlBVSmNvdkp2ZHR1ek5HZnJzSldHSHFPSUk0R2dLUkNZNjA?oc=5",
+     "source": "Jon Peddie"
     }
    ]
   },
   {
-   "symbol": "SITM",
-   "note": "收漲6.26%；11/4盤後公布財報，EPS預估3.56，財報前波動可能放大。",
-   "sources": []
+   "symbol": "DRAM",
+   "note": "記憶體股隨晶片反彈走強，美光獲認購環球晶可轉債；SK海力士擴廠與走私消息為風險。",
+   "sources": [
+    {
+     "n": 9,
+     "title": "環球晶擬發行5億美元私募可轉債 美光全數認購",
+     "url": "https://news.cnyes.com/news/id/6645404",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 34,
+     "title": "Samsung Electronics, SK hynix rally on Wall Street chip rebound",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HclJFSXRZZWFtbVlBSlhjLWxST1k1VXhXTFQ3UEVVLTFyQ0k1QlFIY01EOGhsYUI5cndmOS0wTThDN2o2Rk53NXJaVmI4eDZXdTRGeTlYWQ?oc=5",
+     "source": "매일경제"
+    },
+    {
+     "n": 6,
+     "title": "EXCLUSIVE: SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdlpsRXVkdXRtR00xTmR6NndmaHV0RE55OEVwcHQ2YzhwdXIxQlo0Z2dOYnpBeHZhRjhSQXlRcUt2TURXbUZZczlQaVlNc2EtWWhtODU2enpxaVM4ZXk3d0FJT0g3VHRMN1VfRlB0MThZU21UNFBYQXhKMWlXcUwwa0hlajJQb1c2Q1ZHczNRX1Y0dTNveE4zV0Jpb0JhQjhOVzNGU3RwU1gyTU56b29OeEFyT2tuenlBb2RfcnZIVW5Pa00?oc=5",
+     "source": "Reuters"
+    }
+   ]
   },
   {
    "symbol": "QNT",
-   "note": "收漲4.49%；11/5盤後財報，EPS預估-0.37；IPO閉鎖期推估11/30到期。",
+   "note": "提供的新聞無直接相關消息；11/5盤後公布財報，推估11/30閉鎖期到期。",
    "sources": []
   },
   {
-   "symbol": "NOK",
-   "note": "收漲2.53%；新聞含與軟銀測試AI-RAN、與烏克蘭簽衛星通訊意向書，屬題材面消息。",
+   "symbol": "SITM",
+   "note": "今日盤後公布財報，EPS預估3.56，盤後+2.72%，結果待公布。",
    "sources": [
     {
-     "n": 24,
-     "title": "Nokia and SoftBank test AI-RAN in Japan",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VYm5tS0pzZWowWkdJUVRrcHBfZGY3UmR0ZEdRUWpRRU94UmNCeEJOXzJiUk05UW16ZjFRRVFIbU9jbUZiNThhRVVGVzE1YjY4UVNGVGVIRzhSa3hxRWZfM1dBNWowQ1ZBSUFEZmVPUQ?oc=5",
-     "source": "Total Telecom"
-    },
-    {
-     "n": 28,
-     "title": "Ukraine signs letter of intent with ICEYE and Nokia regarding satellite communications",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVGMzS080akdJRkpQRjA4aXNyQnBraXFQa1c2akRQOGY5cmR4a3ZDeUFEZDJHX2xzcnVtM2x5VWlTZ3ZYZDdfbkF0Q3Ntb1NVbE05SDQ1QlNpSnY0OTZhb2YwSFFkYnluODFRZlZCRF9qMjMtUlZzaU5ldVRhNWZSMmh5b1JzaHpRSTF3bFNFc3QzNEkwTGlZYnNSMTFXQ1hhNFh0bFAxWGNna1hVZ2pmMmt2YXgtZllJSndV?oc=5",
-     "source": "Universe Space Tech"
+     "n": 13,
+     "title": "SiTime to Report Q3 Earnings: What's in the Cards for the Stock?",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/sitime-report-q3-earnings-whats-143400585.html?.tsrc=rss",
+     "source": "Yahoo Finance"
     }
    ]
   }
  ],
  "watch_next": [
   {
-   "when": "11/03 盤後",
-   "what": "AMD財報（EPS預估1.94）及後續股價反應"
-  },
-  {
    "when": "11/04 23:00",
    "what": "ISM服務業PMI（預期54.8）"
   },
   {
-   "when": "11/05 04:00後（11/04盤後）",
+   "when": "11/04 盤後",
    "what": "ARM、高通、SiTime財報"
   },
   {
@@ -220,14 +223,14 @@
   },
   {
    "when": "11/06 21:30",
-   "what": "非農就業（預期65K）、失業率與時薪"
+   "what": "非農（預期6.5萬）、失業率4.2%、時薪月增0.3%"
   }
  ],
- "generated_at": "2026-11-03T15:16:20Z",
+ "generated_at": "2026-11-04T07:00:39Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 6132,
-  "output_tokens": 1340
+  "input_tokens": 6119,
+  "output_tokens": 1179
  }
 }

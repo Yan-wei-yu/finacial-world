@@ -1,20 +1,6 @@
 {
- "generated_at": "2026-11-03T15:16:20Z",
+ "generated_at": "2026-11-04T07:00:39Z",
  "upcoming": [
-  {
-   "symbol": "AMD",
-   "name_zh": "超微",
-   "group": "semis",
-   "date": "2026-11-03",
-   "datetime": "2026-11-03T21:00:00Z",
-   "session": "盤後",
-   "eps_est": 1.93991,
-   "eps_low": 1.72,
-   "eps_high": 2.1,
-   "rev_est": 13092087100.0,
-   "rev_currency": "USD",
-   "is_holding": false
-  },
   {
    "symbol": "ARM",
    "name_zh": "安謀",
@@ -36,7 +22,7 @@
    "date": "2026-11-04",
    "datetime": "2026-11-04T21:00:00Z",
    "session": "盤後",
-   "eps_est": 2.16031,
+   "eps_est": 2.16073,
    "eps_low": 2.09,
    "eps_high": 2.26,
    "rev_est": 10145914290.0,
@@ -165,7 +151,7 @@
    "eps_est": 38.29128,
    "eps_low": 35.85,
    "eps_high": 40.47,
-   "rev_est": 61744368110.0,
+   "rev_est": 61832643300.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -185,6 +171,18 @@
   }
  ],
  "recent": [
+  {
+   "symbol": "AMD",
+   "name_zh": "超微",
+   "group": "semis",
+   "is_holding": false,
+   "datetime": "2026-11-03T21:00:00Z",
+   "date": "2026-11-03",
+   "eps_est": 1.94,
+   "eps_actual": 2.09,
+   "surprise_pct": 7.46,
+   "suspect": false
+  },
   {
    "symbol": "SNDK",
    "name_zh": "SanDisk",
