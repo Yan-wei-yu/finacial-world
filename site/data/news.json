@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T20:26:52Z",
+ "generated_at": "2026-11-04T20:35:06Z",
  "categories": {
   "holdings": "我的持股",
   "semis": "半導體／AI",
@@ -8,6 +8,66 @@
   "market": "美股大盤"
  },
  "items": [
+  {
+   "id": "c7a5354b6ccdb21e",
+   "title": "香港文匯報特邀專家深度分析研判地緣政治新局中美關係走向不受美國會更迭影響- 內地",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TZkJ6S2lfXzk4ZWc0V0d2eEdVbnRLU0VYdnpxTTZObjRhSHVtS0VlMXZwRjduamdiYWJqTzhRZjA4ZWZ2NkYteXhnSkdWVWR2NlZxZVRFZWZZVXk1QkhyMl80Y0xCQ2RoaVJxU1NxSzdMUC0zRmtr?oc=5",
+   "source": "香港文匯報",
+   "published": "2026-11-04T20:31:19Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-world",
+   "categories": [
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 2.5,
+   "source_bonus": 0.0,
+   "score": 2.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-04T20:35:06Z"
+  },
+  {
+   "id": "c46e55d95cfae36e",
+   "title": "【經貿政策】兩國已商定關稅經貿政策料能落地- 內地",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3MHNZQXhiYllfNm1oYXFOeDRCWVo2TUkzQzE1S0dhOXYyMmVVUUxjMVJaSVNhRkQzcVVJRlFuQzV5cTBEVFdCUXByVGdIdzVqMGxIcHA2bzh3YktaRHlIRlA2Rkp1UlgtTzZlYzVRc21hUE1oMkpF?oc=5",
+   "source": "香港文匯報",
+   "published": "2026-11-04T20:31:04Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-world",
+   "categories": [
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 2.5,
+   "source_bonus": 0.0,
+   "score": 2.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-04T20:35:06Z"
+  },
+  {
+   "id": "203bd658071882db",
+   "title": "Oil prices are in freefall now that the Democratic sweep is ‘rewriting the Iran playbook’",
+   "url": "https://www.marketwatch.com/story/oil-prices-are-in-freefall-now-that-the-democratic-sweep-is-rewriting-the-iran-playbook-aa437b85?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "published": "2026-11-04T20:28:00Z",
+   "summary": "Oil dropped Wednesday, putting prices on track for their largest one-week decline since 2020.",
+   "lang": "en",
+   "feed": "mw-top",
+   "categories": [
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 2.5,
+   "source_bonus": 1.0,
+   "score": 3.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-04T20:35:06Z"
+  },
   {
    "id": "cbd6dbd7b3732499",
    "title": "Trump talks ballroom plans as Vance blames Iran war for GOP disaster: Live updates",
@@ -170,6 +230,26 @@
    "first_seen": "2026-11-04T20:26:52Z"
   },
   {
+   "id": "3bff574e57638fc6",
+   "title": "對台15％關稅仍在 3科技業續投資",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11MjBSLTRmbDdQSnl3ZmNVUzNOZTVHdHk3M1ZLWTFmRzZxNlFONk9fUjJLQlp3LUZlcFk3ZkloMm1RU21CZWl3Uzc1NGpRbnNIeVg1QmpwdUk4M0xKcnlSaENhbVB0U3V6b21j?oc=5",
+   "source": "中時新聞網",
+   "published": "2026-11-04T20:10:00Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-world",
+   "categories": [
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 2.5,
+   "source_bonus": 0.0,
+   "score": 2.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-04T20:35:06Z"
+  },
+  {
    "id": "d2a5ef62a9acebf9",
    "title": "Rapid Recap: How Wall Street is responding to the midterm election results",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGFEekREd0ptR05kQlZNdGZHTGtRUW44eC1hbDViVjM0TnVaRUQxaUFaczFiNXRIVFdma0NJTUY1c2RjMVpuOUVMb2JTb2lOOUpQbWFmeUhZSDdVUEVKV0NGZExrcWdpcjQ4aGpqQzZpV0x2eGk3a0w0RVF3NVdxcHcyNllCMjFWeGk5WGRlTWRYek9OTjF3MQ?oc=5",
@@ -206,46 +286,6 @@
    "base_score": 3.0,
    "source_bonus": 1.0,
    "score": 4.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-04T20:26:52Z"
-  },
-  {
-   "id": "1478612d88377eaa",
-   "title": "Stocks and Bonds Rise, Dollar Slides After US Vote: Markets Wrap",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVc2azZiNTdEZEJUM0RFOERmNk1QaTRQOGdkbE5EOUM5YVE5M2pqVTFkYmJsTC13MnpKaVRSd2ZLYmowSlhpOE5VcjdJNnJleWZsTDJ2SGN2b3JTOE9pdkZLMmdCblZhSE5ucGoyd2k2SEJwOFpVZVp1aWk1aWJYSHdvQ3VTMGtGa3FXa3NYUWxiWEsz?oc=5",
-   "source": "Bloomberg",
-   "published": "2026-11-04T20:01:22Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-market",
-   "categories": [
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 1.5,
-   "source_bonus": 1.0,
-   "score": 2.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-04T20:26:52Z"
-  },
-  {
-   "id": "cec13039e7864fc2",
-   "title": "Okanagan crafters feeling the tariffs pinch this holiday market season",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcVhwaWtUWUNuYnFid3hEMmVyOE1wdkgtTmJfYVk5YW41QUQwVWZ3aDNiTXd1bGlLbnc3MmRuV3hNWFJpSUl2am5OVjBHWGdra1RRUE9HUmFNVjRXZHJrVk03alZDcHRfbW0yZlBKTkhGMkw4UUl6QW9pc2FqSEZmVnpqMTM3WFdfYkhBeHZ3cUtZTXpRSFR4bjhtdy1IajVzaXFaclhOUWNoREtYTy1aS0RYSzZkZw?oc=5",
-   "source": "Castanet",
-   "published": "2026-11-04T19:57:23Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-world",
-   "categories": [
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 2.5,
-   "source_bonus": 0.0,
-   "score": 2.5,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-04T20:26:52Z"
@@ -371,9 +411,14 @@
    "symbols": [],
    "base_score": 3.0,
    "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
+   "score": 3.5,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQXVycjY1SkZ2VzIzSmNEejh5MnpIcHVKZGZFSzR0b1FlX2JJRlUtRmdlUF9WWkF4c1lfMFB6Zmp6NjdDeDRiYTdsWk9DZEJFVjVKYm50SXM0VEl3b2kzZzBycFN2a3hlWWtnRWI2OFpFYnJjdlJDNjd2NDYyRk1nVTNqeUdoWWlZeTlFbnRrdk1TQko4U1NmVHA1TGVYNElmYTFkWERkR0tTN3E0X3pXZ3BqTWZlcGI1cXJGbDRWM1VMclFyejlJMXVqdmwzWF8wREt1NmxPeGhWdw?oc=5"
+    }
+   ],
    "first_seen": "2026-11-04T20:26:52Z"
   },
   {
@@ -397,6 +442,27 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-04T20:26:52Z"
+  },
+  {
+   "id": "bfb55823e4b7b886",
+   "title": "Nvidia Stocks Decline 1.35% as $108 Billion Guide Sets the Next Revenue Hurdle",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmc0bWdnd0xGejdMRnhLX1ZUMk5mTk1YM1RoUFFqTUtvMDRSU1BjbkIxVmVBLUgtZjlQLUpZbGxjaEgzOTZUN20wNGtIS2xScFpxVWk4YzhUcDZqR2FKVkVrbmFNOWRxcnN0YkZreVIxNmszd1RxNDZCbmltV0lmN0pJLTFkUzVrWlpBNUhUbjk1QmNrbnc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-04T19:34:03Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-ai",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-04T20:35:06Z"
   },
   {
    "id": "baf7495c61bbc3e9",
@@ -1001,6 +1067,26 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-04T20:26:52Z"
+  },
+  {
+   "id": "640703d3bebcc859",
+   "title": "Google responds to political backlash over removing search from schools that ban AI",
+   "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+   "source": "CNBC",
+   "published": "2026-11-04T18:13:10Z",
+   "summary": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
+   "lang": "en",
+   "feed": "cnbc-tech",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-04T20:35:06Z"
   },
   {
    "id": "57f371fe348b1835",
@@ -2033,6 +2119,27 @@
    "first_seen": "2026-11-04T20:26:52Z"
   },
   {
+   "id": "c65f237d3cf7851c",
+   "title": "U.S. Crude Oil Stockpiles Post Fifth Straight Weekly Drop",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFRDenJweXNOWWc3NW1mQzlwS085VVE5c0tSbDl2aUpKd0hEN3JfZklOVmVUTzdTbkJLeUxVZGNyYWpHMGtvQ2g0eGJtcnJuWEwtSXROc0ZmdmxWVkhNemV2cTd5MG4wVUhMV0xDVW1FWFZWQU1FeTNzMUp2ODBXeVBDY3ZPSzBNajlETTk2dm14WW0zUmItVHltX1F0S1U3YlFkOW9GSFgtbmRMLWlpcHluVQ?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-04T16:11:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-market",
+   "categories": [
+    "world",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 3.1,
+   "source_bonus": 1.0,
+   "score": 4.1,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-04T20:35:06Z"
+  },
+  {
    "id": "57c0673a1579a332",
    "title": "Nvidia Tells Cloud Partners To Sell 51% Of Services Outside China",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVk1PbEx1ZjRLQUExcE9YbnkzamFMWTQ3NEJzek82UWlWT1hoVkJsdGQ0c19hQVlKYUNjT0xfV2NGU3Z6a2ZrNWp6MTlvM3VRbW5SWlgxTTJHc2JmLVo1UTFpajV6T0tmbzdXdmJmVFh5RGpBUWh1WnZ0Z0tRQ2xGbWxGVTF2R1I5TWZ2al8ybm45LVctdFpScFhHVWZUcnpSd2Z0VHRFRWtaTS1PRVBIOGNodjRTYmc?oc=5",
@@ -2354,6 +2461,26 @@
    "first_seen": "2026-11-04T20:26:52Z"
   },
   {
+   "id": "288ffbbe663f49b9",
+   "title": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+   "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+   "source": "CNBC",
+   "published": "2026-11-04T15:29:01Z",
+   "summary": "Elon Musk's $474 million election gamble falters as Democrats threaten his Texas empire.",
+   "lang": "en",
+   "feed": "cnbc-top",
+   "categories": [
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 2.5,
+   "source_bonus": 1.0,
+   "score": 3.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-04T20:35:06Z"
+  },
+  {
    "id": "3588d204149995dd",
    "title": "Chip Stocks and Neoclouds Sell Off on Election Results",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0JJQVBlRkdLT1kteGVYYmlQQ2Y1RUV0dk9WeTJiRFJnM1U2Y0dCcUVwWkc5em1qbE85Q2lXN2RmLVE0SVI1cnRuR0R6UUFaeVpCYVJFVFZ5Nkd6dUNDX2lGeXpBaFROM3N1RV9rSWl0aGQwM01JcVlsQmdER3Z0cFJjbjcwLWVhTFZ4Tw?oc=5",
@@ -2528,26 +2655,6 @@
    "base_score": 4.5,
    "source_bonus": 0.0,
    "score": 4.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-04T20:26:52Z"
-  },
-  {
-   "id": "20f2ab730351081e",
-   "title": "Better AI Semiconductor Monopoly Stock: Taiwan Semiconductor vs. ASML",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa1lfNFpRZnVfNGpLMmNNdlBieUY5SFkyM0d3cE9zY2NTb25XaFAyblVSSnljcXc1c1RGd05PUmI1R3g5UFBkZ01ub0trS3ZCM24zMWJpdThlZ2gtZEdicVdkNWJIRWtxc29rMlZpaXZCYm1wYl93R0RnRE1jYlFzb2I1YnVCME9sRlF2V3gwR3Q0TmR6VlZ2WnBDQTRvaEJoaWdWQg?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-04T15:15:00Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-semis",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-04T20:26:52Z"
@@ -3167,6 +3274,26 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-04T20:26:52Z"
+  },
+  {
+   "id": "51b11843de6f86cd",
+   "title": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
+   "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
+   "source": "CNBC",
+   "published": "2026-11-04T13:43:31Z",
+   "summary": "Ghalibaf said that \"Conscience or the cost of living, Americans said NO TO WAR, and we endorse this message.\"",
+   "lang": "en",
+   "feed": "cnbc-top",
+   "categories": [
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 2.5,
+   "source_bonus": 1.0,
+   "score": 3.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-04T20:35:06Z"
   },
   {
    "id": "cf54efccbf063c10",
@@ -4970,9 +5097,14 @@
    ],
    "base_score": 6.0,
    "source_bonus": 0.0,
-   "score": 6.0,
-   "coverage": 1,
-   "also": [],
+   "score": 6.5,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "Yahoo新聞",
+     "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQeGVOUmVUaF9yaThfT2d4T2J5SWI0SEZNY2k0MVJjZmRKanVfNVUtdnU1eFJwR3d0V3p5cF92RGRCV20yNmhpWnM5X2w2dGFRaFZVNEthalpwOS1EbGkxMURwWUVQQm90N3Rya21OYXpubnNzSm1LSWJ5M2tSR3dIY1NCR0kwbkp5OHk1aldZUnAyZHFSYnhncTh3U0lzSVJaQnUwRVRsWDBka01fUUNncVlwTE02ekw2VVRudFo1LXlCTjRqMzZwVHc1OU1FeDZ3R3JiTDJoM1ViV2dQNkJhMDl6WFVpY28zT25VZ2NnSkVCRmRTZGwxMjFxeHlweHlzMEtiWjA0R3IwN25Xd2xQWHppS0lDUzZCTFpIVmgyU1A5NUhFazlnT2VBTVJTYmdQUjV0Q21Rd3NINV95NDFESmNTVHJTb0lUc193WnBHV0pRanY1Q0tWX0tPNE0?oc=5"
+    }
+   ],
    "first_seen": "2026-11-04T13:21:46Z"
   },
   {
@@ -5579,29 +5711,6 @@
    "first_seen": "2026-11-04T13:21:46Z"
   },
   {
-   "id": "797177a81bc4483d",
-   "title": "SK hynix Officially Launches US AI Investment Vehicle 'HYAICO'; Chey Tae-won Named Board Chairman, Acquires 510 Billion Won Stake in Penguin Solutions",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiOEp0ejRPUENRVG5QOWp1aEo4Mm1NMWNsdW01NmVSQ05fRzNuU3dyU01ITDBUREU3TjJGT2pjSDJqUDBKZUtoUzg2aTFyeGRHanNrSmhnaXo1WFVvRkExamlLeEJZUlVZa3Z4eDJxRWlxTDFweGc?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-04T07:57:18Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-hynix",
-   "categories": [
-    "holdings",
-    "semis"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 6.0,
-   "source_bonus": 0.0,
-   "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-04T20:26:52Z"
-  },
-  {
    "id": "9cb3bddd50853c16",
    "title": "韓國SK海力士美國AI投資法人定名「HYAICO」，砸5,100億韓元收購Penguin Solutions股權",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxVV8taDkzcUQweXVKaEpJakdGUUNZZHJyWVFEbUdNMmtBdEhBbndzVmJpSWhzOWwyX2pQZkxxNmE1UU5GSW1jUWE3bGlsanRkUGJqQ2t3a0p6a1M1YkJNZFlJS0xmNk1fc3BiT3FHY3doVF9ZaVE1MU53?oc=5",
@@ -5623,6 +5732,29 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-04T13:21:46Z"
+  },
+  {
+   "id": "797177a81bc4483d",
+   "title": "SK hynix Confirms U.S. AI Investment Arm as 'HYAICO'... Acquires 510 Billion Won Stake in Penguin Solutions",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiOEp0ejRPUENRVG5QOWp1aEo4Mm1NMWNsdW01NmVSQ05fRzNuU3dyU01ITDBUREU3TjJGT2pjSDJqUDBKZUtoUzg2aTFyeGRHanNrSmhnaXo1WFVvRkExamlLeEJZUlVZa3Z4eDJxRWlxTDFweGc?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-04T07:55:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-hynix",
+   "categories": [
+    "holdings",
+    "semis"
+   ],
+   "symbols": [
+    "DRAM"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-04T20:26:52Z"
   },
   {
    "id": "5b820af257a5427d",
@@ -5651,27 +5783,6 @@
    "first_seen": "2026-11-04T13:21:46Z"
   },
   {
-   "id": "b378f7a468513f29",
-   "title": "美期中選舉藍潮來襲！小摩曝「美股4大劇本」 科技股才喘口氣又要「挫咧等」？",
-   "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPWm1BaDE3UlNuUmN6Q3EyYTZhMzRPd0oyRENTcXVodnBmdGg4TXR6N1NZYVJEMlN6anU4d2RoUVdLTmNZeGl5OUpBQ3p2Wk1nQ3o2ME4wLUJCY3NKMFFTQVNoZFR1RHVaZ1FmSURob1ZfXzk4UjRIYlBtSXotUklEdWdCdWt6VmlBQ2ZjOTZHaHptaXU1MU42NGVVbXFUV2RaVnhSX3NXTW51TWdyc093VGRfeTJTcndqRV9FSXJlay1SQ2cyc3ZWdTE4eWJzNG9SRXlwdlhyYUN5ZWlxRzlEM29xQXJKZlMzbXE4aTZwcXo0cTJyT2E5ZkJteGZPSk1HbUJ4ZU9jM0w3WHF3NWpWbEJUZEpObERTUlM3UzVRX3BrY0FoM2NmNk41YlAzME1peGJoNF9vYktBT0FyNGpDVTI2U1pQT3dXMHI4RlVWMHdwM2FiZVhzX05McTNDX0RpdGNKQWctTllDeTNKczJhYVBNR0Nac3Rtb2QzaHlwbUYwbnJaTGFsS2RoWG1pWWZvajZzcmt3OUpmUTFyX2FUUWpvU0pNTjJ6SWowQldDWWFSdUYzbnBydUFxZ3lyUQ?oc=5",
-   "source": "Yahoo股市",
-   "published": "2026-11-04T07:48:28Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-market",
-   "categories": [
-    "world",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.0,
-   "source_bonus": 0.0,
-   "score": 4.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-04T13:21:46Z"
-  },
-  {
    "id": "0bd5b701153a0458",
    "title": "Nokia 2360 Flip launches in PH, features SOS button",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3E4REhtTmFjWnF4SUJTR3hNR2lPZ3F4cDQ5SE5Db28wVFZ6bXdVQlpEbDNzWDc4U3VqSlVrR25XeWcyTExzQ0dLeF9PTHVwS0tDWnE4NXhBTndiemo5VGg4YlQzMW5vbmpENHVrdmFRaXZlSmpyc1R1amJ6akFjdk5PNmFzV0QxNnMyOHA4Ry1nR2vSAZgBQVVfeXFMTWRSd0hMb2hwWDZWRkxBZGhCdi1zWU5YVjZvLXNDOHg5QkE4R2FKdDJpclUtSEdNRGc1RUtVb1g0cDV0T01VLVZiYTRZd1d0RW1hTUZLMjN3MEUwczBuSXRObk5vQWtZdlVNd2hGZFdjWEZTSEI1eG1XQ3dBZWJEWmZsaWlsRExDbWwxcjNTWHg3N3B1YzhCYk4?oc=5",
@@ -5689,27 +5800,6 @@
    "base_score": 6.0,
    "source_bonus": 0.0,
    "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-04T13:21:46Z"
-  },
-  {
-   "id": "46229afb6a2631b3",
-   "title": "期中選舉後重回行情？歷史數據曝美股11次選後全上漲",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WcU1VbDRVTVNsYTV1Ung2bGUycGtSWS1OMU5oMGgtbmRPNjR2endSRUljTFJxUzAzQlozaUNOT3B3VElGYk1UaExjNURwRjV2NmFQV3kwTQ?oc=5",
-   "source": "Rti 中央廣播電臺",
-   "published": "2026-11-04T07:45:30Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-market",
-   "categories": [
-    "world",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.0,
-   "source_bonus": 0.0,
-   "score": 4.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-04T13:21:46Z"
@@ -6371,27 +6461,6 @@
    "base_score": 10.5,
    "source_bonus": 1.0,
    "score": 11.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-04T07:00:39Z"
-  },
-  {
-   "id": "3c92b2f7adf34ba5",
-   "title": "#SOXX 費城半導體指數- 【即時新聞】超微(AMD)財報強勢領漲！華爾街點名這3檔非典型AI概念股接棒噴出- 股市爆料同學會",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlRElucWhSMVdxbDg1aDNLd1Q4cDNVUkRsQjZkMkZvaU5VNndXMEo5SmdHZVF4RW1IWm1GSXdabjk5Qk9yZnJNR2p5b3I0OHlKVVdKS3N0SEc?oc=5",
-   "source": "CMoney",
-   "published": "2026-11-04T04:46:40Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-semis",
-   "categories": [
-    "semis",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 0.0,
-   "score": 4.5,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-04T07:00:39Z"
@@ -7089,32 +7158,6 @@
    "first_seen": "2026-11-04T07:00:39Z"
   },
   {
-   "id": "a25ecdfd3e26c057",
-   "title": "美債殖利率破5%！科技股挨刀 00998A反吃金融紅利 成資產配置焦點",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tc3FiQjhhaFlRcF8zd2hXd3E0Z3FTVDlHNWRFbnFzV0ZVa3hLWkk0aFlwaDFhMWsxRm9MRWs1VHdsWGtQZkVRdHpIa29JVThyeEk0OE5WUQ?oc=5",
-   "source": "觀傳媒",
-   "published": "2026-11-04T02:06:33Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-macro",
-   "categories": [
-    "macro",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 0.0,
-   "score": 5.0,
-   "coverage": 2,
-   "also": [
-    {
-     "source": "Yahoo新聞",
-     "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPZzNxWHZKVExKeEI5LUplZlVzR20wOEVrek1qckpEdTRQZnpzSjlvV19KaS1OQ3hQbzRHdV9VMXlhR2xHUEpxc1MyRlVhbkJ3UEhmN3JxY3lHZlBDSnVXdGxaa1lOU1RBZVlDTEttQ2pGa1cyeV9vQ3JNUWZSeWgwNFJiUGZ3V25UZ2VzMVVTMkxiU3NaSlluRVBsUFk1akJXRDJvVGd6SExqaW42Tjl5RGZTM2hjYmNVY2NybmdaZnRvc2dGWkRpQUlqTmFhcktnd005M1dPUTYwcHFBLUNqbWI2elBzNUFUa3ZzT3ZkUnlxM2RkNzB6SE1ZVFVsNG9MNS0zQkpBcUxhYmlZcmZSNjFkLU1oNzJkSEFGNDkzdDNEMTlvTEU5SVRkWnZJUnlTVk9FSWpoc1NmYUd2OGo5LUxaa1NCR3pOYl81cnRKTnBRXzhjOWhCNWRta0FoeUQ0TmVCeWpmdXM1WS00UElHandmMzZidTRKQ2VuSEE0SWM?oc=5"
-    }
-   ],
-   "first_seen": "2026-11-04T07:00:39Z"
-  },
-  {
    "id": "c39e87276f90082a",
    "title": "高通完成HBC測試晶片驗證，主打HBM替代方案：「每瓦頻寬達HBM4的5倍」",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Pc2NLVEJnNW5QUnF4WFEwU0FpQzNPd2ZwbGVQV1RFNkJGanB4UzJDY2JHSXhZTEtDZzhHc0R1RHNTaHMtMC02bWVkY2M4SE1jM2Z4aW1GNHNkNTNmUnZBTW1zbFdzd0ctQWVpQnZvRW9GXzVmR1A4MVBB?oc=5",
@@ -7388,6 +7431,31 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-04T07:00:39Z"
+  },
+  {
+   "id": "e7081a8cb075a30b",
+   "title": "〈美股盤後〉川普稱不急於再打伊朗、鎧俠財測拖累記憶體股 費半11月首日挫逾3%",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tamFycmRfX0dqWWhDU0JaMC1fOUg5bjNKVXV6M2VPbVZ2Zmp1cU9qNnZ4VkFNeXdrR0t3N3YxQ2RuTTRfTkFGV1RMTExBUnM?oc=5",
+   "source": "鉅亨網",
+   "published": "2026-11-04T01:18:45Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-semis",
+   "categories": [
+    "holdings",
+    "semis",
+    "world",
+    "market"
+   ],
+   "symbols": [
+    "DRAM"
+   ],
+   "base_score": 10.0,
+   "source_bonus": 1.0,
+   "score": 11.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-04T20:35:06Z"
   },
   {
    "id": "ad6c419df706c94d",
@@ -7744,27 +7812,6 @@
    "symbols": [],
    "base_score": 5.5,
    "source_bonus": 0.0,
-   "score": 5.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-04T07:00:39Z"
-  },
-  {
-   "id": "2edf185acce6213d",
-   "title": "AI投資恐慌過頭？野村揭科技巨頭自由現金流轉負真相：資料中心獲利潛力仍強",
-   "url": "https://news.cnyes.com/news/id/6644783",
-   "source": "鉅亨網",
-   "published": "2026-11-03T23:40:05Z",
-   "summary": "野村稱大型科技股賣壓過度，FCF轉負不等於AI不賺錢，半導體恐遭錯殺。 AWS、Azure、Google Cloud第三季營收強勁，雲端業務合計約1,100億美元、年增56%。 野村指AI算力需求仍強，科技巨頭可靠合資、租賃、預收款等方式續投資。",
-   "lang": "zh",
-   "feed": "cnyes-us",
-   "categories": [
-    "semis",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 1.0,
    "score": 5.5,
    "coverage": 1,
    "also": [],
@@ -8327,32 +8374,6 @@
    "first_seen": "2026-11-04T07:00:39Z"
   },
   {
-   "id": "c0b1f38856f87a78",
-   "title": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jTGREalVmaUlnNnZEVXp4WldlLUtDVnhCbGp6Mk5pU0RWTklHVWlhcEQ3UFRnTXhEZ044b3hyVXVLNkFWWUhfLWVENWQzQTNObHJ0TUlHLXJISlhSZnNiXzFYVmJjZ00?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-03T21:14:35Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-market",
-   "categories": [
-    "semis",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 1.0,
-   "score": 6.0,
-   "coverage": 2,
-   "also": [
-    {
-     "source": "Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWE5VTWlqMWhWQjhVTU1PYTc2M2w3ZWJlUWl1UUMzbThRNGVvQkc1YXBxOUdyVDIwYzVHRG9WR3J0VkhxSnhGdlAzNk9WZXduZHBXdkRackxJVmZPLTZZLTFuQnFQMzZWTVF4U28xV3VrNERlV3hwOGFiYWR2SUVmcUtjOXZNeE0yeHRBTkZkZjI2bDdraXdDYg?oc=5"
-    }
-   ],
-   "first_seen": "2026-11-04T07:00:39Z"
-  },
-  {
    "id": "405d2af95fbc48f1",
    "title": "美期中選舉登場全球股市震盪 標普那指走揚美債殖利率攀升",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Xb0JtWFhUQUZDSklfMHdTM2MyX29MYTVxV1pBWXFOUVhVYjIwUU1ENG15dFBQakp1cjJ5elZOX0drRWRfd2NUM1VzLWpGenFiRlpHRXpMWkw4VG9NZng1YQ?oc=5",
@@ -8795,31 +8816,6 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-04T20:26:52Z"
-  },
-  {
-   "id": "0b906651682997bd",
-   "title": "\"Samsung Electronics at 190,000 Won, SK hynix at 900,000 Won\"... Expert Outlines Downside Scenario Amid Semiconductor Correction - The Asia Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pVzZTS2szbkplUjRJYzFiam9CQkNVM1hybFNtX1g1MFhNT0d3S3V3SDlFdE1IekEyWE90VVpfZHNIbWhRenJiYUVpZzhjZmp2b1dTeVMxUm4yajh4NFl3amhzeEs?oc=5",
-   "source": "아시아경제",
-   "published": "2026-11-03T06:47:44Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-skhy",
-   "categories": [
-    "holdings",
-    "semis",
-    "market"
-   ],
-   "symbols": [
-    "SKHY",
-    "DRAM"
-   ],
-   "base_score": 10.5,
-   "source_bonus": 0.0,
-   "score": 10.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-03T07:18:02Z"
   },
   {
    "id": "68ee65d35c690866",
