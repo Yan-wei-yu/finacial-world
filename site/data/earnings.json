@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T07:27:45Z",
+ "generated_at": "2026-11-05T20:41:38Z",
  "upcoming": [
   {
    "symbol": "IONQ",
@@ -129,6 +129,18 @@
   }
  ],
  "recent": [
+  {
+   "symbol": "SITM",
+   "name_zh": "SiTime",
+   "group": "holding",
+   "is_holding": true,
+   "datetime": "2026-11-04T21:00:00Z",
+   "date": "2026-11-04",
+   "eps_est": 3.56,
+   "eps_actual": 4.01,
+   "surprise_pct": 12.65,
+   "suspect": false
+  },
   {
    "symbol": "QCOM",
    "name_zh": "高通",
@@ -369,6 +381,14 @@
   ],
   "SITM": [
    {
+    "datetime": "2026-11-04T21:00:00Z",
+    "date": "2026-11-04",
+    "eps_est": 3.56,
+    "eps_actual": 4.01,
+    "surprise_pct": 12.65,
+    "suspect": false
+   },
+   {
     "datetime": "2026-08-05T20:00:00Z",
     "date": "2026-08-05",
     "eps_est": 1.95,
@@ -390,14 +410,6 @@
     "eps_est": 1.21,
     "eps_actual": 1.53,
     "surprise_pct": 26.6,
-    "suspect": false
-   },
-   {
-    "datetime": "2025-11-05T21:00:00Z",
-    "date": "2025-11-05",
-    "eps_est": 0.71,
-    "eps_actual": 0.87,
-    "surprise_pct": 22.48,
     "suspect": false
    }
   ]
