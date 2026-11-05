@@ -1,48 +1,6 @@
 {
- "generated_at": "2026-11-04T20:35:06Z",
+ "generated_at": "2026-11-05T07:27:45Z",
  "upcoming": [
-  {
-   "symbol": "ARM",
-   "name_zh": "安謀",
-   "group": "semis",
-   "date": "2026-11-04",
-   "datetime": "2026-11-04T21:00:00Z",
-   "session": "盤後",
-   "eps_est": 0.47564,
-   "eps_low": 0.46,
-   "eps_high": 0.5,
-   "rev_est": 1378098370.0,
-   "rev_currency": "USD",
-   "is_holding": false
-  },
-  {
-   "symbol": "QCOM",
-   "name_zh": "高通",
-   "group": "semis",
-   "date": "2026-11-04",
-   "datetime": "2026-11-04T21:00:00Z",
-   "session": "盤後",
-   "eps_est": 2.15954,
-   "eps_low": 2.09,
-   "eps_high": 2.26,
-   "rev_est": 10141474290.0,
-   "rev_currency": "USD",
-   "is_holding": false
-  },
-  {
-   "symbol": "SITM",
-   "name_zh": "SiTime",
-   "group": "holding",
-   "date": "2026-11-04",
-   "datetime": "2026-11-04T21:00:00Z",
-   "session": "盤後",
-   "eps_est": 3.55982,
-   "eps_low": 2.87,
-   "eps_high": 3.86,
-   "rev_est": 288925500.0,
-   "rev_currency": "USD",
-   "is_holding": true
-  },
   {
    "symbol": "IONQ",
    "name_zh": "IonQ",
@@ -171,6 +129,30 @@
   }
  ],
  "recent": [
+  {
+   "symbol": "QCOM",
+   "name_zh": "高通",
+   "group": "semis",
+   "is_holding": false,
+   "datetime": "2026-11-04T21:00:00Z",
+   "date": "2026-11-04",
+   "eps_est": 2.16,
+   "eps_actual": 2.17,
+   "surprise_pct": 0.48,
+   "suspect": false
+  },
+  {
+   "symbol": "ARM",
+   "name_zh": "安謀",
+   "group": "semis",
+   "is_holding": false,
+   "datetime": "2026-11-04T21:00:00Z",
+   "date": "2026-11-04",
+   "eps_est": 0.48,
+   "eps_actual": 0.52,
+   "surprise_pct": 9.33,
+   "suspect": false
+  },
   {
    "symbol": "AMD",
    "name_zh": "超微",
