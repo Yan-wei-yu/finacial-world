@@ -1,42 +1,11 @@
 {
- "headline": "選後AI股殺盤，費半重挫逾10%、那指跌5%",
+ "headline": "選後反彈一日夢，AI與記憶體股重挫，費半暴跌逾11%",
  "mood": "偏空",
- "mood_reason": "費半重挫10.76%、VIX大漲56%，期貨續跌6.15%，去槓桿壓力未消",
+ "mood_reason": "那指跌5.27%、費半跌10.98%，VIX大漲近六成，期貨續跌，且今晚非農待考。",
  "key_points": [
   {
-   "title": "選後AI基建疑慮引爆拋售",
-   "detail": "民主黨掌控國會，市場擔心資料中心建設、電力與監管受阻，那指100市值恐蒸發1.8兆美元，電力股跌幅甚至大於晶片股。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 24,
-     "title": "Chip stocks, oil sink in the aftermath of Democratic election sweep",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUG9ENFo3M0RHNWI0VEdfTlZhWmpjVGR0UjViV3dBQllRVkNha0YzU1FhX2lDaWVUT1U1Ym5DbWRlOFpJZ3JPU3AwZ1Nia3NNWjdKc3Jvd0VXU3otQU83ZjFlQmZwbHcyZmJKZFk4dVJWaXhWQnV6MTF6TUpmaDcxNmdhbFFNaU1N?oc=5",
-     "source": "Reuters"
-    },
-    {
-     "n": 27,
-     "title": "1.8兆美元恐蒸發！AI基建怕卡關 那斯達克100遭血洗",
-     "url": "https://news.cnyes.com/news/id/6649071",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 32,
-     "title": "市場憂資料中心建設恐停擺 電力供應商跌勢高於晶片巨頭",
-     "url": "https://news.cnyes.com/news/id/6647850",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 38,
-     "title": "U.S. Election Regulatory Storm Hits AI Data Centers, South Korean Chips",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDhXcFE1azI0czFRWVNwZTFGYXE3alJXVXZ0YUJkandOWV9IMHRQanF2WnhRN1lQMWhWdUFfNjMzYzEyZGhWZHYzU256cklEc3BzTDlDak1lak1DMGtGNEI3SmpnZXlpVW11eHJxQVZ2U25kbWxNcHA0Y0JySjhSenRtOHNJeVA2?oc=5",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "title": "記憶體股領跌",
-   "detail": "SanDisk重挫18%，美光等記憶體股殺聲不斷；美銀指出投資人對記憶體轉趨悲觀，估值倍數也受檢視。",
+   "title": "AI股與記憶體股遭大舉拋售",
+   "detail": "美光、Sandisk等AI與記憶體股重挫，Sandisk一度跌18%。報導指選後AI部位解除，且有機構去槓桿，不只是選舉因素。",
    "impact": "利空",
    "sources": [
     {
@@ -52,22 +21,22 @@
      "source": "BigGo Finance"
     },
     {
-     "n": 33,
-     "title": "Investors turn gloomy on memory chip stocks, Bank of America says (SKHY:NASDAQ)",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSUtRTnRWd1BLaW42cjlkalVyTDZERXJUZHVVaURFVHVSai1JWGhzWFVtV1cwS19tQU9aSUpmcUg2UEVZY2JJNEZPYW91ektlczlGY2ZwaXFtdWxMSTFRamx3UE9QQ09ySGNvYkY5Z3NLTC1GU1I2c3lLa2V0eGpzZEtOQ09pcUZlMGhxNVpURFpyY2p3bVlfVy1oa0U4MHNJaWM2WA?oc=5",
-     "source": "Seeking Alpha"
+     "n": 28,
+     "title": "AI股為何殺成這樣？分析師：不只美國期中選舉 機構也在去槓桿",
+     "url": "https://news.cnyes.com/news/id/6649207",
+     "source": "鉅亨網"
     },
     {
      "n": 35,
-     "title": "Micron and Sandisk valuation multiples are unbelievable as chip stocks get crushed",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1N2S0FERTlhZGdOdnNsT1M1NjRmTnhZY3ZGX2V0Z3RjX1ZCT0pUNkt4Z2FGRy1RUEhlRzZSVE1kMUxpSU4zOXFhRE50SERZZnhjZUR2NUlXNlZaN3dST2tzMjFOcmdYWm1mUjJOazFTUUJ5dXdEYW5DanBDZENRakdmREJual9PVnB6QlFpbXB3S25QRkkyM1VuamQ1ODRTMktVZS0tYnQ1Z3VlenZvVTRrRUV4anlNVXpTdXp0MzctQ25RLV9lQ2htWF9wckl0V2F1UHB3?oc=5",
-     "source": "Yahoo Finance"
+     "title": "Nvidia, Micron, Intel Plunge In Worsening Chipmaker Selloff",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOelJaalRuaTgySnhJTzR4OGhTRXF0Y1R4d3pZN0lxSDZPc2l5LTdsNUM4LWoyX3JGaFNBQ2JsOE9NZW9NRmxyTjlFdTg0N0pVTE5Jd05uOEpNWEJnazM0NlNPM1F3d2xRVEw5RU1SOVJsRnNUcC1TRkNocVJib2h3RmZmUnRDN1RsU0RQQkQzM1BQb2hoMEZsWjM4amJ4cVR3Zlk1NzF3eVR2RUU1cTdEek5EUnpqWmNJLVE0Ul9hRWliM1A1VVpPNkdoTTV6dlk?oc=5",
+     "source": "Forbes"
     }
    ]
   },
   {
-   "title": "Arm、高通財報拖累晶片股",
-   "detail": "Arm與高通財報後晶片股下挫，三星、SK海力士也大跌；SK海力士中國設備許可遭美方卡關。",
+   "title": "高通、Arm財報衝擊晶片股",
+   "detail": "高通與Arm財報後晶片股走低，亞洲的三星、SK海力士也大跌；台積電ADR盤中一度跌4.5%。",
    "impact": "利空",
    "sources": [
     {
@@ -77,22 +46,22 @@
      "source": "Yahoo Finance"
     },
     {
-     "n": 34,
+     "n": 33,
      "title": "Qualcomm and Arm Results Rattle Asian Chip Stocks; Samsung, SK Hynix Fall Sharply",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xeVJFTl8yUXJhel8wd1VIU2xGYUpVaWhwX3VWYWo0MXJhOTJWbTdoUkJwb2l0UEI2a2lEUTRnb3dPMVh1UGxESk1JN09JODFLb3dObkE1eHREUm9SQU5DYll6VVY5OHNLMEtha0tPdm1aOXZvQWc?oc=5",
      "source": "BigGo Finance"
     },
     {
-     "n": 23,
-     "title": "US Holds Up SK Hynix China Equipment Licenses, Leaving $45bn New York Chip Investment Hanging",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmllUVdLM1p4OEpmNXhCaVRZQVlmUTM0bXRPYUE3QkE2d2RLUEhEcU5HVHVnbVpGc0pnT0tDTldzQmxMWVhLak8zYl9RWHJtRDR5RFZJYkxUMi13aWgxek1jU2o5LWZNYXF5ZUpZWkVsdmhyb2R2NXRBYTF1U2Y1cGtEd2ZDSTUzRVdRa2dOMGxwY0V1U3MxS0pLbGdIclVMYjVZVUN0cGdIazRMSklZLWVUaHVScTg?oc=5",
-     "source": "Tekedia"
+     "n": 1,
+     "title": "〈美股早盤〉選後行情兩樣情！道瓊續揚、那指開低 台積電ADR挫跌4.5%",
+     "url": "https://news.cnyes.com/news/id/6648620",
+     "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "機構去槓桿、VIX創八個月新高",
-   "detail": "分析師認為除選舉外，機構去槓桿也加劇賣壓；恐慌指數升至約26，那指期貨續跌。",
+   "title": "VIX升至八個月新高，賣壓擴散",
+   "detail": "恐慌指數衝高，報導稱那斯達克100市值蒸發約1.8兆美元，市場擔憂AI基建進度受阻，賣壓是否結束仍不明。",
    "impact": "利空",
    "sources": [
     {
@@ -102,34 +71,71 @@
      "source": "鉅亨網"
     },
     {
-     "n": 28,
-     "title": "AI股為何殺成這樣？分析師：不只美國期中選舉 機構也在去槓桿",
-     "url": "https://news.cnyes.com/news/id/6649207",
+     "n": 27,
+     "title": "1.8兆美元恐蒸發！AI基建怕卡關 那斯達克100遭血洗",
+     "url": "https://news.cnyes.com/news/id/6649071",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 18,
+     "title": "選後反彈一日夢！科技股領跌 這波拋售還沒完？",
+     "url": "https://news.cnyes.com/news/id/6649284",
      "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "通膨與利率仍是變數",
-   "detail": "聯準會官員稱通膨仍是首要風險，英國央行升息；美債殖利率與油價回落則是短線支撐。",
-   "impact": "中性",
+   "title": "民主黨掌國會，監管與政策不確定性升高",
+   "detail": "民主黨掌控國會，市場關注監管、債務上限談判與半導體政策。美國卡住SK海力士對中國的設備許可，亦增添變數。",
+   "impact": "利空",
    "sources": [
     {
+     "n": 22,
+     "title": "民主黨掌控美國國會 華爾街銀行業迎向嚴格監管風暴",
+     "url": "https://news.cnyes.com/news/id/6648609",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 31,
+     "title": "華爾街最怕的事來了！民主黨重掌國會完全執政 債務上限從「共和黨大刀」變「談判王牌」",
+     "url": "https://news.cnyes.com/news/id/6647900",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 23,
+     "title": "US Holds Up SK Hynix China Equipment Licenses, Leaving $45bn New York Chip Investment Hanging",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmllUVdLM1p4OEpmNXhCaVRZQVlmUTM0bXRPYUE3QkE2d2RLUEhEcU5HVHVnbVpGc0pnT0tDTldzQmxMWVhLak8zYl9RWHJtRDR5RFZJYkxUMi13aWgxek1jU2o5LWZNYXF5ZUpZWkVsdmhyb2R2NXRBYTF1U2Y1cGtEd2ZDSTUzRVdRa2dOMGxwY0V1U3MxS0pLbGdIclVMYjVZVUN0cGdIazRMSklZLWVUaHVScTg?oc=5",
+     "source": "Tekedia"
+    },
+    {
      "n": 37,
+     "title": "U.S. Election Regulatory Storm Hits AI Data Centers, South Korean Chips",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDhXcFE1azI0czFRWVNwZTFGYXE3alJXVXZ0YUJkandOWV9IMHRQanF2WnhRN1lQMWhWdUFfNjMzYzEyZGhWZHYzU256cklEc3BzTDlDak1lak1DMGtGNEI3SmpnZXlpVW11eHJxQVZ2U25kbWxNcHA0Y0JySjhSenRtOHNJeVA2?oc=5",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "title": "升息疑慮仍在",
+   "detail": "Fed官員稱通膨仍是頭號風險，PGIM估一年內再升4碼；英國央行升息1碼。美債殖利率4.84%，壓抑高估值科技股。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 36,
      "title": "升息還沒完？Fed兩官員發聲 通膨仍是頭號風險",
      "url": "https://news.cnyes.com/news/id/6649070",
      "source": "鉅亨網"
     },
     {
      "n": 40,
-     "title": "英國央行三年來首度升息1碼至4% 中東戰事推升通膨壓力 央行暗示不排除再升息",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfMFE3MURvaVdST0t5UWh4dFlUdmZRSi1MeW1ObnVZX3hla2RvWU9Bb1JlT2hMRl9QaXhVMFBaZW05R1ZzbmJaMF9ORWUwR01WUE9COHZVSWU4QdIBX0FVX3lxTE1SeE04TnFCWkIyTndmXzlMLVFxdXZucG9jSEdxeHptZWYzRTRXMUl2bG1QR2tUb2RqT1NaYUZNSnVCSVYwdmRuX0xxRldUdXJjem51cWU0VU15clduOWw4?oc=5",
-     "source": "經濟日報"
+     "title": "川普期中選舉受挫 Fed更敢升息？PGIM估一年內再升4碼",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxaS04T3hud2lRQ3hSTTh4bHlZMnhnbklySEpFYXNIY1VHeEZRQkVNTzlyV21DRDFJNy1TRUprdnRKbGZEOFlsc01sM0QtQjQ?oc=5",
+     "source": "鉅亨網"
     },
     {
-     "n": 8,
-     "title": "11月5日盤前／關注美國選後 AI 基建變化 油價與美債殖利率回落 有利估值修復",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LWlZMT1labmYwM3VrbG82RmdDaXZVcUZjS2ctVGF4dHFDY3hQQXJlelhSRGRVVWp3VE5QMjZZVnhHRko4bnRZbmVBWmdUNy1ieWQtMklyV095UdIBX0FVX3lxTE9UOEZtNFRBbmdKVEh0THl0ejdaRWJHLThoTFF5czZ5WXNkaDlyNnA5LXBWc3hYanRqSi1aY0lTSm40N0szQ2hHR28yR3I3NVNZSVl1VDZzTHFyT3BMOWtF?oc=5",
+     "n": 39,
+     "title": "英國央行三年來首度升息1碼至4% 中東戰事推升通膨壓力 央行暗示不排除再升息",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfMFE3MURvaVdST0t5UWh4dFlUdmZRSi1MeW1ObnVZX3hla2RvWU9Bb1JlT2hMRl9QaXhVMFBaZW05R1ZzbmJaMF9ORWUwR01WUE9COHZVSWU4QdIBX0FVX3lxTE1SeE04TnFCWkIyTndmXzlMLVFxdXZucG9jSEdxeHptZWYzRTRXMUl2bG1QR2tUb2RqT1NaYUZNSnVCSVYwdmRuX0xxRldUdXJjem51cWU0VU15clduOWw4?oc=5",
      "source": "經濟日報"
     }
    ]
@@ -137,26 +143,8 @@
  ],
  "holdings": [
   {
-   "symbol": "NOK",
-   "note": "收盤7.52、跌8.96%，隨大盤下挫；新聞多為AI網路、Supermicro合作等題材，未見直接利空。",
-   "sources": [
-    {
-     "n": 5,
-     "title": "Supermicro攜Nokia將NVIDIA Aerial RAN Computer導入網路邊緣環境 實現低延遲AI服務",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXVnMEdTY1JQU1hCSDlCUE5QUkdBR2tSa3pqcEJmaXNEdW9KbUFUX2hOZklRWXpDRWhYSUhWcGk5WHVMQ1k1WHN0dFlFcTl3Q2JqUnI3ekRTa2pZYWZCRzdwTkhXWDJkdHZyOWUyNlpvc3RNcHZZeXdsdmJZRUJJZGk3MlctQVlIM0FqeDRkV09LQ21TWkRHTDZfMFhPVUl1ZUZz?oc=5",
-     "source": "DIGITIMES"
-    },
-    {
-     "n": 14,
-     "title": "Nokia Lifts the Lid on AI-Era Upload Demand as Moody's Upgrades the Credit",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX3ZRWFVjMnpxRGxhajh3WVRtd3lybFY5LWFGTGpWdVF2QVJGcndQcmlpNExiby1JbkZ2Z1FQNXl4VFVWaGtMNTV2a05FWVAzYnFkVWtETHo2NF8tNGhBSXhRaVdsWVh0ZXgwcVFIYkRzdHVyRXdWTXZXMWtEOW1hYWRqd1NSUmJ6WjI1cEhFTy1JTDRaTHpHdHVsUHZsZ1VBLXBWWFJOTXdQU1RKQk5LY2E2R1JyYXBoUVRHNGtvczByZDNsS1VBbHp2bDdLRnBKS09HV0t3ZmFTM1J1X0hZ?oc=5",
-     "source": "ad-hoc-news.de"
-    }
-   ]
-  },
-  {
    "symbol": "DRAM",
-   "note": "跌14.86%，與美光、SanDisk等記憶體股同步重挫，美銀稱投資人轉悲觀。",
+   "note": "記憶體股受重挫，ETF收盤跌15.01%；BofA指投資人對記憶體股轉悲觀。",
    "sources": [
     {
      "n": 3,
@@ -165,13 +153,7 @@
      "source": "MarketWatch"
     },
     {
-     "n": 6,
-     "title": "SanDisk Plunges 18% as Post-Election AI Unwind Hammers Memory Chip Stocks",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10d2wyUFoxa0tHbkhNR3EtUVNIM1JubGxFMzljWjlWRzluRUhuOEhPdngzcEtZYV9ObjVXQy1fb1dBMjJ6NjVRbzIwak5mQVFqLUxXd1FPVXpMMXNpRlBnTF9QRkJhZ0RscEh3XzZXYU9WRmtFRUE?oc=5",
-     "source": "BigGo Finance"
-    },
-    {
-     "n": 33,
+     "n": 32,
      "title": "Investors turn gloomy on memory chip stocks, Bank of America says (SKHY:NASDAQ)",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSUtRTnRWd1BLaW42cjlkalVyTDZERXJUZHVVaURFVHVSai1JWGhzWFVtV1cwS19tQU9aSUpmcUg2UEVZY2JJNEZPYW91ektlczlGY2ZwaXFtdWxMSTFRamx3UE9QQ09ySGNvYkY5Z3NLTC1GU1I2c3lLa2V0eGpzZEtOQ09pcUZlMGhxNVpURFpyY2p3bVlfVy1oa0U4MHNJaWM2WA?oc=5",
      "source": "Seeking Alpha"
@@ -179,20 +161,8 @@
    ]
   },
   {
-   "symbol": "QNT",
-   "note": "跌8.49%，公司發布Nexus路線圖；財報於11/5盤後公布，結果資料未提供。",
-   "sources": [
-    {
-     "n": 15,
-     "title": "Quantinuum Unveils Nexus Roadmap to Deliver the First Developer Platform Designed for the Fault-Tolerant Quantum Era",
-     "url": "https://finance.yahoo.com/technology/ai/articles/quantinuum-unveils-nexus-roadmap-deliver-130000423.html?.tsrc=rss",
-     "source": "Yahoo Finance"
-    }
-   ]
-  },
-  {
    "symbol": "SITM",
-   "note": "跌10.66%，受晶片股賣壓拖累；法說提及AI需求與供給限制。",
+   "note": "收盤跌10.90%，受晶片股賣壓拖累；法說提到AI需求與供給受限。",
    "sources": [
     {
      "n": 7,
@@ -201,9 +171,39 @@
      "source": "Yahoo Finance"
     },
     {
-     "n": 9,
+     "n": 8,
      "title": "SITM Q3 Earnings Call Highlights AI Demand and Supply Constraints",
      "url": "https://finance.yahoo.com/technology/ai/articles/sitm-q3-earnings-call-highlights-184600487.html?.tsrc=rss",
+     "source": "Yahoo Finance"
+    }
+   ]
+  },
+  {
+   "symbol": "NOK",
+   "note": "跌8.90%；個股消息偏正面（AI網路合作案、穆迪調升信評），仍跟著大盤走弱。",
+   "sources": [
+    {
+     "n": 5,
+     "title": "Supermicro攜Nokia將NVIDIA Aerial RAN Computer導入網路邊緣環境 實現低延遲AI服務",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXVnMEdTY1JQU1hCSDlCUE5QUkdBR2tSa3pqcEJmaXNEdW9KbUFUX2hOZklRWXpDRWhYSUhWcGk5WHVMQ1k1WHN0dFlFcTl3Q2JqUnI3ekRTa2pZYWZCRzdwTkhXWDJkdHZyOWUyNlpvc3RNcHZZeXdsdmJZRUJJZGk3MlctQVlIM0FqeDRkV09LQ21TWkRHTDZfMFhPVUl1ZUZz?oc=5",
+     "source": "DIGITIMES"
+    },
+    {
+     "n": 13,
+     "title": "Nokia Lifts the Lid on AI-Era Upload Demand as Moody's Upgrades the Credit",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX3ZRWFVjMnpxRGxhajh3WVRtd3lybFY5LWFGTGpWdVF2QVJGcndQcmlpNExiby1JbkZ2Z1FQNXl4VFVWaGtMNTV2a05FWVAzYnFkVWtETHo2NF8tNGhBSXhRaVdsWVh0ZXgwcVFIYkRzdHVyRXdWTXZXMWtEOW1hYWRqd1NSUmJ6WjI1cEhFTy1JTDRaTHpHdHVsUHZsZ1VBLXBWWFJOTXdQU1RKQk5LY2E2R1JyYXBoUVRHNGtvczByZDNsS1VBbHp2bDdLRnBKS09HV0t3ZmFTM1J1X0hZ?oc=5",
+     "source": "ad-hoc-news.de"
+    }
+   ]
+  },
+  {
+   "symbol": "QNT",
+   "note": "跌8.78%；公布Nexus路線圖，財報預定11/5盤後，結果尚未見於資料。",
+   "sources": [
+    {
+     "n": 14,
+     "title": "Quantinuum Unveils Nexus Roadmap to Deliver the First Developer Platform Designed for the Fault-Tolerant Quantum Era",
+     "url": "https://finance.yahoo.com/technology/ai/articles/quantinuum-unveils-nexus-roadmap-deliver-130000423.html?.tsrc=rss",
      "source": "Yahoo Finance"
     }
    ]
@@ -212,26 +212,26 @@
  "watch_next": [
   {
    "when": "11/06 21:30",
-   "what": "美國10月非農（預期6.5萬）、失業率（預期4.2%）、平均時薪"
+   "what": "美國10月非農（預期6.5萬）、失業率（預期4.2%）與平均時薪"
   },
   {
    "when": "11/06 23:00",
-   "what": "密大消費者信心初值與通膨預期"
+   "what": "密大消費者信心與通膨預期初值"
   },
   {
    "when": "11/07 00:00",
    "what": "日本央行總裁植田和男談話"
   },
   {
-   "when": "11/06 晚間美股盤中",
-   "what": "觀察那指期貨與費半是否止跌、VIX是否續升"
+   "when": "11/10",
+   "what": "台積電10月營收；Rigetti盤後財報"
   }
  ],
- "generated_at": "2026-11-05T20:41:38Z",
+ "generated_at": "2026-11-05T20:50:58Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5837,
-  "output_tokens": 1163
+  "input_tokens": 5826,
+  "output_tokens": 1184
  }
 }

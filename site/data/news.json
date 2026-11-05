@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T20:41:38Z",
+ "generated_at": "2026-11-05T20:50:58Z",
  "categories": {
   "holdings": "我的持股",
   "semis": "半導體／AI",
@@ -8,6 +8,30 @@
   "market": "美股大盤"
  },
  "items": [
+  {
+   "id": "7f926e2a7b95e301",
+   "title": "選後反彈一日夢！科技股領跌 這波拋售還沒完？",
+   "url": "https://news.cnyes.com/news/id/6649284",
+   "source": "鉅亨網",
+   "published": "2026-11-05T20:48:11Z",
+   "summary": "美股週四重挫，那斯達克100跌逾5%，科技股與AI概念全面遭賣壓。 民主黨拿下參眾兩院後，市場憂AI基建政策變數，獲利預估恐需重估。 輝達、美光等AI受惠股走弱，賣壓並擴散至標普500等權重指數。",
+   "lang": "zh",
+   "feed": "cnyes-us",
+   "categories": [
+    "holdings",
+    "semis",
+    "market"
+   ],
+   "symbols": [
+    "DRAM"
+   ],
+   "base_score": 7.5,
+   "source_bonus": 1.0,
+   "score": 8.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-05T20:50:58Z"
+  },
   {
    "id": "802db9b43138d769",
    "title": "Sam Altman is annoyed his DRAM comment was 'taken out of context'",
@@ -66,9 +90,14 @@
    "symbols": [],
    "base_score": 4.5,
    "source_bonus": 0.0,
-   "score": 4.5,
-   "coverage": 1,
-   "also": [],
+   "score": 5.0,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNQ3E5NFdBTFNFcXFwOVdUcmNjWG9PaUc4ZThtS1ZxT2JXWjktX0NKZFRKaHBFVjB4UWU3dk5IZVMzYjBrbHptV1J6bm9tSDFxaUs1UDc0WUtremJDTzh1SW1iU3VfVUpQYkRBd0VDd252NTM5eVdYc3l3blZ4MDBMb2FTNlRFdFBXYVRVX1NuNzI4dXRaNk51ZHl4R25hSjE2bkwxOGdpY055ZnppTGVsSlNwYTBtNlVIaXRqbFhLeDhDSDBDUGNmOVRpT0Y0SGo1VEJ6WFpDYTB0cjNndXlHZVNpTnBMNnF3andtTW5xOFZ2Z2xuTkJNMmdPLVNrSkNldDNJVUhMdmhBcU9RUUVNXy0tZjBOOGV0RFEzNmJvQjkwLXVKM0NEaElyN2NMQ0RUQlRLcG50dWo2OVBfTWRwazdDMXloTldraXlXUkpFbHlwdw?oc=5"
+    }
+   ],
    "first_seen": "2026-11-05T20:41:38Z"
   },
   {
@@ -154,27 +183,6 @@
    "base_score": 4.5,
    "source_bonus": 1.0,
    "score": 5.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T20:41:38Z"
-  },
-  {
-   "id": "d8397401be492072",
-   "title": "A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3%",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2FTRHpfaEpFUjZ6Z2VTMXJPa21QaWNxZjl2b3JrUW1kb18wbDJPaWNNZnk4cWdZQm90WF9xSElxYWsyYjF4UWxhUmRjV1p2cVhOaml1a2RxZjA3aE9BaU9zT1g2QUFpdEUxV0lrckJobHlubVJpVDVKVVVQTXQ0aG53YWtkeVUxYnMtMDRqUmxoYThZdDRUNnBLNG9lbDN6WnJaOVlBcGZxbTU3V1FB?oc=5",
-   "source": "Pittsburgh Post-Gazette",
-   "published": "2026-11-05T20:07:07Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-market",
-   "categories": [
-    "semis",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 0.0,
-   "score": 4.5,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-05T20:41:38Z"
@@ -386,6 +394,29 @@
    "first_seen": "2026-11-05T20:41:38Z"
   },
   {
+   "id": "6579b891846cb6c6",
+   "title": "2303 聯電 - 藍潮席捲國會費半挫逾3% 記憶體類股慘崩- 股市爆料同學會",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XcEtUN1MzX1dfd1Z2WkR2eklFeUhTRFhYNl83XzhCVVRqWHYwTlQ1eEhPRVFEcjN5NXZyZ3c3aHEyMGdEdFdRTHpLREd2Y00yTk9wRGtDeTY?oc=5",
+   "source": "CMoney",
+   "published": "2026-11-05T19:24:49Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-semis",
+   "categories": [
+    "holdings",
+    "semis"
+   ],
+   "symbols": [
+    "DRAM"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-05T20:50:58Z"
+  },
+  {
    "id": "3596868f46dc1658",
    "title": "財富管理論壇／對抗通膨…多元投資突圍 五大專家教戰留意風險因子",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByMDkzRmhiX2JyOFJXUWFCVjE0aDlBbUl6bTJrRkhoZ0JOa2otUndnX0w4SFBYNnY3aUNYaHdyMEpnWVFRVDNHYzRJUmVJNXVfb0dMN1pzT0t2X2lKd3kwWGRTZGcydkxtR1dyYXhZd0xsZ9IBVkFVX3lxTE9hQzJWMEd0NTFPeTI4eUhTT2tLZUNKTkN5aW5YVFg0Xy1POGR4OTgzekpNc2s2SDFPSVZ6enpTWGNwaUVkMUtaeEg5eXpnbzVJRzFMZDR3?oc=5",
@@ -528,6 +559,27 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-05T20:41:38Z"
+  },
+  {
+   "id": "88f3be61d5e6cf37",
+   "title": "Stocks crater as investors recoil from tech companies amid AI risks",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQnJFc2xjNFJEdElrOU1HcTR4S1VRWWdiTVFMUHFVNHl0YUtyUlhYZHhOV0hkS1dkSmFJODFKa2Iya2Z2UkpmckVlMFN6V1FsM25Zd1djUGhYX2NMNFlKTWs5dHhLQWNUX0hBU3k5UFZGMlNBLWlySTB6YlhZQjJpTXA4dHc1TWRkdDdvVUxB?oc=5",
+   "source": "CBS News",
+   "published": "2026-11-05T19:08:23Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-market",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-05T20:50:58Z"
   },
   {
    "id": "eab9e3ae622f27ff",
@@ -2067,6 +2119,32 @@
    "first_seen": "2026-11-05T20:41:38Z"
   },
   {
+   "id": "d1981cad128ba1aa",
+   "title": "A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3.5%",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDFTQTZTZjRGNTBlWWpxMFJFMGt2cXI0cFlnQ3YzRElkRG9UUjdVUzRkZDliZHN6ZkREc0VLalFxZ1RJUzRPckthYlRhZm0ybW5OUUhVN0huUEtmOC0tMlFGcS1NaGRnRldKY0pkdFZmcWhDTDYxZVVMUlpNQ2lKdUV0eWUta056aWhBYldTYmTSAZgBQVVfeXFMT04xWDhSQWxUTFBxQzNhNWdUdTU4M3FCbk1ENDVhSWhTM2RfakVKcjE4dUhyeGF4aVpuZTJTblVRTHZMQ2F6Mm9XU3ZITU13NUNaamFxMmpLaDhWdHhCOFlsS2lXZkNaNTVPRUw2MGJXQ2ZieE0xd3VNeDBKNWwxUmZpR0RSSF84c0tyWUNUTFpJWW41OWFvVmw?oc=5",
+   "source": "NBC Bay Area",
+   "published": "2026-11-05T17:08:12Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-market",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 5.0,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "Pittsburgh Post-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2FTRHpfaEpFUjZ6Z2VTMXJPa21QaWNxZjl2b3JrUW1kb18wbDJPaWNNZnk4cWdZQm90WF9xSElxYWsyYjF4UWxhUmRjV1p2cVhOaml1a2RxZjA3aE9BaU9zT1g2QUFpdEUxV0lrckJobHlubVJpVDVKVVVQTXQ0aG53YWtkeVUxYnMtMDRqUmxoYThZdDRUNnBLNG9lbDN6WnJaOVlBcGZxbTU3V1FB?oc=5"
+    }
+   ],
+   "first_seen": "2026-11-05T20:41:38Z"
+  },
+  {
    "id": "8f9b2b113ad8e4c4",
    "title": "美股四指慘遭血洗！一票鄉民全看崩潰 PTT湧「畢業文」：一起下地獄吧",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hLUR3bExHS05QVFVLNXJtdWdyemZoUk1pMGltWkp4aUdDVmFZb08yVXNCUkhNamNtYjl0dm9kUmY1a254MXpaLXBEaw?oc=5",
@@ -2284,6 +2362,26 @@
    "first_seen": "2026-11-05T20:41:38Z"
   },
   {
+   "id": "5a7410596a35a80f",
+   "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
+   "url": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
+   "source": "CNBC",
+   "published": "2026-11-05T16:58:35Z",
+   "summary": "Figma is letting clients use more artificial intelligence features for the same price. The company would like the move to boost results in the long term.",
+   "lang": "en",
+   "feed": "cnbc-tech",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-05T20:50:58Z"
+  },
+  {
    "id": "b036aefd9e1cf056",
    "title": "深夜，美股跳水，納指重挫3%，輝達跌超5%，英特爾跌超8%，AI硬體多隻個股跌超10%；特斯拉大跌10%，SpaceX跌超7%",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Wd2R5bGFDTE9PWFoxRExYTlN5REhVZjZTYkY4Z21VcWZndGd5OUZmSVM0UlhOa3MwYjRXZS1HbEN0REt5ckFmbA?oc=5",
@@ -2455,6 +2553,26 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-05T20:41:38Z"
+  },
+  {
+   "id": "5d757f35c2161ffc",
+   "title": "Treasury, European Bond Yields Tumble as Markets Lifted by U.S. Democrats’ Victory",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdld4SERJUnFrU2lIQ2NMNTJkZy1mVGZUbUFRaEtBQllGTHdQODM2WkhrV1lwd0tCaEd0UUJWclh4M2t6Y0RxMEZWTTBGRHRvNkpMaUV6YkZweVR5MlFwVThma29VWEI4dzdPMTNaSGR1Y28wRnBDWGZQWk02SnhXbnNQbWkycmo0QU50Wm9MNnFGa2lLR2czVU5Vd0thSTNkUEZyTGZDVHR6dWd2RkhoQ18zdnl3b1k0U3QxdWs1Qk5kQQ?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-05T16:37:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-macro",
+   "categories": [
+    "macro"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-05T20:50:58Z"
   },
   {
    "id": "6cb80e952737169d",
@@ -2677,6 +2795,47 @@
    "first_seen": "2026-11-05T20:41:38Z"
   },
   {
+   "id": "f75620a41768bf52",
+   "title": "分析：美股科技股遭遇抛售潮，民主党横扫国会引发AI监管担忧",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01dTVTWWpOd0ZVTXZhRVhfYjg5d0d6ajZSeEQxYi1CQmthcFY1WlNvT1JVdDNJVDRmMzNxU3NPRkxWd3c3VlBLSEkzYU1tWUdIZlMwMktpbkdoODFoNzNIcjgzVGk0Zw?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-05T16:08:18Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-market",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-05T20:50:58Z"
+  },
+  {
+   "id": "18af17dc930b272a",
+   "title": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
+   "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+   "source": "CNBC",
+   "published": "2026-11-05T16:07:59Z",
+   "summary": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
+   "lang": "en",
+   "feed": "cnbc-top",
+   "categories": [
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 2.5,
+   "source_bonus": 1.0,
+   "score": 3.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-05T20:50:58Z"
+  },
+  {
    "id": "5ab9723c4b04bd3e",
    "title": "Why is Taiwan Semiconductor Manufacturing stock plunging today?",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2Y3R2l3ZndBcXdDSERRaDNUNVJOc2ZyTkZhUE1uUmFfczNmZUpUMDVuY1JOSEtSdWZSdG51MmJFbWMzNGFOVktFdHpYTnFYUWJyeGUyUWk3SUxBWEtuWnFsb0FVUXBaeGxVZVJSdnROeUpNNW9CUHJNNm9zVnoyNm1Zb2tFRjBTaVEwVWdCdHI2SWlLUDhjZEFpblFSM2Y1VEd0aGRPT3pCYmxWd3U4WHNQT2JBTDBSOGlSRW9SR21Edw?oc=5",
@@ -2745,28 +2904,6 @@
    "first_seen": "2026-11-05T20:41:38Z"
   },
   {
-   "id": "85347b2f2901926c",
-   "title": "Foreign Investors Net Sell Over $155 Billion in South Korea's KOSPI This Year, Dumping Samsung Electronics and SK Hynix While Diversifying Into Biotech and Beauty",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13dEl3Q2FPcU5mZl9FQUVZYkhtQ3ZJWVhwYnoyRGtuRldGVzdXY2w2c2Z5aGdNLTRHWEl1bmUzSDB3a3Y5X0M1aEVqbHdwejFOUDRLUzVFSGNtWEcxakJPaHZXRE0ycFdPZ1lFcVdpRGIxT1NuZGc?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-05T16:05:00Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-hynix",
-   "categories": [
-    "holdings"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T20:41:38Z"
-  },
-  {
    "id": "3a7d1f8a1169b521",
    "title": "美股四指慘被血洗！費半一度下挫破千 理財專家傻眼：明天能放颱風假嗎",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aLUxIVll3c1dHbU5jb25za2FIR3RveExUclFZcnJKdVpsZk1La0lzN2VPMjQ2LVlPZnRlLUhfc1l5OTl6YTlkRlNPSQ?oc=5",
@@ -2804,68 +2941,6 @@
    "base_score": 4.5,
    "source_bonus": 0.0,
    "score": 4.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T20:41:38Z"
-  },
-  {
-   "id": "37085aff08168d75",
-   "title": "防輸入性通膨 學者建議央行升息",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83TWZaTk8zUDFnd0VtWWNGTUFCNU90QnMtN2F2S3VJbXc0N0FLWW9DcHBldGlXY1lmMnB0emVOTU5Gd1pwOElkTkpIam54ZFB6MFdGT3ZB0gFWQVVfeXFMTzdNZlpOTzNQMWd3RW1ZY0ZNQUI1T3RCcy03YXZLdUltdzQ3QUtZb0NwcGV0aVdjWWYycHR6ZU5NTkZ3WnA4SWROSkhqbnhkUHowV0ZPdkE?oc=5",
-   "source": "UDN",
-   "published": "2026-11-05T16:00:00Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T20:41:38Z"
-  },
-  {
-   "id": "f41b86594272a3f3",
-   "title": "通膨未歇 10月CPI連6月突破警戒線",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tcVR0bzMzWWNMZ2E5R1ZSY09VcVYwRTVEWE5OcHE2YTZyQV9qbnJxcTdnTE9rQ2ZuUTRueHBTYllQc2J5VC1zU2dnR0JlRzlSUmJmbEZB0gFWQVVfeXFMT21xVHRvMzNZY0xnYTlHVlJjT1VxVjBFNURYTk5wcTZhNnJBX2pucnFxN2dMT2tDZm5RNG54cFNiWVBzYnlULXNTZ2dHQmVHOVJSYmZsRkE?oc=5",
-   "source": "UDN",
-   "published": "2026-11-05T16:00:00Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T20:41:38Z"
-  },
-  {
-   "id": "1267263edd0af8d1",
-   "title": "SK hynix affiliate buys $377M Penguin Solutions stake from SK Telecom",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlRmajU4S0t6UFVrUldVbkFmbzI1dlAtMG5Bc0JEbk5MNjBjWE9yUXhTR1lnWkVDVmtnWm1BWkdmV0luRzZFd0pkdHdZaUF5YUZlcG5WUURrRENwWkx6Vy1lMnZaQkMtRHIySHhNZzkwSmJPcDNkRTN6SGdnb0lnU2ItNk5wZm9QVW5yVV9kNWFac2xmczZhQ2o0b3JHazl1bWY4TQ?oc=5",
-   "source": "Dealroom",
-   "published": "2026-11-05T15:57:22Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-hynix",
-   "categories": [
-    "holdings"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-05T20:41:38Z"
@@ -2927,26 +3002,6 @@
    "base_score": 3.0,
    "source_bonus": 1.0,
    "score": 4.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T20:41:38Z"
-  },
-  {
-   "id": "74a4894d88cd96d9",
-   "title": "Qualcomm stock slides 9% after weak profit outlook in Q4 earnings",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTmk0ck5VWFBQXzNqeFFPNVZRTEFCYXdSTlNVTktiX01BUUFVUGhRMXI5MWpHbXZGa2tTenBRa3VYLXFUakpWd1g5a0lrQXlwNlE0eVJrUG54YXpoTWw3S3Zkc2NhelJsb0NWdzZEVFlhc0otVDR3RFhRT05oaFJkMTl3?oc=5",
-   "source": "Quartz",
-   "published": "2026-11-05T15:48:42Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-semis",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-05T20:41:38Z"
@@ -4088,6 +4143,27 @@
    "first_seen": "2026-11-05T20:41:38Z"
   },
   {
+   "id": "87227858f70ee180",
+   "title": "鄭麗文： 美引戰釀通膨選舉結果早在預料中",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BcHMxcTM4UlIycDFqbUdYM01OdU1ERU1Ubnk5eS10cDZHOWxUQlU2MDJ4SG1KcFFGUlQ4R3ByekF2cm95VWVpRlNKdV9YSDhJS3FQQmVfc1BKeTF3SjVUcE1NekFiQl8tRUxUM3NVc2ZodWp6MnNFX2c0YWZNZw?oc=5",
+   "source": "台灣中評網",
+   "published": "2026-11-05T13:49:48Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-macro",
+   "categories": [
+    "macro",
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 5.5,
+   "source_bonus": 0.0,
+   "score": 5.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-05T20:50:58Z"
+  },
+  {
    "id": "1ad5da0e88b51288",
    "title": "Quantinuum發布量子計算平台Nexus路線圖，預計2029年推出容錯量子電腦作者Investing.com",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZQi12SnBnTF8wUGhhRlBNZEx3R1dya2tFS2J2YjdoNW1PaUM0Tjg3bEpEVXNZb0FzaU11aVZ4eGV4bUJUOENERVFqV1FoWkJMMnhvMUZvSC1wcmNERkRWdEFtR0Q2RmkwSmVhVzN6Y1o?oc=5",
@@ -4129,6 +4205,27 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-05T20:41:38Z"
+  },
+  {
+   "id": "eeed6c67382c78b6",
+   "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+   "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+   "source": "CNBC",
+   "published": "2026-11-05T13:44:27Z",
+   "summary": "Billionaire political spending met criticism from ... billionaires in the wake of Tuesday's blue wave election.",
+   "lang": "en",
+   "feed": "cnbc-top",
+   "categories": [
+    "world",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.0,
+   "source_bonus": 1.0,
+   "score": 5.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-05T20:50:58Z"
   },
   {
    "id": "5b8107f6aa73a309",
@@ -5399,6 +5496,27 @@
    "first_seen": "2026-11-05T20:41:38Z"
   },
   {
+   "id": "a559129b8f4f0da7",
+   "title": "Eurozone Inflation Rises to 4%, Boosting Case for ECB Interest Rate Hike in December",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYWZYVF80Z2F6VFlLTUlPUEgydktTWk5jNGJXUG1qTmxCV2hhb0JrZTBYRzZMU04zOGtZSGVlS244R2tQUjZ0YUUxXzdlR2JVZ3pWUmthNkdHT1daQ1NZYkgxRkE4NFVXVDNaaURkdmo2eWsyVHdCY2FWUVVWcjE3cmlPVGd4N1ZkTkJ1c2ZMd0FyblFfT3BnOXg3dEEyYUhSakcwUFNmX1BrZk9EOGM2U21XbV80T2NV?oc=5",
+   "source": "Morningstar",
+   "published": "2026-11-05T08:44:27Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-macro",
+   "categories": [
+    "macro",
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 5.5,
+   "source_bonus": 0.0,
+   "score": 5.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-05T20:50:58Z"
+  },
+  {
    "id": "ebefa290023d199f",
    "title": "10月消費者物價指數年增2.33% AI通膨持續發酵",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DWmlaVUdseThkR3VoSFVMcW9iVmVrTzRlTGFVb0FfSkFCZzc0bi0wYVNudVNtZEZXdVk3WGp4RlhuNVlHV2pEMnVwazJvQ0lS0gFWQVVfeXFMTURONHNhYjhrTzB2QUhfVEt6NUthMTIydnduME9DWnZEdTAzdDBjZjJWcTFLRUxWTFppSWhTRHdienRpUEs4S2xicjN6Z2Y3Q2ZQNzZlbkE?oc=5",
@@ -5637,6 +5755,27 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-05T20:41:38Z"
+  },
+  {
+   "id": "10633978aac5d984",
+   "title": "美股期中選舉後必漲？德銀統計20次勝率100%、但這次可能不一樣",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnLU5GMmdiZUJSRVdpVEM2NDVheUFQRlJJN0JtUEtieDVsNC1CRndNbHh6Y0dPU2JQYUxIbjhLLVZndFZNQzBrcnpQQW1ycjA?oc=5",
+   "source": "鉅亨網",
+   "published": "2026-11-05T07:33:41Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-market",
+   "categories": [
+    "world",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.0,
+   "source_bonus": 1.0,
+   "score": 5.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-05T20:50:58Z"
   },
   {
    "id": "cb14575166e570a5",
@@ -7298,29 +7437,6 @@
    "first_seen": "2026-11-05T07:27:45Z"
   },
   {
-   "id": "96c5a15091c2a98a",
-   "title": "AI驅動攻擊與鎖定AI系統的攻擊來勢洶洶，近兩千位全球企業高層有超過一半坦承無法招架",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84RU01UEdTbjBrVjhPT3RCUW5SclBkdmhKSUlnaXZzbkQyZURUYzN0VTJjT2c0dk1fNDhrNnZRNm4yVTFibFQtd3BIWGlkQQ?oc=5",
-   "source": "iThome",
-   "published": "2026-11-05T02:35:26Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-quantum",
-   "categories": [
-    "holdings",
-    "semis"
-   ],
-   "symbols": [
-    "QNT"
-   ],
-   "base_score": 5.0,
-   "source_bonus": 0.0,
-   "score": 5.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T07:27:45Z"
-  },
-  {
    "id": "72032fec83b6e72a",
    "title": "高通財報》記憶體漲價影響手機銷量 營收、獲利下滑使盤後股價跌逾7％",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZR2dlVVpfN1I4QjFVSTR0TzQ2ZEJzRVdwREFhZWR0TEtxZUs4a2hmOHRYR19vdTM2SnEtMVRldVZ1UXJfUnhKcnZMNDRUeHhVQzBkVnpEV2VLRWVvdkNzOXdHVUtPOU5qN0N5MnkyaGJGY0dJb1R1QjhQQQ?oc=5",
@@ -7793,6 +7909,29 @@
    "first_seen": "2026-11-05T07:27:45Z"
   },
   {
+   "id": "9cddee4956e06c51",
+   "title": "SK Group chairman to chair board of SK hynix's U.S. AI arm",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONG5ESmdaRHhIRm1lclI4UTFVVTlTN3N1dktIdERFekJjcFZCN1BDel8yS2pOMXJjbzFhYWE4T2k5SHBILS14dkhkNXp4Q2VUM2JvOEV1YnFHbVFVN0ZSMy15cEd1U3FjOUxXTncweks5dGMyd0xJQXlDbUd2ajZyMGJmMG9mWHpHNDRSU0ZEUTFBQ3lJMHVYZWFiZ0g4Ni1DRHhiOVhfcVFXUmFh?oc=5",
+   "source": "Korea JoongAng Daily",
+   "published": "2026-11-05T00:11:31Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-hynix",
+   "categories": [
+    "holdings",
+    "semis"
+   ],
+   "symbols": [
+    "DRAM"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-05T20:50:58Z"
+  },
+  {
    "id": "61884688f29621cd",
    "title": "共和黨期中選舉重挫 外媒分析：通膨成執政毒藥",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14OEZQTnBmVHFkaXRtcmJFSzJtamN3dkFFTnNVcldEWHFORjEyOWZEc01yMHJEaGFRQTJzWWd3SWExck1oSkxQMDEwd1N0N21wUzJFRGFMeWx3a2pFMjcwcw?oc=5",
@@ -7810,27 +7949,6 @@
    "base_score": 7.0,
    "source_bonus": 0.0,
    "score": 7.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T07:27:45Z"
-  },
-  {
-   "id": "f16a4bdccd1d56c6",
-   "title": "民主黨：無人提彈劾總統將推動終結川普關稅、建立AI安全機制| 國際焦點",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nVklqdzJFdno0Q1BzQVJZSTBEdndVdnZIZEZrTFJ6ak1oMUlfVFFSRFJheDZpY1hsRWdVODJFVklIMjVidElLSUM2bVhnTzdhY1pUYmVfank2Xy00?oc=5",
-   "source": "太報 TaiSounds",
-   "published": "2026-11-05T00:10:33Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-world",
-   "categories": [
-    "semis",
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 5.5,
-   "source_bonus": 0.0,
-   "score": 5.5,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-05T07:27:45Z"
@@ -8232,51 +8350,6 @@
    "first_seen": "2026-11-05T07:27:45Z"
   },
   {
-   "id": "cc81439ad8b2891f",
-   "title": "記憶體插槽市場展望2035：AI伺服器需求帶動成長動能 - 新聞與統計",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT2hFLWwwcWY5TkR0RUQtR09BMEdTYzdvQi1kb1huaExPMFhSX3hKVXp2S0JGQmNLY0Y0X0tjUzh3aXJFTzZSdHFtN1VlUFZKZlZvTmtaTFFmY0xjSnhGVFUtT1pJV3JKQ0Y4RzJTQzNjb3Y3Y3FGeDZVRkdyc0FDSzNCcXJ4MkZINTJkYmx6cTJwd19oM0JwYk95cWNhSzliUTVJdEhPWHlOUVZZUWZlMGlZTUFzaGs?oc=5",
-   "source": "IndexBox",
-   "published": "2026-11-04T22:01:05Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-memory",
-   "categories": [
-    "holdings",
-    "semis"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 6.0,
-   "source_bonus": 0.0,
-   "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T07:27:45Z"
-  },
-  {
-   "id": "d039749483020595",
-   "title": "SiTime Corporation (SITM) Q3 FY2026 earnings call transcript",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdlBDMmhDRVAyRmlmbjZJalV3amtyMWc1akpuaWJHSDBNNlhaOXhBaGJUWkk5czMwMmIyaXlLOUdnZmdoeWNyOFBVeE9ZMmNLZEZyZE1XcjBIcTYzOUg3YUZqNEpINElOdGppdGdqNFpxdEpPV2NnR2ZQNVdVLW5GTDRnRGNSQmRsTkp1RQ?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-04T22:00:00Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-sitm",
-   "categories": [
-    "holdings"
-   ],
-   "symbols": [
-    "SITM"
-   ],
-   "base_score": 6.0,
-   "source_bonus": 0.0,
-   "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T20:41:38Z"
-  },
-  {
    "id": "7be0c22983fe3e8f",
    "title": "SiTime Q3 2026 Earnings Call Is Live",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmlKZUUtSkYyRUtyTG5FRl9aMVFnS0tjVUNHVzJYWU1POHhQaHRQalBNWmw3YjdZdTVDTjJTTnUwb3FBcTBTVXJReDlEMHdUckJKQTRRU0t5WkhHVV9JNXRGc3pOdG9pS3RrSHN3SE9PZzQwdUtrWW1zbXluenhvVW95RFk3THNua21YN2F1RWFONGV3b01oZ1dNamJJX0wwc09lTVpab1k?oc=5",
@@ -8302,28 +8375,6 @@
     }
    ],
    "first_seen": "2026-11-05T20:41:38Z"
-  },
-  {
-   "id": "d7ee3cc83cdc0ff1",
-   "title": "SiTime Q3 2026 revenue jumps 257% to $298.7M, d...",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlJ5eC1PWWFyaGYwekNzcWlFcUJsY3NRZEdqMmRVQUhBbW5tZlBLeEh0U29TSmVKSFUtbGxIWnRiZjBsZEJ6NnJkTDZRa1J4UGFrWmIyakttVWtpZVFWMmNCQTdVaUoxa3d3SUVmLU5Jb09OYnhiQUt2TjZVejU0TktVLWdtcW1EUUJvSlZyODJQbkhJbTNhNi04U0FWZw?oc=5",
-   "source": "Pluang",
-   "published": "2026-11-04T21:56:50Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-sitm",
-   "categories": [
-    "holdings"
-   ],
-   "symbols": [
-    "SITM"
-   ],
-   "base_score": 6.0,
-   "source_bonus": 0.0,
-   "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T07:27:45Z"
   },
   {
    "id": "eb84afde61de3db2",
@@ -8436,27 +8487,6 @@
    "first_seen": "2026-11-04T20:26:52Z"
   },
   {
-   "id": "b8af3c0d6e2740d2",
-   "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
-   "url": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
-   "source": "CNBC",
-   "published": "2026-11-04T19:51:18Z",
-   "summary": "Voters in the states at the heart of the AI data center boom pushed back on the buildout on Election Night.",
-   "lang": "en",
-   "feed": "cnbc-top",
-   "categories": [
-    "semis",
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 5.5,
-   "source_bonus": 1.0,
-   "score": 6.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-04T20:26:52Z"
-  },
-  {
    "id": "e6833d9988022cab",
    "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
    "url": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
@@ -8546,35 +8576,6 @@
    "score": 9.0,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-11-04T20:26:52Z"
-  },
-  {
-   "id": "ed48bbf2bc51dd16",
-   "title": "Chip Stocks Feeling Blue After Democratic Party Victories",
-   "url": "https://finance.yahoo.com/m/b85debf9-a8a5-3505-a5ba-812ad44e0e07/chip-stocks-feeling-blue.html?.tsrc=rss",
-   "source": "Yahoo Finance",
-   "published": "2026-11-04T17:45:00Z",
-   "summary": "Chip stocks fell to their lowest level since late April as investors debated the impact of Democratic Party victories in midterm elections.",
-   "lang": "en",
-   "feed": "yh-sitm",
-   "categories": [
-    "holdings",
-    "semis",
-    "market"
-   ],
-   "symbols": [
-    "SITM"
-   ],
-   "base_score": 6.5,
-   "source_bonus": 0.0,
-   "score": 7.0,
-   "coverage": 2,
-   "also": [
-    {
-     "source": "Investor's Business Daily",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSm1qVTVORXRPekdScXVzRnlEcmFtMUVsbUt4Sm9UTTF6amV2N2RxZzNZbVV0UlpFZGFnSWRKLXhnUUdxUl9BSWMtc1I4QlZObm9BME9tWG82MF9OQkhJMzhHeU8wd0JnSXNQdjN0aGtxQzdQUTBad3NlNEZIdkxLYlUxT2FsbkQ0b1ZrbnlwNTZGNFJHcHVZR0pWVFE4Q2l1SVE?oc=5"
-    }
-   ],
    "first_seen": "2026-11-04T20:26:52Z"
   },
   {

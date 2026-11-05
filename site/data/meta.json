@@ -1,30 +1,30 @@
 {
- "last_full_run": "2026-11-05T20:41:38Z",
+ "last_full_run": "2026-11-05T20:50:58Z",
  "stages": {
   "quotes": {
    "ok": true,
    "message": "20/20 symbols updated",
-   "at": "2026-11-05T20:41:38Z"
+   "at": "2026-11-05T20:50:58Z"
   },
   "news": {
    "ok": true,
    "message": "684 relevant of 816 fetched, 400 kept",
-   "at": "2026-11-05T20:41:38Z"
+   "at": "2026-11-05T20:50:58Z"
   },
   "earnings": {
    "ok": true,
    "message": "9 upcoming, 17 recent",
-   "at": "2026-11-05T20:41:38Z"
+   "at": "2026-11-05T20:50:58Z"
   },
   "macro": {
    "ok": true,
    "message": "11 events this week, 12 upcoming",
-   "at": "2026-11-05T20:41:38Z"
+   "at": "2026-11-05T20:50:58Z"
   },
   "summary": {
    "ok": true,
    "message": "ok",
-   "at": "2026-11-05T20:41:38Z"
+   "at": "2026-11-05T20:50:58Z"
   }
  }
 }
