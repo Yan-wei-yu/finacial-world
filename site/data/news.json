@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:58:16Z",
+ "generated_at": "2026-11-06T20:07:12Z",
  "categories": {
   "holdings": "我的持股",
   "semis": "半導體／AI",
@@ -9,11 +9,33 @@
  },
  "items": [
   {
+   "id": "09872d6ceee9a747",
+   "title": "AI股跌夠了嗎？美股下周兩大考驗：CPI看升息、CoreWeave看資金",
+   "url": "https://news.cnyes.com/news/id/6651165",
+   "source": "鉅亨網",
+   "published": "2026-11-06T20:00:04Z",
+   "summary": "美股下周迎10月CPI與CoreWeave財報，市場關注通膨是否推升Fed 12月升息預期 那斯達克已自10月6日高點回落近12%進入修正區，費半周四重挫逾12% CoreWeave財報焦點在資料中心建設融資，市場盼管理層交代籌資與完工計畫",
+   "lang": "zh",
+   "feed": "cnyes-us",
+   "categories": [
+    "semis",
+    "macro",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 7.5,
+   "source_bonus": 1.0,
+   "score": 8.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-06T20:07:12Z"
+  },
+  {
    "id": "214f8444ef36377e",
    "title": "Job Growth Beats Expectations: October 2026 Jobs Report",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMFFsQUxzNkpSWmVBT1B4NFAwRERrTy1UWTBkWFZsaVROQTFvZEFBd3ZndXlIR3lQSTNVcGxjazZxM0NORTJScDJvTHhNTzhBNkJjYzk5MkVreTZPbnVGT28xdDFMSkJoN3FEUEd6Z0V1TE9aSnhSdTJuSGhwMXIxMm1uTmotWUVmeVhVT25mZENLcl93MkRURjU2cWhWZw?oc=5",
    "source": "Advancing American Freedom",
-   "published": "2026-11-06T19:56:56Z",
+   "published": "2026-11-06T19:56:07Z",
    "summary": "",
    "lang": "en",
    "feed": "gn-en-macro",
@@ -127,26 +149,6 @@
    "base_score": 3.0,
    "source_bonus": 1.0,
    "score": 4.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-06T19:58:16Z"
-  },
-  {
-   "id": "6a748ffe75fe3d85",
-   "title": "Further turmoil could be in store for tech stocks. What to watch in the week ahead",
-   "url": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
-   "source": "CNBC",
-   "published": "2026-11-06T19:43:10Z",
-   "summary": "Investors are wrapping up a topsy-turvy week in markets, and that volatility isn't expected to end just yet.",
-   "lang": "en",
-   "feed": "cnbc-top",
-   "categories": [
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 1.5,
-   "source_bonus": 1.0,
-   "score": 2.5,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-06T19:58:16Z"
@@ -382,6 +384,26 @@
    "first_seen": "2026-11-06T19:58:16Z"
   },
   {
+   "id": "ee695857eae8171c",
+   "title": "Vacuum Chambers Market To 2035: Semiconductor and Space Demand Drive Growth - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTGQwOW52ODQ5YkZPcW9OV2dNNkZGdmNfQV9IMzNDUEY1S2U0MHgtOVRvTGJEVDFWSDlPb2xiTkZzd19QeUkyeGhqak9LSzdwSXlPMllNSGtvRWFXV0p5SU14d3pBOVFRMkpLZ244cnYtdFZZcWVMd0NiNDZSXzJLeTdyckRhSUkyLU44YmxrclduQ3NadnE0TDhTWnNlQ3pzdVRUcDBKcDBxQmg1a1d1ZExGQVR4bW93ZTZ5ZUVwQS0xZTJKQ2VDV3ZxMi1BUQ?oc=5",
+   "source": "IndexBox",
+   "published": "2026-11-06T19:11:04Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-semis",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-06T20:07:12Z"
+  },
+  {
    "id": "c184e0fb52dbcad9",
    "title": "Rosenblatt names top semiconductor stock",
    "url": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-names-top-semiconductor-stock-193907140.html?.tsrc=rss",
@@ -412,6 +434,26 @@
     }
    ],
    "first_seen": "2026-11-06T19:58:16Z"
+  },
+  {
+   "id": "05b3efdcdb799628",
+   "title": "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3NNcGNRYkZlWG9POWd3eC1hYThVTjhmVEVfb1NEZy1qZlJhc3dBMGQyLTlmR0ZwN0hEUmdyclN0c0RiVjZwaGlPdGxuWDlHbW56WVhwcER1V2pxLWJ5YjZWSXE3bDZkc0pUWWlyZnEweER3TWJob2Rjb0pRSWd1c3lUZHBoeTFoZmNnc25feUszUWVMYy1uR014ekZkNGZLX1IxWnh2dkdSRTRDTFRsTUNVM204QQ?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-06T19:05:45Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-macro",
+   "categories": [
+    "macro"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-06T20:07:12Z"
   },
   {
    "id": "f7b7682dce36a318",
@@ -2036,6 +2078,27 @@
    "first_seen": "2026-11-06T19:58:16Z"
   },
   {
+   "id": "a550d667785b4d32",
+   "title": "快訊／美股四指齊揚！台積電、日月光ADR皆彈逾5% 台指期回防4萬點大關",
+   "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOREdDenhKZ1UwWE1EOGluUWYwWUxTYlpsM2trS1cwRHpqYm8wYmx5dEY3XzhRX0FfTjlqdjhONUFId2hoQnl6TlhwczdwOHMzOFl6NUdLbUlpLUlCSVJ4VXN4dlFqbERmZzR4X0tuTUNQalRiaTBOVGRQZGdYUmJON3VURTB1RlloNGEycVhVaE81Y29GX3NPTXQzWXBiWThLS3hzMzdRTHJ0cGFfMDBNRlM2Vk53VGk5cGtVWi1Rd0ZhcWlNVUsxTklYTlZmNVlYMVlzT01KbGlMTC1wQ0o4WUxyb082cExYQlZhNWlaVUljM0J5QUdSbXdTN19mV0ZQSlJGMjJFWlQydlJDRmt5X1dHbzh1WjZJY0ZaNGRRb1Q0ckhjam5YV1poX2NaMmt1c3FUMTRmRHJlSHhUaXlEdDZvQVZTWkVoMlNCSWQ4WU5KYmlhRlVmRUhubXRLYVpZa1BlemktN0xjX0JOMjBsM0daU21iSWtQQVVVTXdaMG8yVXVXQnQtMlZLa3VSQTNlczBoMERHUQ?oc=5",
+   "source": "Yahoo新聞",
+   "published": "2026-11-06T16:28:00Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-market",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-06T20:07:12Z"
+  },
+  {
    "id": "b9e2544017b43f94",
    "title": "Trump administration scraps meeting of high-profile tech panel",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPODU5elZ2RThqaExmd0I1RzUxVUZ5cF9SaE9LdEdxU3UwLWhYZkZtU2J2QWt1ejJpZXlGZ21rWXdmMU1HSWg2RUlEeWs4NTFORU5SWXNLeDBkekVlNC1fRXBqdDRmd3FYVVNLOGJHYXBjNkVyQWNLVU84b2IxenhxeWpMRzNURjhUSVdpN2wzOE9WaGxXYTkzZ2pHbWFpVHpFNXZSVDBLbmtoNDV0MjMyei0xYlYtcG5hc09hY3JaZ1h6TVk?oc=5",
@@ -2729,6 +2792,47 @@
    "first_seen": "2026-11-06T19:58:16Z"
   },
   {
+   "id": "e36d3545e8db99f3",
+   "title": "Friday’s Jobs Report: Hiring Soars, Adding 165K Payrolls; Unemployment Ticks Down",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcEhQdUI1VGdnOWQ2SFI1djR0d19QeEtlQWZ4WExYeWZuUGMzSTc0eVN4dTBOZU1pQjJUTFQ5eUQyd2VjMy1iY2hRV2d2V1RCWnRwNzNETDJiallydlRKcWtQbDNKdW8yYWlBcVFpTUxXaEVnVnk3Rm5EWlc2b1d4S2kyTkVrbWZhNHRDZnltbVVBUlU?oc=5",
+   "source": "Barron's",
+   "published": "2026-11-06T15:19:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-macro",
+   "categories": [
+    "macro"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-06T20:07:12Z"
+  },
+  {
+   "id": "26733fbae20aac86",
+   "title": "Chip Stocks Have Been Hit Hard. Nvidia and 4 More at Fire-Sale Prices.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ2JpNmpFX3NFWURNaTBlZDB5WDI2THhydmtNeDJUTk1YenZfU290TWh5VlR1RnZCVWdkZWxFWkswVnhXUm1tVGtRaThmM0trRTRmMFY0VW4tbk1DTkVfeWpEWWpPT3NuRERrZ255RXpwQ1RGRFRTV1k2WUt3Ymx5M19mSGw0Q1pC?oc=5",
+   "source": "Barron's",
+   "published": "2026-11-06T15:18:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-semis",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 1.0,
+   "score": 5.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-06T20:07:12Z"
+  },
+  {
    "id": "bfe45f34181808fd",
    "title": "Fed’s Williams says inflation too high, targets 2 percent",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xeVNpR3NDODlWakp1RmVYYmRtT0xic0NXdnc4RU1YTFRfdW9uZlhNNnZVN0wzamN6ZXpfelo3OVhYUHBHbXJIZUg5VDdoTFNaR0FEZDhpTFo3TDhsbW1jUmNDc0pDd281c08xZkxyUktQc09MMmhxd9IBfkFVX3lxTE1IeWFOYlN3MGpkMG5PZGtkQ1VMZ2lyZmZRTkEwT3BaRnJ0c3p2OU9hVWZNNGYwcXIwNHl1a1lxNWtHc1FrMHNaZUE5Z2dHRWFfU25ZeDk4Z09BR2NteWVpTDd1N2ZET29mYU9OZHNRYjVOVm5VRmt0SEdJZlZDZw?oc=5",
@@ -3082,26 +3186,6 @@
    "first_seen": "2026-11-06T19:58:16Z"
   },
   {
-   "id": "d98a08abebac62b3",
-   "title": "Lake County vying for mysterious semiconductor-related facility: ‘High priority project for the state’",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSldvSlpka0xVNFY1TGh4WGQ1bGR0UW5JeFlSaUplcjZ1R2pDd1AtWUZ4Ti1uNXhwa1docXRQdmo5czQxeVZaSFZVNkFPcU9TWEdQeUFLLVc5dkw0SE5TYjBtR3hzY1BtWUU0MWxjejRFbWN3QzVUUFVTdDVxSkpyQzFWeHM0V2FRdDRGc2Fsa3BYYWZVZGVlSkFiOXczcFI5akR4djlGZDVfR2twUTlSNV9qOUkzTGVrYXE0N29uN2NvZ3poV1dRNHpNOHJYNDAxZXBKWkxLNHhMZw?oc=5",
-   "source": "Chicago Tribune",
-   "published": "2026-11-06T15:04:47Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-semis",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-06T19:58:16Z"
-  },
-  {
    "id": "88bed7bfac104610",
    "title": "快訊／傳輝達找台積電生產3D DRAMAI記憶體供應鏈恐迎新變局",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02bloweVpTLUtPaDNra3VBYUh4ejVEeFFvaDhKaGZmbzVVSElLRUxpclBmSWI0MW9LdXpSczlsMzZydDhlOE85OTdyYzhQSVU?oc=5",
@@ -3253,26 +3337,6 @@
    "first_seen": "2026-11-06T19:58:16Z"
   },
   {
-   "id": "f486017ab1a2df54",
-   "title": "NFIB Jobs Report: October Small Business Jobs Numbers Strengthen",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVG1UVkd5M29ZUG92NzBnNUg4dHI4dEZkM3B5UlNXcVlib0dsMlBTTnl1eWE2by1WWjB5bmhQb0lEVk82WUxjYmJvUURtcGxWdGV0d0toV21LRWFqbmNMSlltNWs2R1huRzc4Ry1kamZYbzBzclEtMXNQR1pzQkVTdlNzb29ERGlrVTR2SG5OMTl4bnlrRGc5U05GNVhJODlkZ2ZuY09oN1c0Zw?oc=5",
-   "source": "NFIB",
-   "published": "2026-11-06T14:50:07Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-06T19:58:16Z"
-  },
-  {
    "id": "be133a16d5a535db",
    "title": "美股強勢回彈！川普挺AI高喊「只有蠢蛋才拒絕財富」助攻費半大漲6％ 台積電ADR狂漲7％",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qX0RRNVh6cnJaY3lUeU53RnBKbDlMd0RXVURBdmIzVzNCc0s0YXowejV3VXVwS2NSZHVYUDgwNU9DVTlub1BaRlNVTQ?oc=5",
@@ -3334,26 +3398,6 @@
    "base_score": 4.5,
    "source_bonus": 0.0,
    "score": 4.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-06T19:58:16Z"
-  },
-  {
-   "id": "7517cf45cb938dbd",
-   "title": "【即時新聞】科林研發(LRCX)祭250億美元庫藏股狂飆11%，AI晶片概念股盤前大反攻",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zSkMxWFJ6SDhqdGN1cmd5OUlheUdoVjFJUlByaEMydG4wVVh1b2dRZXdtYTRoT2UwTEo1VS0yUGJMUlFjWWQwVm1WOUN4U05IVk1yUXV2RGg?oc=5",
-   "source": "CMoney",
-   "published": "2026-11-06T14:46:22Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-semis",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-06T19:58:16Z"
@@ -4146,6 +4190,27 @@
    "first_seen": "2026-11-06T19:58:16Z"
   },
   {
+   "id": "3cdaaaed45ee5908",
+   "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdkJGRE8yWFZFWXBDYzA4WXRyM1doblZVak9PRjFMNGszT1NCSEx0UEQ1QWduQjlvZ1Bnd21qcEc5MDU3cjRxRXFtTV8xd3BPdURJaENhUDdUMms?oc=5",
+   "source": "BBC",
+   "published": "2026-11-06T13:25:50Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-market",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-06T20:07:12Z"
+  },
+  {
    "id": "6556ff1c9af68ed7",
    "title": "Cantor Fitzgerald lowers Quantinuum stock price target on valuation",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTTNqY2pWZjF4Sy1OOHhNLVh2UG9hS3NfbWhBdVVhdEhXczdLeWhGaVhBNGFhRGdsbXUtVWhFUmE0U3FkRHByeUw4Sm1ISE1NdDdNbFdGbkloall2bXBDYTlkam02ZmNaZHZXTlhxc2QtSXQzbTBWZnFTbEM3c1hleWhfcE05QmQ0OG4tS05HbVBJbjNZYy1ZbjRwU3h2SVpBeVRXc0REcDFkR0owd3BjM1NSWlJGZGgwWXJkVjJncEZBbWNlTEE?oc=5",
@@ -4482,28 +4547,6 @@
    "first_seen": "2026-11-06T19:58:16Z"
   },
   {
-   "id": "ed0929bb4e0a86c9",
-   "title": "Needham lowers Quantinuum stock price target to $60 on valuation By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNnpqQ1R5U2YtWENaV0R0Y2xselA1M2Y0eVBTbmhPa25JWlEtWHR1dWpDbjRGWkFCNl96U0lYZEhTLXBaSzV6NEJIN1NWazJ4dDhaSVNDYjQ1RUp5OU1QUW1XNnBuUG5fc0FucVhvdnI4dkRJUmZmUUoxMndXN0JxcE5IZTdKSE4xWFJLQ1I1QWVvSUgtcHRjcXpqTUJoUHFKdW9PR05XS2JjelRocjJxQWJGNkxRRlBnOGhROE1jUHh1QQ?oc=5",
-   "source": "Investing.com India",
-   "published": "2026-11-06T12:10:42Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-qnt",
-   "categories": [
-    "holdings"
-   ],
-   "symbols": [
-    "QNT"
-   ],
-   "base_score": 6.0,
-   "source_bonus": 0.0,
-   "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-06T19:58:16Z"
-  },
-  {
    "id": "3978d859186fcee9",
    "title": "AI and chip stocks rebound after steep selloff (NVDA:NASDAQ)",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXdPUTNicTIwdnpGTDM3VmZyLTZadlJIZ0UtM1Q4OFNDTHBjRGwxV29aUU8wYmxrR1IxcDlheGZlRUpGbGtlX1VrMzZxUEQybmNJd3JBdkZyS0ZYaF9SSC1mZENGY0FmLUtxTEFRbXdNU1FtRDZpWkItTWhYZHVPc01TZEJ6VlRqTjNUSlF4d0RnY01UUmFRa0tBQmlCUQ?oc=5",
@@ -4566,6 +4609,33 @@
    "score": 5.5,
    "coverage": 1,
    "also": [],
+   "first_seen": "2026-11-06T19:58:16Z"
+  },
+  {
+   "id": "2ace3350a340182b",
+   "title": "Needham lowers Quantinuum stock price target to $60 on valuation By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT1RrcUVUSThsT05kRGpfQ2VORVJKbVZwaFk0QlZyck16dDZQZWM5Tl9zVV9JVU9fTWVDTHpJcEhzNU9lMDZOd0ZkckhNLXBzSUFjQ21jaTZVMmd2LTlxYjQ5aXEzNzktWFBCOU84dUxMbkdiMmpCdHNHR1U1UHNpUFcwek9Rci1reGFCcnRaWDZZTm5EUk1VUktaaUlQQWkwejRtc2kzbVdTa1BqWHJJSmFjRHpGOXRZNlpDMElJYlphdw?oc=5",
+   "source": "Investing.com UK",
+   "published": "2026-11-06T11:58:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-qnt",
+   "categories": [
+    "holdings"
+   ],
+   "symbols": [
+    "QNT"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.5,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "Investing.com India",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNnpqQ1R5U2YtWENaV0R0Y2xselA1M2Y0eVBTbmhPa25JWlEtWHR1dWpDbjRGWkFCNl96U0lYZEhTLXBaSzV6NEJIN1NWazJ4dDhaSVNDYjQ1RUp5OU1QUW1XNnBuUG5fc0FucVhvdnI4dkRJUmZmUUoxMndXN0JxcE5IZTdKSE4xWFJLQ1I1QWVvSUgtcHRjcXpqTUJoUHFKdW9PR05XS2JjelRocjJxQWJGNkxRRlBnOGhROE1jUHh1QQ?oc=5"
+    }
+   ],
    "first_seen": "2026-11-06T19:58:16Z"
   },
   {
@@ -4885,6 +4955,27 @@
    "first_seen": "2026-11-06T19:58:16Z"
   },
   {
+   "id": "21093c7b96e67a8d",
+   "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
+   "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
+   "source": "CNBC",
+   "published": "2026-11-06T10:28:25Z",
+   "summary": "Moonshot AI has sought leasing agreements with neoclouds for advanced chips in Europe, as U.S. export controls restrict their import to China.",
+   "lang": "en",
+   "feed": "cnbc-tech",
+   "categories": [
+    "semis",
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 5.5,
+   "source_bonus": 1.0,
+   "score": 6.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-06T20:07:12Z"
+  },
+  {
    "id": "1eda6368a07e4b61",
    "title": "通膨、聯準會升息、AI泡沫？ 他憂台股「恐跌破3萬點」 網熱議",
    "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPUW9ud1p1ZThiRFlCY2JsQjFWNXZVTWJRWE4yTjZWTjZUVllYcHdSTWJfc2RJQmtyOGJSSXNxQzRuS3N0a1dUZGRxeHJ2UVZ3MTNNR2RlS1BXYXJXZXVsUTdpR1FLZW0xQXJMbDhUcjhqNDV6cFl1VWY0azl6cTNuUGx1YWJpalhzQTMwbXlVSWVDWS05RUFWdXhTdjFEdnNiSTVOS1dNRkU3eTRvQm1GeVl1cWh6MlNuUi0xZElkRkwwQnBIYk14SnJVV2NGTFRoRHBmQnpmd2lLbXlZS0g0R0hhWkRyZ25oamUzd1d2SW1icFIwOG81alYyNGlCUGsxRHFKdUVBWGV5akt4UEwtSTZVX09iM2Y4WjJLSnQ5M3QxRmx0MmVDWDB0ekFHZFpsdV9MTnlYeGpVR0Vw?oc=5",
@@ -4967,9 +5058,14 @@
    ],
    "base_score": 3.0,
    "source_bonus": 1.0,
-   "score": 4.0,
-   "coverage": 1,
-   "also": [],
+   "score": 4.5,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RRGpBdmZKWGdJODRaczRlVk56dl9RaHdTWkttTndjSkNNTzJHLUhoWExYUUxfTDBnejVlem9Ba0YxRkc5NG91ZGp4UUt4YzlLRU53OVI2RW5xTjRuamk0MXA3WXQ?oc=5"
+    }
+   ],
    "first_seen": "2026-11-06T19:58:16Z"
   },
   {
@@ -5014,6 +5110,28 @@
    "first_seen": "2026-11-06T19:58:16Z"
   },
   {
+   "id": "6c9a167a4e8f35f4",
+   "title": "The Friday File: SpaceX; UK cyberattacks; Nokia",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFAzdUE1U2RmYnJGSUJJM3Z1cEpNNnpmalh6VGRaWV9DNlk2LXA3Tm5hODUzREJtSlZFdlF6OG9zNVJYVlR2bGdjcHF2WkI5QmR4bVVwVWhHZXhXQXZuUVJlcnQ1YWJZLWZsbzRKdno0UTdhaVpNVHpuamw4bjkxNVZOQl9wX0ZSN1I4dk8wMA?oc=5",
+   "source": "Mobile World Live",
+   "published": "2026-11-06T09:44:49Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-nok",
+   "categories": [
+    "holdings"
+   ],
+   "symbols": [
+    "NOK"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-06T20:07:12Z"
+  },
+  {
    "id": "c74bd5b1395a2caa",
    "title": "10-year Treasury yield rises after much stronger-than-expected October jobs report",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEd4MDlaNjAwRjlYdFp0aDhKVDFsVHZNUnBCWXU1aHhPWGMtQ2hmTVJnZmpoMWo3cnJNbEZwRWJHRVp0UjI1SU9ELURwYjctRnRUS19MUVhrdVlvTWswem9xR0dRT2V0ZHJxUm5pZFE5cnpxTmR5Wm1lR1pYRk9xYXh4dGtiVWQtNWJfcVBzQmVSS1VRR1F6UDRpWnhjVlJsSF9iazlCRUrSAa4BQVVfeXFMTXFRWnBSVk1BYjJrMzR4N0VZOXZIa2U2MXZnWFZVS0t3amRvOTdSVC1PaEpLQ3NMS08wamNTeFlmRk5PUWNRZWp6VTZnUHozNVNvWXpLTko3UHNOOUhCQWhpS2xqQmdEd08zVkRDTHBCUU9Gc1drd2NwWWlNMlc1SHVUeUVSZUVwNEhNRDU2d0xCMERmWkdXbWI4QW1UaWhRR3U3MHhQSWlFR1ptT0Fn?oc=5",
@@ -5032,6 +5150,29 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-06T19:58:16Z"
+  },
+  {
+   "id": "136ac3ee9152d65e",
+   "title": "DRAM大漲傷手機成本 研調估明年採用拆機料比例增",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jNWNhNFFhTVRiNkFkX25OaVJMckNCWG02MXZyWm5hd0VZS3BTYWdPemZkNHhsQ3J3Z1loa29TWG4ySks0VDIyOVRyRnMxZ1dGQ1lBczByVnpod9IBX0FVX3lxTE12Y2NjeFNnQU9ld1piUmQ0RC1oMl9uMzdDS0RxVU1VdjFKdGlRV3lZcFItLWNuOXVsYkU3RWVxR2pKVXBOSzBZWHMyVjFRc2RYdVBaU0tUd1ItTVVITlZz?oc=5",
+   "source": "經濟日報",
+   "published": "2026-11-06T09:31:56Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-memory",
+   "categories": [
+    "holdings",
+    "market"
+   ],
+   "symbols": [
+    "DRAM"
+   ],
+   "base_score": 4.5,
+   "source_bonus": 1.0,
+   "score": 5.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-06T20:07:12Z"
   },
   {
    "id": "712fade88ff3dab0",
@@ -5211,6 +5352,29 @@
    "first_seen": "2026-11-06T19:58:16Z"
   },
   {
+   "id": "bb6171ef2518c781",
+   "title": "創見束崇萬：第三、四季營收相當毛利率回歸正常，DRAM 續緊而 NAND Flash 價格持穩",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM1JWZnBKQUdqalNvRDZacjZVRHo0dmxfTmtOWkhfSWlreVE1NzZVeEk2SDRfb2tFTTh5aTRoTkEyVWFpamphYnc1N093ekRmYVVUeGhjMTdSQlNEbGh4N1p1cERqY2poeGhENmZYRG9Xc3dGLW9qWEUyQThyZmJQOVhvbkVxNTBKcXhWWWNsMDZmV0hIWFpaQVRpMXQ3dDlNY1kxb3ZZMjJURW5Hc1AzeEtfUG1VTHU2akQ1M2FMMDNnbXBJaVZGMjM5VGhnT1ljR0xmSjBFS1o2QTRSSHFxMnF0OV9OWDc4eFE?oc=5",
+   "source": "TechNews 科技新報",
+   "published": "2026-11-06T07:41:53Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-memory",
+   "categories": [
+    "holdings",
+    "macro"
+   ],
+   "symbols": [
+    "DRAM"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-06T20:07:12Z"
+  },
+  {
    "id": "11bb30387f568fed",
    "title": "美股大跌別慌！VIX暴漲超過50%過頭了？NVDA、費城半導體重災區？｜美股即時通2026.11.06｜豐雲學堂2026 年 11 月",
    "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOejFvRXRNREgwa0YzbmVZT1RabEl5TVZQMkc1ZXcyOHlXR1otNF9CZW01WmVITnJhS3JMT3VWYzBzaUNvd0FjelRTSV9tMFJiVm5tZjBGTE9jVHM2NF81czNGQjh5THp4SU1fXzFTOFpnOGl4aXBaLWJlV282MzNSeU90aDNjVGVmTEE2b0FiWDExcUFKRWxtSmJnSWdYaGh0anlFOXhoRmxnV3RrX1RxZ19ER0lPS3h1YWh2NjB0cFFXX3VpTGZGMXNZLU1uZmNQNW9fa1dnS2R4M0F4WFI2Z2dRdHJHNEluOGxxWkFIWlF3TkdSbmhTR3J5RDlMVVhYajlkdmRTV0lDQXFYMU9oOVJ4S3BiOTh1NjYxcTAtWFFMa3RHeWg5WEhlaThNQXV3ejl3VV9LYWZtSjlnaW5tM3UxMmt5SWdnTGNiMExwcEVzeHQyQk5HOHlNcmJYZmYwRW5sWWQzSUxNXzNNZno1Sk00a193T1g3QWRqcmZXSVFWTS1QWWw0dkR6eXBFd050a0lSVmJCNDZQamxMYTE3U05UNlF0T3B3UkdyZ05lR1JkcUxycjEtcFNfSjlHUUNiQzFRQVdDQzNTeGtWREVFSEU4S0FtWjlPZFhkbG93OA?oc=5",
@@ -5253,24 +5417,27 @@
    "first_seen": "2026-11-06T19:58:16Z"
   },
   {
-   "id": "13552496f99a77da",
-   "title": "輝達一個月跌掉22%！財經名嘴喊「10年最便宜」 市場仍有四大疑慮",
-   "url": "https://news.cnyes.com/news/id/6649446",
-   "source": "鉅亨網",
-   "published": "2026-11-06T07:20:03Z",
-   "summary": "克雷默稱輝達股價現為超值買點，本益比約16.5倍，接近10年低點 輝達股價5日收跌6.94%至186.24美元，近1個月跌22.04% 他籲擴大庫藏股；公司第二季底仍有990億美元買回額度",
+   "id": "3745e0717adbf01c",
+   "title": "《半導體》記憶體狂漲吃不消！致新吳錦川示警明年消費電子恐更冷- 上市櫃",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wQXBRdjdVRmg5aVFsZFI4SWRIVlVDYnZ1a0hSN3NxVXFkOVVsZTlKY09LaHdQUEdCZU1yNEtlT3VDRW03cHJxTlY1ZFJWYXdxVEwwQUNWRm1GSTRHZWJjekROcmQ3RF9rUVE?oc=5",
+   "source": "旺得富理財網",
+   "published": "2026-11-06T07:19:50Z",
+   "summary": "",
    "lang": "zh",
-   "feed": "cnyes-us",
+   "feed": "gn-zh-memory",
    "categories": [
+    "holdings",
     "semis"
    ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 1.0,
-   "score": 4.0,
+   "symbols": [
+    "DRAM"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.0,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-11-06T07:27:11Z"
+   "first_seen": "2026-11-06T20:07:12Z"
   },
   {
    "id": "013762730aeee83b",
@@ -6046,35 +6213,6 @@
    "score": 8.5,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-11-06T07:27:11Z"
-  },
-  {
-   "id": "51486772e4395d5b",
-   "title": "不甩期中選舉慘敗！川普拒撤關稅撂話：不赴美設廠最高課300%",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83Q1NMRWZsTV9ySHhJaVBta1RqcE1ablE4aGttMG5vV3p5MUpDcGFydlQyckw5MlczNVg2UVVIWDByUlprLU5KSnZ5bHV1Y2JLVGg3T1pWa0RoUdIBX0FVX3lxTFBIVkpkOGIxS2JJWkxZQjZ5bFFlLXRyQU9Qc1FxNEp0aHNmY1lpcXdMUDZHYmZmTzEySlhSelNzeXpvY0JLQnpyV0VWWFRvUUNMeDRPa1VEemdGNVlfTTg0?oc=5",
-   "source": "經濟日報",
-   "published": "2026-11-06T04:14:40Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-world",
-   "categories": [
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 2.5,
-   "source_bonus": 1.0,
-   "score": 4.5,
-   "coverage": 3,
-   "also": [
-    {
-     "source": "UDN",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BTVVTUGpYRUJQOVlFUExiYUhyd0JaR0dRTDZiM0FBTEwteHVmSmlZN2c5RkIzVkotcVg5UXFMUXlUbTkwd1pHeGR0OFo5VHBV0gFWQVVfeXFMTTE1ZE00b0xoQ0ZVQVh6T2ZYYlZMaGFqWFY0eHBvcUNhOFdWd1hSUV9vMnJUSy1mSmZvU09aakRLU0FnZGxNX1VobHMtQVYzcjJ5VWI1amc?oc=5"
-    },
-    {
-     "source": "聚財網",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzQmZRdF9mb0E3d0JOSEdfSmNVN1ZQazc2VmdNczQxR0Jsd1J0aGlfZ3BoSVhjcXkzZFlXNnMtQUhVNlV6MmFiUEp5NGE?oc=5"
-    }
-   ],
    "first_seen": "2026-11-06T07:27:11Z"
   },
   {
@@ -7376,48 +7514,6 @@
    "first_seen": "2026-11-06T07:27:11Z"
   },
   {
-   "id": "40a09c35547ff641",
-   "title": "美股慘遭血洗！10月非農就業報告能否成止跌救星？",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90d2REYXc4MUdfdGhOLVc2UURiR0d2eFpvWDdCeXRLWXFwXzFWWnVyM0tYOWJrQWVMeDZxdldUWEhOb1Faa1pHZkJJQmJGLTA?oc=5",
-   "source": "鉅亨網",
-   "published": "2026-11-05T23:21:05Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-market",
-   "categories": [
-    "macro",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 1.0,
-   "score": 5.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-06T07:27:11Z"
-  },
-  {
-   "id": "5f318cc375a802ad",
-   "title": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
-   "url": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
-   "source": "CNBC",
-   "published": "2026-11-05T23:17:51Z",
-   "summary": "Cramer warned that the sell-off in AI stocks likely has further to run.",
-   "lang": "en",
-   "feed": "cnbc-top",
-   "categories": [
-    "semis",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 1.0,
-   "score": 5.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-06T07:27:11Z"
-  },
-  {
    "id": "7f1c612922b098db",
    "title": "Hotwire Communications Deploys Nokia Routing Technology in North Carolina",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVmxtX29wZFhCS2pNUks3bGVjTUI4X21qNl9VdWhjOGRXQW5JelNTVHFUZUMtTWZsWXRuUThnM3MwQnJEbVVMN3dRVjBUb0pYcXpCV1B1bzZPMDZGQmJLR0RNY1lEa2ZEY0RPWnExU0REQWlBa0l5eDJkOHBIZDJwMkNWLTJsX1A0Sk43dTVNQjd3UEpTWE5JeDUzMzZJeDBSbVNqMjRMVWVCQ1I3OGw3SmxadFZKVnVPWTQtWXNNNGlrdVJTTzF3?oc=5",
@@ -7435,28 +7531,6 @@
    "base_score": 6.0,
    "source_bonus": 0.0,
    "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-06T07:27:11Z"
-  },
-  {
-   "id": "fd3457397bab567e",
-   "title": "AI stock sell-off sends the S&P 500 down 4.4% in worst day since April 2025",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OV3FBZktKMVI0S1kxc2lWZ2xwVFJYSk5BVGl6M0c5eThGNDM3NHBYUWNIYmdRWWVCSjVyX2xvaFJLaDZ1MmhuN0hqY0tHYWIwZnZCTGtYU1NsMFhRRzlsUUQ3V0ZyMVdxeFZERg?oc=5",
-   "source": "CBC",
-   "published": "2026-11-05T23:08:45Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-world",
-   "categories": [
-    "semis",
-    "world",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 5.5,
-   "source_bonus": 0.0,
-   "score": 5.5,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-06T07:27:11Z"
@@ -7547,6 +7621,29 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-06T07:27:11Z"
+  },
+  {
+   "id": "0d29ffe684348340",
+   "title": "Nokia stock falls 2.4% as tech sector sell-off pressures growth names",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSlZlU3Z3dlVvQ01hekktYkF4OXpSTjJWbl9Bd2pKWlZpVm5Wdld3eHFobjIzZkFmVWMxaEQ2cWtGX251b19pS2JzZUE4c3RLUnVEa1pMRkpEbndMSjJ6YlBWanN4Nm1aQTN1VEVNaUZHTlZva1daMDI1R3JQLUNhQ0xsQWRjaWVSdlh3d2U5T0tkdTE2aGo2d0N1Y1hUMzZjQi0zOWtIM0xRWC05UjhSdVluS3NKZkFjX0xNR05iVkM5ak5scWc?oc=5",
+   "source": "scanx.trade",
+   "published": "2026-11-05T22:34:37Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-nok",
+   "categories": [
+    "holdings",
+    "market"
+   ],
+   "symbols": [
+    "NOK"
+   ],
+   "base_score": 7.5,
+   "source_bonus": 0.0,
+   "score": 7.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-06T20:07:12Z"
   },
   {
    "id": "9b98b05f281269c1",
@@ -7777,6 +7874,29 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-06T07:27:11Z"
+  },
+  {
+   "id": "2728a6b7cfca916a",
+   "title": "Micron Stock Plunges As Memory-Chip Shortages Cause Ripple Effects",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0lGaFVmall4RXFtb05Ud0FrYk4wdVVPZ1pMaURhckZhZE41VktXclRSV2FNZW1uLVFfQUNITTFIZ25WNkFSX3ZzQzJMOFBEUUE1YV9Qc3A2Q0E4SGwzZkZ5LV9BcnRHdzQwbF9SSUlscUxlQ1RmVGpiRE56VXJxSVpUUV9Ud3BzVjcxUTFR?oc=5",
+   "source": "Investor's Business Daily",
+   "published": "2026-11-05T21:35:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-memory",
+   "categories": [
+    "holdings",
+    "semis"
+   ],
+   "symbols": [
+    "DRAM"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-06T20:07:12Z"
   },
   {
    "id": "82f4fbf4e6702d21",
@@ -8085,27 +8205,6 @@
    "first_seen": "2026-11-05T20:41:38Z"
   },
   {
-   "id": "af50d15f1c123771",
-   "title": "Key Republicans seek briefing from Nvidia CEO over Chinese spy allegations-document",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNVFaekphR1ctQUxRQk5CTEFSNnZuTDNJR2FJLUg5UEdXbDZQUEY0UmphZ3JlWFdRLWxDWE4tZjRsQUpPMHhON0lnMTBZdHNocGVfUFJVUHUyd2k1UjlWa1RLQTA5MGh4SlFRUE5heWdZSC1NbkUtMmNrNEJpSHNyV3RFbHoteXZabVk4U0s4dzdoSlhpOWI2aDdSRmtFdk51bjRfOENZaFFrUFQxZDFSUWxOQ21pUHZNZ09fUWJ3Vi1MVW1KTDZVeXFQaw?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-05T18:42:09Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-ai",
-   "categories": [
-    "semis",
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 5.5,
-   "source_bonus": 1.0,
-   "score": 6.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T20:41:38Z"
-  },
-  {
    "id": "e71e865c9662aa3b",
    "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty’",
    "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
@@ -8348,28 +8447,6 @@
    "first_seen": "2026-11-05T20:41:38Z"
   },
   {
-   "id": "51f8b22de84f73ce",
-   "title": "美股｜中期選舉後升勢僅一日 晶片股急瀉拖累美股",
-   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPRVJVbHNrZERQcHBwd1lUWkRpckItemQydEEwYmRWQXE2M0Y0dllrY0t4cTZjNXRxTkNTTlZZazV5Y2xpMDJqSHl4WmdMTGpJcEVyX2lEblp1Z2R0NE0wTmpZUzhBQlFJNWlEOFNabjZ5dFZ5VWc0YVRTWDI3bURoZkJ6OXRKYWwybnZkNXFvVFA5ejh1bkl6SWhINFk0N0J2dzc1cDhMRWp2RTFHZzR3VW9mSmVEMmJhMzhodExkOUdleVI3azQ5alhFamJhdjNNYVM0a205a2ZBQzhqbzlPdWY2VGR1ajZwS2RlSUZ6eGFoTHM3N003d0hYMnhoR3M4NXlfVGtIUWR4ZWhwaFlSQUtlZWlFRGhlZ2ctamp0dUFXbllIS0JqYkFDQW43elVjOGF5bW9KTXR1S0tnbkJvdUk4WmR5YmpGQnpTZ3pNMWc1Zw?oc=5",
-   "source": "Yahoo 財經",
-   "published": "2026-11-05T17:00:19Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-market",
-   "categories": [
-    "semis",
-    "world",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 7.0,
-   "source_bonus": 0.0,
-   "score": 7.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T20:41:38Z"
-  },
-  {
    "id": "9cba33005d89e1f0",
    "title": "AI股為何殺成這樣？分析師：不只美國期中選舉 機構也在去槓桿",
    "url": "https://news.cnyes.com/news/id/6649207",
@@ -8524,78 +8601,6 @@
     "holdings",
     "semis",
     "world"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 7.5,
-   "source_bonus": 0.0,
-   "score": 7.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T20:41:38Z"
-  },
-  {
-   "id": "cbf1c75586c36797",
-   "title": "Dow Defies Trend to Rise 0.63% as Memory Chip Stocks Plunge; SanDisk Tumbles Over 7%",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jWm1jMWk2cXRSUUlWdUM2U2RRcUI1Q1haVHBPaEp1cGdrdWw3UmN1cm9lUlplRUFXa0tnOFlEeHNHZ2lpbDA2ZF9Jd0cyMWdpZnpjZnEyalJKazdCSWF0WDJRMHNEOVBwZG4wMkNQTkdEcVZWZUE?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-05T15:05:00Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-memory",
-   "categories": [
-    "holdings",
-    "semis",
-    "market"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 7.5,
-   "source_bonus": 0.0,
-   "score": 7.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T20:41:38Z"
-  },
-  {
-   "id": "c76d5c62aa0316a9",
-   "title": "道瓊指數逆勢漲0.63%，記憶體晶片股集體跳水，晟碟重挫逾7%",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ncWRScEdWc2s1azZHRm4wTlN1U0hnNEVJcl9sZllPVllTWFh6b1JveVdObTdLekJfUEV0Y1EzM0s3V3N5Ty1MVTNtTEZPN3VtT1NCRDNzUlJpekd3ck9VdmpKNDBMOWlZTlYzSk1VcW9xc043NkRVREVR?oc=5",
-   "source": "BigGo 財經",
-   "published": "2026-11-05T15:05:00Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-memory",
-   "categories": [
-    "holdings",
-    "semis",
-    "market"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 7.5,
-   "source_bonus": 0.0,
-   "score": 7.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-05T20:41:38Z"
-  },
-  {
-   "id": "7d437ffa499a1edf",
-   "title": "美股AI硬件產業鏈遭拋售，費半跌7.25%，AMD、美光等多隻個股跌超10%",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yOHBiU1NPTDJjNlF6bUp0RThGU2lQMnAtd3dibEM3dktPMXE4ckhCNTlYU2dYazduLThyRk9Hek5Vc05DLVAydTFWcWtRanc0b3NOVFAwdGthSHY4ajd0VUtsWGlLMDZLVGc?oc=5",
-   "source": "TradingView",
-   "published": "2026-11-05T15:03:54Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-semis",
-   "categories": [
-    "holdings",
-    "semis",
-    "market"
    ],
    "symbols": [
     "DRAM"

@@ -1,33 +1,33 @@
 {
- "headline": "前一波AI股重挫後，費半大漲4.14%強勢反彈",
+ "headline": "AI股前夜重挫後強彈，費半大漲4.27%，波動仍大",
  "mood": "中性",
- "mood_reason": "晶片股強彈、VIX大降，但AI估值與升息疑慮未除，資金面仍脆弱",
+ "mood_reason": "晶片股強勢反彈、VIX回落，但殖利率偏高、AI資本支出疑慮與升息陰影未除",
  "key_points": [
   {
-   "title": "晶片股帶動超跌反彈",
-   "detail": "費半收漲4.14%、那指漲1.34%，VIX下降約13%。新聞稱輝達、AMD反彈與就業數據帶動買盤；但標題提醒後續仍要「繫好安全帶」。",
+   "title": "晶片股帶動反彈",
+   "detail": "費半收漲4.27%、那指漲1.45%，VIX降12.78%。報導指輝達、AMD走強，且非農與失業率數據支撐，晶片股領漲，但分析師提醒波動仍大。",
    "impact": "利多",
    "sources": [
     {
-     "n": 15,
+     "n": 16,
      "title": "輝達、AMD強彈！兩大利多帶動晶片股反攻 分析師提醒「繫好安全帶」",
      "url": "https://news.cnyes.com/news/id/6651674",
      "source": "鉅亨網"
     },
     {
-     "n": 16,
+     "n": 17,
      "title": "〈美股早盤〉AI股跌出買盤！晶片股帶動那指反彈 Fed升息陰影仍在",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVmFadnl5cG5sRzg0Mk93cjJ5V2xpdmE2ZkhWNjZrNW41TzlQeWVWczc1YWJpOC1WY29DcElBLXlEcVlSYks2QUFRYWNNaUE?oc=5",
      "source": "鉅亨網"
     },
     {
-     "n": 32,
+     "n": 33,
      "title": "非農數據超預期！費半指數仍大漲逾5.7% 台積電報復反彈近8%",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9haFhQd1lvUURMSHVMYlhhN2VHZXppQnV5UFI5WVFqMG5IdlI4VEVMS3E0Y2NHNFlZcGZlUURkU3YtV0l4bHNkWTlHTmpDenFSb0hnZUdNZ1JKanUxYldleC1TWC16UVI0bjc3ZHlGTQ?oc=5",
      "source": "知新聞"
     },
     {
-     "n": 33,
+     "n": 34,
      "title": "美股開市｜失業率低於預期 納指回升 半導體股領漲",
      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNUFFKVlZISHZndUJFLU12UUVtVmh5d29ZcC1wNVdHZmROZk83ekJiWXRaZWlMTUFoUGUxZGdnMHhxbHBVVERBNkVza0dOYmwxZkFPR3NqZXhIOGE0Tk5uQlpDRUpvdGVkYng0cE12dm9pOUJlVjc4cElTdXFiam5nR0lTdXlnUnZfanRSOXlUenl4aWNYS25VS0hMaHBTRzV1Tm54X2xCd3RFMVEtZHA2VGFYNlZyMXZjM21tREFPOWFzLTk1eEpETWtZclJBbW54dURZNzlaOWJkQjFaMTZodFY0VlBFT3Vxdm1aMndpTkR3eUxIX2d1cGhqNmcySDB3Q2RRRUNzY3NQdDNhdnR0XzJfeExqVHlkQjBxODBEZ1h0Y0RpWHU3RWo3cFpsYy1aZlVqM3ZnYTlyQXVNcnBzbExfLVlXVzRIMFU1SlNiM0VVZV9EQXBNTWd3aw?oc=5",
      "source": "星島頭條"
@@ -35,8 +35,8 @@
    ]
   },
   {
-   "title": "期中選舉衝擊AI股，賣壓餘波未平",
-   "detail": "選舉結果引發AI資料中心建設前景疑慮，亞股一度重挫，SK海力士大跌逾10%。高盛指出科技股去風險化造成買盤真空，克雷默示警賣壓恐未結束。",
+   "title": "前一日AI股殺盤餘波",
+   "detail": "期中選舉結果被解讀衝擊AI資料中心建設前景，亞股記憶體與台積電重挫，SK海力士一度跌逾10%。高盛稱科技股去風險化造成買盤真空。",
    "impact": "利空",
    "sources": [
     {
@@ -52,41 +52,72 @@
      "source": "鉅亨網"
     },
     {
-     "n": 22,
+     "n": 23,
      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwSklwR0ROYnpSbTk3dUZ4WUpNWDRfRjRzYjVGcE90U3VuNmFJRXdwXzFlTVplcEJzT3R5dUV5S21vY1JjRWZYVERSTlg4WHdGMW1hRjdvODg5R3I0MmRLQ2ZOYzFKNnJNRHZLc3dON19tUURZWGF4cUkwQUoybjjSAYQBQVVfeXFMTzQzR01kNVNEV0xUOFlPVEF6djcwZkRNU2xDZTAyRHlJcVZtNDNhd1R6b0hBc0c3ZTVwcEE3aW03N0dGXzg1bmZiSE1pVi1RXzExam5xVVE5NE50cmZkZ0F4ZzlRdXZTZmVLeWpWM3M1cm85aE9hZnloQUwtZ2hWRHNybml1?oc=5",
      "source": "CNBC"
     },
     {
-     "n": 23,
-     "title": "AI股賣壓恐未結束！克雷默示警：資料中心建設前景成估值最大變數",
-     "url": "https://news.cnyes.com/news/id/6649365",
+     "n": 29,
+     "title": "SK hynix Stocks Plunge 10.44% as AI Memory Leader Leads Seoul Selloff",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHZBTnltS1dIZ29WWHUzMnpLZHIwM1ZkdmxJMVhQdUxiV0EycG14UXU0aldrd1BhU250TGk1R1RUM2tNZ1l2ZU9PQVZQS25INWJWeEVYSm9sVFp2TTlDd1pqUmZQNkFjdDNQZVpyMjNjMUdTZDQyVHY5Qm1vSTlxSGRIcDAxYTBOUHRmR2FwOUdtTW40?oc=5",
+     "source": "Yahoo Finance"
+    }
+   ]
+  },
+  {
+   "title": "升息陰影與高殖利率",
+   "detail": "美債10年殖利率4.86%、美元指數上揚；市場仍擔心Fed升息。下週CPI與CoreWeave資金面被視為兩大考驗。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 15,
+     "title": "AI股跌夠了嗎？美股下周兩大考驗：CPI看升息、CoreWeave看資金",
+     "url": "https://news.cnyes.com/news/id/6651165",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 17,
+     "title": "〈美股早盤〉AI股跌出買盤！晶片股帶動那指反彈 Fed升息陰影仍在",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVmFadnl5cG5sRzg0Mk93cjJ5V2xpdmE2ZkhWNjZrNW41TzlQeWVWczc1YWJpOC1WY29DcElBLXlEcVlSYks2QUFRYWNNaUE?oc=5",
      "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "升息陰影與殖利率、美元走高",
-   "detail": "美債10年殖利率4.86%、美元指數102.29同步走高。報導指Fed升息陰影仍在，12月FOMC為關鍵，AI股走弱是否影響決策是焦點。",
-   "impact": "利空",
+   "title": "台積電傳研擬3D DRAM",
+   "detail": "報導稱台積電應輝達要求考慮生產先進記憶體，對記憶體族群競爭格局是變數；另有中國CXMT、長江存儲擴產消息。",
+   "impact": "中性",
    "sources": [
     {
-     "n": 16,
-     "title": "〈美股早盤〉AI股跌出買盤！晶片股帶動那指反彈 Fed升息陰影仍在",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVmFadnl5cG5sRzg0Mk93cjJ5V2xpdmE2ZkhWNjZrNW41TzlQeWVWczc1YWJpOC1WY29DcElBLXlEcVlSYks2QUFRYWNNaUE?oc=5",
+     "n": 30,
+     "title": "TSMC considers making advanced memory chips, The Information reports",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3VDQTJfT19xV0p2UGZRSUVERlJKVE8xb0VENzVOMEM2UjhPd0ZUM1JISzRGbjJ5aEs0TmZnLVZVQVZlTUZyTEhfUnRJaFJyNmxwbFRhcXdHTExjQURvckJ3bUtTTUtYMmlzektZbGRQemdVMDFrNDhsMUtMdjMzREpIbm90ZjkwNWYyR3lyY2p6RW51cGNvc2czWEo2ampYSVhBaW5ZQm15TWQ0ZGFyOGFESlBEMzBKd2c?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "n": 31,
+     "title": "台積電要做AI記憶體？傳應輝達要求研擬生產3D DRAM",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPS2hUOVRDTjJKZ3JOR1FCdk5zcnB5QVJtc2tQMXl3UW9abXMtS05KWHpHREluZUVHdHJxMWJqQXBIT3ZxblZpaDFBQkNhVEE?oc=5",
      "source": "鉅亨網"
     },
     {
-     "n": 40,
-     "title": "AI股若繼續跌 Fed還會升息嗎？「Fed傳聲筒」點出12月關鍵",
-     "url": "https://news.cnyes.com/news/id/6651724",
+     "n": 18,
+     "title": "Chinese Memory Chip Manufacturer CXMT Struggles In Q3 As Share Drops To 9% Amidst Aggressive Ramp From Samsung, Says Research",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbzJySmNWb2M3ZEdfOEhjZHB0M0FNVXFiTHJyRVZWalZ2WXRNa0pfOHZkUnNXeE5fNlU0OXFzaUQ4ZFhMRGg0OGJqVHZfSGNZZmcyd0xJdF9RenFxanhiZzhYTFpyeWZHTFRoeGstWUdwYWFRQ1lzWTdtZkRYak9Ka2dXZVVDMHBQdTBKVWVNNHpsYldGTmVBZjZWRmpYejUzaDhLOGR4ZnNxSU5oem1PNXdXdWRKODZTaHMydDg1RGVSUVhXbjd5UnYzWjRjV3hmblNvWXpIcUdKRkoyOHfSAeMBQVVfeXFMT0ZtQXB4QXVjM254Wmt2N0xpZEMtVWVZOGZUMS0yNXZCLXZ3eDNoeFNYRUtTRzJXdU9lbG1MUlNHRldYaldqMi1uYjRCWlU3SEVtNVBPUmszcmJNMWJ1amxfTVhlMTgxUmJRejgtbzM5TXpxRnF5X3h3UjhQNVozVXVIN0FhODZRVS1ZS1ZNbDFJZnF1d1BvVk5aaVFvdzl1dC1uWG1wNHhKbTQ3N0ZsMS1BYTNBLXZJUmdaV1lRYllTXzFsX292ZlhpbnF1c3FuRE1vVXR5NVR6WmlTRzdsaE9OUWM?oc=5",
+     "source": "Wccftech"
+    },
+    {
+     "n": 39,
+     "title": "長江存儲新廠拚七成設備國產化鎖定300層以上NAND搶攻AI儲存",
+     "url": "https://news.cnyes.com/news/id/6650025",
      "source": "鉅亨網"
     }
    ]
   },
   {
    "title": "避險資金流向日圓與貨幣基金",
-   "detail": "AI股下殺期間，日圓受避險買盤青睞，高盛偏好做多日圓；美國貨幣基金規模突破8兆美元。顯示資金仍偏保守。",
+   "detail": "AI股震盪帶動日圓避險買盤，貨幣基金規模突破8兆美元，新台幣一度失守33。顯示資金仍偏謹慎。",
    "impact": "中性",
    "sources": [
     {
@@ -102,28 +133,15 @@
      "source": "鉅亨網"
     },
     {
-     "n": 21,
-     "title": "美科技股血洗引發避險潮！全美貨幣基金成資金避風港 規模突破8兆美元",
-     "url": "https://news.cnyes.com/news/id/6649750",
+     "n": 19,
+     "title": "AI股暴跌引發亞洲股匯震盪 避險買盤湧入日元 新台幣一度失守33大關",
+     "url": "https://news.cnyes.com/news/id/6650012",
      "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "台積電傳研議3D DRAM",
-   "detail": "報導稱台積電應輝達要求研擬生產先進記憶體，記憶體供應鏈競爭格局可能變化，但目前僅為傳聞，尚待證實。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 29,
-     "title": "TSMC considers making advanced memory chips, The Information reports",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3VDQTJfT19xV0p2UGZRSUVERlJKVE8xb0VENzVOMEM2UjhPd0ZUM1JISzRGbjJ5aEs0TmZnLVZVQVZlTUZyTEhfUnRJaFJyNmxwbFRhcXdHTExjQURvckJ3bUtTTUtYMmlzektZbGRQemdVMDFrNDhsMUtMdjMzREpIbm90ZjkwNWYyR3lyY2p6RW51cGNvc2czWEo2ampYSVhBaW5ZQm15TWQ0ZGFyOGFESlBEMzBKd2c?oc=5",
-     "source": "Reuters"
     },
     {
-     "n": 30,
-     "title": "台積電要做AI記憶體？傳應輝達要求研擬生產3D DRAM",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPS2hUOVRDTjJKZ3JOR1FCdk5zcnB5QVJtc2tQMXl3UW9abXMtS05KWHpHREluZUVHdHJxMWJqQXBIT3ZxblZpaDFBQkNhVEE?oc=5",
+     "n": 22,
+     "title": "美科技股血洗引發避險潮！全美貨幣基金成資金避風港 規模突破8兆美元",
+     "url": "https://news.cnyes.com/news/id/6649750",
      "source": "鉅亨網"
     }
    ]
@@ -131,32 +149,8 @@
  ],
  "holdings": [
   {
-   "symbol": "SITM",
-   "note": "Seaport升評至買進，加上AI機會題材，股價大漲18.40%，Rosenblatt也點名看好。",
-   "sources": [
-    {
-     "n": 1,
-     "title": "SiTime shares surge 16% as Seaport upgrades to Buy following post-earnings dip",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/sitime-shares-surge-16-seaport-173840464.html?.tsrc=rss",
-     "source": "Yahoo Finance"
-    },
-    {
-     "n": 8,
-     "title": "Rosenblatt names top semiconductor stock",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-names-top-semiconductor-stock-193907140.html?.tsrc=rss",
-     "source": "Yahoo Finance"
-    },
-    {
-     "n": 14,
-     "title": "Seaport upgrades SiTime stock rating to buy on AI opportunity",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjdPUHc3OTJLVHBPOTduaU03VmUwaDlvT1FJRGN0UjlzaHJGUEZ0RTFMZUM0RG02X0tmODV3YkdFM3p5a1RTdnpOYWxIQWRFd0h2Z2xsSFR6VnIzUFNBR0kzak5ZbEFEVkhHWmdpTVFNbVFFQ04ycnRpQW1FTjVUM0xrdWNGM2lsaDJpUGFJUl9FWmVCNklIMGxmNDRuSUhMNFF1NWFZWl9xX3UxYUY3NmtTYUJ3SlBKaUNfajRn?oc=5",
-     "source": "Investing.com"
-    }
-   ]
-  },
-  {
    "symbol": "NOK",
-   "note": "AI-RAN與輝達合作推進、切入AI光通訊題材，收漲3.08%。",
+   "note": "收漲3.15%；與輝達AI-RAN合作及光通訊布局消息，盤前領升輝達概念股。",
    "sources": [
     {
      "n": 11,
@@ -177,7 +171,7 @@
      "source": "ad-hoc-news.de"
     },
     {
-     "n": 35,
+     "n": 36,
      "title": "熱門板塊速睇：美股盤前英偉達持倉概念走勢強勁，諾基亞領升",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBycU1qLTdFTTJhMzRZejZHOHJ5OTNQUF9fMU1XNkZWbV8zN3AzOHpuSE5BaE96RjlobnBWTHJLQjlGTlRlRk9jbjBJYmpVREtXZ0VWSQ?oc=5",
      "source": "富途牛牛"
@@ -186,48 +180,78 @@
   },
   {
    "symbol": "DRAM",
-   "note": "記憶體股隨晶片反彈，ETF漲5.62%；但SK海力士前一日大跌，且有中國記憶體廠擴產消息，波動仍大。",
+   "note": "收漲6%；亞洲記憶體股前日重挫後反彈，台積電3D DRAM傳聞與中國廠商擴產為變數。",
    "sources": [
     {
-     "n": 17,
-     "title": "Chinese Memory Chip Manufacturer CXMT Struggles In Q3 As Share Drops To 9% Amidst Aggressive Ramp From Samsung, Says Research",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbzJySmNWb2M3ZEdfOEhjZHB0M0FNVXFiTHJyRVZWalZ2WXRNa0pfOHZkUnNXeE5fNlU0OXFzaUQ4ZFhMRGg0OGJqVHZfSGNZZmcyd0xJdF9RenFxanhiZzhYTFpyeWZHTFRoeGstWUdwYWFRQ1lzWTdtZkRYak9Ka2dXZVVDMHBQdTBKVWVNNHpsYldGTmVBZjZWRmpYejUzaDhLOGR4ZnNxSU5oem1PNXdXdWRKODZTaHMydDg1RGVSUVhXbjd5UnYzWjRjV3hmblNvWXpIcUdKRkoyOHfSAeMBQVVfeXFMT0ZtQXB4QXVjM254Wmt2N0xpZEMtVWVZOGZUMS0yNXZCLXZ3eDNoeFNYRUtTRzJXdU9lbG1MUlNHRldYaldqMi1uYjRCWlU3SEVtNVBPUmszcmJNMWJ1amxfTVhlMTgxUmJRejgtbzM5TXpxRnF5X3h3UjhQNVozVXVIN0FhODZRVS1ZS1ZNbDFJZnF1d1BvVk5aaVFvdzl1dC1uWG1wNHhKbTQ3N0ZsMS1BYTNBLXZJUmdaV1lRYllTXzFsX292ZlhpbnF1c3FuRE1vVXR5NVR6WmlTRzdsaE9OUWM?oc=5",
-     "source": "Wccftech"
+     "n": 23,
+     "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwSklwR0ROYnpSbTk3dUZ4WUpNWDRfRjRzYjVGcE90U3VuNmFJRXdwXzFlTVplcEJzT3R5dUV5S21vY1JjRWZYVERSTlg4WHdGMW1hRjdvODg5R3I0MmRLQ2ZOYzFKNnJNRHZLc3dON19tUURZWGF4cUkwQUoybjjSAYQBQVVfeXFMTzQzR01kNVNEV0xUOFlPVEF6djcwZkRNU2xDZTAyRHlJcVZtNDNhd1R6b0hBc0c3ZTVwcEE3aW03N0dGXzg1bmZiSE1pVi1RXzExam5xVVE5NE50cmZkZ0F4ZzlRdXZTZmVLeWpWM3M1cm85aE9hZnloQUwtZ2hWRHNybml1?oc=5",
+     "source": "CNBC"
     },
     {
-     "n": 28,
+     "n": 29,
      "title": "SK hynix Stocks Plunge 10.44% as AI Memory Leader Leads Seoul Selloff",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHZBTnltS1dIZ29WWHUzMnpLZHIwM1ZkdmxJMVhQdUxiV0EycG14UXU0aldrd1BhU250TGk1R1RUM2tNZ1l2ZU9PQVZQS25INWJWeEVYSm9sVFp2TTlDd1pqUmZQNkFjdDNQZVpyMjNjMUdTZDQyVHY5Qm1vSTlxSGRIcDAxYTBOUHRmR2FwOUdtTW40?oc=5",
      "source": "Yahoo Finance"
     },
     {
      "n": 30,
-     "title": "台積電要做AI記憶體？傳應輝達要求研擬生產3D DRAM",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPS2hUOVRDTjJKZ3JOR1FCdk5zcnB5QVJtc2tQMXl3UW9abXMtS05KWHpHREluZUVHdHJxMWJqQXBIT3ZxblZpaDFBQkNhVEE?oc=5",
-     "source": "鉅亨網"
+     "title": "TSMC considers making advanced memory chips, The Information reports",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3VDQTJfT19xV0p2UGZRSUVERlJKVE8xb0VENzVOMEM2UjhPd0ZUM1JISzRGbjJ5aEs0TmZnLVZVQVZlTUZyTEhfUnRJaFJyNmxwbFRhcXdHTExjQURvckJ3bUtTTUtYMmlzektZbGRQemdVMDFrNDhsMUtMdjMzREpIbm90ZjkwNWYyR3lyY2p6RW51cGNvc2czWEo2ampYSVhBaW5ZQm15TWQ0ZGFyOGFESlBEMzBKd2c?oc=5",
+     "source": "Reuters"
     },
     {
-     "n": 38,
-     "title": "長江存儲新廠拚七成設備國產化鎖定300層以上NAND搶攻AI儲存",
-     "url": "https://news.cnyes.com/news/id/6650025",
-     "source": "鉅亨網"
+     "n": 18,
+     "title": "Chinese Memory Chip Manufacturer CXMT Struggles In Q3 As Share Drops To 9% Amidst Aggressive Ramp From Samsung, Says Research",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbzJySmNWb2M3ZEdfOEhjZHB0M0FNVXFiTHJyRVZWalZ2WXRNa0pfOHZkUnNXeE5fNlU0OXFzaUQ4ZFhMRGg0OGJqVHZfSGNZZmcyd0xJdF9RenFxanhiZzhYTFpyeWZHTFRoeGstWUdwYWFRQ1lzWTdtZkRYak9Ka2dXZVVDMHBQdTBKVWVNNHpsYldGTmVBZjZWRmpYejUzaDhLOGR4ZnNxSU5oem1PNXdXdWRKODZTaHMydDg1RGVSUVhXbjd5UnYzWjRjV3hmblNvWXpIcUdKRkoyOHfSAeMBQVVfeXFMT0ZtQXB4QXVjM254Wmt2N0xpZEMtVWVZOGZUMS0yNXZCLXZ3eDNoeFNYRUtTRzJXdU9lbG1MUlNHRldYaldqMi1uYjRCWlU3SEVtNVBPUmszcmJNMWJ1amxfTVhlMTgxUmJRejgtbzM5TXpxRnF5X3h3UjhQNVozVXVIN0FhODZRVS1ZS1ZNbDFJZnF1d1BvVk5aaVFvdzl1dC1uWG1wNHhKbTQ3N0ZsMS1BYTNBLXZJUmdaV1lRYllTXzFsX292ZlhpbnF1c3FuRE1vVXR5NVR6WmlTRzdsaE9OUWM?oc=5",
+     "source": "Wccftech"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "單日大漲26.86%，有財報電話會議與Nexus新產品消息；IPO閉鎖期預估11/30到期，屬日程風險。",
+   "note": "大漲25.96%；有Nexus發布與財報電話會議消息，但推估11/30有IPO閉鎖期到期，波動可能放大。",
    "sources": [
     {
-     "n": 26,
+     "n": 27,
      "title": "What Quantinuum (QNT) Said on Its Q3 Earnings Call",
      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-quantinuum-qnt-said-on-its-q3-earnings-call-2026-11-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance"
     },
     {
-     "n": 37,
+     "n": 38,
      "title": "Quantinuum (QNT) Rolls Out Nexus For Fault Tolerant Quantum Computing",
      "url": "https://finance.yahoo.com/technology/ai/articles/quantinuum-qnt-rolls-nexus-fault-081306543.html?.tsrc=rss",
+     "source": "Yahoo Finance"
+    }
+   ]
+  },
+  {
+   "symbol": "SITM",
+   "note": "大漲18.28%；Seaport上調至買進，並有Rosenblatt點名等分析師動作。",
+   "sources": [
+    {
+     "n": 1,
+     "title": "SiTime shares surge 16% as Seaport upgrades to Buy following post-earnings dip",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/sitime-shares-surge-16-seaport-173840464.html?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 8,
+     "title": "Rosenblatt names top semiconductor stock",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-names-top-semiconductor-stock-193907140.html?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 14,
+     "title": "Seaport upgrades SiTime stock rating to buy on AI opportunity",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcjdPUHc3OTJLVHBPOTduaU03VmUwaDlvT1FJRGN0UjlzaHJGUEZ0RTFMZUM0RG02X0tmODV3YkdFM3p5a1RTdnpOYWxIQWRFd0h2Z2xsSFR6VnIzUFNBR0kzak5ZbEFEVkhHWmdpTVFNbVFFQ04ycnRpQW1FTjVUM0xrdWNGM2lsaDJpUGFJUl9FWmVCNklIMGxmNDRuSUhMNFF1NWFZWl9xX3UxYUY3NmtTYUJ3SlBKaUNfajRn?oc=5",
+     "source": "Investing.com"
+    },
+    {
+     "n": 32,
+     "title": "Molson Coors downgraded, SiTime upgraded: Wall Street's top analyst calls",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMjJteHI0WXpQT0NTcERfVXI0RWJrNlhEYzdxd3RUSGxlem1YU1Z3cDA3ZnVzZUxmUUIyeDltV2h0U05VanZxd0hiZlZGQmVFTVZ0aklTRVo4NXFnVi1yd1p3T3REb1pHWmRXTHMtOUZwV2dyRnh6b0pNSkVuRENnS3JYUGlfSDEtbXYxQjRkaEZ1cXFQVUU5OERjWEJUSE5BUm9CcTRrSQ?oc=5",
      "source": "Yahoo Finance"
     }
    ]
@@ -235,27 +259,27 @@
  ],
  "watch_next": [
   {
-   "when": "11/07 週六",
-   "what": "美股休市，可留意週末AI股、選舉後政策與Fed官員談話的後續報導"
+   "when": "11/10（週一）",
+   "what": "台積電10月營收、Rigetti盤後財報"
   },
   {
-   "when": "11/10（週二）",
-   "what": "台積電10月營收、Rigetti財報（美股盤後）"
+   "when": "11/11（週二）",
+   "what": "韓國前10天出口初值，觀察半導體需求"
   },
   {
-   "when": "11/11（週三）",
-   "what": "韓國前10天出口初值，觀察半導體出口"
+   "when": "11/12（週四）盤後",
+   "what": "應用材料財報"
   },
   {
-   "when": "11/12（週四）",
-   "what": "應用材料盤後財報；11/17輝達財報為後續焦點"
+   "when": "下週",
+   "what": "美國CPI與CoreWeave，市場視為AI股與升息預期的考驗"
   }
  ],
- "generated_at": "2026-11-06T19:58:16Z",
+ "generated_at": "2026-11-06T20:07:12Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5818,
-  "output_tokens": 1290
+  "input_tokens": 5821,
+  "output_tokens": 1236
  }
 }
