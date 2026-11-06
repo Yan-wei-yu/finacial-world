@@ -1,34 +1,6 @@
 {
- "generated_at": "2026-11-05T20:50:58Z",
+ "generated_at": "2026-11-06T07:27:11Z",
  "upcoming": [
-  {
-   "symbol": "IONQ",
-   "name_zh": "IonQ",
-   "group": "peer",
-   "date": "2026-11-05",
-   "datetime": "2026-11-05T21:00:00Z",
-   "session": "盤後",
-   "eps_est": -0.33727,
-   "eps_low": -0.45,
-   "eps_high": -0.25,
-   "rev_est": 141197670.0,
-   "rev_currency": "USD",
-   "is_holding": false
-  },
-  {
-   "symbol": "QNT",
-   "name_zh": "Quantinuum",
-   "group": "holding",
-   "date": "2026-11-05",
-   "datetime": "2026-11-05T21:00:00Z",
-   "session": "盤後",
-   "eps_est": -0.37394,
-   "eps_low": -0.49,
-   "eps_high": -0.31,
-   "rev_est": 8066790.0,
-   "rev_currency": "USD",
-   "is_holding": true
-  },
   {
    "symbol": "RGTI",
    "name_zh": "Rigetti",
