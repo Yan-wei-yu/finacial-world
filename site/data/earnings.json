@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T07:27:11Z",
+ "generated_at": "2026-11-06T19:58:16Z",
  "upcoming": [
   {
    "symbol": "RGTI",
@@ -101,6 +101,30 @@
   }
  ],
  "recent": [
+  {
+   "symbol": "QNT",
+   "name_zh": "Quantinuum",
+   "group": "holding",
+   "is_holding": true,
+   "datetime": "2026-11-05T21:00:00Z",
+   "date": "2026-11-05",
+   "eps_est": -0.37,
+   "eps_actual": -0.29,
+   "surprise_pct": 22.45,
+   "suspect": false
+  },
+  {
+   "symbol": "IONQ",
+   "name_zh": "IonQ",
+   "group": "peer",
+   "is_holding": false,
+   "datetime": "2026-11-05T21:00:00Z",
+   "date": "2026-11-05",
+   "eps_est": -0.79,
+   "eps_actual": 1.35,
+   "surprise_pct": 270.89,
+   "suspect": false
+  },
   {
    "symbol": "SITM",
    "name_zh": "SiTime",
@@ -342,6 +366,14 @@
    }
   ],
   "QNT": [
+   {
+    "datetime": "2026-11-05T21:00:00Z",
+    "date": "2026-11-05",
+    "eps_est": -0.37,
+    "eps_actual": -0.29,
+    "surprise_pct": 22.45,
+    "suspect": false
+   },
    {
     "datetime": "2026-08-11T20:00:00Z",
     "date": "2026-08-11",
