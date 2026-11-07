@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T06:39:10Z",
+ "generated_at": "2026-11-07T18:03:59Z",
  "upcoming": [
   {
    "symbol": "RGTI",
@@ -168,9 +168,9 @@
    "is_holding": false,
    "datetime": "2026-11-03T21:00:00Z",
    "date": "2026-11-03",
-   "eps_est": 1.94,
+   "eps_est": 1.95,
    "eps_actual": 2.09,
-   "surprise_pct": 7.46,
+   "surprise_pct": 7.44,
    "suspect": false
   },
   {
