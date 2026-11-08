@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T18:21:54Z",
+ "generated_at": "2026-11-08T06:45:12Z",
  "upcoming": [
   {
    "symbol": "RGTI",
@@ -11,7 +11,7 @@
    "eps_est": -0.05125,
    "eps_low": -0.06,
    "eps_high": -0.04,
-   "rev_est": 3675950.0,
+   "rev_est": 3519420.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -98,6 +98,20 @@
    "rev_est": 1707801676350.0,
    "rev_currency": "TWD",
    "is_holding": false
+  },
+  {
+   "symbol": "ERIC",
+   "name_zh": "易利信",
+   "group": "peer",
+   "date": "2027-01-22",
+   "datetime": "2027-01-22T13:00:00Z",
+   "session": "盤前",
+   "eps_est": 0.26614,
+   "eps_low": 0.25228,
+   "eps_high": 0.28,
+   "rev_est": 70284488580.0,
+   "rev_currency": "SEK",
+   "is_holding": false
   }
  ],
  "recent": [
@@ -120,9 +134,9 @@
    "is_holding": false,
    "datetime": "2026-11-05T21:00:00Z",
    "date": "2026-11-05",
-   "eps_est": -0.79,
+   "eps_est": -0.77,
    "eps_actual": 1.35,
-   "surprise_pct": 270.89,
+   "surprise_pct": 274.42,
    "suspect": false
   },
   {
@@ -132,9 +146,9 @@
    "is_holding": true,
    "datetime": "2026-11-04T21:00:00Z",
    "date": "2026-11-04",
-   "eps_est": 3.56,
+   "eps_est": 3.61,
    "eps_actual": 4.01,
-   "surprise_pct": 12.65,
+   "surprise_pct": 11.14,
    "suspect": false
   },
   {
@@ -387,9 +401,9 @@
    {
     "datetime": "2026-11-04T21:00:00Z",
     "date": "2026-11-04",
-    "eps_est": 3.56,
+    "eps_est": 3.61,
     "eps_actual": 4.01,
-    "surprise_pct": 12.65,
+    "surprise_pct": 11.14,
     "suspect": false
    },
    {

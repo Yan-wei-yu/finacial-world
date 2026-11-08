@@ -1,142 +1,142 @@
 {
- "headline": "費半大漲4.2%強彈，但升息預期升溫、避險派仍保守",
+ "headline": "AI股急殺後強彈，費半大漲逾4%，CPI與升息預期成關鍵",
  "mood": "中性",
- "mood_reason": "晶片股急彈、VIX回落，但12月升息機率升至約八成，殖利率4.86%壓抑追價",
+ "mood_reason": "費半強彈、VIX回落，但反彈被視為脆弱，CPI與12月升息疑慮未除",
  "key_points": [
   {
-   "title": "晶片股急彈，費半漲4.21%",
-   "detail": "前一日重挫後費半反彈,台積電ADR漲6.33%,美光走強。那指收24,579(+1.09%),VIX降至25.64。但Dow續跌237點,漲勢集中在晶片。",
-   "impact": "利多",
-   "sources": [
-    {
-     "n": 16,
-     "title": "Stock Market Today, Nov. 6: Micron Technology Jumps as Chip Stocks Rebound From Thursday's Rout",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1JEN0RQUFk0X2kzYTNTX3NqR0tWY3lXSThhZmNRVzExaU5pazlieXNfc25nT2xYanJGdlZFdy1UTExFdkhSWVNzTTlGWW9MNlpYUWFHUGFxZnJIcklpQm1VbzdsOUFXc1NLM0JTM1lEclR5MUlPLTRFZnc3eUwzcWw2bzU5cFVhVkM5aG5zZXZMZ1k?oc=5",
-     "source": "Yahoo Finance"
-    },
-    {
-     "n": 21,
-     "title": "《美股》收盤速報：費半反彈4.2%、台積電強升6.3% 然非農數據強勁- 國際",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4NDhFaEpFd3YwTWt2WTlFTjE1TmJVcHF0MFRrcVZsMWhyMU9UbUcxNTl3V1UzRXo0OEFHaFVCRUQ3VG5DdzZwc3FaUENtLWdwRjZDU3ZLRVJ1bUZWSVA2ZElia3daRWx2YXc?oc=5",
-     "source": "旺得富理財網"
-    },
-    {
-     "n": 25,
-     "title": "美就業數據強勁！美股道瓊續跌237點、費半漲4.21% 台積電ADR漲6.33%",
-     "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNQWhsZk9BUTNMaW41czA1NzN4RFFGTWhzbjBSLU9FeVBBWTZjUHVCN21zc0NEMGJfc0VwcXdZZWo2S0FzX1daTzFoWmpXNG1EbWN6ZGRxODhtYnpXODdZY0hHcUd2WU5hbEtWYlExd194ck84VUpHOV9QcnZBREE1UlBQMXFrbXRWbG81eHpkbmlBVnRJdWdiMHRjM2Z6WGh0SE0wSUpISWoxeXhsNGwzMmVxSDZBSFlVR0pNS1RSNlpGTXM3aW16U1AtUmh3REdERGdqS3Zzb3NrRjJGQUxwalVvLWxIb2hlam1MRGE1MzR6ME9TRHpqVFNzM3NZTUxNUENqZG9VamtRMjhHNnpxZFB3Y0tZQ2lYZU5LZUliS0E1bHkwVXFSb1B1SnpBeGVFalNTQ3hvd2VhVlRHc19ybTdUMXNxV0JKcnVSZ3loWGliZ0lMT2hyYk5KVVZLSVFBZVE?oc=5",
-     "source": "Yahoo新聞"
-    },
-    {
-     "n": 22,
-     "title": "美股晶片股單夜狂飆，費城半導體指數漲4.2%，12月升息押注升至78%",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SWmtnRFIxTmdsVjRIUkwzcUt0Q2xLMUFRMDVRZ1ZWbVIyeXpRem9vVm11S2o0cDhKSWJDNG02Wi1rSFJueldURXFmc3VKXzBJZWZCSUtNMnNFa2Y0akFUWVRGMEdBOHpRMGJJa2F4QXh1Mzl2LXk0QVVn?oc=5",
-     "source": "BigGo 財經"
-    }
-   ]
-  },
-  {
-   "title": "非農強勁，12月升息預期升至約八成",
-   "detail": "就業數據優於預期,12月升息機率報導為78%至80%以上,聯準會並警告AI投資推高通膨。10年期殖利率4.86%,對高估值科技股形成壓力。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 22,
-     "title": "美股晶片股單夜狂飆，費城半導體指數漲4.2%，12月升息押注升至78%",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SWmtnRFIxTmdsVjRIUkwzcUt0Q2xLMUFRMDVRZ1ZWbVIyeXpRem9vVm11S2o0cDhKSWJDNG02Wi1rSFJueldURXFmc3VKXzBJZWZCSUtNMnNFa2Y0akFUWVRGMEdBOHpRMGJJa2F4QXh1Mzl2LXk0QVVn?oc=5",
-     "source": "BigGo 財經"
-    },
-    {
-     "n": 23,
-     "title": "10月非農重燃12月升息預期！華爾街押注機率超八成，「新聯準會通訊社」：AI拋售或成政策變量",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJb3R3aWFpbzFyZTF5R08yd0drY2J6ZFBFcURORFg0Qkc2T0Z5WlJzdnFKTlFxamZaazhkUDdMQ2RKYVNKUHRPZg?oc=5",
-     "source": "鉅亨號"
-    },
-    {
-     "n": 30,
-     "title": "美國就業意外強勁！12月升息機率衝上80%，聯準會警告AI投資仍推高通膨",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xWHdFUUdhcDBJTkktTFdDbWZKbENIYy1YazVibmdBdl9WR3c3NnBFLS0zR2dKeTFZUktQeHV2a05vZjFkSVhCbDJVNTdHRVU?oc=5",
-     "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "機構對抄底仍保守",
-   "detail": "美銀Hartnett維持避險立場,要三大條件到齊再進場;傑富瑞也認為半導體抄底為時過早。反彈持續性仍待檢驗。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 2,
-     "title": "搶美股反彈先別急！美銀Hartnett不改避險立場 三大條件到齊再進場",
-     "url": "https://news.cnyes.com/news/id/6651668",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 11,
-     "title": "傑富瑞：半導體抄底為時過早，相對偏好英飛凌與諾基亞",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PclpjVTV4Q0R6OGZ6eDRvTXllWmNVNFJ0cURpc2paZ0tnTkJPcnNkRW5sT19LYktVaE1vby1GQkdtMHpUTG9UdkJwUVd3NllNejkwbWZ6SXp3dTR4S1h4WkprUlN1elEyNEE?oc=5",
-     "source": "TradingView"
-    }
-   ]
-  },
-  {
-   "title": "台積電傳布局3D DRAM,記憶體題材發酵",
-   "detail": "傳應輝達要求規劃3D DRAM,但華邦電焦佑鈞認為台積電多半與三大記憶體廠合作而非競爭,台積電也已回應,細節仍待確認。",
+   "title": "AI股急殺後反彈，但被質疑脆弱",
+   "detail": "費半收漲4.21%、那指漲1.09%，VIX回落9%。不過媒體警告反彈恐是「死貓跳」，AI融資疑慮未除，CoreWeave、Nebius財報將是考驗。",
    "impact": "中性",
    "sources": [
     {
-     "n": 10,
-     "title": "傳進軍先進記憶體！台積電應輝達要求規劃3D DRAM仍遭小兒賣「這檔」毛利率飆47%、獲大摩喊111元目標價卻淪賣超王",
-     "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPQW5JSDltQ0d0TzgwV2tpMmNnMFhxVzVrdUF6Rlg1cTQ2VUZYWlFvTWdsd1BtSXFZaDNHbDZ5TVZaT2JMQ3NXRkpnYkVzWEJTd25HaV9VQmpzSWVfbEdDWkpmeUpobEw0U0FIbFYyT3g3V2o4T2FPZDJhS3BXNlBwejBKX0t6d2hRSUJrZUNRRVRaems5RVhSS3ZsNjlUZG9mZDd0R0FKdFJremJRelJzZjlMTXU5N2toVHZxV25yMTVyUGFpczJPX1QxZ1lkTnZ4dWVMT1RkYVIwbjhVdEJRdVBjdzlYcl9jMDhBMXJpWFgtSGIycGk2eVFyV05RMU5QQnBuZzRLUzZvRjFOenFKNnhyT1E1NVFsdmo5MURGTzZmTEtfbVhMdW5ybmx1NTIwNy1tY2NsWDRhbmk1LUNuV3Yycy1iMmVFUTBzMHhuVjRlSHRvTkNVUGNsaGxsTTRPVG9WRXVLTGtWY0hpal9vLUZfczMwbmJneFc3cnhmcXktQVNlTGdmOGVTdFlUMEk3YzhfWWR6aC1ONENqWWdjekhjbnJCMGtOUHRIR1NFbFJHNnVCOUZIRjhXNHgxQTMwWEp3SU80QQ?oc=5",
-     "source": "Yahoo股市"
-    },
-    {
-     "n": 27,
-     "title": "應輝達要求研擬生產3D DRAM？台積電最新回應！",
-     "url": "https://news.cnyes.com/news/id/6652126",
+     "n": 11,
+     "title": "美股下週展望／AI股修正後迎CPI考驗CoreWeave財報成焦點",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GVENOYzFNMTRyQmhNdmZ2Y2x2RWJUTzdGQkhtTk5YS2o2X2JxR1JsYVlzYnpJWENKek1ickZ1dVB1N1FEbUw2X3Q4UnRBcXc?oc=5",
      "source": "鉅亨網"
     },
     {
+     "n": 17,
+     "title": "選後美股反彈脆弱！CoreWeave及輝達財報要來了 周二CPI牽動Fed升息",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SaWNoRHNfRWEtQ0Vkb205bm1aU1RrNkdlTl9sVFJhZloydDIyMFk0ZDFGOG52ZXU4YUhPTUVvNWtyX292QktBd3l3ODIyV1NxVWp5a2owTUxhZG9OeGNDQXByeEVFUEs3TmRuOFpESQ?oc=5",
+     "source": "知新聞"
+    },
+    {
+     "n": 35,
+     "title": "反彈恐是死貓跳？財經名嘴示警AI融資疑慮未除 CoreWeave、Nebius下周財報是關鍵考驗",
+     "url": "https://news.cnyes.com/news/id/6651844",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 15,
+     "title": "AI與半導體股全球急殺 S&P500單日重挫4.4% 市場緊盯三中銀12月是否同步升息",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2cU1DYXhYQWJPOTlMOEZadEo3cVRXcmRSaDYwWHYyVktsN2pkdl9wNG9YWEZmb3Y0OW9IZWJ6RjJQUzc4WFhGMXJGeU1rT3BOM0RZUmpvMGc3OXRSWmdnbWx1bC1kSXF0bndKbjkyRVBpZUlkX0M3M2x3?oc=5",
+     "source": "BigGo 財經"
+    }
+   ]
+  },
+  {
+   "title": "通膨與12月升息預期壓抑估值",
+   "detail": "就業意外強勁，12月升息機率升至80%，聯準會警告AI投資推高通膨。美債10年殖利率4.86%。週二CPI將牽動升息預期；Tom Lee認為不一定升息。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 20,
+     "title": "美國就業意外強勁！12月升息機率衝上80%，聯準會警告AI投資仍推高通膨",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xWHdFUUdhcDBJTkktTFdDbWZKbENIYy1YazVibmdBdl9WR3c3NnBFLS0zR2dKeTFZUktQeHV2a05vZjFkSVhCbDJVNTdHRVU?oc=5",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 17,
+     "title": "選後美股反彈脆弱！CoreWeave及輝達財報要來了 周二CPI牽動Fed升息",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SaWNoRHNfRWEtQ0Vkb205bm1aU1RrNkdlTl9sVFJhZloydDIyMFk0ZDFGOG52ZXU4YUhPTUVvNWtyX292QktBd3l3ODIyV1NxVWp5a2owTUxhZG9OeGNDQXByeEVFUEs3TmRuOFpESQ?oc=5",
+     "source": "知新聞"
+    },
+    {
+     "n": 39,
+     "title": "Tom Lee：AI股急跌過頭，聯準會12月未必升息",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56WUNUTWFDVC1DZFJ2b2VDQWEyRlRjSGJmOXNaVFppaE43NThoNFFfTW91cXF6N1hQbGZnZXREb1pTSVJQbnRtdTQ2M3FyYlFFQ2FmR2Z5bXJBQ3B1Sk1kRGFpZnNNX0NkZ0ZDVEpGemk4Sk4zUTluVk1B?oc=5",
+     "source": "BigGo 財經"
+    },
+    {
+     "n": 24,
+     "title": "AI股崩Fed官員：屬有序的定價- 日報",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tMVVvZmYwTVZTTmc0U3IwdHM4V3NES3pCRzhqdEpjbC1NajdsX0lNTkxKai14RlM1YzBvbl8tVV95a1ExN0RCSkR3R0JyV2d6Y3BUcDJod0lMYThWVHM4?oc=5",
+     "source": "工商時報"
+    }
+   ]
+  },
+  {
+   "title": "AI循環融資風險仍是隱憂",
+   "detail": "摩根大通點出循環融資風險，期中選後市場震盪。民主黨掌控國會，但關稅政策難撼動。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 1,
+     "title": "期中選舉只是AI熱潮最後一根稻草？摩根大通揭循環融資風險",
+     "url": "https://news.cnyes.com/news/id/6652032",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 13,
+     "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGE5cWdNNmdGUVUta195UWctb3dsWEp2d0ZDRE5FQU02SDRwckpqa25JM2QxNk1wOTV5aXF4NDJiZnRZRzlCcm85RzNjOEltYktuc1NDQ2Y2UzJOc2VMQm5HaFZUR2FGdkNDMVhoazNkN1FTYTBVdWRDQjItS2c2ZUVoemlwVVg4X3Z6cVhtTEx4NWtVbjhSMm5NR1loaXVaUkNFOTVB?oc=5",
+     "source": "AP News"
+    },
+    {
      "n": 28,
+     "title": "美民主黨掌控國會難撼川普關稅政策！電動車補貼、AI監管成新焦點",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vZUZtN1RHbXFjVHFhc2JDby1CZE1xU1BNTE00M1lUaEVYdGdfM2RHaEo0b0tsNFlLVEhxcGppQjM2VkxOYW9kWWVPLVRjRTg?oc=5",
+     "source": "鉅亨網"
+    }
+   ]
+  },
+  {
+   "title": "台積電傳做3D DRAM，公司出面否認",
+   "detail": "傳聞稱台積電應輝達要求規劃3D DRAM，台積電回應強調聚焦晶圓代工，業界認為是誤會。記憶體族群消息面易受擾動。",
+   "impact": "中性",
+   "sources": [
+    {
+     "n": 27,
      "title": "台積電傳進軍3D DRAM市場！輝達要求布局、AI記憶體短缺推升擴產需求",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pb1V5azdUc0JUQ0lVSmE0WFEzVDVxaDBNT1k2cWdfQWNKOXkyLWNVQlhEbFVEdkVKaVJwUzVXVmRkdS1HU2xOa0YtN3pzaFE?oc=5",
      "source": "鉅亨網"
     },
     {
-     "n": 39,
-     "title": "傳跨足先進記憶體生產？焦佑鈞：台積電與三大記憶體原廠均有合作不會加入競爭",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc1l6dml6a3JHSkdFZmtiWWRCOGgtUk0xTjE1dEM5Z1NqaVgyN3ljV3FIRDdNdFROdUR3UEpZb3g0eFBzellXRGd6S1R6MDVNOW5fNV9QMkpFZWxHY1FVUXduQzJRb3BmMEpBa0JVUkgzZHpZc1lzbFNRWk1FRm1Ib0Y3UVA1Mk1IUGpaQUhNRm1iSldyRjJpb0RyQ0t1NWs1aHFQcjVnRE5UZnlGUzNycjdxLXZBT2F5c04xTFNWZGJOclM0SUdRTjUwSWd6Zw?oc=5",
-     "source": "TechNews 科技新報"
+     "n": 26,
+     "title": "應輝達要求研擬生產3D DRAM？台積電最新回應！",
+     "url": "https://news.cnyes.com/news/id/6652126",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 36,
+     "title": "TSMC Denies DRAM Market Entry, Affirms Foundry Focus",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUJwdjhkVWZRUmlXVVlUSW95bFVPVzB5VE1qblU5YlhnNkRpRDZKMDFEMTdVdmI0S2p4em5XRl9oZkg5QTFQbk9PZzdFdnlYV1Q4bmhWTzhrVGZfeDdKMWhBMUdjcXljcW9yamtNUFNOd1R4dzFDZ0I1Z1d3TENNRWo4THJvVkR1?oc=5",
+     "source": "조선일보"
+    },
+    {
+     "n": 22,
+     "title": "台積電到底要不要做記憶體？公司回應強調這句話- 產業",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yWjVrYk5YR2lXbFdRUjJ2V3o3b09VRjlxNzM5YUlLLXBlMlhfYU04b3RHbWNaZGJSamRQVGdWTzdBTkFDUzNLSXdGTGJpaDJna1p1cjhsSW13LVg4M3NV?oc=5",
+     "source": "工商時報"
     }
    ]
   },
   {
-   "title": "下週通膨與AI財報考驗反彈",
-   "detail": "週二通膨數據、CoreWeave財報,11/17輝達財報接力。白宮取消高層科技顧問會議,AI政策添變數。",
+   "title": "輝達財報前，H200在港庫存受關注",
+   "detail": "輝達將於11/17盤後公布財報；有報導指H200晶片在香港大量堆積，市場需留意中國需求相關消息。",
    "impact": "中性",
    "sources": [
     {
-     "n": 6,
-     "title": "美股一周展望／晶片股急彈能追嗎？通膨、CoreWeave 財報考驗反彈成色",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hdFF2Ynd2NTY4NjJpeEpUbEl2UHpFcEFObi1SY1dSMlE5TUY1ekV6YzIwdkRzRVIwaW5WdjVxX2pvOEd4TVFHX0lMb1BabVVtZENSdkVBd3hHY0Nl0gFiQVVfeXFMT1ZZYXdZd0lpV1JGdE5VdU5XMWpESlFlQURyaWtGWVZ2dzQ5UTFqTGo5VUZLd1hiaFlGeS1kQlVJanRIbzJJcFRYZ0NxTlhMRVFoWXp1d0tKajJIZ1YzNDJEd2c?oc=5",
-     "source": "經濟日報"
+     "n": 16,
+     "title": "60萬顆！輝達H200晶片在中國香港堆積如山",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vRXF1Nzdhcm5XMi04WHJWdHFHa25OZlpFSVAyS3p1OG56VWVhdWpnMDRBTmIyeGdMWG9ZUFJLZ3Zoem51Yk05Zg?oc=5",
+     "source": "鉅亨號"
     },
     {
-     "n": 13,
-     "title": "Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed",
-     "url": "https://www.cnbc.com/2026/11/06/cramer-coreweave-nebius-earnings.html",
-     "source": "CNBC"
-    },
-    {
-     "n": 20,
-     "title": "What could move the stock market next week? Inflation data Tuesday, then Nvidia on Nov. 17",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmdtcVYwX19UMy1VekJmQkM1RzhCMkpKLTE4Zm5ZZW5RWmpFZU5EcXJkYTREa0pReVc4aU5lSm9EVENiaHF0bGticWtpamU4R19fLVBRQkhzbEF4V2N6TTZYenhUOTdIMnZnbFVmZF8zUTh3OFlTN0lob1VnX0tpR0kwR3lLTFRlM2N0ekhFVncySm5HR3VZck1yRWwxOHlBOHJVa2VicktJeHZsbXhSUDRxZG1ya3VoZEd1V2Z4NA?oc=5",
-     "source": "Nacionale"
-    },
-    {
-     "n": 15,
-     "title": "白宮突取消高層科技顧問會議！黃仁勳、祖克柏原定出席 AI政策添變數",
-     "url": "https://news.cnyes.com/news/id/6651932",
-     "source": "鉅亨網"
+     "n": 17,
+     "title": "選後美股反彈脆弱！CoreWeave及輝達財報要來了 周二CPI牽動Fed升息",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SaWNoRHNfRWEtQ0Vkb205bm1aU1RrNkdlTl9sVFJhZloydDIyMFk0ZDFGOG52ZXU4YUhPTUVvNWtyX292QktBd3l3ODIyV1NxVWp5a2owTUxhZG9OeGNDQXByeEVFUEs3TmRuOFpESQ?oc=5",
+     "source": "知新聞"
     }
    ]
   }
@@ -144,12 +144,12 @@
  "holdings": [
   {
    "symbol": "NOK",
-   "note": "收漲2.68%,AI網路訂單、穆迪升至投資等級與Hotwire合作帶動,傑富瑞偏好。",
+   "note": "獲穆迪升至投資等級、Hotwire網路合約及輝達平台題材支撐，收漲2.68%；Rosenblatt下調目標價。",
    "sources": [
     {
-     "n": 3,
-     "title": "Nokia Shares Climb 3.5% as AI-Linked Stocks Bounce, With Hotwire Deal and Long-Range Traffic Forecas",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRV9jQVNzN2F2OTY0dnJLRkdLZ1I3NVFFazBsU2hsbW5aSjZvUFJXZWdRaUwzSEN2bTF5c2pUTFlQeGhVUUhCYjMyUUlGUHE2dTR5RzV2SHgzUkNacGF4X0gtOTVEdjUtRmRuWlpqZVlqNFN5NVMwWkNGcU5wZURFb1lQQ2p2R2Q0NjVYVVYwZ3RNcGZRYWthZkhubjNkeXJLQVBjb25vNUhpdnQ5WlhHZjlycTRvRnI0MmJXTUlxMnhaVFNZYWJhUERVT0NHYWhRYUh2UkZRVkE0WmlULTNEMEY5RVVlZGJFcXE2clZuUVJUOXlrU1hZWnNxc1RzM2hT?oc=5",
+     "n": 6,
+     "title": "Nokia Clinches Hotwire Network Deal and NVIDIA Agent Platform as Rosenblatt Trims Target but Keeps B",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMmUzbEJHT3V6c0J2MXE0STFwaXFRVHNBWXNJX2lMTXJwb3pxNnBmS05fRDhHWUtqcUxZVXdqeGVLRW5ocmhLMFJPXy1HQjNqRUZMU2tQaTNUMGtpLXEweWdaVzdkWDVHQUViTl9jcHJMdUw4ZjVJMVFuRVYtSTFDQnBjLU5UelpudnVqYTFZV0ZwR1NtaW5QcENUWkpvOWpveWxRZ3VsTzAxYmxPc2hSMG9NcXdvY19paHFUc0gtM012VU9SUEJKT2luZ0pUQkpCbFk5TnBPb1FDOWI0U3NqVnBTaE5kYi14amFDMU5CcFRhYW80QV8zV0kyanpmWms?oc=5",
      "source": "ad-hoc-news.de"
     },
     {
@@ -159,97 +159,85 @@
      "source": "ad-hoc-news.de"
     },
     {
-     "n": 11,
-     "title": "傑富瑞：半導體抄底為時過早，相對偏好英飛凌與諾基亞",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PclpjVTV4Q0R6OGZ6eDRvTXllWmNVNFJ0cURpc2paZ0tnTkJPcnNkRW5sT19LYktVaE1vby1GQkdtMHpUTG9UdkJwUVd3NllNejkwbWZ6SXp3dTR4S1h4WkprUlN1elEyNEE?oc=5",
-     "source": "TradingView"
-    },
-    {
-     "n": 12,
-     "title": "Nokia Wins Moody's Investment-Grade Nod as AI Traffic Forecast and Hotwire Deal Land Together",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcFBWRXBWeFBJaEw5M1d4cjNuR0tHSkI2aHpOS3JBSm1WMHFKZG8teEJhV2FuaHpZQjRJRDc3N1FxZmVHUE5RSXI0bzB5YWUwQndSVVhEbFpRYmdvcWczTURXTUNwcl8yd2NlSWxsSUVEa0hUdDM2bE5jSkJ3MHV5RmVrWnQtZ2E3cF9reTVkVmpwWVBkYnFULU56WmMtNzA0NkdnejFJb251OElrMGNZdjVHcWh0Z2Nzcll3RXFzLWN4TnB2czlKMF96N3JZcV8wamdsdlo4amZvdm5fTWU1TmxHUTd0WDhoUnpEUWxwd2gyTmpzS2VoVQ?oc=5",
+     "n": 9,
+     "title": "Nokia Shares Gain 3.5% as AI Networking Momentum Meets a Moody's Upgrade",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVWxGNW5iQ25BNG01bExUWlVOc3FxQ1BfamtQbm1xRFFKUjlUck9FR0poYXpvYnBWRnJ5R1J4clZIUWV5Q29udzdBeDNwUXpzUnFaekN3VnpRcUJCdGp1c3dQb0pVUWFKdkFsMGN0NWtoc01uaW1YQlFBM0pPcHpwdHlLaVRPVno1c3htdWJzb3Y4V3NVcHZXVkR1c1RMX0hfTXZjSnVYTGFKRXdUaTA4bVZwRlhnSDNGZ1VieWdfZ3RPVmE0N3VNMU4tYmNBMWQzMEdYQlJWbjRvYUk?oc=5",
      "source": "ad-hoc-news.de"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "收漲6.16%,受晶片股反彈與台積電3D DRAM傳聞帶動,但傳聞真實性仍有疑慮。",
+   "note": "收漲6.16%，受台積電跨足3D DRAM傳聞與否認、AI記憶體短缺題材影響，波動可能放大。",
    "sources": [
     {
-     "n": 16,
-     "title": "Stock Market Today, Nov. 6: Micron Technology Jumps as Chip Stocks Rebound From Thursday's Rout",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1JEN0RQUFk0X2kzYTNTX3NqR0tWY3lXSThhZmNRVzExaU5pazlieXNfc25nT2xYanJGdlZFdy1UTExFdkhSWVNzTTlGWW9MNlpYUWFHUGFxZnJIcklpQm1VbzdsOUFXc1NLM0JTM1lEclR5MUlPLTRFZnc3eUwzcWw2bzU5cFVhVkM5aG5zZXZMZ1k?oc=5",
-     "source": "Yahoo Finance"
-    },
-    {
-     "n": 28,
+     "n": 27,
      "title": "台積電傳進軍3D DRAM市場！輝達要求布局、AI記憶體短缺推升擴產需求",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pb1V5azdUc0JUQ0lVSmE0WFEzVDVxaDBNT1k2cWdfQWNKOXkyLWNVQlhEbFVEdkVKaVJwUzVXVmRkdS1HU2xOa0YtN3pzaFE?oc=5",
      "source": "鉅亨網"
     },
     {
-     "n": 32,
-     "title": "台積電搶進3D DRAM？華邦電焦佑鈞直言機率低：恐與3大記憶體廠競爭",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tc29sUkxwU040Tm1fdHVBQTBLUWJNeWJFMVRHYkpGWnI2OXh6czlJVEdHb0hVQ3RBYmIyZmUzRHJ3NVJIdFJqOFFuOFpSWWswMmZGS2U0d3RGbWRhWHdURHFiWXh3NlB2Y1d4bzRSaUVGZVZtMHNVVWs5cw?oc=5",
-     "source": "財訊"
+     "n": 36,
+     "title": "TSMC Denies DRAM Market Entry, Affirms Foundry Focus",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUJwdjhkVWZRUmlXVVlUSW95bFVPVzB5VE1qblU5YlhnNkRpRDZKMDFEMTdVdmI0S2p4em5XRl9oZkg5QTFQbk9PZzdFdnlYV1Q4bmhWTzhrVGZfeDdKMWhBMUdjcXljcW9yamtNUFNOd1R4dzFDZ0I1Z1d3TENNRWo4THJvVkR1?oc=5",
+     "source": "조선일보"
+    },
+    {
+     "n": 12,
+     "title": "美光預估本益比僅3.8倍！標普倒數第三 多空激辯：撿便宜還是景氣循環陷阱？",
+     "url": "https://news.cnyes.com/news/id/6651840",
+     "source": "鉅亨網"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "單日大漲25.99%,Q3財報電話會議逐字稿已出,波動大;IPO閉鎖期11/30推估到期。",
+   "note": "量子股從年度低點反彈，報導指IonQ與Quantinuum上調預測，單日大漲約26%；預估11/30前後有IPO閉鎖期到期因素。",
    "sources": [
     {
-     "n": 24,
-     "title": "How Quantinuum Plans to Win Quantum Computing’s Long Game, According to Its CEO",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa1pULUY4M0duWFRXanZQQndRdHdOLXdjWFZfaXdvN1hVQ2w0NjV3TTNhY3pPYXMxUUlDUktWYUJQSVk1U3U2UzZKSDViREEyaGh5V0FUdjZobi1TZVJsUVRCVUJzVXdLaXRfNlRmdnF5Vk03b2xqbmJzVGtjMDlmRGx5MS1INVNudjRXMEEtNA?oc=5",
-     "source": "Barron's"
-    },
-    {
-     "n": 40,
-     "title": "Quantinuum (QNT) Q3 2026 Earnings Call Transcript",
-     "url": "https://www.fool.com/earnings/call-transcripts/2026/11/07/quantinuum-qnt-q3-2026-earnings-call-transcript/?.tsrc=rss",
-     "source": "Yahoo Finance"
+     "n": 18,
+     "title": "Quantum stocks bounce off yearly lows as IonQ and Quantinuum raise forecasts",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0xxS3BJc0FmUHJZQThNQlE5c2FDRG5Vdk9FbmpWbk1YdkZ5Q290bGstOF9jejJkSmtHbTAzMXRCY0tveGdXcW1tbVVZMVhqR0JmMktFYlNfR21ObDk1MGpBeEphRlg2MEpIUFBXblFrRk0yZmU4Q3h0LUpha2praDUzeUdZcEcyUW5mTkppa2l5YTV0SWF5MmU2cjlWbHRkMmJaRmc0aU8xV3g2YWY1VXo2bFpyZndGSFE?oc=5",
+     "source": "Quantisnow"
     }
    ]
   },
   {
    "symbol": "SITM",
-   "note": "收漲17.44%,有分析師看多報導,但新聞未說明漲幅原因。",
+   "note": "單日大漲17.44%，現有新聞多為股價上漲原因解析，基本面細節資料不足。",
    "sources": [
     {
-     "n": 19,
-     "title": "Analysts Are Bullish on These Technology Stocks: Microsoft (MSFT), SiTime Corporation (SITM)",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORDM3cU4zWnJQNExUZjBmQjBGMmNiV3laZWVLdEFBemdYa3h4THR3UXNWUENSdzA3MFRseFQybmpEVDMtdnJNM3EyWGIzbXhXdDB4Q3owWmlXUHJlN21nNm9Vcm4td3dnTUFaZUZUa1ZrVDZFeFhLRDc0QnJkaGxaQUE1ZWdYdW45MWs2RS1Hb05FRXl2eFZCZ2ZadTdRQkZBYWFXTGxHZFlDSmxObVJkTlRWWnc0RExTdmpsR0ljUjI1Ty1iMWtnSkQ3QVZuRnBmMTNEcmdFUFIxR3lZN05acWhwY25ORFp4dnp5OU5NdmFaOGFnTzlfTHo0T0V5RXlS?oc=5",
-     "source": "The Globe and Mail"
+     "n": 31,
+     "title": "Why SiTime (SITM) Is Up 17.4% And What's Next",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01Yjl0dzk1ZXFSOWY2eWpHMXZxZmJTYVJQWGhyRVo2ZUY1eUt4c1JZaXFURzNCbEdIZ0hab2hFS09HMV9kRDdKSEtpeE54MlpNWGJ2UjZIcGQ2S3VpWWNlV3NKd2lvZUtHLXBkSjZid1Fmc25iRUZfbg?oc=5",
+     "source": "Yahoo Finance Singapore"
     }
    ]
   }
  ],
  "watch_next": [
   {
-   "when": "11/10(週一)",
-   "what": "台積電10月營收公布;Rigetti盤後財報"
+   "when": "11/10 17:00",
+   "what": "FOMC委員Waller談話"
   },
   {
-   "when": "11/10 週二",
-   "what": "美國通膨數據(依媒體預告),影響12月升息預期"
+   "when": "11/10 21:30",
+   "what": "美國CPI／核心CPI（預期月增0.3%／0.2%）"
   },
   {
-   "when": "11/11(週三)",
-   "what": "韓國前10天出口初值,觀察半導體需求"
+   "when": "11/10",
+   "what": "台積電10月營收；Rigetti盤後財報"
   },
   {
-   "when": "11/12(週四)",
-   "what": "應用材料盤後財報"
+   "when": "11/11",
+   "what": "韓國前10天出口初值"
   }
  ],
- "generated_at": "2026-11-07T18:21:54Z",
+ "generated_at": "2026-11-08T06:45:12Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5952,
-  "output_tokens": 1232
+  "input_tokens": 5684,
+  "output_tokens": 1241
  }
 }
