@@ -1,68 +1,68 @@
 {
- "headline": "費半大漲4%反彈，但CPI與輝達財報前波動仍大",
+ "headline": "AI股急殺後強彈，費半大漲4.2%，CPI是下一關",
  "mood": "中性",
- "mood_reason": "費半強彈、VIX回落，但前期急殺、升息疑慮與CPI待考驗",
+ "mood_reason": "費半強彈、VIX回落，但急殺後反彈脆弱，CPI與升息疑慮未解",
  "key_points": [
   {
-   "title": "AI與半導體股急殺後強彈",
-   "detail": "費半收漲4.21%、那指漲1.09%、VIX降9%。新聞提到前期S&P 500單日重挫4.4%，目前屬急殺後反彈，延續性仍待觀察。",
-   "impact": "利多",
+   "title": "急殺後反彈，但市場仍脆弱",
+   "detail": "費半收漲4.21%、那指漲1.09%，VIX降9%。新聞提到AI與半導體股先前全球急殺，S&P 500單日曾重挫4.4%，選後反彈被形容脆弱。",
+   "impact": "中性",
    "sources": [
     {
-     "n": 21,
+     "n": 22,
      "title": "AI與半導體股全球急殺 S&P500單日重挫4.4% 市場緊盯三中銀12月是否同步升息",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2cU1DYXhYQWJPOTlMOEZadEo3cVRXcmRSaDYwWHYyVktsN2pkdl9wNG9YWEZmb3Y0OW9IZWJ6RjJQUzc4WFhGMXJGeU1rT3BOM0RZUmpvMGc3OXRSWmdnbWx1bC1kSXF0bndKbjkyRVBpZUlkX0M3M2x3?oc=5",
      "source": "BigGo 財經"
     },
     {
+     "n": 24,
+     "title": "選後美股反彈脆弱！CoreWeave及輝達財報要來了 周二CPI牽動Fed升息",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SaWNoRHNfRWEtQ0Vkb205bm1aU1RrNkdlTl9sVFJhZloydDIyMFk0ZDFGOG52ZXU4YUhPTUVvNWtyX292QktBd3l3ODIyV1NxVWp5a2owTUxhZG9OeGNDQXByeEVFUEs3TmRuOFpESQ?oc=5",
+     "source": "知新聞"
+    },
+    {
      "n": 13,
      "title": "美股下週展望／AI股修正後迎CPI考驗CoreWeave財報成焦點",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GVENOYzFNMTRyQmhNdmZ2Y2x2RWJUTzdGQkhtTk5YS2o2X2JxR1JsYVlzYnpJWENKek1ickZ1dVB1N1FEbUw2X3Q4UnRBcXc?oc=5",
      "source": "鉅亨網"
-    },
-    {
-     "n": 23,
-     "title": "選後美股反彈脆弱！CoreWeave及輝達財報要來了 周二CPI牽動Fed升息",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SaWNoRHNfRWEtQ0Vkb205bm1aU1RrNkdlTl9sVFJhZloydDIyMFk0ZDFGOG52ZXU4YUhPTUVvNWtyX292QktBd3l3ODIyV1NxVWp5a2owTUxhZG9OeGNDQXByeEVFUEs3TmRuOFpESQ?oc=5",
-     "source": "知新聞"
     }
    ]
   },
   {
    "title": "週二CPI牽動升息預期",
-   "detail": "11/10 21:30公布CPI，預期月增0.3%、核心0.2%。市場關注聯準會12月是否升息，美債10年殖利率4.86%偏高。",
+   "detail": "台灣時間11/10 21:30公布CPI，預期月增0.3%（前值0.6%）。新聞關注通膨、Fed升息及三大央行12月動向；美債10年殖利率4.86%。",
    "impact": "利空",
    "sources": [
     {
-     "n": 23,
+     "n": 24,
      "title": "選後美股反彈脆弱！CoreWeave及輝達財報要來了 周二CPI牽動Fed升息",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SaWNoRHNfRWEtQ0Vkb205bm1aU1RrNkdlTl9sVFJhZloydDIyMFk0ZDFGOG52ZXU4YUhPTUVvNWtyX292QktBd3l3ODIyV1NxVWp5a2owTUxhZG9OeGNDQXByeEVFUEs3TmRuOFpESQ?oc=5",
      "source": "知新聞"
     },
     {
-     "n": 25,
+     "n": 22,
+     "title": "AI與半導體股全球急殺 S&P500單日重挫4.4% 市場緊盯三中銀12月是否同步升息",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2cU1DYXhYQWJPOTlMOEZadEo3cVRXcmRSaDYwWHYyVktsN2pkdl9wNG9YWEZmb3Y0OW9IZWJ6RjJQUzc4WFhGMXJGeU1rT3BOM0RZUmpvMGc3OXRSWmdnbWx1bC1kSXF0bndKbjkyRVBpZUlkX0M3M2x3?oc=5",
+     "source": "BigGo 財經"
+    },
+    {
+     "n": 26,
      "title": "本週操盤筆記：美國CPI、PPI、英國GDP與中國通膨數據",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTRFAxMmlTZElfeXhSWHZrdUd5cFpGWDVqZVoxbFhPdThYSGstZGptMFBkbGNqSEVzdDZvcm1kSWd4dFp1SjZRMDFEbXVOYUE?oc=5",
      "source": "鉅亨網"
     },
     {
-     "n": 13,
-     "title": "美股下週展望／AI股修正後迎CPI考驗CoreWeave財報成焦點",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GVENOYzFNMTRyQmhNdmZ2Y2x2RWJUTzdGQkhtTk5YS2o2X2JxR1JsYVlzYnpJWENKek1ickZ1dVB1N1FEbUw2X3Q4UnRBcXc?oc=5",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 4,
-     "title": "Tom Lee Says Post-Midterm AI Stock Selloff Is Overdone, Fed May Skip December Hike",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mRGFaN3FPaC1odzFFZDY2bTJEeHRUSGVtOVBrbFlycDBVMEtWbmRlRzN1MDBwdGpJNmJRR3RNNFVaeTRFd0dBZzY4emdjc0k2ZU9PbQ?oc=5",
-     "source": "bloomingbit"
+     "n": 37,
+     "title": "通膨升息與 AI 變現疑慮 待浮額清洗後逢低布局",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15b0lpQWsxblJMWkdpQTVaUGp3NTJVbThNOHBCeUJGU2dwNndEaUk0SG1BTFpCQnR4NHJlRHNSS0pzQTV5RTFxOGw5ZmJnRlhUcGRQcHlXUTNwUVU0U0pqYU5UN3XSAWRBVV95cUxNeW9JaUFrMW5STFpHaUE1WlBqdzUyVW04TThwQnlCRlNncDZ3RGlJNEhtQUxaQkJ0eDRyZURzUktKc0E1eUUxcThsOWZiZ0ZYVHBkUHB5V1EzcFFVNFNKamFOVDd1?oc=5",
+     "source": "自由財經"
     }
    ]
   },
   {
    "title": "AI循環融資與變現疑慮",
-   "detail": "摩根大通點出循環融資風險，另有報導提到AI變現疑慮與停滯性通膨憂慮，壓抑估值。Tom Lee則認為選後賣壓過度。",
-   "impact": "利空",
+   "detail": "摩根大通點出期中選舉後AI熱潮的循環融資風險；Tom Lee則認為選後AI股拋售過度。多空看法分歧，CoreWeave與輝達財報將是焦點。",
+   "impact": "中性",
    "sources": [
     {
      "n": 1,
@@ -71,36 +71,24 @@
      "source": "鉅亨網"
     },
     {
-     "n": 37,
-     "title": "通膨升息與 AI 變現疑慮 待浮額清洗後逢低布局",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15b0lpQWsxblJMWkdpQTVaUGp3NTJVbThNOHBCeUJGU2dwNndEaUk0SG1BTFpCQnR4NHJlRHNSS0pzQTV5RTFxOGw5ZmJnRlhUcGRQcHlXUTNwUVU0U0pqYU5UN3XSAWRBVV95cUxNeW9JaUFrMW5STFpHaUE1WlBqdzUyVW04TThwQnlCRlNncDZ3RGlJNEhtQUxaQkJ0eDRyZURzUktKc0E1eUUxcThsOWZiZ0ZYVHBkUHB5V1EzcFFVNFNKamFOVDd1?oc=5",
-     "source": "自由財經"
-    },
-    {
-     "n": 39,
-     "title": "台股一週慘跌5510點能回血？學者示警美國「停滯性通膨」恐衝擊AI投資",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrTUx2b2RuUlF6LUZhWXA4ZTkzb3lLVm1hM0NPQW92ZHRqTnJhWjhnY281bWtDdHdQV3pmaHZScjdZT3JzV284QzRMdw?oc=5",
-     "source": "FTNN 新聞網"
-    },
-    {
      "n": 4,
      "title": "Tom Lee Says Post-Midterm AI Stock Selloff Is Overdone, Fed May Skip December Hike",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mRGFaN3FPaC1odzFFZDY2bTJEeHRUSGVtOVBrbFlycDBVMEtWbmRlRzN1MDBwdGpJNmJRR3RNNFVaeTRFd0dBZzY4emdjc0k2ZU9PbQ?oc=5",
      "source": "bloomingbit"
+    },
+    {
+     "n": 13,
+     "title": "美股下週展望／AI股修正後迎CPI考驗CoreWeave財報成焦點",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GVENOYzFNMTRyQmhNdmZ2Y2x2RWJUTzdGQkhtTk5YS2o2X2JxR1JsYVlzYnpJWENKek1ickZ1dVB1N1FEbUw2X3Q4UnRBcXc?oc=5",
+     "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "輝達財報與中國議題",
-   "detail": "輝達11/17盤後財報。H200在香港積壓60萬顆，黃仁勳也面臨國會對中國關係的審查，習川會前中國提出晶片要求。",
-   "impact": "中性",
+   "title": "輝達中國議題添變數",
+   "detail": "輝達執行長黃仁勳面臨國會兩黨關注中國相關傳聞；另有報導稱H200晶片在香港堆積，習川會前夕中國提出晶片等貿易要求。",
+   "impact": "利空",
    "sources": [
-    {
-     "n": 22,
-     "title": "60萬顆！輝達H200晶片在中國香港堆積如山",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vRXF1Nzdhcm5XMi04WHJWdHFHa25OZlpFSVAyS3p1OG56VWVhdWpnMDRBTmIyeGdMWG9ZUFJLZ3Zoem51Yk05Zg?oc=5",
-     "source": "鉅亨號"
-    },
     {
      "n": 33,
      "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
@@ -108,30 +96,24 @@
      "source": "CNBC"
     },
     {
+     "n": 23,
+     "title": "60萬顆！輝達H200晶片在中國香港堆積如山",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vRXF1Nzdhcm5XMi04WHJWdHFHa25OZlpFSVAyS3p1OG56VWVhdWpnMDRBTmIyeGdMWG9ZUFJLZ3Zoem51Yk05Zg?oc=5",
+     "source": "鉅亨號"
+    },
+    {
      "n": 34,
      "title": "習川會前夕外媒曝中國五大貿易要求：聚焦關稅、晶片與農產品採購- 兩岸",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjeWg2SGxUcUJDZko2QjVvYUpaNTB6VnY0VEJ6U2o2UkZZckdaLVZ3SE5mTEtaWDdFWlZUQ2NkRzlINGRQYmRzc2N5NDgxNU1idmxEOGR1aUlmU0E4SUF3?oc=5",
      "source": "工商時報"
-    },
-    {
-     "n": 23,
-     "title": "選後美股反彈脆弱！CoreWeave及輝達財報要來了 周二CPI牽動Fed升息",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SaWNoRHNfRWEtQ0Vkb205bm1aU1RrNkdlTl9sVFJhZloydDIyMFk0ZDFGOG52ZXU4YUhPTUVvNWtyX292QktBd3l3ODIyV1NxVWp5a2owTUxhZG9OeGNDQXByeEVFUEs3TmRuOFpESQ?oc=5",
-     "source": "知新聞"
     }
    ]
   },
   {
-   "title": "記憶體基本面強、估值低，台積電否認傳聞",
-   "detail": "記憶體設計廠Q3毛利率達77.44%，美光預估本益比僅3.8倍。台積電對跨足記憶體的傳聞已回應，報導稱屬誤會。",
+   "title": "記憶體評價低但台積電傳聞擾動",
+   "detail": "美光預估本益比僅3.8倍，多空爭論是便宜還是景氣循環陷阱；台積電已回應跨足記憶體的傳聞。記憶體設計廠Q3毛利率達77.44%。",
    "impact": "中性",
    "sources": [
-    {
-     "n": 40,
-     "title": "DRAM缺貨漲價效益大爆發！「記憶體設計廠」前三季EPS衝64.54元 Q3單季賺36.79元、毛利率飆至77.44%",
-     "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNMlM4b0VoS2dtU2VzZ28zRlZMUlVrbUlHbjY1eEpOd0J1U0JRRThjRWg3cHZGY1BxR3RXTmp1Y0JYdmlLT3MyOHZWNmY1Z2ZNUjJERzRrNlFnRU8tV0hkczBUd3ZjcHEyY2hYUkdoZTRiYWdsMzg5TVJrVW05UE9RUENRbzFDWXNCRTUteTc1Tkt3clRYaGZQMXRyajRqSF82Ui01UnFRd2ZBOTlGU3o0V1MzaGxBS09MeDZTSUVSQlN4Z0hVdUFxQmdLYm9LdXpFNGx2bHlnUm5LZzBPYmxjWkE5T0sya3ZPUTNUaWpxWTdwQVBzY1RtVnlfYVR0NUNqSk9VWUVDaTFWN1hGb1NOU0dSUV9LY1dPSmdXRm91UVhDUlBsUEoyR0czZFlkN1ltbEgwMVJ1blo1RER3ZHRDRG55dEEyX2NkUmVtSzI2TkVTUjIwWVJjQXhYR2pPQjZ2WnVGejgyeVNNUmlIWXVoQXI1NEhFMmg2eEVaYk5VSDZPYWtLQk5BTg?oc=5",
-     "source": "Yahoo股市"
-    },
     {
      "n": 16,
      "title": "美光預估本益比僅3.8倍！標普倒數第三 多空激辯：撿便宜還是景氣循環陷阱？",
@@ -149,6 +131,12 @@
      "title": "台積電到底要不要做記憶體？公司回應強調這句話- 產業",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yWjVrYk5YR2lXbFdRUjJ2V3o3b09VRjlxNzM5YUlLLXBlMlhfYU04b3RHbWNaZGJSamRQVGdWTzdBTkFDUzNLSXdGTGJpaDJna1p1cjhsSW13LVg4M3NV?oc=5",
      "source": "工商時報"
+    },
+    {
+     "n": 40,
+     "title": "DRAM缺貨漲價效益大爆發！「記憶體設計廠」前三季EPS衝64.54元 Q3單季賺36.79元、毛利率飆至77.44%",
+     "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNMlM4b0VoS2dtU2VzZ28zRlZMUlVrbUlHbjY1eEpOd0J1U0JRRThjRWg3cHZGY1BxR3RXTmp1Y0JYdmlLT3MyOHZWNmY1Z2ZNUjJERzRrNlFnRU8tV0hkczBUd3ZjcHEyY2hYUkdoZTRiYWdsMzg5TVJrVW05UE9RUENRbzFDWXNCRTUteTc1Tkt3clRYaGZQMXRyajRqSF82Ui01UnFRd2ZBOTlGU3o0V1MzaGxBS09MeDZTSUVSQlN4Z0hVdUFxQmdLYm9LdXpFNGx2bHlnUm5LZzBPYmxjWkE5T0sya3ZPUTNUaWpxWTdwQVBzY1RtVnlfYVR0NUNqSk9VWUVDaTFWN1hGb1NOU0dSUV9LY1dPSmdXRm91UVhDUlBsUEoyR0czZFlkN1ltbEgwMVJ1blo1RER3ZHRDRG55dEEyX2NkUmVtSzI2TkVTUjIwWVJjQXhYR2pPQjZ2WnVGejgyeVNNUmlIWXVoQXI1NEhFMmg2eEVaYk5VSDZPYWtLQk5BTg?oc=5",
+     "source": "Yahoo股市"
     }
    ]
   }
@@ -156,7 +144,7 @@
  "holdings": [
   {
    "symbol": "NOK",
-   "note": "穆迪升至投資等級，並有AI資料中心光通訊布局，但前期曾下跌約7%。",
+   "note": "穆迪升諾基亞至投資等級，並有AI資料中心光通訊布局，收盤漲2.68%；先前一度回落約7%。",
    "sources": [
     {
      "n": 6,
@@ -180,14 +168,8 @@
   },
   {
    "symbol": "DRAM",
-   "note": "記憶體基本面強、估值低，與費半同步反彈；仍須留意景氣循環爭議與台積電傳聞。",
+   "note": "記憶體ETF收盤漲6.16%；評價偏低與漲價題材受關注，但台積電跨足記憶體傳聞已被回應。",
    "sources": [
-    {
-     "n": 40,
-     "title": "DRAM缺貨漲價效益大爆發！「記憶體設計廠」前三季EPS衝64.54元 Q3單季賺36.79元、毛利率飆至77.44%",
-     "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNMlM4b0VoS2dtU2VzZ28zRlZMUlVrbUlHbjY1eEpOd0J1U0JRRThjRWg3cHZGY1BxR3RXTmp1Y0JYdmlLT3MyOHZWNmY1Z2ZNUjJERzRrNlFnRU8tV0hkczBUd3ZjcHEyY2hYUkdoZTRiYWdsMzg5TVJrVW05UE9RUENRbzFDWXNCRTUteTc1Tkt3clRYaGZQMXRyajRqSF82Ui01UnFRd2ZBOTlGU3o0V1MzaGxBS09MeDZTSUVSQlN4Z0hVdUFxQmdLYm9LdXpFNGx2bHlnUm5LZzBPYmxjWkE5T0sya3ZPUTNUaWpxWTdwQVBzY1RtVnlfYVR0NUNqSk9VWUVDaTFWN1hGb1NOU0dSUV9LY1dPSmdXRm91UVhDUlBsUEoyR0czZFlkN1ltbEgwMVJ1blo1RER3ZHRDRG55dEEyX2NkUmVtSzI2TkVTUjIwWVJjQXhYR2pPQjZ2WnVGejgyeVNNUmlIWXVoQXI1NEhFMmg2eEVaYk5VSDZPYWtLQk5BTg?oc=5",
-     "source": "Yahoo股市"
-    },
     {
      "n": 16,
      "title": "美光預估本益比僅3.8倍！標普倒數第三 多空激辯：撿便宜還是景氣循環陷阱？",
@@ -199,36 +181,42 @@
      "title": "台積電擬跨足記憶體？業界看3點喊誤會： 科技網站亂傳「應罰張忠謀自傳讀一百次」 | 產業熱點 | 產業",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GZVVkb1FwNHZBSjRLWFRJdkVSWTNXUDBPZlUtR0NzRmVIYnRjRUtrYjdBelRJRGc0eFAxSHIyM0NhLS1NN1I5bmllVVg1NW5kbXlqUHRxY0g0Zw?oc=5",
      "source": "經濟日報"
+    },
+    {
+     "n": 40,
+     "title": "DRAM缺貨漲價效益大爆發！「記憶體設計廠」前三季EPS衝64.54元 Q3單季賺36.79元、毛利率飆至77.44%",
+     "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNMlM4b0VoS2dtU2VzZ28zRlZMUlVrbUlHbjY1eEpOd0J1U0JRRThjRWg3cHZGY1BxR3RXTmp1Y0JYdmlLT3MyOHZWNmY1Z2ZNUjJERzRrNlFnRU8tV0hkczBUd3ZjcHEyY2hYUkdoZTRiYWdsMzg5TVJrVW05UE9RUENRbzFDWXNCRTUteTc1Tkt3clRYaGZQMXRyajRqSF82Ui01UnFRd2ZBOTlGU3o0V1MzaGxBS09MeDZTSUVSQlN4Z0hVdUFxQmdLYm9LdXpFNGx2bHlnUm5LZzBPYmxjWkE5T0sya3ZPUTNUaWpxWTdwQVBzY1RtVnlfYVR0NUNqSk9VWUVDaTFWN1hGb1NOU0dSUV9LY1dPSmdXRm91UVhDUlBsUEoyR0czZFlkN1ltbEgwMVJ1blo1RER3ZHRDRG55dEEyX2NkUmVtSzI2TkVTUjIwWVJjQXhYR2pPQjZ2WnVGejgyeVNNUmlIWXVoQXI1NEhFMmg2eEVaYk5VSDZPYWtLQk5BTg?oc=5",
+     "source": "Yahoo股市"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "Quantinuum公布Q3並上調全年營收預測，股價大漲26%；閉鎖期預估11/30到期。",
+   "note": "Quantinuum公布第三季業績並上調全年營收預測，股價大漲約26%；11/30為IPO閉鎖期到期推估日。",
    "sources": [
     {
-     "n": 28,
+     "n": 18,
      "title": "Quantinuum 公佈 2026 年第三季業績，並上調全年收入預測",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rWUY5RF9uOXNHOVJHaDRDc05ReEVHTUNyaTVyVThHYkk1ejQ3UHhUdDNlMnBDYzJpSHZPdGpGZDdGeThJMGRjQk9wMURGMmZUU2xINkFFLWU2eVRjWTB6bVZn0gFiQVVfeXFMTmtZRjlEX245c0c5UkdoNENzTlF4RUdNQ3JpNXJVOEdiSTV6NDdQeFR0M2UycENjMmlIdk90akZkN0Z5OEkwZGNCT3AxREYyZlRTbEg2QUUtZTZ5VGNZMHptVmc?oc=5",
      "source": "經濟日報"
+    },
+    {
+     "n": 25,
+     "title": "Quantum stocks bounce off yearly lows as IonQ and Quantinuum raise forecasts",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0xxS3BJc0FmUHJZQThNQlE5c2FDRG5Vdk9FbmpWbk1YdkZ5Q290bGstOF9jejJkSmtHbTAzMXRCY0tveGdXcW1tbVVZMVhqR0JmMktFYlNfR21ObDk1MGpBeEphRlg2MEpIUFBXblFrRk0yZmU4Q3h0LUpha2praDUzeUdZcEcyUW5mTkppa2l5YTV0SWF5MmU2cjlWbHRkMmJaRmc0aU8xV3g2YWY1VXo2bFpyZndGSFE?oc=5",
+     "source": "Quantisnow"
     },
     {
      "n": 29,
      "title": "[PRNewswire] Quantinuum Reports Third Quarter 2026 Results",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1UlYweE9wTy1UZGdMWGY4RjBfNW5UeFFWS2xhSzVOcUZVZXJ1LVQwRVFXbjhYeER1cHBZMS1TSGZCOGJlSHI3N3JwY1JwbnowVEpOMGFianZRZFB4ZmdGZnlCZmFlcnlBVFJZdFNvY3FqOFlKVExwd05ySlA5RVE?oc=5",
      "source": "Yonhap News Agency"
-    },
-    {
-     "n": 24,
-     "title": "Quantum stocks bounce off yearly lows as IonQ and Quantinuum raise forecasts",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0xxS3BJc0FmUHJZQThNQlE5c2FDRG5Vdk9FbmpWbk1YdkZ5Q290bGstOF9jejJkSmtHbTAzMXRCY0tveGdXcW1tbVVZMVhqR0JmMktFYlNfR21ObDk1MGpBeEphRlg2MEpIUFBXblFrRk0yZmU4Q3h0LUpha2praDUzeUdZcEcyUW5mTkppa2l5YTV0SWF5MmU2cjlWbHRkMmJaRmc0aU8xV3g2YWY1VXo2bFpyZndGSFE?oc=5",
-     "source": "Quantisnow"
     }
    ]
   },
   {
    "symbol": "SITM",
-   "note": "股價單日漲17.4%，波動大；新聞僅有漲幅說明，缺乏更多基本面細節。",
+   "note": "股價大漲17.44%，有報導討論漲因，但提供的資料不足以判斷後續。",
    "sources": [
     {
      "n": 38,
@@ -246,10 +234,10 @@
   },
   {
    "when": "11/10 21:30",
-   "what": "美國CPI與核心CPI"
+   "what": "美國CPI與核心CPI（預期月增0.3%／0.2%）"
   },
   {
-   "when": "11/10",
+   "when": "11/10（週二）",
    "what": "台積電月營收；Rigetti盤後財報"
   },
   {
@@ -257,11 +245,11 @@
    "what": "韓國前10天出口初值"
   }
  ],
- "generated_at": "2026-11-08T18:22:58Z",
+ "generated_at": "2026-11-08T18:32:15Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5712,
-  "output_tokens": 1167
+  "input_tokens": 5714,
+  "output_tokens": 1243
  }
 }
