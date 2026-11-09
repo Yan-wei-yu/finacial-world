@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T07:16:36Z",
+ "generated_at": "2026-11-09T22:59:50Z",
  "upcoming": [
   {
    "symbol": "RGTI",
@@ -36,10 +36,10 @@
    "date": "2026-11-17",
    "datetime": "2026-11-17T21:00:00Z",
    "session": "盤後",
-   "eps_est": 2.47325,
+   "eps_est": 2.4737,
    "eps_low": 2.34,
    "eps_high": 2.7,
-   "rev_est": 108976833310.0,
+   "rev_est": 108985899980.0,
    "rev_currency": "USD",
    "is_holding": false
   },
