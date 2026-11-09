@@ -1,11 +1,11 @@
 {
- "headline": "油價回落緩解通膨疑慮，費半大漲近7%，輝達逆勢重挫",
+ "headline": "油價回落緩解通膨疑慮，美股大反彈，費半飆6.85%",
  "mood": "偏多",
- "mood_reason": "油價下跌、VIX 大降帶動反彈，但輝達調查案與通膨數據仍有變數",
+ "mood_reason": "油價下跌降低通膨擔憂、VIX大降，但輝達調查案與今晚CPI仍有變數",
  "key_points": [
   {
-   "title": "油價下跌緩解通膨擔憂，美股大反彈",
-   "detail": "道瓊大漲1,104點，標普創4月來最佳單日表現，那指漲2.74%、費半漲6.85%，恐慌指數大降22%。",
+   "title": "油價下跌緩解通膨疑慮，股市大反彈",
+   "detail": "道瓊大漲1,104點，標普創4月來最佳單日表現，費半漲近7%，台積電ADR漲3.5%。恐慌指數大降22%。",
    "impact": "利多",
    "sources": [
     {
@@ -27,16 +27,16 @@
      "source": "鉅亨網"
     },
     {
-     "n": 6,
-     "title": "油價回落緩解通膨「美股大爆發」！道瓊狂飆1104點、費半勁揚逾6％ | 民視新聞網",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14YUQyeGdSNl9ZNFQxelB1Vm51X3J1aG1maHdjRkFZZEJUOVlLWXZKNF83WjlkRFdSM1htdTE1WmxMNXRjSy03SjZHNlg4clR0bGU3UTNR?oc=5",
-     "source": "LINE TODAY"
+     "n": 4,
+     "title": "快新聞／油價回落緩解通膨「美股大爆發」！道瓊狂飆1104點、費半勁揚逾6％",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JLUFiN21waFdKaXJFM1g3NjB1d1JVZ3RkTjVYU3pXVS10bk4wUHVWdEFkM1dMU04yX0RtNTdWUy1OYmYySWo1WkwzMGhkQ2g1d2k4NGM5cU1UZE9nTXoxNTlYOE45dw?oc=5",
+     "source": "民視財經網"
     }
    ]
   },
   {
-   "title": "輝達逆勢重挫，創七個月新低",
-   "detail": "輝達因黃仁勳調查案與董事會變數下跌逾4%，市場關注後續風險；超微同日上漲，也有人轉看AI晶片替代品。",
+   "title": "輝達逆勢重挫，黃仁勳調查案添變數",
+   "detail": "輝達因董事會調查黃仁勳的消息收盤跌逾4%，一度創七個月新低；報導指市場可能低估後續風險，AMD則走強。",
    "impact": "利空",
    "sources": [
     {
@@ -58,7 +58,7 @@
      "source": "鉅亨網"
     },
     {
-     "n": 21,
+     "n": 20,
      "title": "輝達逆勢跌逾6%！黃仁勳調查案衝擊多大？華爾街點出三大風險",
      "url": "https://news.cnyes.com/news/id/6654720",
      "source": "鉅亨網"
@@ -66,18 +66,18 @@
    ]
   },
   {
-   "title": "今晚CPI是通膨關鍵",
-   "detail": "台灣時間21:30公布CPI與核心CPI，預期月增0.3%與0.2%。Fed官員仍提醒通膨頑強、升息有必要。",
+   "title": "今晚CPI決定通膨降溫能否延續",
+   "detail": "11/10 21:30公布CPI與核心CPI，預期月增分別為0.3%與0.2%，前值為0.6%與0.3%。Fed官員仍提醒通膨頑強，須謹慎。",
    "impact": "中性",
    "sources": [
     {
-     "n": 28,
+     "n": 27,
      "title": "通膨頑強、升息仍有必要！Fed巴金提醒：步調須謹慎",
      "url": "https://news.cnyes.com/news/id/6654798",
      "source": "鉅亨網"
     },
     {
-     "n": 33,
+     "n": 32,
      "title": "美國CPI、CoreWeave財報本週登場！廣達、京鼎等AI概念股怎麼看｜美股觀察｜豐雲學堂2026 年 11 月",
      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPVEs4NFhzdDJEdThZdExiRy03VVNGSUZucmFocG9KREJsOW91eE82clRBdEhXeS1oWXJaZnJRV2xVMHZ1TzJldHBNaEFPOGJsZEYxMi1nbHN1VVdtd2RoOUliSzlmR1lUVVBEN20yQXc2VHhxb0ZRNUdwWmlLMmhGd0gzMHFlc3U5Y2dWeVczNkRaM0VWVWIyMk9TZlVwYmsyV1JQeHdxS1JLRV9yV0gxMm82cTR5ejJybjhneDJqc1Znc1hqTU8tdGRybzlSbk9fYnRTTnBjRS0tWExiUWJFTDRGNnRQTTlsY2RDRGtxNG1IY3BlaDBhSDg5eUVwMUI3c2dHVzF4UldhUTZrbVlMbjZtaUpRZjJ0bUFoRV84S0lNSTJDdTBsOEtnYV9OelNwWWV4RS01VVl0MXJaVExoNklHWTNOR0xSRXA1MWU0VG9wNDZwSVd0ckQyR3d1bkZpa1VhTGpCbVNGRWlhR2t2ejQ2U25GTXVyY2MtTzBfZG9hVzhxeXZWVDE3VmFsWDRsWHhUeHlNM0J0VnpjVWNGVGM4RHE1S1Ba?oc=5",
      "source": "永豐金證券"
@@ -85,18 +85,18 @@
    ]
   },
   {
-   "title": "波動與去槓桿風險未除",
-   "detail": "高盛指出避險基金去槓桿速度逼近歷史最快；道瓊四天內第三次出現千點震盪。美債10年殖利率4.86%。",
+   "title": "市場波動仍大，避險基金去槓桿",
+   "detail": "高盛指出避險基金去槓桿速度逼近歷史最快；MarketWatch提到道瓊四天內出現第三次千點震盪，波動未必結束。",
    "impact": "利空",
    "sources": [
     {
-     "n": 20,
+     "n": 19,
      "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
      "url": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
      "source": "MarketWatch"
     },
     {
-     "n": 23,
+     "n": 22,
      "title": "拋售速度逼近歷史最快！高盛：避險基金大幅去槓桿 科技、工業族群同步承壓",
      "url": "https://news.cnyes.com/news/id/6653613",
      "source": "鉅亨網"
@@ -104,27 +104,27 @@
    ]
   },
   {
-   "title": "記憶體與AI供應鏈題材升溫",
-   "detail": "三星、SK海力士爭奪EUV產能並擴產先進DRAM，亞洲晶片股走強；特斯拉傳自製DRAM。",
+   "title": "記憶體與AI供應鏈題材續熱",
+   "detail": "三星、SK海力士爭搶EUV產能擴產先進DRAM；特斯拉傳自製DRAM並與台積電重談合作。SK海力士ADR溢價達58.72%。",
    "impact": "利多",
    "sources": [
     {
-     "n": 26,
+     "n": 25,
      "title": "光刻大戰開打！三星、SK海力士重金爭奪EUV產能 加碼先進DRAM擴產",
      "url": "https://news.cnyes.com/news/id/6653523",
      "source": "鉅亨網"
     },
     {
-     "n": 29,
+     "n": 28,
      "title": "特斯拉衝自製 DRAM 傳馬斯克與台積重談晶片合作",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxSVBDRVVCOFEwWVBRWENQRnlKUnNmWTIyWFlkRWdhNERrR0VqOER5eFJfNDhQS3FLdlNtMDVhaTY5OG4tUm4yeGxMaThKQXNXdGE4Yk51c3F6T2xCaWowV3hR0gFiQVVfeXFMUHFJUENFVUI4UTBZUFFYQ1BGeUpSc2ZZMjJYWWRFZ2E0RGtHRWo4RHl4Ul80OFBLcUt2U20wNWFpNjk4bi1SbjJ4bExpOEpBc1d0YThiTnVzcXpPbEJpajBXeFE?oc=5",
      "source": "經濟日報"
     },
     {
-     "n": 32,
-     "title": "TSMC, SK Hynix, Samsung: Asian Chip Stocks Rise Even As Nvidia CEO Jensen Huang’s Controversy Tests Investor Confidence",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQWUpWX21FNDNaeTlfaFpYQ3l1dmlPSTZuSG1WWkRuRUlYajAtT0hkbWZmTGc5NTVBcjZSeTQ5OGJSWENmR181Nm9SNG1mbUpkMWE5UV9HWXZCX2l0TnRKRmhLZEdkeFhsNUlHN0VmY0dqN3dYLXJGenFFdWVWTFRlSTVCQVdyWHNUdUVfaGxuSlU2T21BLWtVMG1EMTdvMzRRZUxwOGRnb1BNQ29CQTBYeHQ4SUFnR01Db1VtVk1haU8tWk9UclNsMzRQNkxQcWlvb2QyOFRFYUxDWmhJcmNyYnZmaWNWQ3VFcWNqNk9hdHduR00xYVNvUXlSWmZEbG5VblF5Sms1WE4yalVq?oc=5",
-     "source": "Stocktwits"
+     "n": 35,
+     "title": "客製化HBM改變人事布局思維 三星、SK技術主管掌舵美洲業務",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1k4dmFyYmg4d25PWlhaTWcyQ3U5LV95amJjUmFRTVlJTzRnY0p6UlhRLWVEdVJQOC1ybEc0alpicXVqQktiMVQ1UUNZOTU0UnpaZkxPV3lFeF9RTHZLTVR4ZjZvMVFBcGRFdmRjUnVUNHVPRWdKa1p1N0pzZXRQR0xmcVJWZjMxRUhlZ2Fn?oc=5",
+     "source": "DIGITIMES"
     }
    ]
   }
@@ -132,7 +132,7 @@
  "holdings": [
   {
    "symbol": "NOK",
-   "note": "收盤漲6.79%；新聞聚焦AI光互連與網路布局，但也有現金轉換較弱的討論。",
+   "note": "收盤漲6.79%。Nokia聚焦AI光互連與網路流量題材，Jefferies維持目標價；另有報導提到現金轉換較弱。",
    "sources": [
     {
      "n": 7,
@@ -141,13 +141,13 @@
      "source": "DIGITIMES"
     },
     {
-     "n": 11,
+     "n": 10,
      "title": "Nokia Wins Hotwire Backing for AI-Ready Network as Jefferies Keeps 13.80 Euro Target",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdUs5c2t5WXk2YnExR0IwTkpTSGRpbGQwMXl0Yi1rTGxMbUc1WFREZ1ZjSjNIbHoyaGtxVlhXbHZzTDczTm9zZm90T0xMUFhvUUgxRUVmVE5mMDEtc3AtWnhxY0dZWmMxM0xxbW1nTE1CcDBWNDE1ZWVPU1djZnIyR01CUUkyZk9QcjlqM2dhWkFnS2tzMFVyOVJHYU9hM0pPRjhUUEc3V2w5QU82UE16NE5xbVdQVEg2RmgtMXgzX3NPV3ZJN1A2bGlLWVBpaldVY1J4NnFJWnFuT2FpZWpkbnlkNFJZSkE4Z0k2eg?oc=5",
      "source": "ad-hoc-news.de"
     },
     {
-     "n": 14,
+     "n": 13,
      "title": "Nokia stock weighs AI growth against weaker cash conversion",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkpTUnFMX0xYdUZpMFZTUkFjZTJTNS11OEkwN2RSb3NpZGljUnM5Q2I3MEFDNmU5Um45anZud1VwMDk3UENuaUhlZ29IYWh1VmhKcHBvZWVRRGg3NHJLem41LWVjTzdHYUl6OXlOdUFvUWtrc2RZc0IzY2xCNGlpejMxd1N3S1p3RDBUVE5mdVBTQVZzd3EzNVhyUmpQNV82eHNhNlFEMnVsTklVa01mdjhzam5xeWJYNVBFa2Zxbw?oc=5",
      "source": "ad-hoc-news.de"
@@ -156,19 +156,19 @@
   },
   {
    "symbol": "DRAM",
-   "note": "隨費半大漲6.34%；三星、SK海力士擴產EUV與先進DRAM為題材，輝達風波可能影響AI情緒。",
+   "note": "收盤漲6.34%，受惠費半大漲與先進DRAM擴產題材，但輝達調查案帶來AI交易風險。",
    "sources": [
     {
-     "n": 26,
+     "n": 25,
      "title": "光刻大戰開打！三星、SK海力士重金爭奪EUV產能 加碼先進DRAM擴產",
      "url": "https://news.cnyes.com/news/id/6653523",
      "source": "鉅亨網"
     },
     {
-     "n": 36,
-     "title": "客製化HBM改變人事布局思維 三星、SK技術主管掌舵美洲業務",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1k4dmFyYmg4d25PWlhaTWcyQ3U5LV95amJjUmFRTVlJTzRnY0p6UlhRLWVEdVJQOC1ybEc0alpicXVqQktiMVQ1UUNZOTU0UnpaZkxPV3lFeF9RTHZLTVR4ZjZvMVFBcGRFdmRjUnVUNHVPRWdKa1p1N0pzZXRQR0xmcVJWZjMxRUhlZ2Fn?oc=5",
-     "source": "DIGITIMES"
+     "n": 28,
+     "title": "特斯拉衝自製 DRAM 傳馬斯克與台積重談晶片合作",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxSVBDRVVCOFEwWVBRWENQRnlKUnNmWTIyWFlkRWdhNERrR0VqOER5eFJfNDhQS3FLdlNtMDVhaTY5OG4tUm4yeGxMaThKQXNXdGE4Yk51c3F6T2xCaWowV3hR0gFiQVVfeXFMUHFJUENFVUI4UTBZUFFYQ1BGeUpSc2ZZMjJYWWRFZ2E0RGtHRWo4RHl4Ul80OFBLcUt2U20wNWFpNjk4bi1SbjJ4bExpOEpBc1d0YThiTnVzcXpPbEJpajBXeFE?oc=5",
+     "source": "經濟日報"
     },
     {
      "n": 17,
@@ -180,16 +180,16 @@
   },
   {
    "symbol": "QNT",
-   "note": "收盤漲6.57%；公司將參加Cantor會議，IonQ財測上調帶動量子題材。11/30閉鎖期到期推估需留意。",
+   "note": "收盤漲6.57%，盤後小跌0.6%。Quantinuum將參加Cantor會議，同業IonQ財報強勁帶動量子題材。",
    "sources": [
     {
-     "n": 4,
+     "n": 5,
      "title": "Quantinuum to Participate in the Cantor Convergence 4th Annual Crypto, FinTech, AI & Energy Infrastructure Conference",
      "url": "https://finance.yahoo.com/technology/ai/articles/quantinuum-participate-cantor-convergence-4th-210500358.html?.tsrc=rss",
      "source": "Yahoo Finance"
     },
     {
-     "n": 40,
+     "n": 39,
      "title": "IonQ劍指成為「量子運算界輝達」！第三季營收暴增逾4倍、上調2026年財測",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52VWhfLTJYdnRadFljcUpTdUMxUUNiLU5LRDZ4bnFXVThLakkxT25kRll0YU1rc19KQmNQek5mNzVDT213LTEtTzJuQQ?oc=5",
      "source": "鉅亨網"
@@ -198,10 +198,10 @@
   },
   {
    "symbol": "SITM",
-   "note": "大漲9.63%；輝達風波使市場關注AI晶片替代方案，但新聞未直接提及該公司。",
+   "note": "收盤大漲9.63%。輝達事件使市場關注AI晶片替代方案，可能帶來題材關注。",
    "sources": [
     {
-     "n": 30,
+     "n": 29,
      "title": "Nvidia Stock Shock Has Investors Looking At AI Chip Alternatives",
      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-shock-investors-looking-180922260.html?.tsrc=rss",
      "source": "Yahoo Finance"
@@ -216,26 +216,30 @@
   },
   {
    "when": "11/10 21:30",
-   "what": "美國CPI、核心CPI（預期月增0.3%、0.2%）"
+   "what": "美國CPI與核心CPI公布"
   },
   {
-   "when": "11/10 盤後",
-   "what": "Rigetti財報；台積電10月營收"
+   "when": "11/10（台積電公布時間未提供）",
+   "what": "台積電月營收"
   },
   {
    "when": "11/11",
    "what": "韓國前10天出口初值"
   },
   {
+   "when": "11/10 盤後",
+   "what": "Rigetti財報"
+  },
+  {
    "when": "11/12 21:30",
-   "what": "初領失業救濟金人數（預期194K）；應用材料盤後財報"
+   "what": "初領失業救濟金人數；應用材料盤後財報"
   }
  ],
- "generated_at": "2026-11-09T22:59:50Z",
+ "generated_at": "2026-11-09T23:11:16Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5668,
-  "output_tokens": 1237
+  "input_tokens": 5651,
+  "output_tokens": 1297
  }
 }

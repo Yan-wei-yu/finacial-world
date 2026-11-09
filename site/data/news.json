@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T22:59:50Z",
+ "generated_at": "2026-11-09T23:11:16Z",
  "categories": {
   "holdings": "我的持股",
   "semis": "半導體／AI",
@@ -8,6 +8,130 @@
   "market": "美股大盤"
  },
  "items": [
+  {
+   "id": "1f899a976cf04176",
+   "title": "特斯拉恐遭踢出科技七巨頭？SpaceX有望取代、兩家公司合併估值上看4兆美元",
+   "url": "https://news.cnyes.com/news/id/6652557",
+   "source": "鉅亨網",
+   "published": "2026-11-09T23:10:03Z",
+   "summary": "巴隆指特斯拉現金流、獲利與估值明顯落後科技七巨頭，2022年自由現金流約80億美元，本益比約180倍 SpaceX更符合定位：星鏈在170多國服務、客戶逾1,300萬，第三季營業利益率45%，估值約40倍 市場揣測特斯拉與SpaceX合併，馬斯克稱董事會評估中；若3:1換股，合併後估值約4兆美元",
+   "lang": "zh",
+   "feed": "cnyes-us",
+   "categories": [
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 1.5,
+   "source_bonus": 1.0,
+   "score": 2.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-09T23:11:16Z"
+  },
+  {
+   "id": "29090b7175b669a0",
+   "title": "Stock Market Races Higher; Nasdaq Jumps Nearly 3% As Chip Stocks Fly, Leave Nvidia In The Dust",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcU5yX0hzLVNad3F4amstSHBfY2F2emtoeGtoU0MtbW5VN0I5eGw5dU5KSXhURFJpZTh0U0RhRTdpMF9wMEVWNFE0NWw4QkRTamFQbjJiWnppc19IZzE2azJxOTFVZy1tbGwwR1BEdll6VDMzRnpReE52YzZ4WHE4S1hKMXlSWFdLTGhsU2VnaHYtblBOU1ZUQnBxMml4aGJMNko2eTEtWnJ0X29MdDNyZTRR?oc=5",
+   "source": "Investor's Business Daily",
+   "published": "2026-11-09T23:07:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-semis",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-09T23:11:16Z"
+  },
+  {
+   "id": "dc283d4a41692a24",
+   "title": "美股強彈！道瓊漲千點、費半漲6.8% 輝達收跌4.27%",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fa2RZOWVDclpmZnFGVEVoSUNwY0xfdWF2RXFZQmJ3Vzd2OU9idklJTEk1TjJKYnhHbjJaQVNCTVV0OS04MDFXYW1oQ3dZZHc?oc=5",
+   "source": "TVBS新聞網",
+   "published": "2026-11-09T23:01:00Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-semis",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-09T23:11:16Z"
+  },
+  {
+   "id": "dfa936094af861c6",
+   "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVg1UGUxM3Ffb19ScHhmZmxtNkIwTHNYVWFOcm9yZHVxUzR6M3ZWdngzaUlLSU9uVzM1cGw2dXpNZHlHZzhWQWljMTRFbV9xejFaTjUtbFdYdGFwdml0aEwwZzdreXhaX1Fkb05FcDBxaTFuWVlTQ1ZUUnR0UmVXOTdKbXpkaERPdnp3aktnTVMtbG9iTm1TWmZYbDBhclZYdEE?oc=5",
+   "source": "CNBC",
+   "published": "2026-11-09T23:00:02Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-market",
+   "categories": [
+    "world",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.0,
+   "source_bonus": 1.0,
+   "score": 5.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-09T23:11:16Z"
+  },
+  {
+   "id": "a6e0992437bb952f",
+   "title": "Inflation likely took a breather last month as fuel prices fell",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGpidGZURWRoNnJJd3hZUFd2SkRDVmk0bEI0NnA5cVJXTmR2dlVMNHRsbE01WjFDM240QVBIOFI3RTdrdGdMcWtOdE5SY2V4Y08wZjEyc3BrejJaNVJycHJuMlo5QThxNlJacGZsb3djREVCV2tjUkFOMWJTaUxTTW9KZV9IRW5MbnV6d01pZGZFaV9Ka3c?oc=5",
+   "source": "NBC News",
+   "published": "2026-11-09T23:00:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-macro",
+   "categories": [
+    "macro"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-09T23:11:16Z"
+  },
+  {
+   "id": "8120fb12a3a76bfa",
+   "title": "黃仁勳坦承外遇！美股收盤齊揚 輝達逆勢重挫4.27％、台積電ADR漲3.51％",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16UWVKU2ZfOHJicHlDbkdTWlZRM1FSRS1kbEwwN0pqYllyM3kweWpKYVY1RkVXUGsyWlUtcmNwMGt3d0hXQjkzU1BYMmVIUnV1ZnFodnZZeEp0Z1E?oc=5",
+   "source": "Newtalk新聞",
+   "published": "2026-11-09T22:59:00Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-market",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-09T23:11:16Z"
+  },
   {
    "id": "88f76267302c7e3c",
    "title": "〈貴金屬盤後〉油價重挫緩解通膨疑慮 黃金上漲1%、白銀獲支撐",
@@ -25,9 +149,14 @@
    "symbols": [],
    "base_score": 7.0,
    "source_bonus": 1.0,
-   "score": 8.0,
-   "coverage": 1,
-   "also": [],
+   "score": 8.5,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "CMoney",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rY2JfWVJJVnFWQU15Q2p6ejBEaE5meDZfQ2ZhWUc5bk9uNjZUSW04NUlvV1RoMVJBNUJQSFAtRlVabllHY1JWTnRrZl9RWkhoYlVteUUxeDc?oc=5"
+    }
+   ],
    "first_seen": "2026-11-09T22:59:50Z"
   },
   {
@@ -75,13 +204,14 @@
    "title": "〈紐約匯市〉川普暫緩對伊朗動武提振風險偏好 美元走弱 歐元、澳幣紐元勁揚",
    "url": "https://news.cnyes.com/news/id/6654889",
    "source": "鉅亨網",
-   "published": "2026-11-09T22:49:38Z",
+   "published": "2026-11-09T22:48:52Z",
    "summary": "川普稱若外交持續推進，不太可能再攻擊伊朗，緩解中東戰爭擴大疑慮。 美元指數跌0.47%至101.75，歐元、日元、英鎊與澳紐幣同步走高。 市場轉進風險資產，布蘭特原油近跌6%；投資人聚焦周二美國CPI與Fed升息預期。",
    "lang": "zh",
    "feed": "cnyes-us",
    "categories": [
     "macro",
-    "world"
+    "world",
+    "market"
    ],
    "symbols": [],
    "base_score": 5.5,
@@ -129,9 +259,14 @@
    "symbols": [],
    "base_score": 4.5,
    "source_bonus": 0.0,
-   "score": 4.5,
-   "coverage": 1,
-   "also": [],
+   "score": 5.0,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "商傳媒",
+     "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPM0xWOC1FV2dvMmlqTTh1U252RlpEbWdiMGpac3M0bjFtd3F4clVvT1ZFRVh2bHRJQ2hrbW5RdWVrVXZTYS0ySjhhTFRqNXdsTmlzQzczd3B3dkZyM1d1VENoTXdjMjFjY1ZoUzItdGFmUlFFeE8wanN1Vkp6cHlOa3lRamlaLVREdThRMTlUWVRkZWJzZjYwSDVPQmt2dnBDOXQxcUJaNW5wWmlpUzRMRHR0ZGY2SVhuZ3pfWjJkWnB6Wm42Vk8ya2lTWFBKS0pYWXhOS29TQUZTbk9aS1k3bFFmanB5bVRfendDSnRwV1dHejFFREZ5a0djNGg2bV9yaGZMM0IzY1dVRm81ZGdpcHJaeFZWNTQwYUgyeEFwa2h6LUR4RXljNXd4ZXM4RnZfRzVIUUNDRjBOSU9kQkZoQjlsd1kzUEtoN3Vma2VPdE92MGtOR0RJcktESGxHSVVVaUw4N3h2V0o1UVBMZENCVlBtSGJwVVVOOHJuUElJdkFPZFFYLWMwZWk5ZFVUblkxWFZzMw?oc=5"
+    }
+   ],
    "first_seen": "2026-11-09T22:59:50Z"
   },
   {
@@ -331,11 +466,11 @@
    "first_seen": "2026-11-09T22:59:50Z"
   },
   {
-   "id": "bac4b0cc08c8e5ee",
-   "title": "油價回落緩解通膨「美股大爆發」！道瓊狂飆1104點、費半勁揚逾6％ | 民視新聞網",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14YUQyeGdSNl9ZNFQxelB1Vm51X3J1aG1maHdjRkFZZEJUOVlLWXZKNF83WjlkRFdSM1htdTE1WmxMNXRjSy03SjZHNlg4clR0bGU3UTNR?oc=5",
-   "source": "LINE TODAY",
-   "published": "2026-11-09T22:21:08Z",
+   "id": "10dbbbd1be10e08d",
+   "title": "快新聞／油價回落緩解通膨「美股大爆發」！道瓊狂飆1104點、費半勁揚逾6％",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JLUFiN21waFdKaXJFM1g3NjB1d1JVZ3RkTjVYU3pXVS10bk4wUHVWdEFkM1dMU04yX0RtNTdWUy1OYmYySWo1WkwzMGhkQ2g1d2k4NGM5cU1UZE9nTXoxNTlYOE45dw?oc=5",
+   "source": "民視財經網",
+   "published": "2026-11-09T22:20:28Z",
    "summary": "",
    "lang": "zh",
    "feed": "gn-zh-semis",
@@ -348,9 +483,13 @@
    "symbols": [],
    "base_score": 10.0,
    "source_bonus": 0.0,
-   "score": 10.5,
-   "coverage": 2,
+   "score": 11.0,
+   "coverage": 3,
    "also": [
+    {
+     "source": "LINE TODAY",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14YUQyeGdSNl9ZNFQxelB1Vm51X3J1aG1maHdjRkFZZEJUOVlLWXZKNF83WjlkRFdSM1htdTE1WmxMNXRjSy03SjZHNlg4clR0bGU3UTNR?oc=5"
+    },
     {
      "source": "Yahoo股市",
      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNWEQ2bVkxd1dBd2lJcDJ3OVBTRkEwX1hfZFVIc1dRRVZtcDNtbnU1bEtHd0JXUkk2ZjZpdUJIVGZrOUFVUGpDY2w4NXo1bkhCQnVnZHNYeG0xZUpOeUpZMDJkSGFQWnduLVJ5eGloelR6U0NRRmFXOXM1UC1FUlBMay13eEFJR2hSRkVMM1ZJOHdjcFZzMnBPbVJ1NllQY3NwM3QtQTdwc184dEhQTlQza1hZOGhsc2d2Q3ZLQ2RGR2Y5R2plYy1MWWl6NS00SG1SR3kzMTF3ckJOajNmbHg0bHhVLWVmSXBfclZkdWxzeGYwRUdLb2pxc2EyOElnOXNyTThMbk53S2wtQ2JCNG5mTFN3ODFMZ3lZV1dFNzJVcVVjalZTSnlaSDQtTzVLR2hjUmJfQVdiYzYxSmZRWUVQd2U3ZFo4bzgyUXpacDBiNGVUZl95aU5fMEZhMFpYNTNmM1M0WmxTLVY2bEpFc3FoWUpKbWU1NjlHV3c?oc=5"
@@ -670,29 +809,24 @@
    "first_seen": "2026-11-09T22:59:50Z"
   },
   {
-   "id": "e85a580f0e5f1b73",
-   "title": "科技股歷經暴跌後強彈 美股收盤齊揚",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0NGYySHdjdU4tTV9ackpDSkoxR2llR2FtRm4wWk93RGNwMzdfbVV6bUFNbXQydDhwLWJaazRYTzhvenJnWFA1a0tfeE9FWW8wcmtESlBXTHpONHozcWRvQWNRX0lMZnBjakh5aUpVZmxwMjBPUkhmWk11bjVLQdIBYkFVX3lxTE1td2pqZ1FDdzYwa3NRRHl5MEpCb0w3R1NnVkp5RFhMRG54d3RjRW9NRW9oN1pVWnNVZ0JvZVV1Qzk5Q094TF9wVHd4TmZ3aThnU1hLOXlkaWdoQlBZLXJnWFF3?oc=5",
-   "source": "經濟日報",
-   "published": "2026-11-09T22:00:24Z",
+   "id": "df52c5e874f5a5f6",
+   "title": "Nvidia shares tumble as the company says it's investigating CEO Jensen Huang",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGFWWHhYbW45MnZac3oxSFlOUlkyNnFUUVdadTBXZGFwRUt3aWdmNWZfZE4tWHAycTlENTZfdlptaElPbFBHNXNsVUhSUmxCSm1mSkNDUElqRTQ5Z0gzaW00Njl0YjVFTE9EMFd5VFRXdTFQRGp0Mml5V1FBQmhRMnZWQlNlM2FzaTZnTUM5akcyMVJZV01xTTN2QVh5SmdXdlZobWp6cEpBN2xlVGRpVzNfSFd2MFlvUGg2WQ?oc=5",
+   "source": "NPR",
+   "published": "2026-11-09T22:01:47Z",
    "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-market",
+   "lang": "en",
+   "feed": "gn-en-ai",
    "categories": [
-    "market"
+    "semis"
    ],
    "symbols": [],
-   "base_score": 1.5,
-   "source_bonus": 1.0,
+   "base_score": 3.0,
+   "source_bonus": 0.0,
    "score": 3.0,
-   "coverage": 2,
-   "also": [
-    {
-     "source": "UDN",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPamxnMHB6UmVWaGFha2Rmb0tKeEV6ckhCM2FyUDNlRlJJTWh5dzVLMm43XzVLYXRqUmRpM0RBQnR0d01JUnNoSU1QNzZWM0FW?oc=5"
-    }
-   ],
-   "first_seen": "2026-11-09T22:59:50Z"
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-09T23:11:16Z"
   },
   {
    "id": "a47df9c3252dbf6b",
@@ -710,9 +844,14 @@
    "symbols": [],
    "base_score": 4.5,
    "source_bonus": 0.0,
-   "score": 4.5,
-   "coverage": 1,
-   "also": [],
+   "score": 5.0,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "三立新聞",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iTXJsZlEwQzBKOUI5M0oyR3VFcGR0MEtud2oxTXQ1OUNYN0R4Mnkzdm1FaTJDYzFUSWNDN2pySE1jVVVRTmNVdEpEaw?oc=5"
+    }
+   ],
    "first_seen": "2026-11-09T22:59:50Z"
   },
   {
@@ -897,6 +1036,27 @@
    "first_seen": "2026-11-09T22:59:50Z"
   },
   {
+   "id": "86b9a342b8487b83",
+   "title": "C3.ai, Inc. (AI) Beats Stock Market Upswing: What Investors Need to Know",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLWVkN0JDTDBlcm1Oal8yYVlPU0VyY0YxcFBUdEdFWWlaa1JvUjZrNnU1R1hvYzNKaFI2UGFSTU44LXR1Yk1BSzVPRW8yaUFBZXd0akw3T2k1aTc0NmtwNEx2Zy1MNDZLc0pFd3owMzlCRXpINWU0b1FVY184WWktS2lNZ2M0MjJoem00?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-09T21:50:01Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-market",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-09T23:11:16Z"
+  },
+  {
    "id": "60cf20375eb25f33",
    "title": "Lam Research gains 10% amid broad semiconductor rally (LRCX:NASDAQ)",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVJ0Tmo5Rm5KaE10LW9STHZZZWhUZUx4WmZqMzloLV9UdHhHb0RjeVpZOE12ZEVvSlZlSWx0cGdvU1FpYXhhUnRWUWJLb09TNjV6U25XNHczX1BoMnhRZ2JncUxjYlNrYkRIQXRTWnpJZlUwMEJFLXVrZTYya3hOeVFidTY0TVhPM2czLXUzZ0FObDE0?oc=5",
@@ -936,6 +1096,35 @@
    "score": 3.7,
    "coverage": 1,
    "also": [],
+   "first_seen": "2026-11-09T22:59:50Z"
+  },
+  {
+   "id": "a674c107b48eb696",
+   "title": "科技股歷經暴跌後強彈美股收盤齊揚| 證券",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aWXp6WUdEalZHUzQxNjVlRU5JVTVZWEpDdVhFVnllV2hZNDNRakVZSVc3RVk4V1owSWsxUUs5cjdBOHlVeHRpd3dCZU1SRGVWVTFWZXI4VFZxai1jMlE?oc=5",
+   "source": "中央社 CNA",
+   "published": "2026-11-09T21:49:00Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-market",
+   "categories": [
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 1.5,
+   "source_bonus": 1.0,
+   "score": 3.5,
+   "coverage": 3,
+   "also": [
+    {
+     "source": "經濟日報",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0NGYySHdjdU4tTV9ackpDSkoxR2llR2FtRm4wWk93RGNwMzdfbVV6bUFNbXQydDhwLWJaazRYTzhvenJnWFA1a0tfeE9FWW8wcmtESlBXTHpONHozcWRvQWNRX0lMZnBjakh5aUpVZmxwMjBPUkhmWk11bjVLQdIBYkFVX3lxTE1td2pqZ1FDdzYwa3NRRHl5MEpCb0w3R1NnVkp5RFhMRG54d3RjRW9NRW9oN1pVWnNVZ0JvZVV1Qzk5Q094TF9wVHd4TmZ3aThnU1hLOXlkaWdoQlBZLXJnWFF3?oc=5"
+    },
+    {
+     "source": "UDN",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPamxnMHB6UmVWaGFha2Rmb0tKeEV6ckhCM2FyUDNlRlJJTWh5dzVLMm43XzVLYXRqUmRpM0RBQnR0d01JUnNoSU1QNzZWM0FW?oc=5"
+    }
+   ],
    "first_seen": "2026-11-09T22:59:50Z"
   },
   {
@@ -1121,6 +1310,26 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-09T22:59:50Z"
+  },
+  {
+   "id": "8f7d80b50594aa6c",
+   "title": "Nvidia Scandal Creates Risk for Entire AI Industry, Not Just CEO",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeU5sZExFMm9PT0FDekcxMEVUWTFWVEJVNUNBcmx0bFlzNkI2SnZYLWVlanJfdEtxN0lMV1RMZ2lfRHlYVHMwMm05dU1lNlQzS21OQlJwY1J2VThCVUpxZU5hcmxRWE8yTUNaVzlnZzRCTUJUNFFfSERTZ0RQaU9QdmRTMUZ1dEwxVDR5MzFOOXNBVmt4eW0zbHlEaWVRWWdFQUYydXVXWFIxcE5scC05YlZ4ckw1VkNtUDd1UXBGa2I2cjg?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-09T21:29:22Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-ai",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-09T23:11:16Z"
   },
   {
    "id": "a84e839e75ef0c27",
@@ -2131,46 +2340,6 @@
    "first_seen": "2026-11-09T22:59:50Z"
   },
   {
-   "id": "3b0fcc3c49e7047c",
-   "title": "落實中美元首會晤成果保留一成稅率今執行中方24%對美加徵關稅再停兩個月- 中國",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sNVB3RE5SQnFyTHpoclhZbmNSTEdQd2Z1TGFGcXFjNFgtV3VGMTVkd25IZllRUGxYWnJUNUlrcDNFVFNQTVJFanIwc0UyaGdrR2hkd0JUYlcyWGQyZGZUdDNIbDZpdlYxY09QUHoyX2F0c01R?oc=5",
-   "source": "大公文匯網",
-   "published": "2026-11-09T20:14:53Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-world",
-   "categories": [
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 2.5,
-   "source_bonus": 0.0,
-   "score": 2.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-09T22:59:50Z"
-  },
-  {
-   "id": "371b1ecc10c09ea2",
-   "title": "中美關稅延期解讀- 中國",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10eWVuSGVrX2FSZm9hMWpId1NpU2VzMi1OUXNnX09TdkR3RENhT3RnZnhObmRCRDdjTlVqX3c4MGFCbUV3OXYtM1FMUFBING14T19IX2ZjMkZfN2hCTHBiWEF0UldwbDRWZUFXcjg1ZkRFdDBE?oc=5",
-   "source": "大公文匯網",
-   "published": "2026-11-09T20:14:38Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-world",
-   "categories": [
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 2.5,
-   "source_bonus": 0.0,
-   "score": 2.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-09T22:59:50Z"
-  },
-  {
    "id": "e7d28699e22bc60a",
    "title": "Terafab攻記憶體台廠助陣- 全球財經- 工商時報",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wOWN2YVplWkFQS2R1ZDFuM0MwSlpNRVZxamg4Q05va1N6eFlMMThNczRHbXNMT3A2eV9wVFB6dURqT0t3YnVmMHNGYmJVeTlkOTZIM3dwRDh4OVVUZHY2Y3hpZjNBNzBpeDYw?oc=5",
@@ -2255,26 +2424,6 @@
    "first_seen": "2026-11-09T22:59:50Z"
   },
   {
-   "id": "d6d7c027d19a47e1",
-   "title": "The wait is almost over for this blockbuster video game. I see 35% upside in the stock",
-   "url": "https://www.cnbc.com/2026/11/09/the-wait-is-almost-over-for-this-blockbuster-video-game-i-see-35percent-upside-in-the-stock.html",
-   "source": "CNBC",
-   "published": "2026-11-09T20:07:26Z",
-   "summary": "Grand Theft Auto VI is almost here, and investor Paul Meeks says Wall Street is underestimating just how big it could be for Take-Two Interactive.",
-   "lang": "en",
-   "feed": "cnbc-top",
-   "categories": [
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 1.5,
-   "source_bonus": 1.0,
-   "score": 2.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-09T22:59:50Z"
-  },
-  {
    "id": "f935fad21b88b4cb",
    "title": "D-Wave and Rigetti Face High Stakes After Quantum Peers Raise the Earnings Bar",
    "url": "https://finance.yahoo.com/m/5ab5228d-ecaf-3956-bd5e-1ec2e0f9e0dc/d-wave-and-rigetti-face-high.html?.tsrc=rss",
@@ -2312,9 +2461,14 @@
    "symbols": [],
    "base_score": 5.5,
    "source_bonus": 0.0,
-   "score": 5.5,
-   "coverage": 1,
-   "also": [],
+   "score": 6.0,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "NBC News",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEhrUnZGa3lEQ2lQMHhzWVJrdkVIcF9ZVnEtcjdiUFhNMEFLWk9SRTNwbVNNNmhSc3lGdTRkY09OVVhpOTNPajFZM1BrcmxJYS0xMHZ4eTN1bG0wS0ZVOW9CVEtDU3dfaU9URUZoUXl2QWw4VzRsekZKVl9WcmVHNWFPZDhXY3ZHRWE2bXZBaUY?oc=5"
+    }
+   ],
    "first_seen": "2026-11-09T22:59:50Z"
   },
   {
@@ -2376,46 +2530,6 @@
    "base_score": 3.6,
    "source_bonus": 1.0,
    "score": 4.6,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-09T22:59:50Z"
-  },
-  {
-   "id": "1ed4f5c32f3c254e",
-   "title": "盤中速報 - 凌雲邏輯(CRUS-US)大漲5.12%，報119.39美元",
-   "url": "https://news.cnyes.com/news/id/6654848",
-   "source": "鉅亨網",
-   "published": "2026-11-09T19:53:46Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "cnyes-world",
-   "categories": [
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 1.5,
-   "source_bonus": 1.0,
-   "score": 2.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-09T22:59:50Z"
-  },
-  {
-   "id": "2862db308bdf6a16",
-   "title": "盤中速報 - Crowdstrike控股(CRWD-US)大漲5.14%，報228.05美元",
-   "url": "https://news.cnyes.com/news/id/6654847",
-   "source": "鉅亨網",
-   "published": "2026-11-09T19:53:33Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "cnyes-world",
-   "categories": [
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 1.5,
-   "source_bonus": 1.0,
-   "score": 2.5,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-09T22:59:50Z"
@@ -2628,6 +2742,27 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-09T22:59:50Z"
+  },
+  {
+   "id": "8e8b9e7863c6e3e5",
+   "title": "Election Drubbing Complicates Vance’s Calculation on Whether to Run in 2028",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PZ2lkcUZVWDZlcmpLamtLejRna3hFeDNPbGRldjNsVjJ2UEhQcS1BN3l4b1lPVWh2LVZ2MEdYQzRsN2k1TWZjbHhKMmdOeElRNDNodi1KVFFVUEJZMlhTcmUyWWlNUUN6Vy1sMFo4VnhnQzRZMkVhZDVET2IybTA?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-09T19:00:58Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-market",
+   "categories": [
+    "world",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 3.1,
+   "source_bonus": 1.0,
+   "score": 4.1,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-09T23:11:16Z"
   },
   {
    "id": "df2f7ca856025f80",
@@ -2857,6 +2992,27 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-09T22:59:50Z"
+  },
+  {
+   "id": "5d4b64a38c57ea8a",
+   "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
+   "source": "The New York Times",
+   "published": "2026-11-09T18:37:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-ai",
+   "categories": [
+    "semis",
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 5.5,
+   "source_bonus": 0.0,
+   "score": 5.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-09T23:11:16Z"
   },
   {
    "id": "6cae6f62a08babb0",
@@ -3605,6 +3761,28 @@
    "first_seen": "2026-11-09T22:59:50Z"
   },
   {
+   "id": "4ba639035d865f3a",
+   "title": "SiTime Corporation (SITM.MX) options chain",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFTmd5c1JTM0pRUWJmQ3FudWE0aU5kTGk1emVRN2ROc0IzUlAzR3BXWTRGVUkzcW5IN3B6VllzTW9xTENSb2xTSW5KNGxmSnBtQXVnVDUtUnhCWFhUalRYdg?oc=5",
+   "source": "Yahoo Finance UK",
+   "published": "2026-11-09T16:43:50Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-sitm",
+   "categories": [
+    "holdings"
+   ],
+   "symbols": [
+    "SITM"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-09T23:11:16Z"
+  },
+  {
    "id": "db9e09e9192186ff",
    "title": "陸PPI大漲、CPI反跌 陷「成本推動型通膨」",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pVWNfX3d6M2JrYXhoQjJMbFd3UkFDQ1NGSXBlamZwRW9EcF94cTdEWmRzZDRJU2pScUJZdnlxU2FybDdyUnBnNkxWZ2RXNE9B0gFWQVVfeXFMTkIxb0Q2eEt5eTBpVzVxVHVuNzQwTl9VV3BkN2prRFZNYmoxT1owRWxJT01VYm5tZmVNR1N3amR3a1Nob29xSy0yc2J5RUNJMDVPMmo0S3c?oc=5",
@@ -4143,26 +4321,6 @@
    "first_seen": "2026-11-09T22:59:50Z"
   },
   {
-   "id": "d19e35d114dfd591",
-   "title": "Nvidia is in peril. Can it survive without Jensen Huang?",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRGh1dFZHUWZqaUNHY3I2VzEzT2pMd3V0NXpXSWFYZFN2R244QXhzeEdFc3BFVEJmNmpSWTI0aXl0U240NFZiVXdFOW0xd0FteDg2SWpPNHBPNS1zcHBIWG45YTI4N0NmRDlkZUhCbVFSbXBUQkd4dWdTME1pdTVUSg?oc=5",
-   "source": "CNN",
-   "published": "2026-11-09T15:40:41Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-ai",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-09T22:59:50Z"
-  },
-  {
    "id": "10a9c749acc1b5df",
    "title": "輝達開盤暴跌8％ 專家：黃仁勳外遇升高美科技出口管制壓力",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zbkVnOUxXcGpoaTZSTnVYT1QzbFpmUVB3MGhmclZvNkxMaFBmdEgycEd0ZU02ZkswZDNVa09KeXVNLXVuWnM5M0N1ZFAzZlRBQWVfODdsM3RsN0lBZjRB0gFkQVVfeXFMUHpxZWZ2X1BRbjRrRVVsem9VWnFtYjhBcENqV0M3S2NodFpEbHhqcVd0c1FaMkxXalZfRnJMZ3FyNUtaczVRYUhZVlJjdGhCRlNuRkltdGpETUhlN005cFNJUUkzTw?oc=5",
@@ -4248,28 +4406,6 @@
    "first_seen": "2026-11-09T22:59:50Z"
   },
   {
-   "id": "322009d43ceb8d81",
-   "title": "Recycled memory could reach up to 9% of smartphones in 2027 as DRAM prices climb, TrendForce says",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXZWc2lVLXFaeHJCMzd4TmVkRXBYN1Z1TjZXdm53aDVDelN2TFRXRmZhTFRrNm53Sm0yUEQ4N25hYjc4dnAxVHpnblN6OXdVNjBaX1Zsamd2bHVKenUzVXh0d2M1cjFPQ2Z2ZGppYXpZOEF2RkpUMksxUmN3M3VJLVF6M09rV1J3bktRUFJPaU9zOVZpQmpJN1RmRmlsN21fNVlLb0lJMlc3MlJpR2pwd1lKSE5WTEE?oc=5",
-   "source": "MLQ.ai",
-   "published": "2026-11-09T15:21:42Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-memory",
-   "categories": [
-    "holdings"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-09T22:59:50Z"
-  },
-  {
    "id": "7f7df13b72b59b35",
    "title": "U.S., Eurozone Bond Yields Rise Ahead of Inflation, Rates Outlook",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0N5Skk5WEFjeFZaU2hkdnczUWd0Y2QzNEFJNFF0Mk9UdTd0LUhCRGI4aVBldGpNaDRoWFdJT0xDcldjX0p0OG5yS1lBQktuSVo3alNaTkVSNmI3WWZ2M25WSnJ4Y1BkTGEzM05NamtJYlBQSk1pdVdMNHg2MTJVd0Yxc29Xc3ZOUkFPYkJxdWQtU3BINU42NjVlSl85Z0ZG?oc=5",
@@ -4326,46 +4462,6 @@
    "base_score": 4.5,
    "source_bonus": 0.0,
    "score": 4.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-09T22:59:50Z"
-  },
-  {
-   "id": "e62d29cc0cc1d502",
-   "title": "費半升5%，芯片股全線走高：AMD、邁威爾科技升超8%",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQaW4zTjZQTmpEdVRMQXdnalA1TTFzZ1VqWDkwZTJyeGQxN2FKRE5YZk0xTDk5VDdSZlJaM3dSdk5pdTVnVjVkWWVRaVNBdG9hblJ3UjdRZmxPc3RTWVVBODFyNnp2OVNtcnc?oc=5",
-   "source": "TradingView",
-   "published": "2026-11-09T15:15:00Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-semis",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-09T22:59:50Z"
-  },
-  {
-   "id": "3cb9dc9cee9e1ade",
-   "title": "What Is Going on With Taiwan Semiconductor Stock on Monday?",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlVNUlBPLXliejk5cW53UXNqT0FxZTBBUnQ1ZlhjS2dldDZGSjl2QUsyT3BGY2Q3OGRkUWw3VmV1TFgxVU05eGdJRXZRckQ0ZXU0di1nMGdoYzhJX3YzWGxVcGIxbm9FR0Z2bEpQenM4bkhsNkcydFVCLUtOeHVMd1htQ0ZuV185SVV4bTgzM2l5YjlONURuc0FyWHN2NFpyS2hSdDJyMm8yRE5TWGVZcg?oc=5",
-   "source": "Benzinga",
-   "published": "2026-11-09T15:14:15Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-semis",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-09T22:59:50Z"
@@ -6650,27 +6746,6 @@
    "first_seen": "2026-11-09T07:16:36Z"
   },
   {
-   "id": "5e48c7b960b7a9df",
-   "title": "Midterm Results Trigger Record Nasdaq Sell-off, Rattling Chip and AI Funds",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT3ZyMzJOY1JzLVZOWkFRWkticDdfSFE3VEtMNWFZekZfTC13TU5vLVZ6Nk94UnZaejlTRmp1U19LcXhmOXdDbkFLR28yRGh1alhVdlZVSVJZVlprLWF3aEV0elBjSG04bE1heFVPVjZnLTY4eUhnX2d4emtqZVhxRXlVRGtraUowRnR0Y2ZDMUMzUm4zTjMtcUFGb2R1djg2WjhkWFJ3UVEyWGJuMDhOb09jbzFSSXNvbFJ5azRnaXJucjBaeFE?oc=5",
-   "source": "The Daily Upside",
-   "published": "2026-11-09T05:02:00Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-market",
-   "categories": [
-    "semis",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 0.0,
-   "score": 4.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-09T07:16:36Z"
-  },
-  {
    "id": "a2baf6c909827e49",
    "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5odGlnT3dHVTZLdURJYmJCbmxLVnFMOXBZU3g4N25PMW1mZ2FkV1JfZE1HUmdRVjJ1ejV2MjRrUFNYLVdVNXNkSHZtWS1QUEs1T3ZKbjN4ZnBYdXVlMUN0aTNISEE1cjFWeGc?oc=5",
@@ -6708,27 +6783,6 @@
    "base_score": 5.5,
    "source_bonus": 0.0,
    "score": 5.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-09T07:16:36Z"
-  },
-  {
-   "id": "31a20585f00f082c",
-   "title": "Three Chip Stocks Have Been Cut in Half Since June—Why Is Marvell the Only One Worth Buying?",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUXBZcHdsay1ocUhFb05ZSFVlQ1VwNE1jSnJPM0Z1Y3VMN3J1RnNrRmZHSHNJOWNjRUY5cGlZVWJiNnJvUm9vMkliWkVyWl9LRjRVSVBCZ0pETTJOZjU4MTA1YzJ2MTI4X0cwbjZCUE5yWVZXTnJudk8xTmltNFFwa21EeWVXZHBVZGpHMnIwSlRRWTZEVGczQm1SbzNOYVVuNnFOZGNsSGhUbk1fS3JobTkwR1EtVlZXSUhkb1RxWXFuUQ?oc=5",
-   "source": "NAI500",
-   "published": "2026-11-09T04:44:13Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-semis",
-   "categories": [
-    "semis",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 0.0,
-   "score": 4.5,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-09T07:16:36Z"
@@ -7429,29 +7483,6 @@
    "base_score": 4.5,
    "source_bonus": 1.0,
    "score": 5.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-09T07:16:36Z"
-  },
-  {
-   "id": "f07d30880f5434aa",
-   "title": "Nvidia NVHBM: 30% Bandwidth Claim, HBM4 Squeeze [2026]",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeExhbW85ajd4V0xnUVg3Q01FTVpoa0otaWdBT2FLLTlQazFlOFItR3U4ZkJHaGh5V2Z5X3pIUC05dWtvVWk1SVRkbzk2d19zUnA4eXpRNHlzMXVpclludk56NG1KUVBrSkNjeWpNUERLNHFhSXB1Z0FSLTgyMC1lRzI0UWs3UEZfaGN1ZnVabjBsYzlr?oc=5",
-   "source": "https://tech-insider.org/",
-   "published": "2026-11-09T02:20:32Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-hynix",
-   "categories": [
-    "holdings",
-    "semis"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 5.0,
-   "source_bonus": 0.0,
-   "score": 5.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-09T07:16:36Z"
@@ -8472,6 +8503,27 @@
    "first_seen": "2026-11-09T07:16:36Z"
   },
   {
+   "id": "7ee970694488e9dd",
+   "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+   "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+   "source": "CNBC",
+   "published": "2026-11-08T22:49:46Z",
+   "summary": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
+   "lang": "en",
+   "feed": "cnbc-tech",
+   "categories": [
+    "semis",
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 5.5,
+   "source_bonus": 1.0,
+   "score": 6.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-09T23:11:16Z"
+  },
+  {
    "id": "bda5b19baeda0e9b",
    "title": "Azwed Samples Y2K Ringtones on Pop-Rap Single ‘Nokia’",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2FRcHUxNVc2Y0pveFNCdzZDV3BaS3VJMlhIYnZiVGNLSTROYWR5UFdZSmM3ZEFCRGtUZGpPRnk4ZDh4SUhTVEpBN2NoQVNxa2xXVGdGNk1nbmdhT1QtcEJWb011YUVRQm1fTGlmXzUtZXR2aTM2VG9yOUoxQVJFUjN5dnlRLW5YY2xtdw?oc=5",
@@ -8509,27 +8561,6 @@
    "symbols": [
     "DRAM"
    ],
-   "base_score": 6.0,
-   "source_bonus": 0.0,
-   "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-09T07:16:36Z"
-  },
-  {
-   "id": "1e55f9fb05558cb0",
-   "title": "美國半導體股反彈助KOSPI喘口氣 10日CPI定方向",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NbjZDSlg0MGw2dGwtUTlEWEdvVXN2QUVBT3dVSEZuUDlBM29zWEw1RjI0dVJnV0NtMnk5UEppSFo4WkwzczJBTjZfOEplUEs3dXVubXVLRG12UnB4RkxRcGlNRTNPU2laYUt5TUhTaGlZc0RHTlk5cHp3?oc=5",
-   "source": "BigGo 財經",
-   "published": "2026-11-08T21:42:57Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-semis",
-   "categories": [
-    "semis",
-    "macro"
-   ],
-   "symbols": [],
    "base_score": 6.0,
    "source_bonus": 0.0,
    "score": 6.0,

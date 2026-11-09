@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T22:59:50Z",
+ "generated_at": "2026-11-09T23:11:16Z",
  "holdings": [
   {
    "symbol": "NOK",
@@ -178,8 +178,8 @@
    "market_state": "POST",
    "ext": {
     "label": "盤後",
-    "price": 8.2069,
-    "change_pct": 0.33
+    "price": 8.2,
+    "change_pct": 0.24
    },
    "as_of": "2026-11-09T21:00:02Z",
    "high_52w": 17.45,
@@ -460,8 +460,8 @@
    "market_state": "POST",
    "ext": {
     "label": "盤後",
-    "price": 41.9753,
-    "change_pct": 0.47
+    "price": 41.9248,
+    "change_pct": 0.35
    },
    "as_of": "2026-11-09T21:00:00Z",
    "high_52w": 81.34,
@@ -742,8 +742,8 @@
    "market_state": "POST",
    "ext": {
     "label": "盤後",
-    "price": 40.05,
-    "change_pct": 0.02
+    "price": 39.8,
+    "change_pct": -0.6
    },
    "as_of": "2026-11-09T21:00:00Z",
    "high_52w": 86.79,
@@ -2132,14 +2132,14 @@
   "NQ=F": {
    "symbol": "NQ=F",
    "name": "Nasdaq 100 Dec 26",
-   "price": 28073.25,
+   "price": 28046.25,
    "prev_close": 28014.5,
-   "change": 58.75,
-   "change_pct": 0.21,
+   "change": 31.75,
+   "change_pct": 0.11,
    "currency": "USD",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-11-09T22:00:00Z",
+   "as_of": "2026-11-09T23:01:16Z",
    "high_52w": 31616.5,
    "low_52w": 22961.5,
    "history": [
@@ -2401,7 +2401,7 @@
     },
     {
      "d": "2026-11-09",
-     "c": 28073.25
+     "c": 28046.25
     }
    ],
    "source": "info",
@@ -2970,14 +2970,14 @@
   "DX-Y.NYB": {
    "symbol": "DX-Y.NYB",
    "name": "ICE US Dollar Index - Index - C",
-   "price": 101.695,
+   "price": 101.667,
    "prev_close": 102.298,
-   "change": -0.603,
-   "change_pct": -0.59,
+   "change": -0.631,
+   "change_pct": -0.62,
    "currency": "USD",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-11-09T22:49:51Z",
+   "as_of": "2026-11-09T23:01:17Z",
    "high_52w": 102.95,
    "low_52w": 95.55,
    "history": [
@@ -3239,7 +3239,7 @@
     },
     {
      "d": "2026-11-09",
-     "c": 101.695
+     "c": 101.667
     }
    ],
    "source": "info",
@@ -3255,7 +3255,7 @@
    "currency": "TWD",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-11-09T22:59:34Z",
+   "as_of": "2026-11-09T23:04:48Z",
    "high_52w": 33.125,
    "low_52w": 30.362,
    "history": [
@@ -3538,8 +3538,8 @@
    "market_state": "POST",
    "ext": {
     "label": "盤後",
-    "price": 390.8,
-    "change_pct": 0.56
+    "price": 390.93,
+    "change_pct": 0.59
    },
    "as_of": "2026-11-09T21:00:03Z",
    "high_52w": 487.47,
@@ -4340,14 +4340,14 @@
   "KRW=X": {
    "symbol": "KRW=X",
    "name": "USD/KRW",
-   "price": 1340.28,
+   "price": 1341.8,
    "prev_close": 1363.65,
-   "change": -23.37,
-   "change_pct": -1.71,
+   "change": -21.85,
+   "change_pct": -1.6,
    "currency": "KRW",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-11-09T22:54:32Z",
+   "as_of": "2026-11-09T23:03:45Z",
    "high_52w": 1587.7,
    "low_52w": 1319.52,
    "history": [
@@ -4613,7 +4613,7 @@
     },
     {
      "d": "2026-11-09",
-     "c": 1340.28
+     "c": 1341.8
     }
    ],
    "source": "info",
@@ -4630,8 +4630,8 @@
    "market_state": "POST",
    "ext": {
     "label": "盤後",
-    "price": 178.65,
-    "change_pct": -0.01
+    "price": 179.35,
+    "change_pct": 0.38
    },
    "as_of": "2026-11-09T21:00:00Z",
    "high_52w": 243.37,
@@ -4912,8 +4912,8 @@
    "market_state": "POST",
    "ext": {
     "label": "盤後",
-    "price": 735.201,
-    "change_pct": 0.28
+    "price": 736.0,
+    "change_pct": 0.39
    },
    "as_of": "2026-11-09T21:00:00Z",
    "high_52w": 1255.0,
@@ -5194,8 +5194,8 @@
    "market_state": "POST",
    "ext": {
     "label": "盤後",
-    "price": 488.7926,
-    "change_pct": 0.28
+    "price": 488.2,
+    "change_pct": 0.16
    },
    "as_of": "2026-11-09T21:00:00Z",
    "high_52w": 671.83,
@@ -5476,8 +5476,8 @@
    "market_state": "POST",
    "ext": {
     "label": "盤後",
-    "price": 134.7,
-    "change_pct": 0.24
+    "price": 134.5,
+    "change_pct": 0.09
    },
    "as_of": "2026-11-09T21:00:00Z",
    "high_52w": 199.87,
@@ -5753,10 +5753,10 @@
    "id": "adr-SKHY",
    "label": "SK 海力士 ADR 溢價",
    "note": "SKHY 相對首爾股價（1 ADR = 0.1 股）",
-   "value": 58.54,
+   "value": 58.72,
    "unit": "%",
    "adr_price": 134.38,
-   "implied_price": 84.76,
+   "implied_price": 84.66,
    "history": [
     {
      "d": "2026-09-23",
@@ -5876,7 +5876,7 @@
     },
     {
      "d": "2026-11-09",
-     "c": 58.54
+     "c": 58.72
     }
    ]
   },
