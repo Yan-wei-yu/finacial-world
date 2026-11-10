@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T07:49:10Z",
+ "generated_at": "2026-11-10T20:29:43Z",
  "week": [
   {
    "title": "FOMC Member Waller Speaks",
@@ -63,19 +63,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "tsmc-revenue",
-   "title": "台積電月營收",
-   "date": "2026-11-10",
-   "datetime": null,
-   "kind": "indicator",
-   "approx": true,
-   "affects": [
-    "SOX",
-    "TSM"
-   ],
-   "note": "通常在每月 10 日前公布上月營收，反映 AI／高效能運算需求"
-  },
   {
    "id": "korea-exports-10d",
    "title": "韓國前 10 天出口初值",
@@ -209,6 +196,19 @@
     "DRAM"
    ],
    "note": "每月 1 日公布上月出口，記憶體景氣的領先指標"
+  },
+  {
+   "id": "tsmc-revenue",
+   "title": "台積電月營收",
+   "date": "2027-01-10",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": true,
+   "affects": [
+    "SOX",
+    "TSM"
+   ],
+   "note": "通常在每月 10 日前公布上月營收，反映 AI／高效能運算需求"
   }
  ],
  "errors": []
