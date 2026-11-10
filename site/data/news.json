@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T20:29:43Z",
+ "generated_at": "2026-11-10T20:38:18Z",
  "categories": {
   "holdings": "我的持股",
   "semis": "半導體／AI",
@@ -8,6 +8,48 @@
   "market": "美股大盤"
  },
  "items": [
+  {
+   "id": "d114ade4682b039b",
+   "title": "Trump-appointed Fed member signals big interest rate hike as inflation runs hot",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2ZKUlBkR0xZX0VQNjlOMXFjNkFCc1lEbUlTNVIzZHVteDU2R29hTTUzcWV6RzdmRjdYRWxhcXFhc0drZk1OMWFseld5dXRXNENrYVFWa0lCVEE3U3UyeUppRzVxQllYT21aY0pjZlVnVThaNzVGa0o2T2lZeDcweTUtZVNOa1lGN09uUnNyS0RMc3ZIWkN4eTVLV3Z4UkRkUjhBV2hyTllzdkNQM0g1RE1WR1Z2UDdZVFMw?oc=5",
+   "source": "The Washington Post",
+   "published": "2026-11-10T20:32:34Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-macro",
+   "categories": [
+    "macro",
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 5.5,
+   "source_bonus": 0.0,
+   "score": 5.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
+  },
+  {
+   "id": "f9f5eb81e7ae8e3a",
+   "title": "日圓下跌，因美國CPI超出預期且聯準會官員支持進一步加息",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2UtSVNkT043YW9tbTduaUF1ellGOHM1TGVvRFdtUnFCM201UWhmVnJrdEMtXzRlQTdpN0E2LUVmcElqLUZWc2VZakxPU2xubk1EV0hiQlI3Q3VXUXVzd3A0Yk1Kbzh5SjE0N3pwcE51REk2V3ZWdzJKM1kzclM5eUZzMUpxd0w4OVRRWDFDdXpMci1KZWtuRjliWWZ0LU8yOFQwOWVTVGllajhQXzlab3pWaWJGb0Y2cDdhZzZ4Q2FIY1RSR1hva0VZaHJmM0NHcDlz?oc=5",
+   "source": "FXStreet",
+   "published": "2026-11-10T20:29:07Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-macro",
+   "categories": [
+    "macro",
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 5.5,
+   "source_bonus": 0.0,
+   "score": 5.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
+  },
   {
    "id": "1fb3ee7985f731ac",
    "title": "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist",
@@ -51,6 +93,27 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-10T20:29:43Z"
+  },
+  {
+   "id": "a3be8bc4e49d12d3",
+   "title": "美國通膨黏著，華爾街收黑，聯準會12月升息預期鎖定",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jRlNSQmNZVGhFSXhpeEZaMkhBUzMzQnpKa3RMZHhQaXRsWGlNV1dvZm9VU3ROczVVVUpDVHllUW5YQ0FMSURYa2VJSGg1TlhWcmxLYjVTUDhaSWdCcmE1Z0pSUzFPeVlpMm0xclRHMGlsMl9pWlhickhB?oc=5",
+   "source": "BigGo 財經",
+   "published": "2026-11-10T20:25:00Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-macro",
+   "categories": [
+    "macro",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
   },
   {
    "id": "b6b86d124d0e6439",
@@ -238,6 +301,26 @@
    "first_seen": "2026-11-10T20:29:43Z"
   },
   {
+   "id": "3a9e589cf10c0684",
+   "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBa1J1TENBeUdudmN2cld5UzNqaHJXaU5obmVaVTdMbzFvS19tR1FzUmNoSHJ5VFVJM1RPZ3RsM29yVGxGM2c4UHJfUkNUTnJuTFBtXzF6WWE0Wmc?oc=5",
+   "source": "BBC",
+   "published": "2026-11-10T20:03:41Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-ai",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
+  },
+  {
    "id": "a6eb50e5937f277c",
    "title": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
    "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
@@ -256,6 +339,26 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-10T20:29:43Z"
+  },
+  {
+   "id": "61a6957fc77ec769",
+   "title": "Analysts Are Cutting Price Targets on Nvidia Stock. Here's Why.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlFURnllR2NCM2xWb1drY29VY29CZm1EOWdCQUEwUTJrMHprRElrMU5ucFZmUmdKWFNGNTBYbHBxUG1QdlJ4bENXaVBOVFVJdEdxTm5UODQ5d0xvMjdvdExTUVhOWElVTkJWakNMakdUMjNBRDdJLWJ4MExaSTJkWXBEbEFzd29VOHVFYVVUc2pESVhVa0hoREtDT3ZCVGlNVUJQWG1Ualo?oc=5",
+   "source": "Barchart.com",
+   "published": "2026-11-10T20:00:42Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-ai",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
   },
   {
    "id": "ba159caa17da1161",
@@ -614,6 +717,27 @@
    "first_seen": "2026-11-10T20:29:43Z"
   },
   {
+   "id": "9f221127d0380acc",
+   "title": "TSM, MU Stocks Look ‘Much More Compelling’ Than The Chip Index, Raymond James Says",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUnlNLTNVV1U2VHJGTDJua3FJeXhHSnFuRWRQclZLN3hDV2lOYXZYQ1dSYk1RM3pWR0NINlk3eUhxM3JIaHVnNzN6TFZkOV9VNWhQdWRnOEd0dm94MURNVmxwTzlMYWg5dWVfdmRXd1Z2Q3BVXzBzNGlpTEJnVjIwV2VGcGxaM0RoLWEzWFZ6bEd0MHJfV3FNZnVwSEhTaVMwRGVmWjRnQ1FvV0NudGw0M2VOcllMYkVBODBlMW4wR1k?oc=5",
+   "source": "Stocktwits",
+   "published": "2026-11-10T19:28:31Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-semis",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
+  },
+  {
    "id": "08ebd0252f200a9a",
    "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia Leader",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNC1PeXp3dElIZEN0SUdTQ2lnMGZoM2UzOUt4VWZkSnJfNy1nYkJLdW1KRkdtNFQwMUZEWlY0bnJZTFFnSjBnU1pxMWI4d2MwRlk0bmRydTJqbU95dXhEcDZIbDJod1dnMEQyOEZRTUY1Qy1wRGpwc0VYUEQ3NVAwRQ?oc=5",
@@ -672,26 +796,6 @@
    "base_score": 5.5,
    "source_bonus": 1.0,
    "score": 6.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T20:29:43Z"
-  },
-  {
-   "id": "0f4af244886c2796",
-   "title": "出口限制效應！大陸稀土境外價格狂飆價差上看百倍| 全球財經| 全球",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1seTk3UVpZUkRidFNoYTREZE56RjJSVm1MWFl4TENSdnkzcEhLVHF6dWNuak9YVzkwdFlKS0U4V2t2RW81NktKeWtxRzd1ZGdq?oc=5",
-   "source": "UDN",
-   "published": "2026-11-10T19:19:05Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-world",
-   "categories": [
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 2.5,
-   "source_bonus": 0.0,
-   "score": 2.5,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-10T20:29:43Z"
@@ -760,6 +864,26 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-10T20:29:43Z"
+  },
+  {
+   "id": "1023781263a7af80",
+   "title": "Who is Nvidia CEO Jensen Huang's wife? What to know about his family",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmphWGpSNFNzRllhS2V6T0lPVDFTVWF5aTBDRUNfRUJ3QlRkOHRma0JEVDZRUUpxQTJBdlVfVWlJZjUyY1ZOaWtLSnFTeDItY053Q1E5NUROcFA1aks3WVVkNVRmalg1WXVOaVVGV0RtU2RyYkhNNFZjaWU0dmNoa3pnYmpxcmRpa0oyRmNlVnJCTzVoUkNqYw?oc=5",
+   "source": "USA Today",
+   "published": "2026-11-10T19:13:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-ai",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
   },
   {
    "id": "e24f685a8ada6cf2",
@@ -1943,6 +2067,27 @@
    "first_seen": "2026-11-10T20:29:43Z"
   },
   {
+   "id": "0889864a522c3f54",
+   "title": "Chip Stocks To Watch And Semiconductor Industry News",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOE90WGMyV2RoaVE5dU0tX2NTMFNLejVhRWoxZEZpS3lBVllNSGlZMkNpVkZoRTd2YmI2dXBDM1NEUVlEZU1tcTU5aDZmZXhZUzJ0cHJ5YUVNZkt1aHdPZFFyYUo0X0poc1VQb0hpMlpGbFhodlpmcUZyMHBNcWFfSFloLUVTaXRGcUM5NngxcXJvMUpxUlBfckl2RWpFX2J4a25McE5iWEZERkE?oc=5",
+   "source": "Investor's Business Daily",
+   "published": "2026-11-10T17:08:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-semis",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
+  },
+  {
    "id": "11d89524bba3914f",
    "title": "美10月通膨高於預期 美股重挫美債殖利率狂飆",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLN21NT2xZd0Fzdll4RUp4NEdmdDBqODZtSzRiM3pFUVVHazE5ak5hOXl3TkVXQW9ORmtwQnI5NHo3T2dyeFNaZFd6ZTBOZmZqY00yMEJjZ0ZtbmI3bEs2cg?oc=5",
@@ -2463,6 +2608,26 @@
    "first_seen": "2026-11-10T20:29:43Z"
   },
   {
+   "id": "19004de883ce9d39",
+   "title": "'Not great': October CPI inflation rises 0.4% as food and rent costs spike",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMXBDMy0wcHctM2JTNXIzWHBBZUJMSWhzUFI4WDVWcXRPNy1Qby1GaDR4VTl1NFdpb1ZfMXdkaDZnR0kyMk9rek1sMExiWlhBQ1A4a1B6S281RnNmSWc1bXd1Zi1qQlpGVXp5WlBDb1dsOHRMeVBPNjFSSkJGU1dCN201SXVXVFY3MC1hQk1YMXNaM0N2M0Z4TkZUOWwzWmVPNDFQaTRSVmRVWndwSmEyS3hudmZudHJMT21Hcmw3N3ZKd1pIeFJFU00welk1bmc0elhDc0J6ZURtS0lqN3hSZnlDTi1oN00?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-10T16:14:13Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-macro",
+   "categories": [
+    "macro"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
+  },
+  {
    "id": "0fef3ef44e47cc7c",
    "title": "IBM最大事業部縮減簽證擔保 受影響員工兩條路「轉赴海外、年底離職」",
    "url": "https://news.cnyes.com/news/id/6657755",
@@ -2759,6 +2924,26 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-10T20:29:43Z"
+  },
+  {
+   "id": "e20b2cc923b7cbda",
+   "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVkxZjg5UmtfRlNGbHF6VGlMMFBaWHY0SVl6QkdtUEJYT3hid0JWdWJrTE1iaFZDYzdYcmwzNzN3NFFfdzJLQjlnN2xDTnRkSVdmLXF3SXpkN2t6c0JtaXhOUUZTenBTMzUwYWN5OTRkLTh1VFdSbUZDbVlLeW1TOHVPcEpsWUlzNGZCUw?oc=5",
+   "source": "The New York Times",
+   "published": "2026-11-10T15:24:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-ai",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
   },
   {
    "id": "96e7b8aead8d9f0b",
@@ -3101,86 +3286,6 @@
    "first_seen": "2026-11-10T20:29:43Z"
   },
   {
-   "id": "f0dcadc9c9f1309a",
-   "title": "通膨仍火熱！美CPI月增0.4％高於預期 Fed理事華勒挺擴大升息至2碼",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sM1VUY3dpUnNIaml0QS1LMG84NlljUWlicTFmUjZhQVdHZlFJd28yaWJ5NGMydzB5WDl3LUZGX0lRQUVKalRjV2RiM1AyYzVleWVjQXdFTnNmSlNkSU0w?oc=5",
-   "source": "自由財經",
-   "published": "2026-11-10T14:51:16Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T20:29:43Z"
-  },
-  {
-   "id": "f5194855a22b894c",
-   "title": "FPT opens trial operations at semiconductor testing plant in Vietnam",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcTgxYjMxYk1KbjdNZUJYc1U2U01kVFBzY2NQc3lNZzdLQjBHRWEwcEJOVnFHMV9lVFJiSFZPU0w2V2lERklXZU1PNEhxMlhyT2lJWUdrdDJRSmlvczYwN0JwQ2g4eXJpRk81d1dXWFg2N1MxaGhscDZiWlkzUjY3ZC1XQ0ppRW1DZTQtTFpVNDJnYkFHUlJNRw?oc=5",
-   "source": "Cleanroom Technology",
-   "published": "2026-11-10T14:47:54Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-semis",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T20:29:43Z"
-  },
-  {
-   "id": "c8c9abab97695c63",
-   "title": "醒論壇》莫讓通膨「加乘效應」 衝擊弱勢家庭（戴肇洋）",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51dk91YXVzS3ZtLVhoZDFmMUUxY2tJckctenpjdjJiNzlfZ0ZuMFlPU0JXSE80Y2pXaU50LV9lMjJoa1dkWFItWmZxZDEtWFdiY1pTcDZnQVgwTEJaUHVhSENlVUxyNzg?oc=5",
-   "source": "中時新聞網",
-   "published": "2026-11-10T14:47:49Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T20:29:43Z"
-  },
-  {
-   "id": "ce06361652a6bf77",
-   "title": "US inflation higher than expected in October - here's what is happening with prices",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94cm1GbWVRWGF6Si04Sjk1aS0wRjBZYWZLbHZKbFNQTjBGRXN0S2pmZExNN2wzdEhQdmRUWlZTT19JQkdLbER4aFA2TEhBTFJqRGNLWkdYbEdIdTg?oc=5",
-   "source": "BBC",
-   "published": "2026-11-10T14:45:46Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T20:29:43Z"
-  },
-  {
    "id": "2cdf86efba8e2607",
    "title": "Stock Market Today (Nov. 10, 2026): Nasdaq falls after key inflation report",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXI1X1p4UVRNam96OFNwcnd5b0E2T004SGNxVC1SNFZTNlpGbXltbTZ4X3dTWXRKVEZ3cUU1c2VBWTdNQWxFTF9RaU5yXzA5S01wcDlzSU1LeEZYV1hEd2pDdHhza0xWUE0xNzNIeFp5cXh3Y0VzTzdWbm1rMDBUVkRDVV9PY3QzSXYtUHIzR0tlTEp2?oc=5",
@@ -3248,26 +3353,6 @@
    "first_seen": "2026-11-10T20:29:43Z"
   },
   {
-   "id": "358f60dbb8c30c5e",
-   "title": "10月消費者物價指數高於預期，聯準會12月升息機率升高 - 新聞與統計",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTlhTV9qZlRnQkh2ZmhNUEpFbmg2cnh5MXVLR29YdXdEajNzbDdlcVlCUGlwaTNMa2kxVW5KenVOZUQxbVJKelZ1NmhXN0dydXRLanNkdlNxN2duUG5XeHo0RlkteGMwQy13VGU2a3RFazNKREdpMnZKQ2poVzc1TGl6LWlEZXBpd3JWXzR2SGN4X25GMGNtdnVheW9UbXlxTHJzY3NwNU9ZWnk0Z3hCVldacw?oc=5",
-   "source": "IndexBox",
-   "published": "2026-11-10T14:40:52Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T20:29:43Z"
-  },
-  {
    "id": "d5724cf82883652f",
    "title": "〈美股早盤〉才反彈兩天又遇賣壓！CPI超預期 主要指數開低、科技股領跌",
    "url": "https://news.cnyes.com/news/id/6656401",
@@ -3285,26 +3370,6 @@
    "base_score": 7.5,
    "source_bonus": 1.0,
    "score": 8.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T20:29:43Z"
-  },
-  {
-   "id": "831190d8c0b56940",
-   "title": "Gas prices dip below $4 but inflation remains stubbornly high",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaTh5aWJsRFVJSUxRX1BzWEpjakhNNTk3dXJpNHh1eE1yc0tRQ08waUtIdjQ2OUY2Ni1INGlrZkRVQjdQd3lMMWtUemN0QVQtdVlZaGtUejg3aHpnWEpScUVoNnhFQTJsbzhzcHM4RURJNWlVMmxIVEdqVTd5Sll2NlR2UkRwaHN1a0k2OGdkeW5hclU?oc=5",
-   "source": "NPR",
-   "published": "2026-11-10T14:35:50Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-10T20:29:43Z"
@@ -3351,26 +3416,6 @@
    "base_score": 3.0,
    "source_bonus": 1.0,
    "score": 4.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T20:29:43Z"
-  },
-  {
-   "id": "a9d80a77cdcd30d7",
-   "title": "【美國】10 月 CPI 核心通膨超預期，市場完全定價 12 月升息 | 財經Ｍ平方短評",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EaEZZVmw4STZlTEVNdTRLRzJTVkRZeWlxV0VsQk5ISGRORGZSOHBrUXNCQVZ0aVNMYTZ0N2dwcnBrd1piR1V1WkZTR0psVE9KT0IwTkRn?oc=5",
-   "source": "LINE TODAY",
-   "published": "2026-11-10T14:34:28Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-10T20:29:43Z"
@@ -3434,26 +3479,6 @@
    "base_score": 9.0,
    "source_bonus": 0.0,
    "score": 9.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T20:29:43Z"
-  },
-  {
-   "id": "bcbdbd08d2a23421",
-   "title": "聯準會理事華勒呼籲提高利率以抑制通膨",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0x1V0lPdmNHTUZpQ21YeHI3OTVEMFYzeHZjb2FQOTRORW9vRFBWOWpfcDJlUU1Rc0Q2UHNLb1ZETmlHNXhBU0RGWEwxTWlnRWlNdFlwcFkteTJOQzY4RC12cTlpbmJvcGxib3lFcHRGQmRsRHQtY2tsN041cG15ck52eEJ6WHA5RHR2aVFwN1kzaWllN0w5cDktZ0s0QTVZVUJpZlB2c2lCam1LakJ3ek9mSVk5eGF0N1czLVJpU2poWFRsSzQyVHk4ejc?oc=5",
-   "source": "www.tmgm.com",
-   "published": "2026-11-10T14:24:37Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-10T20:29:43Z"
@@ -4335,26 +4360,6 @@
    "first_seen": "2026-11-10T20:29:43Z"
   },
   {
-   "id": "048c06f55ec6e34e",
-   "title": "黃仁勳情婦黃樂是否為中國公民？中國外交部回應！",
-   "url": "https://news.cnyes.com/news/id/6655963",
-   "source": "鉅亨網",
-   "published": "2026-11-10T10:55:31Z",
-   "summary": "外媒提問小三黃樂是否為中國公民，中國外交部對此表示，所謂「中國間諜」論調純屬捕風捉影。 黃仁勳8日向全體員工發送內部信件，公開坦承對妻子不忠，並向家人與公司同仁致歉。 胡采蘋說，黃樂本名應該是黃小樂，過去長期在中共官媒當電視記者。",
-   "lang": "zh",
-   "feed": "cnyes-us",
-   "categories": [
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 2.5,
-   "source_bonus": 1.0,
-   "score": 3.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T20:29:43Z"
-  },
-  {
    "id": "bb90bf0a84f65c07",
    "title": "台積電跨足記憶體？DRAM教父高啟全喊不可能：製造技術完全不同",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjRDS0lja1JPbk1WQ0YwN3N3RjJkTU16b3RNaGM0N3o3MTRUUHlFbUd5bGhlSmhVMFgwQUNmSDhDdFpwTmdjVV9ZUG41dS1HZ3lzR0hfUzN3ejhHa0J2VUhydDdOU2ZNaFZZU01VNnRtOEF0WFJHdjlOMVhxVW8td3BR?oc=5",
@@ -4373,29 +4378,6 @@
    "base_score": 6.0,
    "source_bonus": 0.0,
    "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T20:29:43Z"
-  },
-  {
-   "id": "28775e54b2025884",
-   "title": "[Closing Market] KOSPI Rebounds 4% as Tech Stocks Surge",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLdXByZ2luV08xMUtCYWd0RG5fMWJRVUtJOFhRbWF0cWU2eDJDRTA4QUVVQ3dXMnpIUVBwdzFCNjJxLTRNS0xpT2FCZUU4STd6emw3NEc1b3pfNVdtZHBpZW1tWjkxYU5zVDl3VlBXNUFnNGFN?oc=5",
-   "source": "Businesskorea",
-   "published": "2026-11-10T10:47:30Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-hynix",
-   "categories": [
-    "holdings",
-    "market"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 3.5,
-   "source_bonus": 0.0,
-   "score": 3.5,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-10T20:29:43Z"
@@ -4466,6 +4448,48 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-10T20:29:43Z"
+  },
+  {
+   "id": "15283cbdc8072bf3",
+   "title": "SiTime delivers 20.63% annualized returns over past five years",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlNhbUxvR29oR0tLR3Z0U1Y0R0NjNDBWRE8tZkVFd1FBLTZkeFYzdUI3RUZ5cVdVYzVRUWlnb25HTUVWLTQ3LXdYa196RWVuR2RuUVo0TmRsSUVSS3JNNXpLSWIzZUktbVppMGo3TC1PQkV1M0lXUjdfcllhbmdLaVl1YTNyWkp3aVE0TUN3M2pVT2Jja2NENXhRd2MzeTMzT1lDdXFNSC1jODNGdVY0WHBQWQ?oc=5",
+   "source": "scanx.trade",
+   "published": "2026-11-10T10:21:43Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-sitm",
+   "categories": [
+    "holdings"
+   ],
+   "symbols": [
+    "SITM"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
+  },
+  {
+   "id": "113ddd248bba818f",
+   "title": "半導體股拋售何時結束？美銀預測2027年初落底、揭示三大投資情境",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XOVlneHFQOU02MnJKY1VBaGdLRXE1aUFON0lFaUJsRHJiN0JnRjh6YWpUeC1WRzU5bDR3WkhBbVVBMHJnQ1dqZlBqWFA2cGs?oc=5",
+   "source": "鉅亨網",
+   "published": "2026-11-10T10:01:46Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-semis",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
   },
   {
    "id": "b721132258a4db79",
@@ -4812,6 +4836,28 @@
    "first_seen": "2026-11-10T20:29:43Z"
   },
   {
+   "id": "4a8759162e3a2cfb",
+   "title": "Kioxia Leveraged Product Debuts in HK After One Year Hiatus",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2tXOGZGMlZYelBZNWRGdU1JRHRKRkpDZVZRN29KV2pyZ3d4ME9lbndYRmhBRm5qbDJnaFNRdHB3SjBjV285R0xJVVJ6QTYtTlI5dUFYVnlJaThoTWlYbTUzZEVBV3RQdmF1OUI1UDdWQlNScWhwMzhuNjA4dWVyY2sxRWVQa3M5RVpxR3ZmU3JSVUZXaGVYbWgxc3JqS0Y3V0NEZ3M3VXp0ekNQbzdr?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-10T08:56:38Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-hynix",
+   "categories": [
+    "holdings"
+   ],
+   "symbols": [
+    "DRAM"
+   ],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
+  },
+  {
    "id": "b3e595ce7e989f17",
    "title": "SiTime: Same AI Boom, Different Cycle",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkVKYmtkZnZLU1RNMGJSdmcxM2p3d040U0o4UG11Q2FLUFFzRG9ORjBtWEE2OHBKbWZUd3hSOERreUNld0VHN2lxSkVzZVhoZEw2dGZqRUZaYTNHbU1wTVFvQkNBV2ZxbGljazhYNXJNaXZ3LUpyU0g4NDJDdlBMWVU5MFpVOG5ZUUE?oc=5",
@@ -4922,6 +4968,26 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-10T20:29:43Z"
+  },
+  {
+   "id": "5bc8883ffa2ed6ca",
+   "title": "Chip Maker Infineon Lifts AI Sales Goal on Strong Data-Center Demand",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZTNXRnVzUzRYYmw3WkRwYXFBelNkMG4tT1dDWDF0LS05eEkzV1diR2h5RDVVUE42ZjZ2QXh5TnI4UWl2NGt3azJNTW01V2g1VHNTMm5Vb2I0ZVdfYVpZTFpCR3djUGVXZjdEVDZKZDNlNU50Q2hJZHl3STdiSnM4ZHNFZlJWMGpZUFpVc2lLck94ZXBIVGdPbS12Z2J2Z05aZXNuMHNqdmlzLUFIUFBZcG4yYjUyZ1FM?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-10T08:38:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-semis",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
   },
   {
    "id": "e096b2bd66302376",
@@ -5438,26 +5504,6 @@
    "first_seen": "2026-11-10T07:49:10Z"
   },
   {
-   "id": "afda26ec8386f85d",
-   "title": "Norway Core Prices Cool, Likely Reducing Pressure for Rate Hike",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnVnT2xLMHJZQ2hCWGFsUjN4bVB2U0k4SXBLdHZXcm02a0Rrdm9xWTlMQTJPMEVRamp1NkJlclNDN2FfVENIcjBWQlNSTjhuRGNyNGlrQUhmZjhFenJQU2N5TXdIbEFZYkxLRkRuLXZyczU1Nk5OREs5bFlwWDdqMGlxdWZYSGo4eVliaWJWQjNzXzIwNWdfM3M5alpNWUhpNllNZkE0clc0ZzhmUWpmRGFyWQ?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-11-10T07:17:00Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 1.0,
-   "score": 4.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T07:49:10Z"
-  },
-  {
    "id": "657ca987141eb683",
    "title": "Quantinuum Advances Reimei Quantum Computer to H2 at RIKEN, Expands Collaboration with SoftBank for AI Data Center Integration",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWV9NaHhNUnFHQ2ozWFVDaWpKSHRJeDQ4MVM0NW5tOW51M0hQM0R6Si1GejFieGc3ZDJjRzFjQkd0bXVheUpIZGhQQkJDZHpjWXcxZWFIRHRldDE3Vk1xRlYtdnQ5SlUtWHozQjFxaXo0NjRtVHd5ZUNKNFJSeHNQLWw4blh4TkRqRUFSR0lhb1hrak5LTVVOV0tZNE8tQ1ZkNlhIZi1EenVaUlJMSUFTam5vOGM4Ym0tYUozRlRfQ0tnYkNaam1MUUZuOVlZbGFtZWFXUmxKbHdvM2hneG5ZZWZMVTNCLXdIQ3haTWk5c2lWWmNSSVhfME5nQjJkSGtPM2c?oc=5",
@@ -5556,6 +5602,28 @@
     }
    ],
    "first_seen": "2026-11-10T07:49:10Z"
+  },
+  {
+   "id": "1ea297bed2e134d6",
+   "title": "Quantinuum (QNT) Upgrades Reimei and Expands Japan Quantum Partnership",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPanBrT1F3bmtNVjhFb09IU21IcDByS0JqWnp0T2w4TzItZ2ZLQWFCdEVtUEo0VHVzTDl2bXJOZU5hdnRmNUtTLUxLeTRoTkxoV1pvNUVJTU5FUHNFX2l3LS0yVDhfaWRDTDVqZlI3eUFsaV92SWpzckJIb25KWVRZZDRiaTlfQnZTZ3Zod3BGN2RMZVRZWUtvWk4yajladUs3VXJaaXVqbS12SHZXdUNXY1RRczZDc3JvallReTJscnE5Y050OTJZUUd3?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-10T07:00:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-qnt",
+   "categories": [
+    "holdings"
+   ],
+   "symbols": [
+    "QNT"
+   ],
+   "base_score": 6.0,
+   "source_bonus": 0.0,
+   "score": 6.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
   },
   {
    "id": "d93583cfe16282a3",
@@ -6146,27 +6214,6 @@
    "first_seen": "2026-11-10T07:49:10Z"
   },
   {
-   "id": "321551addc2a575a",
-   "title": "美股資金悄悄「換車」：科技股退潮，10月CPI成類股輪動行情關鍵考驗",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3WElwRGNEdm9kMkllcEVHY3NwVTRPOVB2X2xUbDdUcF9OTzNTWWF5YmF0R2FtVDBFVlFXV3U4eHEyOXA0WjZkUUd5SmdiNHRqLVhnY2xJS3R2V253bTdIMzcydkRIdUFkMWttSTZiVU11S2x6TzFaWFR3?oc=5",
-   "source": "BigGo 財經",
-   "published": "2026-11-10T04:25:00Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-market",
-   "categories": [
-    "macro",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 0.0,
-   "score": 4.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T07:49:10Z"
-  },
-  {
    "id": "25ebc5a5e0bd254c",
    "title": "Ukraine, ICEYE and Nokia sign exploratory satellite communications LOI",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMUJfT29JZ3dMT3hnWnBFSlIyc2JmOExmREVsWUxOcDB5Y2NWdjZ1TW9JbHNmYVd0aHpKY0gzYklIVXJLTWc1TktYaFRIalFjdFV3OGJNSWFzc0YwQ2pTdDhILWQ5dGctRWR4YV9Ja2tNamoydzd3UGN1dUZEYUJvQTFzNi1YUXdQWjN4Q2RIbThmWmY5dGh6YUZXQQ?oc=5",
@@ -6274,27 +6321,6 @@
    "base_score": 5.5,
    "source_bonus": 1.0,
    "score": 6.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T07:49:10Z"
-  },
-  {
-   "id": "de14fcc8e467e6dc",
-   "title": "美股資金“換車”不撤離，CPI成輪動試金石",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYnJRY0ZuMGtLWVo2N1dBeTJrTmUwelBVMjQ4R3NwRldRRzlubEU2c0FzVkY1Z3JtSVZsT0tEcUpWaXZtcmtrbFNYVElveUFQYjBnRGxmM1V2aWhyRk5mZXljRk9IRDNUQTh3WmttR0F6ZmR4YnpJeVF4TXVDUFVYV0U3Q2lUakZ6YlByQWJpbw?oc=5",
-   "source": "群益期貨",
-   "published": "2026-11-10T03:55:03Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-market",
-   "categories": [
-    "macro",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 0.0,
-   "score": 4.5,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-10T07:49:10Z"
@@ -6455,12 +6481,16 @@
    ],
    "base_score": 6.0,
    "source_bonus": 0.0,
-   "score": 6.5,
-   "coverage": 2,
+   "score": 7.0,
+   "coverage": 3,
    "also": [
     {
      "source": "Macau Business",
      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPazVWMjRBcUtqZzBxUnZGZEwzSU5wdnhfYnJOREtwS3lxZVlvanBhZ25qUldwalNyQTRqaGV1dGpVU0pGVUE2UW5UQi1UamczWlZiZl9BZ2x4UE9zbzZKLS13ZVRTUXRzQkUxUkVicVRLTnFMUld5RjJpMldlYnpqRzhZeDVFTDJURGV1ZS1hVHdyOTBNdGRQbEtGcGppQVJDUURTU21oa0hHeWlHNDlqdFNRSFVvLTdPeTJaeXNoMzIyZmhqNkJPS0pXNkgzRGNOSjJpaVhyZ1hSQThlNTVXeF82NjRKcmVLMEFtUW1tbjBLTEhPT2hhWEpic0xNbi1mTzBTWlBReVMxcmdiNXhVZXRzSEF3TjlYdktpM3ktSGdYSnAyNWRfczhVU2Z2Q21RUndWM0hRREJfWFlSSFFKWlJB?oc=5"
+    },
+    {
+     "source": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zV1VMRUZMSDRmVlllUy0tQzlWYWV4d1lyZ0lCU2psaEJlWTJwRkl1ajZNcXpTcy1ScktLMGJyZGRoc3RPemlSUDc0UW9sdm1ocDBteDY3TWpnV3lmNHgxXzhZVGRZVEVmTlJJ?oc=5"
     }
    ],
    "first_seen": "2026-11-10T20:29:43Z"
@@ -6951,6 +6981,27 @@
    "first_seen": "2026-11-10T07:49:10Z"
   },
   {
+   "id": "acde48b006216590",
+   "title": "What is Megaspeed? The Nvidia chip buyer in the spotlight after Jensen Huang’s affair",
+   "url": "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html",
+   "source": "CNBC",
+   "published": "2026-11-10T01:33:36Z",
+   "summary": "The Singapore-based company has previously been probed for allegedly supplying China with Nvidia chips.",
+   "lang": "en",
+   "feed": "cnbc-tech",
+   "categories": [
+    "semis",
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 5.5,
+   "source_bonus": 1.0,
+   "score": 6.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-10T20:38:18Z"
+  },
+  {
    "id": "fcd266e5d696a7d6",
    "title": "費半大漲近7%+油價降溫，AI算力反攻“再闖一關”：今晚CPI數據成試金石 作者 智通財經",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aNGw3RVZBUjYxcFlndEFnYzIxUjRERHhGNFFvSEhUQzZqYkhEenBFTlZMRmctb1BNcm9tM3loVTN2OXVaM0tpV1ZGRno0bEpLY0ROUzI3c0w5S2tfZkZXc3FhWXpzV056bk9vQUZCT3k?oc=5",
@@ -6976,29 +7027,6 @@
      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80WFV4cWhPSUVYWDNoS2xBVGxROG53Y2p2a3I2V1RaQnBWVlFaSGtidHVRRWRhYzlDcDVqb2FSeU52WVgzT1hKRQ?oc=5"
     }
    ],
-   "first_seen": "2026-11-10T07:49:10Z"
-  },
-  {
-   "id": "24a5e24492138709",
-   "title": "Wavelength services in the AI era: opportunities for telecom providers",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ac0NFUXhJb21QVU43WFZWX1BWMTQ0VG00THlKQWE5endYLUhPQlM4VjQ2bENKS1RteXI2SWVwTlEyZGIwSVpja1h3VWgwby15dXlqNDVjZWhmZDNDNURscXBvZFRLdmxlRGtQTGpZSTNzLTNsLVktSjlNdnMzZw?oc=5",
-   "source": "Nokia",
-   "published": "2026-11-10T01:14:33Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-nok",
-   "categories": [
-    "holdings",
-    "semis"
-   ],
-   "symbols": [
-    "NOK"
-   ],
-   "base_score": 5.0,
-   "source_bonus": 0.0,
-   "score": 5.0,
-   "coverage": 1,
-   "also": [],
    "first_seen": "2026-11-10T07:49:10Z"
   },
   {
@@ -7647,27 +7675,6 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-09T22:59:50Z"
-  },
-  {
-   "id": "e7e320ce81413c5d",
-   "title": "A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXJiaTdrLTJPT0c5MzNWQ0tldUVWWkN6MEdxU0xzSHdDUEwtQ2VrN1RpWndpUXBhb1AwN2JQZnpxeHJvY0M4US0zMnRTdDhEMDhtek51Q0lxaGV0ZDlhNFA3NllXNmlBWWpOUHI1OXZ3SEgwZEZQdVU0c2ZSc1ZZRjkzS2h2cXUtdFMwR180eDU5dWlzOVk4dUZUamNESGU5eDYwWDBFSE1mRmZBZk80VFBNS2tacW9mU2VlUHBYc1ZFZmRLWWVpaU42MA?oc=5",
-   "source": "TechCrunch",
-   "published": "2026-11-09T22:46:09Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-ai",
-   "categories": [
-    "semis",
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 5.5,
-   "source_bonus": 0.0,
-   "score": 5.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-10T07:49:10Z"
   },
   {
    "id": "aaa2cd7922396936",
