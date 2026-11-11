@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T07:16:03Z",
+ "generated_at": "2026-11-11T20:12:52Z",
  "week": [
   {
    "title": "FOMC Member Waller Speaks",
@@ -63,18 +63,6 @@
   }
  ],
  "upcoming": [
-  {
-   "id": "korea-exports-10d",
-   "title": "韓國前 10 天出口初值",
-   "date": "2026-11-11",
-   "datetime": null,
-   "kind": "indicator",
-   "approx": false,
-   "affects": [
-    "DRAM"
-   ],
-   "note": "每月 11 日公布當月前 10 天出口"
-  },
   {
    "id": "korea-exports-20d",
    "title": "韓國前 20 天出口初值",
@@ -209,6 +197,18 @@
     "TSM"
    ],
    "note": "通常在每月 10 日前公布上月營收，反映 AI／高效能運算需求"
+  },
+  {
+   "id": "korea-exports-10d",
+   "title": "韓國前 10 天出口初值",
+   "date": "2027-01-11",
+   "datetime": null,
+   "kind": "indicator",
+   "approx": false,
+   "affects": [
+    "DRAM"
+   ],
+   "note": "每月 11 日公布當月前 10 天出口"
   }
  ],
  "errors": []
