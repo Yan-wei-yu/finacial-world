@@ -1,27 +1,33 @@
 {
- "headline": "CPI偏熱推升10年債近5%，科技股回檔、輝達重挫",
- "mood": "偏空",
- "mood_reason": "CPI超預期、殖利率近5%、美元走強，那指期貨續跌0.9%",
+ "headline": "CPI偏熱、輝達重挫，那指費半收跌；期貨與ADR反彈",
+ "mood": "中性",
+ "mood_reason": "CPI超預期、升息疑慮與AI估值壓力，但期貨轉強、亞股與ADR溢價偏強",
  "key_points": [
   {
-   "title": "CPI偏熱，殖利率逼近5%",
-   "detail": "10月CPI高於預期，美債10年期殖利率升至約5%，早盤主要指數開低、科技股領跌。市場擔心聯準會升息，美股壓力恐未完。",
+   "title": "CPI超預期，12月升息預期升溫",
+   "detail": "10月CPI高於預期，四大指數收黑，市場升息兩碼機率上升；美債10年殖利率升至4.98%，壓抑科技股評價。",
    "impact": "利空",
    "sources": [
     {
-     "n": 25,
-     "title": "〈美股早盤〉才反彈兩天又遇賣壓！CPI超預期 主要指數開低、科技股領跌",
-     "url": "https://news.cnyes.com/news/id/6656401",
+     "n": 21,
+     "title": "美股收盤／四大指數收低 輝達再跌5%拖累科技股 CPI數據推高升息預期",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92dXFlYjdYazFsZHNMYnk3WTZxai1pRG9uaU9UZTd5YVBPNnQxa2wxWEJISmtPdk1EUlpnQUJvR0ZKQWRYUklsYjJSNXFCYUVvbmxDZ1hSbzQxX0FT0gFiQVVfeXFMTjVhdUtTdGlLd1Zpd0owVG1BaEE2YzBJRTdfSF85cUk3OXVIaWVDSHFuWkE1VjNncU1abjUxR0JUVHhVMm0tLVBBRTVrT0xVV2ZDU2p3S21ZaXZjQ2lUSmlJTVE?oc=5",
+     "source": "經濟日報"
+    },
+    {
+     "n": 22,
+     "title": "美股｜CPI炙熱 4大指數齊黑 輝達再跌逾5％ 台積ADR漲2％",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Uck1FRDJlTHF1R0xHalBRREtkTks4NVEyRWt2em1GWFZIU1hJUjgzSEhsMkhZbWxXRm1NWTdRb3piOGdTVmpfYk5wc2I3RGF4OHBFVjRycUJObi1PWWRj?oc=5",
+     "source": "工商時報"
+    },
+    {
+     "n": 23,
+     "title": "〈美股盤後〉美CPI超預期 12月升息兩碼機率升 四大指數盡墨 輝達再挫超5%",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSlpPSW4xTlpZSC1iT2hWck9xYmd3VlBNNW10bGhac2RaS3JYVW84OUw1NTFzc1pEdjE5cTBKYXlsNzM0Wmc4aTQ0VC1reTg?oc=5",
      "source": "鉅亨網"
     },
     {
-     "n": 35,
-     "title": "Hot CPI Pushes 10-Year Yield to 5%, Nvidia Sinks 6%: Stock Market Today",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEpRX0ZXeW82S2llNDRDY1haT0MyWFFNRUdxd0RZZE5fRmNQQndoQnFyRndKSEsyS0JJbFhQQjRENFR2VDFKUl9nMHhkY0JjdE9XVE5pQVBzUkVHMHpySWhGUkpweW5tRGpfajhpYjFES0V4X2k5MjYwTWVtbUt3MmhHQm1DTWNMUUQ5WWpUcG5iMFU0bXlhNHRXVlZSSjR5ektkTTgtN04tall2WWsyTTdudTlBbnk1Y0ZOR21EeC0?oc=5",
-     "source": "Benzinga"
-    },
-    {
-     "n": 33,
+     "n": 29,
      "title": "華爾街看10月CPI：Fed升1碼不夠、2碼又太猛？美股壓力恐未完",
      "url": "https://news.cnyes.com/news/id/6657706",
      "source": "鉅亨網"
@@ -29,95 +35,107 @@
    ]
   },
   {
-   "title": "輝達重挫拖累半導體",
-   "detail": "輝達下跌約6%，費半收跌0.41%。輝達另有調查風波與中國晶片管制議題，亦牽動南韓記憶體廠風險。",
+   "title": "輝達再跌逾5%，AI估值疑慮擴大",
+   "detail": "輝達續跌拖累科技股，報導指晶片股市值蒸發近5兆美元；Fed鮑曼也提醒AI投資回報不如預期的估值風險。",
    "impact": "利空",
    "sources": [
     {
-     "n": 35,
-     "title": "Hot CPI Pushes 10-Year Yield to 5%, Nvidia Sinks 6%: Stock Market Today",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEpRX0ZXeW82S2llNDRDY1haT0MyWFFNRUdxd0RZZE5fRmNQQndoQnFyRndKSEsyS0JJbFhQQjRENFR2VDFKUl9nMHhkY0JjdE9XVE5pQVBzUkVHMHpySWhGUkpweW5tRGpfajhpYjFES0V4X2k5MjYwTWVtbUt3MmhHQm1DTWNMUUQ5WWpUcG5iMFU0bXlhNHRXVlZSSjR5ektkTTgtN04tall2WWsyTTdudTlBbnk1Y0ZOR21EeC0?oc=5",
-     "source": "Benzinga"
+     "n": 19,
+     "title": "輝達跌不停、晶片股蒸發近5兆美元 美銀示警標普500本身風險更大",
+     "url": "https://news.cnyes.com/news/id/6657920",
+     "source": "鉅亨網"
     },
     {
-     "n": 39,
-     "title": "美股指數期貨走勢分歧，市場靜待10月CPI出爐；輝達在黃仁勳調查風波後止穩",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQY1N3UGxOT2RhU0syOV9Jd0RUeGhiaWZuZG9BSDdQaTJFLTZwNm9hM2V0WWpRY2djeDBORFhFUFk2M3d3LUVENERrUzlRX2lzVW9MTWFrMDJobTZoVGFYVTBGWDNrTFVFQ09nOUhudXllMXhIekFVYktn?oc=5",
-     "source": "BigGo 財經"
+     "n": 20,
+     "title": "Fed鮑曼示警：AI投資回報若不如預期 美股估值恐大幅修正",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GQTA3Z09pTVh6ZGhlMHVkYVI1LVRSanVsZlQ4YlZIdnc5aTFRM0gwWktOdmQ3Zlo1U3B6cUZXSnR6WEFtY3dxU25JVWQtaDg?oc=5",
+     "source": "鉅亨網"
     },
     {
-     "n": 32,
-     "title": "Nvidia probe fuels push for China chip curbs, raising risks for Samsung, SK Hynix",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmFvMFhYQUl6WEc5MjRHaUJadjdkMEh4ZjNlbTlMQmlyWHlkTmtTMVdDcm9CTWlOUDM1UElsaVFuNE1DcGlfT1Ztb28tUnNNbHFCMWp6Q0dQdU9zQS01ZzJmTDl4ZHpyZnZyRUQ4b3d5NDVpbVVnLUtCMlJ3NzVYNzI5eVpFUzRFRjBScWhhOUdSZUNvVEJR?oc=5",
-     "source": "digitimes"
-    }
-   ]
-  },
-  {
-   "title": "記憶體族群拉回、中國擴產疑慮",
-   "detail": "美光一個月跌約40%，市場擔心記憶體漲勢退燒與升息。高啟全提醒中國DRAM兩年後產能開出恐供過於求。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 10,
-     "title": "美光股價一個月崩跌40%，記憶體晶片漲勢退燒、升息疑慮重燃",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uZ3B5ZjhaeTBpQmtLREhGUmlPcC00TzNMTUNRS05tZXZEVndEaUV1d2VleV9sUndqWFR0bkI3Zi1rdHRjcVZwZW9PX0JNRUptRXZYNk5INk1BU2UxbWdZNmJEVE85am45OWgyODYzOUNtMmxTT2FxbGJn?oc=5",
-     "source": "BigGo 財經"
-    },
-    {
-     "n": 38,
-     "title": "Micron Stock Plunges 40% in a Month as Memory-Chip Rally Fades and Rate Fears Return",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3SXVkX2Q5aUVPVmZrQ1NndnVEYk9lY1RUTlU2LUJFQ194UmJKM1BEM0FNRGpmSmdHS0o2NUpXTncxQ2h5LW9nTmlOdjB1cWswQnA2QVkxbEFXWlVtSWdtMFByeE5EcHFGMjJGYTcySHFLTTJCOWc?oc=5",
-     "source": "BigGo Finance"
-    },
-    {
-     "n": 27,
-     "title": "記憶體教父高啟全：台積電不會跨足記憶體 2年後中國DRAM產能開出將供過於求",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91cmNLOElDUUFLaXBBT3lKOGtvOTZ1UzBNZEhPYmNIUEFrcDVrbTJBWERTYnBRdHBLNzdRZDVkc0JwekpKeTk3SkRDMFNNWGlTOUE?oc=5",
-     "source": "鏡報"
-    },
-    {
-     "n": 16,
-     "title": "高啟全：台積電不會跨入 DRAM 製造，中國 DRAM 擴廠驚人 2 年時間產能開出",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbENjclVTWTBNWWEteklfdG5uWG1tWFhWVUVweTlhOTNreDFKbzY0dGM1LVpVWTZnblpiRFhYamRGaF9HWkZiQVRGRjBESlk2Ui01S0pydDV3TG5PcHd2QkZnVU4tSUxDc2F3RnFfMDFvNFRYbzM1TWdkaGJ2ZGpXZDJrUng?oc=5",
-     "source": "TechNews 科技新報"
-    }
-   ]
-  },
-  {
-   "title": "前一日反彈力道強但持續性待驗證",
-   "detail": "費半前一交易日大漲近7%，油價降溫帶動反彈；但CPI後賣壓再現，反彈能否延續仍待觀察。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 3,
-     "title": "費半大漲近7%+油價降溫，AI算力反攻“再闖一關”：今晚CPI數據成試金石 作者 智通財經",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aNGw3RVZBUjYxcFlndEFnYzIxUjRERHhGNFFvSEhUQzZqYkhEenBFTlZMRmctb1BNcm9tM3loVTN2OXVaM0tpV1ZGRno0bEpLY0ROUzI3c0w5S2tfZkZXc3FhWXpzV056bk9vQUZCT3k?oc=5",
-     "source": "Investing.com 香港 - 股市報價& 財經新聞"
-    },
-    {
-     "n": 4,
-     "title": "油價下跌緩解通膨憂慮！美股強勢反彈科技股領漲 輝達逆勢走低",
-     "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNR2toWFB2OC1MV3RVOW42T3NZN005ZG51Njd4SkJNdjhPTFloS2FDMUFaVU16Ul9GUzJoekZTMVpFVkYtT0NNU2xtZUdxTmtwa2phaG1aLUlGaWxuc1cxY0Nxdk1VbndFSWJqNGM1Qi1IV3JXZG9KYks2THMwZGRHX2FVdnlzUWhJVktyaHN1Qm1MdGwzWkRCZ3pFRWRwRjJOTlVzbGdXQ21iT0xUb0o2RzFWQXhwejA5R1ljZkNab0YyTEU1MVdUcGxSdVN1WkJxX20wdWpmS2o2OTBZQmRLNXFfTWxkUElOMzQ4VHVzS1JHWjdLdWkwbnNpN0o2TUpCRS1fQ3ZLR3p1N1UwYWYzRlRBbDhzU0R5bFphZ1d4R19mU0huam5TeXdDM3NxOHRKV2cxM0w0aFNXZVZzLWZpV0wzaEs4U2tCUk1yOGdRUGd3Zml2d0RkU0kwVGV2bUlwRHB1d2RaNzQ1X0xJZktDRktjUGs1Qk4xa1FkbWJIaGlTNjNMdUtaTTVQZ0VncE5PVm1JX0c1OHRvZw?oc=5",
-     "source": "Yahoo新聞"
+     "n": 21,
+     "title": "美股收盤／四大指數收低 輝達再跌5%拖累科技股 CPI數據推高升息預期",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92dXFlYjdYazFsZHNMYnk3WTZxai1pRG9uaU9UZTd5YVBPNnQxa2wxWEJISmtPdk1EUlpnQUJvR0ZKQWRYUklsYjJSNXFCYUVvbmxDZ1hSbzQxX0FT0gFiQVVfeXFMTjVhdUtTdGlLd1Zpd0owVG1BaEE2YzBJRTdfSF85cUk3OXVIaWVDSHFuWkE1VjNncU1abjUxR0JUVHhVMm0tLVBBRTVrT0xVV2ZDU2p3S21ZaXZjQ2lUSmlJTVE?oc=5",
+     "source": "經濟日報"
     },
     {
      "n": 23,
-     "title": "半導體股暴跌後反彈！大摩點名輝達、SanDisk、美光逢低布局 空方警告還沒跌完",
-     "url": "https://news.cnyes.com/news/id/6655279",
+     "title": "〈美股盤後〉美CPI超預期 12月升息兩碼機率升 四大指數盡墨 輝達再挫超5%",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSlpPSW4xTlpZSC1iT2hWck9xYmd3VlBNNW10bGhac2RaS3JYVW84OUw1NTFzc1pEdjE5cTBKYXlsNzM0Wmc4aTQ0VC1reTg?oc=5",
      "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "光通訊管制議題",
-   "detail": "微軟遊說川普別禁中國光通訊零件，顯示AI供應鏈政策風險仍在。",
+   "title": "記憶體股自高點大幅回檔",
+   "detail": "美光一個月跌約40%，報導點出漲勢降溫與升息疑慮；外資仍有看多目標價，但屬個別觀點。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 1,
+     "title": "美光自高點重挫36% 外資逆風唱多喊目標價 看漲空間逾140%",
+     "url": "https://news.cnyes.com/news/id/6658144",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 12,
+     "title": "美光股價一個月崩跌40%，記憶體晶片漲勢退燒、升息疑慮重燃",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uZ3B5ZjhaeTBpQmtLREhGUmlPcC00TzNMTUNRS05tZXZEVndEaUV1d2VleV9sUndqWFR0bkI3Zi1rdHRjcVZwZW9PX0JNRUptRXZYNk5INk1BU2UxbWdZNmJEVE85am45OWgyODYzOUNtMmxTT2FxbGJn?oc=5",
+     "source": "BigGo 財經"
+    },
+    {
+     "n": 37,
+     "title": "Micron Stock Plunges 40% in a Month as Memory-Chip Rally Fades and Rate Fears Return",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3SXVkX2Q5aUVPVmZrQ1NndnVEYk9lY1RUTlU2LUJFQ194UmJKM1BEM0FNRGpmSmdHS0o2NUpXTncxQ2h5LW9nTmlOdjB1cWswQnA2QVkxbEFXWlVtSWdtMFByeE5EcHFGMjJGYTcySHFLTTJCOWc?oc=5",
+     "source": "BigGo Finance"
+    }
+   ]
+  },
+  {
+   "title": "期貨、亞股與ADR顯示買盤回流",
+   "detail": "那指期貨上漲1.35%，亞股受AI晶片需求支撐，台積電ADR溢價8.86%，SK海力士ADR溢價35.49%，南韓與台股記憶體相關走強。",
+   "impact": "利多",
+   "sources": [
+    {
+     "n": 28,
+     "title": "SK hynix Stocks Jump 6.69% as Seoul Chip Rally Lifts KOSPI 4.39%",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXhLY0tBcG9FTFcwdFN1d3JnNWNSSXZRMDNIMWZiY0VTQzBjUW90RG1kaFc5UE5nRjNVdlNKR0s5NW94ejRWdUFid0d1SVJ1VEdDTVVrVDFkWU1fWGxGVmU0ejQxQjNmamN5ZkdFcF93WlFJb2lWMkFfSC1GQjNSbFZsZGF2ZzVzLTBHcVdhY0UzVWJvSjdGM1oyQjNoX2UyYlhSVHFrTG91XzExa3A0ZUhySnNMb2NCUU9GTVRQRQ?oc=5",
+     "source": "TradingView"
+    },
+    {
+     "n": 32,
+     "title": "Asian Shares Mostly Rise on AI Chip Demand Despite Wall Street's Retreat on Inflation Data",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYVpEVGNiSkU4MzQzVkxMbVd0NC14djV5ZWRiQTI3TVJURHh5eHA0U3NYZEV4azN6VF9KeDVuYXViMzcwWGlWdmJKcVpMVFJybXNweC0zSDZvVl9aRkxXSnIxVVplLUoxQmZXMm1lekNPM2lVaGxWekhZMmQ0M19HWExZdzlNOUcyZkJsTEQ0OElaMTM3WkVVLUpFYzBna0lsa0ZZdnp6THpoejl0aUxxU1hwOW13TXBRNWxyRHlDMFkwdXlURWVZOHR5aUw1dTRteTl3SmhhMUlobjNqOVY0?oc=5",
+     "source": "U.S. News & World Report"
+    },
+    {
+     "n": 33,
+     "title": "Asian stocks mixed as CoreWeave lifts chipmakers; hot U.S. inflation weighs",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2FCTWdNRzFzLTZXN3NOcWlJMHYwRkRtN3VWRTFqZVRpX09heS1tMU5VdmFMTGRyQkQ1V295c0dWWG4wZjBaMU1mS1REd1VUMVE2TWhUNWhWa3dQRmU5UXZ1bkVReUVkVjlPck5oZERZRGJmMzZBNDl4YkhPSjU1VjJqZEVEdnFocU9wakhKSzItUGp0bjlxNVpmakFESlM4?oc=5",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 34,
+     "title": "Dow, S&P 500, Nasdaq Futures Edge Higher After Red-Hot Inflation Data And Nvidia Losses: CRWV, TTWO, NLST, NBIS In Focus",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlFSZXhHRzE0blVJRUpMNzJBTHR3SU1RM0ZJQlZGMzh3bm82Y3pIRFBadTBEN0RKVjBZODhVYl9hNldvYmxRWjZPNW5KSzI1TTZvRGxrMEJzUFU2M2FWVWM2MmdWcUh0dW90OFpCbkstNWhTVnk1RU0xb3ByajM4NThwd1VYSEF3ZHVIWk5YY213b2c?oc=5",
+     "source": "Yahoo Finance"
+    }
+   ]
+  },
+  {
+   "title": "市場震盪仍大，留意後續數據",
+   "detail": "道指4天內多次大幅波動，分析師警告震盪未完；後續PPI、AMAT與輝達財報將牽動情緒。",
    "impact": "中性",
    "sources": [
     {
-     "n": 5,
-     "title": "AI晶片買了卻可能用不了！微軟遊說川普 別禁中國光通訊零件",
-     "url": "https://news.cnyes.com/news/id/6657705",
+     "n": 30,
+     "title": "道指4天3度暴漲暴跌逾千點 分析師警告震盪未完、緊盯一指標",
+     "url": "https://news.cnyes.com/news/id/6655326",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 29,
+     "title": "華爾街看10月CPI：Fed升1碼不夠、2碼又太猛？美股壓力恐未完",
+     "url": "https://news.cnyes.com/news/id/6657706",
      "source": "鉅亨網"
     }
    ]
@@ -126,118 +144,111 @@
  "holdings": [
   {
    "symbol": "NOK",
-   "note": "穆迪將其升回投資等級，並有AI網路訂單與光互連布局；微軟遊說光通訊零件議題也值得留意。",
+   "note": "穆迪調升至投資等級，並有AI網路與微軟AI代理合作消息，收盤與盤後均小漲。",
    "sources": [
     {
-     "n": 6,
-     "title": "Moody's Returns Nokia to Investment Grade as AI Traffic Forecast Takes Shape",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa1ZTQXBwX05JaHk3blNrcDItTHJWanIxZm9PbF81X29PRnJrbzlMV3RHSVQ0bUdMc2J6dzkwZGxGVUc5LUV6Yl81eFk3c1N4THBaMTltZHBhZ2xueVZVOGpuUDBWOFJUS1h2Zk5SMEtEMUxMblpLMDB2ZWRUN3ZfTV9veFItRkF4cVpkUVFYMWIxWEhYNDlGbFJaODJKMGVmZVhpRHhHUkhIMUN3dExIMGhGbHlWYjN3VWQ1dDduWFg0RnlxY2prV0t0SEtuX21IS1dqS2JRdW5LTW9TanR4dDZn?oc=5",
+     "n": 3,
+     "title": "Moody's Lifts Nokia to Investment Grade While AI Traffic Forecast Points to 2035",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOejQ2OTAzNEk5d1FtbW9YLU9MOHNzNVl2THZSX2puU2JQZ0VETW51S1JSdTVsRFo0cnY5RWlMY1pXVGNyZ2VvU2tMVUxPbThDLVhDbUtSdFpEOExoV1ZicWdFZ3dsNFpVUGp4RGFyOXcyRFljcTRzQjBJOGhoQ1pjbGswbjI0UGxmazNVcGhTbUJLYlp2dm96ekJMMWgtQzgzY3AzODhIVWF0dm8wTGdmTXRocVFGSDQ0NWhJclI5U3ZNTF94V3Qxd1NidUY3RzY3VDFOMDlJdTI3Wkk3MWtmbUY0ZEI2YVU?oc=5",
      "source": "ad-hoc-news.de"
-    },
-    {
-     "n": 9,
-     "title": "Nokia's Credit Upgrade and North Carolina Contract Anchor a Week of AI-Driven Swings",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdklpeEVBck1iOU5fM3cwQUI1cW1sRF9WSFlLMGVqUS1hemFSMUZwNjA5YlhDRWg2TVVzQnJhQ2xiX2NsS01JNDcwajNjaGZERUxoT05zQ1BTUGRmaXdMNGQ2cVlUX1BXSFpoSkd0X0lUMUdvTV8zR2RUYkZQT2NvcEJFRXhXR2hJdUZ4MkJVby14cUlRa1pfSkxxaWR4RmZCQ05lNElkeXlocEpFS0dUMmhUNEE4LV9fYUt4OFJ5eTBzZVhoRVZIZ1o3aFpZWndGYXkwZjdOUktzQnVCZ2huSzVNUkZ4LXBMalJydg?oc=5",
-     "source": "ad-hoc-news.de"
-    },
-    {
-     "n": 22,
-     "title": "Nokia eyes AI optical interconnect market, potentially challenging Lumentum and Coherent",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEhKcUpQak1hTWx6cXZWa19KU2tEYkFydnJCSkFRQXhBNk5mMmhzZG8tN09Na1MxTDF2TGF1dU9FQ3pzWXlqSmdITkJRMWRSVklxYjl6NDBPYld3RWpVTEVja0ZiWG1xdjNFVnZPay1GSGlkMlBMN0YzS1VDVUw2MGNDWUxwTWpROVExeVJVbGFzbkE5?oc=5",
-     "source": "digitimes"
     },
     {
      "n": 5,
-     "title": "AI晶片買了卻可能用不了！微軟遊說川普 別禁中國光通訊零件",
-     "url": "https://news.cnyes.com/news/id/6657705",
-     "source": "鉅亨網"
+     "title": "Nokia, Microsoft Take AI Agents Into Telecom Networks: What NOK Investors Need To Know",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQjllUXFldzJwdkRXdmVDczRFUVU4VnFiRjN2TUYwOFFtbHVJaTdoa2l6cGNMOFFKZGxGSFFVZzk2NFFJMkxaR2VmRHFxOWt4SWF4a2RGZkVuTmdOSDFXZnMtNzI2NGJPT3AyZEE4cUJaSWRNNEpnMFZJd29JSjRFUldNQkJEdEJfTm5kUllmNFBvNkpIVnFaRGtMel84NjMtNEVZRmhpem9XVUxRbjhSd05CTG9DNjR4Z25TWjVReXl0bFNlS0xYUmVnZVlteVlIWW1sa3NJc0dHSXY4TS1qWmRGdnptRUdjYTZjbERfYTRFeGlhaHFEODRENmo?oc=5",
+     "source": "Stocktwits"
+    },
+    {
+     "n": 11,
+     "title": "Nokia's Credit Upgrade and North Carolina Contract Anchor a Week of AI-Driven Swings",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdklpeEVBck1iOU5fM3cwQUI1cW1sRF9WSFlLMGVqUS1hemFSMUZwNjA5YlhDRWg2TVVzQnJhQ2xiX2NsS01JNDcwajNjaGZERUxoT05zQ1BTUGRmaXdMNGQ2cVlUX1BXSFpoSkd0X0lUMUdvTV8zR2RUYkZQT2NvcEJFRXhXR2hJdUZ4MkJVby14cUlRa1pfSkxxaWR4RmZCQ05lNElkeXlocEpFS0dUMmhUNEE4LV9fYUt4OFJ5eTBzZVhoRVZIZ1o3aFpZWndGYXkwZjdOUktzQnVCZ2huSzVNUkZ4LXBMalJydg?oc=5",
+     "source": "ad-hoc-news.de"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "收盤跌3.02%，反映美光重挫、中國擴產疑慮與升息憂慮，但南亞科毛利率與獲利創高。",
+   "note": "收盤跌2.73%，盤後反彈2.53%；美光大跌與SK海力士、台股記憶體走強並存，走勢分歧。",
    "sources": [
     {
-     "n": 10,
+     "n": 12,
      "title": "美光股價一個月崩跌40%，記憶體晶片漲勢退燒、升息疑慮重燃",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uZ3B5ZjhaeTBpQmtLREhGUmlPcC00TzNMTUNRS05tZXZEVndEaUV1d2VleV9sUndqWFR0bkI3Zi1rdHRjcVZwZW9PX0JNRUptRXZYNk5INk1BU2UxbWdZNmJEVE85am45OWgyODYzOUNtMmxTT2FxbGJn?oc=5",
      "source": "BigGo 財經"
     },
     {
-     "n": 27,
-     "title": "記憶體教父高啟全：台積電不會跨足記憶體 2年後中國DRAM產能開出將供過於求",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91cmNLOElDUUFLaXBBT3lKOGtvOTZ1UzBNZEhPYmNIUEFrcDVrbTJBWERTYnBRdHBLNzdRZDVkc0JwekpKeTk3SkRDMFNNWGlTOUE?oc=5",
-     "source": "鏡報"
+     "n": 28,
+     "title": "SK hynix Stocks Jump 6.69% as Seoul Chip Rally Lifts KOSPI 4.39%",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXhLY0tBcG9FTFcwdFN1d3JnNWNSSXZRMDNIMWZiY0VTQzBjUW90RG1kaFc5UE5nRjNVdlNKR0s5NW94ejRWdUFid0d1SVJ1VEdDTVVrVDFkWU1fWGxGVmU0ejQxQjNmamN5ZkdFcF93WlFJb2lWMkFfSC1GQjNSbFZsZGF2ZzVzLTBHcVdhY0UzVWJvSjdGM1oyQjNoX2UyYlhSVHFrTG91XzExa3A0ZUhySnNMb2NCUU9GTVRQRQ?oc=5",
+     "source": "TradingView"
     },
     {
-     "n": 1,
-     "title": "AI需求帶旺記憶體！南亞科換約效益發酵 毛利率衝85.7％、獲利創新高 砸近700億擴產",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LU050T19pQWtjTUthdlJZdXFpQVZ4b3BKOUFlcElDalMyODVRa09yNm1XY1ZJUzlEdFFtMjdwbUEta3BQQl9vYzVDQXZCZUNOQ2psQVVJb1VXMFdxbWMtTC03ZkdTQjRUX3RFbTNac0VmUkREMXpiM1EwOA?oc=5",
-     "source": "財訊"
+     "n": 39,
+     "title": "〈台股盤後〉台積電漲110元領軍記憶體、散熱族群 飆1545點收復4萬4站回10日均線",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uUEZzNGhMOThpZTVOdDNFcktzUDZ6NUFkbFl4blZqdDFWSFlkMXg0QUdSQTdqTEZSZkNZRzBJRlo1b1ZUekhVSWtyV29tTU0?oc=5",
+     "source": "鉅亨網"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "收盤漲7.47%，受RIKEN合作擴大與軟銀量子-AI資料中心洽談消息帶動；IPO閉鎖期預計11/30到期（推估）。",
+   "note": "與RIKEN、軟銀合作題材帶動收盤大漲7.39%，盤後小跌；閉鎖期推估11/30到期，可留意。",
    "sources": [
     {
-     "n": 2,
-     "title": "Quantinuum and RIKEN Expand Partnership to Accelerate the Commercialization of Quantum-AI Hybrid Supercomputing in Japan",
-     "url": "https://finance.yahoo.com/technology/ai/articles/quantinuum-riken-expand-partnership-accelerate-070000496.html?.tsrc=rss",
-     "source": "Yahoo Finance"
+     "n": 6,
+     "title": "Quantinuum, Japanese partners seek ‘quantum-AI hybrid supercomputing’",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0M4b0pId3J3SVdFVTQ0WnpWWldqekkxbHdWSHJZUTN0V1ZlVnU3MTh6U3h4U3NfMDBTSDcxT0wxMEJWMC1lMlpQd3JNNWNiQ0tPM2M1Q25FdUNBNmxTdmkxWnRNMmhBTHFmdGhkanZjMW9mMjlXSkM5VHI5N183V2NsUWRsLWdlS2VQdzlhU0VQbTZVS3hYaWtISFkyOVk?oc=5",
+     "source": "BizWest"
     },
     {
-     "n": 7,
+     "n": 8,
+     "title": "Quantinuum, RIKEN, and SoftBank Partner to Advance Quantum-AI Supercomputing and Domestic Fault-Tolerant Systems",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY092RngydnJiRkg1Vm1aeHNPSEN5dVRZZldWemdEbnRtbXlVR0c1aHktRHdobnZxQUI0bUltRlMwNUVicDBIcG52U1RnWEtOLTJBRHBMRFE4N19IZk5XZ1JLR3dmVEdHdUZESWlxbHM0blBQUWpLaUVETTBXcHh5eV9uYXNxUTloejgtb3ZfQk91eV8tbEl0QUJaQzR5TnB5c3BSM2hUQmpxWExLNi1pX2xJbGxUV19Qa2hNaFdHbWVqaGUxeE83eW16QVhpTXFjLWFKRTRfQi14WlV6LWFR0gHkAUFVX3lxTE8tVFFMTEFsZW9KRkpKblFIbEV0a0d0M21MVzJ0Z0N0N2NyZEw4b0JGeENndTlueEwyWElLSnhEQUMtejFVRUVDcEJtWjFtNTNvcHVPNGZ0bkRzSWtpRVlMSEZIbW1ObXI0ZGhkWWlIQXFFY1I0anZvbWZwOS1GcWZ4ZUxDRGl5My1ZYURSWUNETnhuTVJjUWtzS1ByNlJJdnp4WHljeXU2TjJZZ2xieXRBbUJBbDBYUnpIVTJlaF9DR2NvdGpRblZJbEU5Q1Y5RUxkdG14a0YxRVVTN0hfNVB2dk44dA?oc=5",
+     "source": "Quantum Computing Report"
+    },
+    {
+     "n": 9,
      "title": "Quantinuum Shares Climb as RIKEN Upgrade and SoftBank Quantum-AI Data Center Talks Take Shape",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KRGFsU3ItdXFjT2pNVmxzMm1MaHNPWjQyU28wVGh1dzEydmVfNDVob0xrcVpLSUZ0ZGJSTlJQbGltT0xzVXJ0eGo3QkJORVF2NDFWdTJqTFYtMWxFR0lnbGlCcDd1TE9veVgtUzlZaGNkVnBSMWc?oc=5",
      "source": "BigGo Finance"
     },
     {
-     "n": 17,
-     "title": "SoftBank Joins Research Institute, Quantinuum To Link Quantum With AI Data Centers",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNjZ2YlpsME9QekZYT090b1JJWVNLVl9LcVhlY1prVWVfdjZna1ZzbUg2WG4yaHVfR185TTRKNzhnVjJwc3BvS3NwMl9QRWxnZ0EtczkyRmV6VWQyUHFkcTgzRU9kem5tTGlGLUFEenZNWlowRkhMZGpPZ3BubDY5ek1hR201eXc?oc=5",
-     "source": "Quantum Zeitgeist"
+     "n": 14,
+     "title": "Quantinuum Inc. (QNT) Stock: Surges 6.57% as RIKEN Partnership Expands Quantum AI Research in Japan",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUVyTklkR3k3RF80cDZpSHN3R05pSVU1cDg1TTh2OVdlNkVNVHV1ZzB0YThkUDVLelZlRkdkMEUweUEycEh5dkNZcUhfOWlpdGpwd0xEdXlWQk5RdzRnWEtCMmJCNVpoXy1Xd1U2b1JTbFNkOUFBLWJiZ0NPZy1nemZQdnd3NDZDT19mak9qcGxuN09Cb3ZPYnlHUU5YdmxPci1tQXJHTkc0WWZwNmtJYXFMOWFzTGxKbHc?oc=5",
+     "source": "Blockonomi"
     }
    ]
   },
   {
    "symbol": "SITM",
-   "note": "收盤跌1.88%；新聞僅有一篇分析文章指其AI循環不同，沒有新的公司事件。",
-   "sources": [
-    {
-     "n": 18,
-     "title": "SiTime: Same AI Boom, Different Cycle",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZkVKYmtkZnZLU1RNMGJSdmcxM2p3d040U0o4UG11Q2FLUFFzRG9ORjBtWEE2OHBKbWZUd3hSOERreUNld0VHN2lxSkVzZVhoZEw2dGZqRUZaYTNHbU1wTVFvQkNBV2ZxbGljazhYNXJNaXZ3LUpyU0g4NDJDdlBMWVU5MFpVOG5ZUUE?oc=5",
-     "source": "Seeking Alpha"
-    }
-   ]
+   "note": "收盤隨半導體股下跌2.76%，盤後回升1.97%；無個股新聞，主要受大盤與AI晶片情緒影響。",
+   "sources": []
   }
  ],
  "watch_next": [
   {
    "when": "11/11 全天",
-   "what": "韓國前10天出口初值，觀察半導體出口動能"
+   "what": "韓國前10天出口初值，觀察半導體出口"
   },
   {
    "when": "11/12 21:30",
-   "what": "美國初領失業救濟金人數（預期194K）"
+   "what": "美國初領失業救濟金（預期194K）"
   },
   {
-   "when": "11/13 04:00前後",
-   "what": "應用材料財報（11/12 盤後，EPS預估4.06）"
+   "when": "11/13 05:00前後",
+   "what": "AMAT財報（盤後，EPS預估4.06）；確切開獎時間請另查"
   },
   {
    "when": "11/13 21:30",
-   "what": "美國PPI（預期月增0.4%，核心0.3%）"
+   "what": "美國PPI與核心PPI月增率（預期0.4%／0.3%）"
   }
  ],
- "generated_at": "2026-11-10T20:29:43Z",
+ "generated_at": "2026-11-11T07:16:03Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5779,
-  "output_tokens": 1207
+  "input_tokens": 5717,
+  "output_tokens": 1251
  }
 }

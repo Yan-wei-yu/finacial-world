@@ -1,20 +1,6 @@
 {
- "generated_at": "2026-11-10T20:38:18Z",
+ "generated_at": "2026-11-11T07:16:03Z",
  "upcoming": [
-  {
-   "symbol": "RGTI",
-   "name_zh": "Rigetti",
-   "group": "peer",
-   "date": "2026-11-10",
-   "datetime": "2026-11-10T21:00:00Z",
-   "session": "盤後",
-   "eps_est": -0.05125,
-   "eps_low": -0.06,
-   "eps_high": -0.04,
-   "rev_est": 3519420.0,
-   "rev_currency": "USD",
-   "is_holding": false
-  },
   {
    "symbol": "AMAT",
    "name_zh": "應用材料",
@@ -115,6 +101,18 @@
   }
  ],
  "recent": [
+  {
+   "symbol": "RGTI",
+   "name_zh": "Rigetti",
+   "group": "peer",
+   "is_holding": false,
+   "datetime": "2026-11-10T21:00:00Z",
+   "date": "2026-11-10",
+   "eps_est": -0.05,
+   "eps_actual": -0.06,
+   "surprise_pct": -17.07,
+   "suspect": false
+  },
   {
    "symbol": "QNT",
    "name_zh": "Quantinuum",
