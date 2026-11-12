@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T20:12:52Z",
+ "generated_at": "2026-11-12T07:46:55Z",
  "holdings": [
   {
    "symbol": "NOK",
@@ -170,21 +170,21 @@
   "NOK": {
    "symbol": "NOK",
    "name": "Nokia Corporation Sponsored",
-   "price": 8.515,
+   "price": 8.44,
    "prev_close": 8.25,
-   "change": 0.265,
-   "change_pct": 3.21,
+   "change": 0.19,
+   "change_pct": 2.3,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-11-11T20:12:53Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 8.2985,
+    "change_pct": -1.68
+   },
+   "as_of": "2026-11-11T21:00:02Z",
    "high_52w": 17.45,
    "low_52w": 5.86,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 9.44
-    },
     {
      "d": "2026-08-12",
      "c": 10.32
@@ -443,7 +443,7 @@
     },
     {
      "d": "2026-11-11",
-     "c": 8.515
+     "c": 8.44
     }
    ],
    "source": "info",
@@ -452,21 +452,21 @@
   "DRAM": {
    "symbol": "DRAM",
    "name": "Roundhill Memory ETF",
-   "price": 45.065,
+   "price": 44.85,
    "prev_close": 40.64,
-   "change": 4.425,
-   "change_pct": 10.89,
+   "change": 4.21,
+   "change_pct": 10.36,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-11-11T20:12:52Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 44.12,
+    "change_pct": -1.63
+   },
+   "as_of": "2026-11-11T21:00:00Z",
    "high_52w": 81.34,
    "low_52w": 26.14,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 50.89
-    },
     {
      "d": "2026-08-12",
      "c": 54.8
@@ -725,7 +725,7 @@
     },
     {
      "d": "2026-11-11",
-     "c": 45.065
+     "c": 44.85
     }
    ],
    "source": "info",
@@ -734,21 +734,21 @@
   "QNT": {
    "symbol": "QNT",
    "name": "Quantinuum Inc.",
-   "price": 40.49,
+   "price": 40.57,
    "prev_close": 43.0,
-   "change": -2.51,
-   "change_pct": -5.84,
+   "change": -2.43,
+   "change_pct": -5.65,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-11-11T20:12:37Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 39.35,
+    "change_pct": -3.01
+   },
+   "as_of": "2026-11-11T21:00:01Z",
    "high_52w": 86.79,
    "low_52w": 28.31,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 56.06
-    },
     {
      "d": "2026-08-12",
      "c": 71.74
@@ -1007,7 +1007,7 @@
     },
     {
      "d": "2026-11-11",
-     "c": 40.49
+     "c": 40.57
     }
    ],
    "source": "info",
@@ -1016,21 +1016,21 @@
   "SITM": {
    "symbol": "SITM",
    "name": "SiTime Corporation",
-   "price": 478.225,
+   "price": 472.56,
    "prev_close": 444.45,
-   "change": 33.775,
-   "change_pct": 7.6,
+   "change": 28.11,
+   "change_pct": 6.32,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-11-11T20:12:42Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 462.0,
+    "change_pct": -2.23
+   },
+   "as_of": "2026-11-11T21:00:01Z",
    "high_52w": 901.81,
    "low_52w": 243.677,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 667.1
-    },
     {
      "d": "2026-08-12",
      "c": 680.52
@@ -1289,7 +1289,7 @@
     },
     {
      "d": "2026-11-11",
-     "c": 478.225
+     "c": 472.56
     }
    ],
    "source": "info",
@@ -1298,21 +1298,17 @@
   "^IXIC": {
    "symbol": "^IXIC",
    "name": "NASDAQ Composite",
-   "price": 25502.123,
+   "price": 25466.19,
    "prev_close": 25065.875,
-   "change": 436.248,
-   "change_pct": 1.74,
+   "change": 400.315,
+   "change_pct": 1.6,
    "currency": "USD",
-   "market_state": "REGULAR",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-11T20:12:52Z",
+   "as_of": "2026-11-11T22:15:59Z",
    "high_52w": 27722.75,
    "low_52w": 20690.25,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 26445.4492
-    },
     {
      "d": "2026-08-12",
      "c": 26588.4902
@@ -1571,7 +1567,7 @@
     },
     {
      "d": "2026-11-11",
-     "c": 25502.123
+     "c": 25466.1895
     }
    ],
    "source": "info",
@@ -1580,21 +1576,17 @@
   "^SOX": {
    "symbol": "^SOX",
    "name": "PHLX Semiconductor",
-   "price": 10599.521,
+   "price": 10564.111,
    "prev_close": 9998.33,
-   "change": 601.191,
-   "change_pct": 6.01,
+   "change": 565.781,
+   "change_pct": 5.66,
    "currency": "USD",
-   "market_state": "REGULAR",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-11T20:12:52Z",
+   "as_of": "2026-11-11T22:15:59Z",
    "high_52w": 14655.29,
    "low_52w": 6160.05,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 12098.4697
-    },
     {
      "d": "2026-08-12",
      "c": 12399.3799
@@ -1853,7 +1845,7 @@
     },
     {
      "d": "2026-11-11",
-     "c": 10599.5215
+     "c": 10564.1104
     }
    ],
    "source": "info",
@@ -1862,21 +1854,17 @@
   "^GSPC": {
    "symbol": "^GSPC",
    "name": "S&P 500",
-   "price": 7625.35,
+   "price": 7619.38,
    "prev_close": 7520.93,
-   "change": 104.42,
-   "change_pct": 1.39,
+   "change": 98.45,
+   "change_pct": 1.31,
    "currency": "USD",
-   "market_state": "REGULAR",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-11T20:12:53Z",
+   "as_of": "2026-11-11T21:42:03Z",
    "high_52w": 7844.52,
    "low_52w": 6316.91,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 7728.2002
-    },
     {
      "d": "2026-08-12",
      "c": 7748.5
@@ -2135,7 +2123,7 @@
     },
     {
      "d": "2026-11-11",
-     "c": 7625.0498
+     "c": 7619.3799
     }
    ],
    "source": "info",
@@ -2144,21 +2132,17 @@
   "NQ=F": {
    "symbol": "NQ=F",
    "name": "Nasdaq 100 Dec 26",
-   "price": 28559.25,
-   "prev_close": 27835.25,
-   "change": 724.0,
-   "change_pct": 2.6,
+   "price": 28228.25,
+   "prev_close": 28473.25,
+   "change": -245.0,
+   "change_pct": -0.86,
    "currency": "USD",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-11-11T20:02:53Z",
+   "as_of": "2026-11-12T07:36:55Z",
    "high_52w": 31616.5,
    "low_52w": 22961.5,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 29626.0
-    },
     {
      "d": "2026-08-12",
      "c": 29853.25
@@ -2417,7 +2401,11 @@
     },
     {
      "d": "2026-11-11",
-     "c": 28560.75
+     "c": 28473.25
+    },
+    {
+     "d": "2026-11-12",
+     "c": 28225.5
     }
    ],
    "source": "info",
@@ -2426,16 +2414,16 @@
   "^VIX": {
    "symbol": "^VIX",
    "name": "CBOE Volatility Index",
-   "price": 17.45,
+   "price": 17.49,
    "prev_close": 19.46,
-   "change": -2.01,
-   "change_pct": -10.33,
+   "change": -1.97,
+   "change_pct": -10.12,
    "currency": "USD",
-   "market_state": "REGULAR",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-11T19:57:46Z",
+   "as_of": "2026-11-11T21:15:01Z",
    "high_52w": 35.3,
-   "low_52w": 13.38,
+   "low_52w": 0.0,
    "history": [
     {
      "d": "2026-08-12",
@@ -2699,7 +2687,7 @@
     },
     {
      "d": "2026-11-11",
-     "c": 17.45
+     "c": 17.49
     }
    ],
    "source": "info",
@@ -2707,7 +2695,7 @@
   },
   "^TNX": {
    "symbol": "^TNX",
-   "name": "CBOE Interest Rate 10 Year T No",
+   "name": "10-Year Bond",
    "price": 4.998,
    "prev_close": 4.983,
    "change": 0.015,
@@ -2715,9 +2703,9 @@
    "currency": "USD",
    "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-11T19:57:44Z",
+   "as_of": "2026-11-11T19:59:54Z",
    "high_52w": 5.364,
-   "low_52w": 3.956,
+   "low_52w": 0.0,
    "history": [
     {
      "d": "2026-08-11",
@@ -2990,21 +2978,17 @@
   "DX-Y.NYB": {
    "symbol": "DX-Y.NYB",
    "name": "ICE US Dollar Index - Index - C",
-   "price": 102.898,
-   "prev_close": 102.231,
-   "change": 0.667,
-   "change_pct": 0.65,
+   "price": 102.993,
+   "prev_close": 102.908,
+   "change": 0.085,
+   "change_pct": 0.08,
    "currency": "USD",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-11-11T20:02:52Z",
-   "high_52w": 102.962,
+   "as_of": "2026-11-12T07:36:55Z",
+   "high_52w": 103.083,
    "low_52w": 95.55,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 99.82
-    },
     {
      "d": "2026-08-12",
      "c": 100.01
@@ -3263,7 +3247,11 @@
     },
     {
      "d": "2026-11-11",
-     "c": 102.898
+     "c": 102.91
+    },
+    {
+     "d": "2026-11-12",
+     "c": 102.992
     }
    ],
    "source": "info",
@@ -3272,21 +3260,17 @@
   "TWD=X": {
    "symbol": "TWD=X",
    "name": "USD/TWD",
-   "price": 32.883,
-   "prev_close": 32.937,
-   "change": -0.054,
-   "change_pct": -0.16,
+   "price": 32.955,
+   "prev_close": 32.862,
+   "change": 0.093,
+   "change_pct": 0.28,
    "currency": "TWD",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-11-11T20:12:53Z",
+   "as_of": "2026-11-12T07:46:56Z",
    "high_52w": 33.125,
    "low_52w": 30.362,
    "history": [
-    {
-     "d": "2026-08-12",
-     "c": 32.2091
-    },
     {
      "d": "2026-08-13",
      "c": 32.2023
@@ -3545,7 +3529,11 @@
     },
     {
      "d": "2026-11-11",
-     "c": 32.883
+     "c": 32.9538
+    },
+    {
+     "d": "2026-11-12",
+     "c": 32.955
     }
    ],
    "source": "info",
@@ -3554,21 +3542,21 @@
   "TSM": {
    "symbol": "TSM",
    "name": "Taiwan Semiconductor Manufactur",
-   "price": 413.29,
+   "price": 413.35,
    "prev_close": 396.48,
-   "change": 16.81,
-   "change_pct": 4.24,
+   "change": 16.87,
+   "change_pct": 4.25,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-11-11T20:12:53Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 405.271,
+    "change_pct": -1.95
+   },
+   "as_of": "2026-11-11T21:00:03Z",
    "high_52w": 487.47,
    "low_52w": 266.82,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 422.06
-    },
     {
      "d": "2026-08-12",
      "c": 429.15
@@ -3827,7 +3815,7 @@
     },
     {
      "d": "2026-11-11",
-     "c": 413.29
+     "c": 413.35
     }
    ],
    "source": "info",
@@ -3836,21 +3824,17 @@
   "2330.TW": {
    "symbol": "2330.TW",
    "name": "TAIWAN SEMICONDUCTOR MANUFACTUR",
-   "price": 2395.0,
-   "prev_close": 2285.0,
-   "change": 110.0,
-   "change_pct": 4.81,
+   "price": 2340.0,
+   "prev_close": 2395.0,
+   "change": -55.0,
+   "change_pct": -2.3,
    "currency": "TWD",
    "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-11T05:30:01Z",
+   "as_of": "2026-11-12T05:30:01Z",
    "high_52w": 2590.0,
    "low_52w": 1375.0,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 2395.0
-    },
     {
      "d": "2026-08-12",
      "c": 2415.0
@@ -4094,6 +4078,14 @@
     {
      "d": "2026-11-10",
      "c": 2285.0
+    },
+    {
+     "d": "2026-11-11",
+     "c": 2395.0
+    },
+    {
+     "d": "2026-11-12",
+     "c": 2340.0
     }
    ],
    "source": "info",
@@ -4102,21 +4094,17 @@
   "000660.KS": {
    "symbol": "000660.KS",
    "name": "SK hynix",
-   "price": 1277000.0,
-   "prev_close": 1212000.0,
-   "change": 65000.0,
-   "change_pct": 5.36,
+   "price": 1254000.0,
+   "prev_close": 1277000.0,
+   "change": -23000.0,
+   "change_pct": -1.8,
    "currency": "KRW",
-   "market_state": "CLOSED",
+   "market_state": "POST",
    "ext": null,
-   "as_of": "2026-11-11T06:30:13Z",
+   "as_of": "2026-11-12T06:30:11Z",
    "high_52w": 2987000.0,
-   "low_52w": 0.0,
+   "low_52w": 501000.0,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 1425000.0
-    },
     {
      "d": "2026-08-12",
      "c": 1504000.0
@@ -4356,6 +4344,14 @@
     {
      "d": "2026-11-10",
      "c": 1212000.0
+    },
+    {
+     "d": "2026-11-11",
+     "c": 1277000.0
+    },
+    {
+     "d": "2026-11-12",
+     "c": 1254000.0
     }
    ],
    "source": "info",
@@ -4364,21 +4360,17 @@
   "KRW=X": {
    "symbol": "KRW=X",
    "name": "USD/KRW",
-   "price": 1336.74,
-   "prev_close": 1342.34,
-   "change": -5.6,
-   "change_pct": -0.42,
+   "price": 1333.68,
+   "prev_close": 1336.61,
+   "change": -2.93,
+   "change_pct": -0.22,
    "currency": "KRW",
    "market_state": "REGULAR",
    "ext": null,
-   "as_of": "2026-11-11T20:12:48Z",
+   "as_of": "2026-11-12T07:46:56Z",
    "high_52w": 1587.7,
    "low_52w": 1319.52,
    "history": [
-    {
-     "d": "2026-08-12",
-     "c": 1412.1801
-    },
     {
      "d": "2026-08-13",
      "c": 1416.46
@@ -4637,7 +4629,11 @@
     },
     {
      "d": "2026-11-11",
-     "c": 1336.74
+     "c": 1341.91
+    },
+    {
+     "d": "2026-11-12",
+     "c": 1333.78
     }
    ],
    "source": "info",
@@ -4646,21 +4642,21 @@
   "NVDA": {
    "symbol": "NVDA",
    "name": "NVIDIA Corporation",
-   "price": 174.905,
-   "prev_close": 168.7956,
-   "change": 6.1094,
-   "change_pct": 3.62,
+   "price": 173.73,
+   "prev_close": 168.796,
+   "change": 4.934,
+   "change_pct": 2.92,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-11-11T20:12:53Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 158.78,
+    "change_pct": -8.61
+   },
+   "as_of": "2026-11-11T21:00:00Z",
    "high_52w": 243.37,
    "low_52w": 164.27,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 217.5
-    },
     {
      "d": "2026-08-12",
      "c": 224.09
@@ -4919,7 +4915,7 @@
     },
     {
      "d": "2026-11-11",
-     "c": 174.921
+     "c": 173.73
     }
    ],
    "source": "info",
@@ -4928,21 +4924,21 @@
   "MU": {
    "symbol": "MU",
    "name": "Micron Technology, Inc.",
-   "price": 814.105,
+   "price": 811.3,
    "prev_close": 725.11,
-   "change": 88.995,
-   "change_pct": 12.27,
+   "change": 86.19,
+   "change_pct": 11.89,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-11-11T20:12:54Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 788.5711,
+    "change_pct": -2.8
+   },
+   "as_of": "2026-11-11T21:00:01Z",
    "high_52w": 1255.0,
    "low_52w": 192.59,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 868.52
-    },
     {
      "d": "2026-08-12",
      "c": 911.29
@@ -5201,7 +5197,7 @@
     },
     {
      "d": "2026-11-11",
-     "c": 814.26
+     "c": 811.3
     }
    ],
    "source": "info",
@@ -5210,21 +5206,21 @@
   "SMH": {
    "symbol": "SMH",
    "name": "VanEck Semiconductor ETF",
-   "price": 508.845,
+   "price": 506.96,
    "prev_close": 483.63,
-   "change": 25.215,
-   "change_pct": 5.21,
+   "change": 23.33,
+   "change_pct": 4.82,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-11-11T20:12:53Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 493.1577,
+    "change_pct": -2.72
+   },
+   "as_of": "2026-11-11T21:00:01Z",
    "high_52w": 671.83,
    "low_52w": 315.05,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 572.93
-    },
     {
      "d": "2026-08-12",
      "c": 584.83
@@ -5483,7 +5479,7 @@
     },
     {
      "d": "2026-11-11",
-     "c": 508.77
+     "c": 506.96
     }
    ],
    "source": "info",
@@ -5492,21 +5488,21 @@
   "SKHY": {
    "symbol": "SKHY",
    "name": "SK hynix Inc.",
-   "price": 142.95,
+   "price": 142.25,
    "prev_close": 129.66,
-   "change": 13.29,
-   "change_pct": 10.25,
+   "change": 12.59,
+   "change_pct": 9.71,
    "currency": "USD",
-   "market_state": "REGULAR",
-   "ext": null,
-   "as_of": "2026-11-11T20:12:47Z",
+   "market_state": "CLOSED",
+   "ext": {
+    "label": "盤後",
+    "price": 138.75,
+    "change_pct": -2.46
+   },
+   "as_of": "2026-11-11T21:00:00Z",
    "high_52w": 199.87,
    "low_52w": 122.2,
    "history": [
-    {
-     "d": "2026-08-11",
-     "c": 141.65
-    },
     {
      "d": "2026-08-12",
      "c": 154.41
@@ -5765,7 +5761,7 @@
     },
     {
      "d": "2026-11-11",
-     "c": 142.95
+     "c": 142.25
     }
    ],
    "source": "info",
@@ -5777,15 +5773,11 @@
    "id": "adr-SKHY",
    "label": "SK 海力士 ADR 溢價",
    "note": "SKHY 相對首爾股價（1 ADR = 0.1 股）",
-   "value": 49.64,
+   "value": 51.29,
    "unit": "%",
-   "adr_price": 142.95,
-   "implied_price": 95.53,
+   "adr_price": 142.25,
+   "implied_price": 94.03,
    "history": [
-    {
-     "d": "2026-09-28",
-     "c": 39.37
-    },
     {
      "d": "2026-09-29",
      "c": 43.8
@@ -5901,6 +5893,10 @@
     {
      "d": "2026-11-10",
      "c": 43.76
+    },
+    {
+     "d": "2026-11-11",
+     "c": 49.48
     }
    ]
   },
@@ -5908,15 +5904,11 @@
    "id": "adr-TSM",
    "label": "台積電 ADR 溢價",
    "note": "TSM 相對台股（1 ADR = 5 股）",
-   "value": 13.49,
+   "value": 16.43,
    "unit": "%",
-   "adr_price": 413.29,
-   "implied_price": 364.17,
+   "adr_price": 413.35,
+   "implied_price": 355.03,
    "history": [
-    {
-     "d": "2026-09-24",
-     "c": 15.89
-    },
     {
      "d": "2026-09-29",
      "c": 17.35
@@ -6032,12 +6024,16 @@
     {
      "d": "2026-11-10",
      "c": 13.79
+    },
+    {
+     "d": "2026-11-11",
+     "c": 13.75
     }
    ]
   }
  ],
  "fx": {
-  "USDTWD": 32.883
+  "USDTWD": 32.955
  },
  "errors": []
 }
