@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T07:46:55Z",
+ "generated_at": "2026-11-12T20:50:41Z",
  "upcoming": [
   {
    "symbol": "AMAT",
@@ -22,10 +22,10 @@
    "date": "2026-11-17",
    "datetime": "2026-11-17T21:00:00Z",
    "session": "盤後",
-   "eps_est": 2.47461,
+   "eps_est": 2.47507,
    "eps_low": 2.34,
    "eps_high": 2.7,
-   "rev_est": 109006829530.0,
+   "rev_est": 109043188870.0,
    "rev_currency": "USD",
    "is_holding": false
   },
