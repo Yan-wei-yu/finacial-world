@@ -1,11 +1,11 @@
 {
- "headline": "輝達執行長請辭疊加殖利率破5%，費半重挫3.73%",
+ "headline": "輝達風波加通膨疑慮，費半重挫3.78%",
  "mood": "偏空",
- "mood_reason": "費半跌3.73%、美債10年破5%、那指期貨續跌1.29%，輝達不確定性未解",
+ "mood_reason": "費半收跌3.78%、10年債殖利率逾5%、那指期貨續跌1.35%，輝達人事不確定性未解。",
  "key_points": [
   {
-   "title": "輝達領跌，執行長風波未平",
-   "detail": "黃仁勳請辭、新任執行長未定，匯豐降評並提及晶片禁令風險，輝達股價重挫逾4%，拖累費半。11/17 輝達將公布財報。",
+   "title": "黃仁勳請辭，輝達股價承壓",
+   "detail": "新任執行長未定，匯豐降評並點出晶片禁令風險；輝達領跌晶片股，也拖累中國AI相關股與供應鏈。",
    "impact": "利空",
    "sources": [
     {
@@ -15,28 +15,28 @@
      "source": "CMoney"
     },
     {
-     "n": 25,
-     "title": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5%",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU1MbkhnZll4OHpIdGV2VlI1ZVFhWGhKX1F1bnZvWVRGWnVkYnBfcmRIaG1PRzcyN1pTUFJzY2VWVzRMN2VqNjQ1Tkwyb3E5bGpQN1NOcTFnTVFQVmdPRjdZX2h3LTh2d2F1Y1F6SW5JWTVPWmRwXzBsVlpIbGNEWTBZLUhaRnFIWTVIY1gxSVc0T2J0blE?oc=5",
-     "source": "Yahoo Finance"
-    },
-    {
      "n": 18,
      "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
      "url": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
      "source": "MarketWatch"
     },
     {
-     "n": 19,
-     "title": "黃仁勳下台後 科技巨頭與白宮的「好交情」恐變燙手山芋",
-     "url": "https://news.cnyes.com/news/id/6662161",
+     "n": 21,
+     "title": "輝達黃仁勳辭職衝擊中國AI股 光模組雙雄重挫、中國國產晶片逆勢上漲",
+     "url": "https://news.cnyes.com/news/id/6661611",
      "source": "鉅亨網"
+    },
+    {
+     "n": 25,
+     "title": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5%",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU1MbkhnZll4OHpIdGV2VlI1ZVFhWGhKX1F1bnZvWVRGWnVkYnBfcmRIaG1PRzcyN1pTUFJzY2VWVzRMN2VqNjQ1Tkwyb3E5bGpQN1NOcTFnTVFQVmdPRjdZX2h3LTh2d2F1Y1F6SW5JWTVPWmRwXzBsVlpIbGNEWTBZLUhaRnFIWTVIY1gxSVc0T2J0blE?oc=5",
+     "source": "Yahoo Finance"
     }
    ]
   },
   {
-   "title": "通膨數據偏熱，殖利率衝破5%",
-   "detail": "10月PPI年增6.5%，美債10年殖利率升破5%，聯準會官員again偏鷹，壓抑高估值科技股。盤中費半一度跌逾5%。",
+   "title": "PPI偏熱，殖利率衝破5%",
+   "detail": "10月PPI年增6.5%，10年債殖利率升至約5.15%，並出現聯準會官員偏鷹說法，壓抑高估值科技股。",
    "impact": "利空",
    "sources": [
     {
@@ -58,79 +58,29 @@
      "source": "Investing.com 香港 - 股市報價& 財經新聞"
     },
     {
-     "n": 3,
-     "title": "債券市場如今面臨比AI衝擊更大的恐懼",
-     "url": "https://news.cnyes.com/news/id/6661137",
-     "source": "鉅亨網"
+     "n": 25,
+     "title": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5%",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU1MbkhnZll4OHpIdGV2VlI1ZVFhWGhKX1F1bnZvWVRGWnVkYnBfcmRIaG1PRzcyN1pTUFJzY2VWVzRMN2VqNjQ1Tkwyb3E5bGpQN1NOcTFnTVFQVmdPRjdZX2h3LTh2d2F1Y1F6SW5JWTVPWmRwXzBsVlpIbGNEWTBZLUhaRnFIWTVIY1gxSVc0T2J0blE?oc=5",
+     "source": "Yahoo Finance"
     }
    ]
   },
   {
-   "title": "記憶體股同步走低",
-   "detail": "美光盤中跌逾5%，閃迪跌逾6%，SK海力士也走弱，分析師示警先進記憶體需求。不過稍早韓國三星、SK海力士一度逆勢上漲。",
+   "title": "費半盤中一度跌逾5%",
+   "detail": "AMD盤中一度跌逾10%，應材、Marvell等同步走弱，半導體族群全面回落。",
    "impact": "利空",
    "sources": [
     {
-     "n": 1,
-     "title": "Chip Selloff Deepens: Micron, Sandisk, SK hynix Extend Slump as Nvidia Turmoil and Inflation Fears Weigh",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuQzNyN2gwdkFYYVZhRmJFeEFOMGdHQWFQOEZ0LUdKWlZnN1BMY0d2UzI0MXlfOGxkbGRSdDVISWRtNjFLMFU1U093Vm9oUHZ1U3pvLXQ4UXpxWTc4UlptOXlwX1dmMGNOMTk0TWwtQ0hXN0EwRHc?oc=5",
-     "source": "BigGo Finance"
+     "n": 27,
+     "title": "美股異動 | 美聯儲官員再放鷹 費城半導體指數跌超5% 半導體板塊集體走低 作者 智通財經",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Nb3hpclV3NVVkM0tyeVA4dEJKUi1YMW9FaElxWl9BWFFOU3RwcS1tRkVxN1ozOUtORm40d0kzOTNGdlA4ODZ2Zjlia3E4NXEzUHkwQlBqNUJmSENWZzVzeklsQkJfMXA3UktPb3FlVlI?oc=5",
+     "source": "Investing.com 香港 - 股市報價& 財經新聞"
     },
     {
-     "n": 31,
-     "title": "美股存儲股集體下跌，閃迪跌超6%，美光科技跌超3%",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CVUF0a0k0clRzZTFwYzRmSlZsSldtNFhyNVRrZzNLaldIdm5pVEwwUG5TMVBHRzV2djE5dnNjSlVTSllkdmU3MERYck5UbFFib0hkcWJHRjdocEFKZXdkbDBmdURsbWcwcFE?oc=5",
-     "source": "TradingView"
-    },
-    {
-     "n": 37,
-     "title": "盤中速報 - 美光科技(MU-US)大跌5.07%，報757.92美元",
-     "url": "https://news.cnyes.com/news/id/6662207",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 35,
-     "title": "黃仁勳請辭波及記憶體股 美光、SK海力士走低 分析師示警先進記憶體需求",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ITEw1Q1g0ZlN3OHVBU185Qi0wT2NLcWtwZXFxcVA4aEpiUnVXNE9BLUdWd2lPckM2dWpveWJPUVBGdDFDQXdWdkpvUDJPQkU?oc=5",
-     "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "中國與出口管制變數升溫",
-   "detail": "財長 Bessent 批評輝達晶片流向中國，黃仁勳離職也衝擊中國AI股，中國國產晶片股逆勢上漲。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 22,
-     "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTIzZHZCSGlfZTAwY0VGY1hwZ0stMC1fblpqQ1N1eC1tWHRFazYxeDMxcVIzdEs0NXNUMVRhVWdJTVhOc2ZQcmQwaUFkOVJMZDVJTG5kUlE2aWtNYnljaHlqU05HWjFIUzl0MTJ1UzZGYk11SU5mXzJuTmxwOWFqbHo1TnkwTXZpMFA00gGQAUFVX3lxTE9QZHhGMjFUYWFSaGRxQ2lrQXpWYkdUTzJ6QmRUNFcxV092Q2MzbzZyMm9paGp2eGpEVEVXUzhsdkRZZy1GOFYycFVXYXFTVmlfZmlvM1EzUGh0TkMtU1dlZlVyd0xYemFaeDNYR0RYc2lhdTk4UTNsVjNJM2hXS2hod3dBTzBfYlNnT0dmLUk5dw?oc=5",
-     "source": "CNBC"
-    },
-    {
-     "n": 21,
-     "title": "輝達黃仁勳辭職衝擊中國AI股 光模組雙雄重挫、中國國產晶片逆勢上漲",
-     "url": "https://news.cnyes.com/news/id/6661611",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 18,
-     "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
-     "url": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
-     "source": "MarketWatch"
-    }
-   ]
-  },
-  {
-   "title": "設備與時脈晶片股同受賣壓",
-   "detail": "Teradyne、SiTime、應材、Marvell 等半導體股走低，賣壓擴散到半導體供應鏈。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 8,
-     "title": "Teradyne, Navitas Semiconductor, SiTime, ACM Research, and Ultra Clean Holdings shares plummet, what you need to know",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUDRsSEdudkFGdjFIbS1KLWN5TmFOUURpWFByd3YzeWs1NnpYWkRkbTFpUEl1bkZSaTgwWHRtbFRGZUc5eTdubHlVR0d0QjRpOWxQbEdWTy1qRUZOUTluQzgzejU1aXZWZUhLVzMwUmktZXdtbGhIRjJfWUVYR0JfOUxtYVRGODlyaDRiZ2FyXy1SWFN6ck42ODJGZjJvc0ZhQ2tQSW1qRFZiSmdFb1FzVlVRWi14TE1FY1ZtaHVpcU5zTlRMZE1qRDJpUi1Mb01WLVk4TWpsc0dBMXVrVVZyVDE4c0Mtb1lnVlV5Q0pJWG1OUnFoOHJJczFZSTdVS3VFUXJN?oc=5",
-     "source": "TradingView"
+     "n": 28,
+     "title": "美國10月PPI年增6.5%，費城半導體指數重挫5%，AMD一度跌逾10%",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVDBCSW1WMDdCbEhmeVBkaW1CalJfRGQ3amt1T0dtbTItQ21vQWVnYWZBMm9XQ2IybThZVHBkOVZ3TGdaWkRXRU9kTEQydWZrNVZNZjBSVVpESS00d2FzanV3d2xucGRaSDdTVndhVjZEdTNsdmhfQkltNS1YVjY3WTJmeTJHYV9pcDJPcTZlWm1OaDZDWHgyTENsaVJJTW1KdjJnMHlSbll5bFgwMmZfNVlJMmNQbWZaaGlOcDRsdmZyeklGcnR2NU8wWWNrT2Exd3UwTHFOVDlpS28?oc=5",
+     "source": "TradingKey"
     },
     {
      "n": 26,
@@ -139,24 +89,11 @@
      "source": "TradingView"
     }
    ]
-  }
- ],
- "holdings": [
-  {
-   "symbol": "SITM",
-   "note": "收盤跌6.05%，與Teradyne等半導體股同遭賣壓。",
-   "sources": [
-    {
-     "n": 8,
-     "title": "Teradyne, Navitas Semiconductor, SiTime, ACM Research, and Ultra Clean Holdings shares plummet, what you need to know",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUDRsSEdudkFGdjFIbS1KLWN5TmFOUURpWFByd3YzeWs1NnpYWkRkbTFpUEl1bkZSaTgwWHRtbFRGZUc5eTdubHlVR0d0QjRpOWxQbEdWTy1qRUZOUTluQzgzejU1aXZWZUhLVzMwUmktZXdtbGhIRjJfWUVYR0JfOUxtYVRGODlyaDRiZ2FyXy1SWFN6ck42ODJGZjJvc0ZhQ2tQSW1qRFZiSmdFb1FzVlVRWi14TE1FY1ZtaHVpcU5zTlRMZE1qRDJpUi1Mb01WLVk4TWpsc0dBMXVrVVZyVDE4c0Mtb1lnVlV5Q0pJWG1OUnFoOHJJczFZSTdVS3VFUXJN?oc=5",
-     "source": "TradingView"
-    }
-   ]
   },
   {
-   "symbol": "DRAM",
-   "note": "記憶體ETF跌3.32%，美光、閃迪、SK海力士同步走弱。",
+   "title": "記憶體股同步下挫",
+   "detail": "美光、閃迪、SK海力士走低，分析師對先進記憶體需求示警；SK海力士ADR溢價仍高達44.43%。",
+   "impact": "利空",
    "sources": [
     {
      "n": 1,
@@ -171,6 +108,12 @@
      "source": "TradingView"
     },
     {
+     "n": 35,
+     "title": "黃仁勳請辭波及記憶體股 美光、SK海力士走低 分析師示警先進記憶體需求",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ITEw1Q1g0ZlN3OHVBU185Qi0wT2NLcWtwZXFxcVA4aEpiUnVXNE9BLUdWd2lPckM2dWpveWJPUVBGdDFDQXdWdkpvUDJPQkU?oc=5",
+     "source": "鉅亨網"
+    },
+    {
      "n": 37,
      "title": "盤中速報 - 美光科技(MU-US)大跌5.07%，報757.92美元",
      "url": "https://news.cnyes.com/news/id/6662207",
@@ -179,8 +122,29 @@
    ]
   },
   {
+   "title": "週五雖跌，主要指數本週仍收高",
+   "detail": "CNBC指出主要指數週線仍上漲，但期貨續跌顯示下週開盤壓力仍在。",
+   "impact": "中性",
+   "sources": [
+    {
+     "n": 15,
+     "title": "Nasdaq falls on Friday as Nvidia keeps sliding, but major averages are up for week: Live updates",
+     "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+     "source": "CNBC"
+    },
+    {
+     "n": 30,
+     "title": "Stock Market Rebounds Even As Nvidia CEO Jensen Huang Resigns, Treasury Yields Jump: Weekly Review",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3NWQ1h5MjlGUE41X1hFY3JBb2RDT213U1Z6X2VFNFNqQi01UmxONXNGRFpuVDVKbHc2aDdTOFFVbVZTaWZuYU5rcHZhV0o2WG5QREtGbDlmTUZST3E0cE1PT0ZSNVdiZjBTS3FEcjhRRGU3OWNZQ0E4UkhGbjVZQXRTbnFVLU1HM2RDUnFycnJfd01BalBmVUlfeHVzNnJ2al92bzc5bWlTdw?oc=5",
+     "source": "Investor's Business Daily"
+    }
+   ]
+  }
+ ],
+ "holdings": [
+  {
    "symbol": "NOK",
-   "note": "收盤跌3.14%，受AI族群疲弱與現金流疑慮拖累；另獲美國國防部5G/6G偵測無人機合約。",
+   "note": "收跌3.20%，受AI族群走弱與現金流疑慮拖累；獲美國國防部合約屬正面消息，但未能抵銷跌勢。",
    "sources": [
     {
      "n": 7,
@@ -189,45 +153,91 @@
      "source": "Quiver Quantitative"
     },
     {
-     "n": 14,
-     "title": "Nokia Federal Solutions awarded Department of War RAPID contract to advance multi-domain threat awareness",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaDNTc1FCblVERDhIZjZCQlpqbGZ4dzlaM0dlMDFCTTF1VDZDcEZ1aUFuZkxIZXF4X3pSRzEweGdSYXl2MWtfX1UxMTBkX2NlZG9RSmQweXhHRlhwN2twckp3d1hreXRTbnlFZEhNZ21EcFUwUEg5NGtGdERYZlJWTVR4V1o3WTdYOG9GQ0hQSGd0X0NsRTBVOXd2aklSN3laZjhLZzhwR2FnREE3bXQ5YzNNN2ZjcmlqMGpKV01DekZWQXl1QWRIbDJ5YUh1ZHNTRXZN?oc=5",
-     "source": "Nokia"
+     "n": 6,
+     "title": "Nokia Falls 3.4% in a Week as AI Growth Collides With Cash Flow Risks",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORmdMaEwwd0tpUW03RzZ2eEZYS0xTTGswRGJqOTEzd19iTVFad0hzMVkzSWo2ZUJ2ZmRrUTFIRUp1eEZhMEZEUk1ySGpNaUtqOXlWWjlJc21KVkVqRFpoaXBLQnZ2Z3dMc3dhRDZXM1BWUkRNSUphNjdrQjhlWTAwRXExNUZ3V21Bdk94ZzVzcjB0d2t1S09MLVpTcw?oc=5",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 11,
+     "title": "Nokia selected for Department of War program",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2lGRV9ReFh6Q01DNkNCZXZaeFAzMnQ3d3JpTVRrZVN3VUtnRW5kamU3Q1VMOENJOUNCN2VYUHpENnd2V0FZckpNd2ZVd0FlczVHbm5FcVZyYUc0TlFCdDRSWEFPc1lpVDF2bS1hM25rQm1TX2FYa0VHRm8tTEFXUHRFTjRmbDZfSHVfVUtRcnBKWGdnUHhmVTQ4NjVRZw?oc=5",
+     "source": "marketscreener.com"
+    }
+   ]
+  },
+  {
+   "symbol": "DRAM",
+   "note": "收跌3.34%，持股的美光、SK海力士等記憶體股同步走弱。",
+   "sources": [
+    {
+     "n": 1,
+     "title": "Chip Selloff Deepens: Micron, Sandisk, SK hynix Extend Slump as Nvidia Turmoil and Inflation Fears Weigh",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuQzNyN2gwdkFYYVZhRmJFeEFOMGdHQWFQOEZ0LUdKWlZnN1BMY0d2UzI0MXlfOGxkbGRSdDVISWRtNjFLMFU1U093Vm9oUHZ1U3pvLXQ4UXpxWTc4UlptOXlwX1dmMGNOMTk0TWwtQ0hXN0EwRHc?oc=5",
+     "source": "BigGo Finance"
+    },
+    {
+     "n": 31,
+     "title": "美股存儲股集體下跌，閃迪跌超6%，美光科技跌超3%",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CVUF0a0k0clRzZTFwYzRmSlZsSldtNFhyNVRrZzNLaldIdm5pVEwwUG5TMVBHRzV2djE5dnNjSlVTSllkdmU3MERYck5UbFFib0hkcWJHRjdocEFKZXdkbDBmdURsbWcwcFE?oc=5",
+     "source": "TradingView"
+    },
+    {
+     "n": 23,
+     "title": "SK hynix Stocks Fall 3.03% as Nvidia Leadership Shock Hits Key HBM Supplier",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMnhfdHhLNjdwZmdJVjJ4X01kTVZjWTd1aWViLVR4Uk4tZ2gwT0VocGpubXhOSmZNTHFOZWZhVWFvZjlSbjA1Y3NYdGlRdjZudGdfS0JFM3lwNTNzYWpIWmxTeG1iWjBRYzh5VWlCY3BUVGNoM3IybkIwX0VoOURQZlBLYllkR1JJT1U1RzZrM2o?oc=5",
+     "source": "Yahoo Finance"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "收盤跌5.31%；軟銀加入探索量子與AI資料中心整合，未能抵銷賣壓。11/30為閉鎖期到期推估日。",
+   "note": "收跌5.29%，軟銀加入量子結合AI資料中心合作屬題材面消息，但跌勢明顯。另有推估11/30閉鎖期到期。",
    "sources": [
     {
-     "n": 9,
+     "n": 10,
      "title": "SoftBank joins Quantinuum and RIKEN to explore quantum-AI data centre integration",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeWQ1dUNhWUJtQzVTbWREUlFBZU9ZNVhmQTlnM2l0UDZoaWJ5MXNNUGZrbUhGMjF2YUdNYURsYVVPLTJJOU9tckVBWXFJcEtlRHNsVFAzenROT1o4RlpmS29WVkZpQzlKaTZ2UzJNazFkdUdzM2R2bE1GLW1ZdldyVkRyTE5ITXFNZlp5MXhoUldqYzJOdElBUjU2S0JiT0IwQ2ZMTTZKSElXMnFyZGE2U3BLOVhBSFU5emdfSFVfamVpdw?oc=5",
      "source": "Telecompaper"
+    }
+   ]
+  },
+  {
+   "symbol": "SITM",
+   "note": "收跌6.08%，與Teradyne等半導體股同列大跌名單。",
+   "sources": [
+    {
+     "n": 8,
+     "title": "Teradyne, Navitas Semiconductor, SiTime, ACM Research, and Ultra Clean Holdings shares plummet, what you need to know",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUDRsSEdudkFGdjFIbS1KLWN5TmFOUURpWFByd3YzeWs1NnpYWkRkbTFpUEl1bkZSaTgwWHRtbFRGZUc5eTdubHlVR0d0QjRpOWxQbEdWTy1qRUZOUTluQzgzejU1aXZWZUhLVzMwUmktZXdtbGhIRjJfWUVYR0JfOUxtYVRGODlyaDRiZ2FyXy1SWFN6ck42ODJGZjJvc0ZhQ2tQSW1qRFZiSmdFb1FzVlVRWi14TE1FY1ZtaHVpcU5zTlRMZE1qRDJpUi1Mb01WLVk4TWpsc0dBMXVrVVZyVDE4c0Mtb1lnVlV5Q0pJWG1OUnFoOHJJczFZSTdVS3VFUXJN?oc=5",
+     "source": "TradingView"
     }
    ]
   }
  ],
  "watch_next": [
   {
-   "when": "11/14（週六）",
-   "what": "美股休市，關注輝達新任執行長與出口管制後續消息"
+   "when": "11/14（週六）起",
+   "what": "留意輝達新任執行長人選與政府對中國晶片出口的後續表態"
   },
   {
-   "when": "11/17（週一）盤後",
-   "what": "輝達公布財報，EPS預估2.47，留意執行長交接與中國業務說明"
+   "when": "11/17（週一）美股盤後",
+   "what": "輝達公布財報，EPS預估2.47，台灣時間約11/18清晨"
   },
   {
-   "when": "11/17（週一）",
-   "what": "週一開盤觀察美債10年殖利率能否守在5%附近，與那指期貨走勢"
+   "when": "週一美股開盤",
+   "what": "觀察美債殖利率是否維持在5%上方，以及那指期貨表現"
+  },
+  {
+   "when": "11/21",
+   "what": "韓國前20天出口初值，可觀察半導體需求"
   }
  ],
- "generated_at": "2026-11-13T20:30:21Z",
+ "generated_at": "2026-11-13T20:40:33Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5760,
-  "output_tokens": 1193
+  "input_tokens": 5761,
+  "output_tokens": 1173
  }
 }
