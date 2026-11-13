@@ -1,11 +1,11 @@
 {
- "headline": "輝達執行長震撼消息加殖利率飆升，那指費半收低",
+ "headline": "輝達執行長請辭攪局，殖利率5%上方壓抑科技股",
  "mood": "偏空",
- "mood_reason": "輝達領導層不確定、美債10年期5.10%、VIX升8%，風險偏好降溫",
+ "mood_reason": "輝達人事震盪、美債殖利率高檔、通膨疑慮，VIX升至18.7，期貨僅小幅持平",
  "key_points": [
   {
-   "title": "輝達執行長異動衝擊",
-   "detail": "報導指黃仁勳辭職或卸任，輝達早盤一度重挫逾7%，另有走私調查與私人關係報導，AI龍頭不確定性升高，拖累費半收跌0.54%。",
+   "title": "黃仁勳請辭，輝達一度重挫逾7%",
+   "detail": "新聞指輝達執行長黃仁勳辭職，早盤輝達跌逾7%，那指收跌0.39%、費半收跌0.54%。後續仍有調查與傳聞報導，不確定性未除。",
    "impact": "利空",
    "sources": [
     {
@@ -15,7 +15,13 @@
      "source": "鉅亨網"
     },
     {
-     "n": 20,
+     "n": 18,
+     "title": "Wall Street shakes following swings for Nvidia and oil prices but recovers most of its early losses",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVTh2VkpncUV0ZG5XT1F1ZkcwX2xkZkpCOGxfOGRwQ193VG94V0ZHZFAtYWxYaGlSUEhhNlZTdFJucDhURFRqQV9lX2RyMWV2WEpGZnM4Z1d4SDZIZ3VXUXdJS1BSZVVxNnBzSUk4SHI0WjYzbF9rZURaY0U4Y2tnNHhNdUx5SFdpdDNmeGFVUHRDck0ya0N6c1lHWUNXR1BmVDNRelEzZ2RzM0xCSHMtckJUUHcybENuNzN3Q2FWemdHbHNhNDFrSERhU3VLYklYb3VBNExoSTJiRXFTcDdUaF9ZbG1ubXE3dVRrOU1hc0xTYUhPQ01pOFIwdTlVUjQ?oc=5",
+     "source": "KTVN"
+    },
+    {
+     "n": 19,
      "title": "黃仁勳卸任後再爆新調查！美方追查黃樂與美超微產品走私關聯",
      "url": "https://news.cnyes.com/news/id/6661057",
      "source": "鉅亨網"
@@ -25,112 +31,112 @@
      "title": "輝達剛換帥又爆新料！《路透》：黃仁勳傳與另一名員工有親密關係",
      "url": "https://news.cnyes.com/news/id/6661114",
      "source": "鉅亨網"
-    },
-    {
-     "n": 22,
-     "title": "Nasdaq falters as Nvidia shares fall on CEO exit, oil prices rise: Live updates",
-     "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
-     "source": "CNBC"
     }
    ]
   },
   {
-   "title": "美債殖利率站上5%",
-   "detail": "美債10年期殖利率報5.10%，美元走強，市場擔憂升息與AI資本支出壓力，成長股估值承壓；銅價也跌至四個月低點。",
+   "title": "美債殖利率站上5%壓抑估值",
+   "detail": "美債10年殖利率約5.10%，債市擔憂升溫；油價高漲也使通膨壓力未解，對成長股估值不利。",
    "impact": "利空",
    "sources": [
     {
-     "n": 16,
+     "n": 14,
      "title": "The bond market now has an even bigger fear than AI fallout",
      "url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
      "source": "MarketWatch"
     },
     {
-     "n": 25,
-     "title": "升息逾1碼 台股怎麼守？美債殖利率創高 AI資本支出成關鍵！",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxMDhFQ215NlMybnZRM1puQXRocVFzZEtrZU55UktHeFFKcW1uMV90MjJPbXFWOURXX3FVVi1wN0E2ZDZrOG5vM3pXTS03dw?oc=5",
-     "source": "Money 錢"
+     "n": 12,
+     "title": "黃仁勳請辭輝達執行長，油價高漲促通膨壓力仍存",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ZlRUU3Y3T25iMnBSc3pUanVPeXZlalZUa3V0NGV0VWNMREVVRUo1NTdqV0Y2T3RXUFNLMVdHeTZGMjJxYmZPNFZyX3BKcUxaQlBaazhVaWVuTFBMVmpXdEwwbDZRSGhhRTEyNDM2dGYxMlB0X0hNc05qTQ?oc=5",
+     "source": "玉山銀行"
     },
     {
-     "n": 27,
+     "n": 26,
      "title": "Wall Street set to dip as Nvidia storm continues, Treasury yields bob at 5%",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3B6b0hjZ0hod2RPeGhEbGNER2dVUk1vTU90aUI2V0U0WDJxVW9fUTBFc3NjRzEwXzZaNWYtY3VBcUhpZUlWS056MjItbGE0QTZvS2E1Q2tsdnYwd24yZU5aS1REMzVINTBjWTV3OWYwX1RGM21NdW9BeVBBUjRSMXZkcHRXd0tPUTBpNE5FWnBpdHVMcmhTMkd0bHVodnFxQUpR?oc=5",
      "source": "Yahoo Finance"
     },
     {
-     "n": 36,
-     "title": "銅價跌至四個月低點AI需求疑慮、升息預期加重壓力",
-     "url": "https://news.cnyes.com/news/id/6661022",
+     "n": 11,
+     "title": "美股期貨小漲0.2% 輝達人事風波衝擊收斂、美債殖利率續攀",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XUTNZMGFlV2VIZDFCY09nb3l2SFk3QmtSRVBhRU1nUjF3dnoycTNvUFdMbmxuMVlJVnhST0tTN1lvdmVOREl4bkJRY0FyUjg?oc=5",
      "source": "鉅亨網"
     }
    ]
   },
   {
    "title": "記憶體股受輝達風波牽連",
-   "detail": "美光等記憶體股因輝達曝險而下跌，SK海力士亦走弱；另有議員要求禁止中國長鑫進入美國市場。高盛仍看多記憶體漲價與HBM均價。",
+   "detail": "美光、SK海力士等因輝達曝險被拖累，分析師提醒先進記憶體需求風險；但韓股盤中三星、SK海力士逆勢走強，走勢分歧。",
    "impact": "利空",
    "sources": [
     {
-     "n": 17,
+     "n": 16,
      "title": "Micron, Other Memory Chip Stocks Fall on Nvidia Shakeup. Why They’re at Risk.",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaElVXy1jS0ZlWS1YeW1tUTliOTZjRlQzcEthZnJxbGktVHV0bWVGWS1FRWFONTNLam5aaHprRFU3NHpmSkh4SDFIUXJuNkIxR2lZcEtZVWhFRFZBZmpNQTRKS05qc1pIdkhXOWhrRE1GT1pWQ1R6Sy0xQ2RHT25CeWRsRVJReXRHY2c?oc=5",
      "source": "Barron's"
     },
     {
-     "n": 19,
+     "n": 21,
+     "title": "黃仁勳請辭波及記憶體股 美光、SK海力士走低 分析師示警先進記憶體需求",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ITEw1Q1g0ZlN3OHVBU185Qi0wT2NLcWtwZXFxcVA4aEpiUnVXNE9BLUdWd2lPckM2dWpveWJPUVBGdDFDQXdWdkpvUDJPQkU?oc=5",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 15,
      "title": "SK Hynix Stocks Slip 1.8% as NVIDIA Exposure Turns From Asset to Risk",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGZ1MzVhU2w0Q1JIYzV1ckFtLVNYZDhoZ3I0YWZZSU1EV2Z3OVlnLU9lSHdOQ2dULThDcUg4ZS1PNlZFR0I2NTN5eURURVpLTVBkS0dSV3lydkpkN1dFc2tGR0cyVDJ1bk1BTFlncXVnU0hDamlMWFQ4bEM1QUNLcGN3ZkJ5Q1p3SzFyalJQSng?oc=5",
      "source": "Yahoo Finance"
     },
     {
-     "n": 7,
-     "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
-     "url": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
-     "source": "CNBC"
-    },
-    {
-     "n": 18,
-     "title": "高盛看多記憶體漲價潮，HBM明年均價估翻倍，中國A股概念股吸引融資資金加碼",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lbXgwOGpIeHRtOGp2LUozSnRWVFlySXNib2czeWJqVlBGc29KZnFwSEVGQ0VwTFE3VUhoQWc4Q3dOTzJ6R2M0bkNaYjVQR0ZlMXhFaHRSWXhteUx4ak82b2pycGk1RGpaX2Q1cGozUnJEUWkwRFYyMklB?oc=5",
-     "source": "BigGo 財經"
+     "n": 20,
+     "title": "輝達重挫 三星、SK海力士逆勢大漲",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaGQyNzVEU3lkV2RZZUZ3dExPMkM3cjI1Ukd2eUpzOGVUamowS0dJcTdRZVkxaEx1VUcyVU5RZTV2MmV6MDVVeXlETVhpZE9aNlM3Um02WHZ6ZXRlR1V2V0h6bFQxRm5pcUltLURTU0xLXzRpdE1HUlVjU0F0QkxJVUdOaGhIRUNmdGY0ZnhjN1BEdmlHSTVIY2FnMlBLUTdxV0NhSmxBQnFaZVBKRW9saFktb1lKTWFBVmxIb2RrS1hpU2JWV1JIRWstcGRBTnJ3TVNsRG9nQUdLQi1XTFhXSk5RTkpNV0ZnVi1td1JrWTlOckVk?oc=5",
+     "source": "Yahoo新聞"
     }
    ]
   },
   {
-   "title": "量子股回檔",
-   "detail": "熱CPI、輝達變動與財報好壞參半，使量子運算類股下挫，Quantinuum收盤跌7.67%。AMD擬入股PsiQuantum是題材面支撐。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 9,
-     "title": "Quantum Stocks Retreat as Hot CPI, Nvidia Shakeup and Mixed Earnings Hit Sector",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5laGVPdVR5YzlnN185Yl9GODhnbUpLM3RSVHJjTlNSRnhvRk9fWXlRQlNGS3RzQmFhb2NTc2FFTDZobzNRYnB2ZUpQbGRNNTM1UnVXd0t2cy15OFJkc3dsaXlqeWxuallBTS1ad0p0ZXJFbXF3Y0E?oc=5",
-     "source": "BigGo Finance"
-    },
-    {
-     "n": 24,
-     "title": "AMD擬入股PsiQuantum結合GPU與矽光子技術推進量子運算",
-     "url": "https://news.cnyes.com/news/id/6660942",
-     "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "盤中跌幅收斂",
-   "detail": "指數在輝達與油價波動後收復大部分早盤跌幅，顯示賣壓暫未失控；法興仍看好標普500年底前上攻。",
+   "title": "期貨小漲，市場恐慌收斂",
+   "detail": "美股期貨小漲0.2%，輝達人事衝擊有收斂跡象，不過今晚PPI與下週輝達財報仍是變數。",
    "impact": "中性",
    "sources": [
     {
-     "n": 31,
+     "n": 11,
+     "title": "美股期貨小漲0.2% 輝達人事風波衝擊收斂、美債殖利率續攀",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XUTNZMGFlV2VIZDFCY09nb3l2SFk3QmtSRVBhRU1nUjF3dnoycTNvUFdMbmxuMVlJVnhST0tTN1lvdmVOREl4bkJRY0FyUjg?oc=5",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 18,
      "title": "Wall Street shakes following swings for Nvidia and oil prices but recovers most of its early losses",
      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVTh2VkpncUV0ZG5XT1F1ZkcwX2xkZkpCOGxfOGRwQ193VG94V0ZHZFAtYWxYaGlSUEhhNlZTdFJucDhURFRqQV9lX2RyMWV2WEpGZnM4Z1d4SDZIZ3VXUXdJS1BSZVVxNnBzSUk4SHI0WjYzbF9rZURaY0U4Y2tnNHhNdUx5SFdpdDNmeGFVUHRDck0ya0N6c1lHWUNXR1BmVDNRelEzZ2RzM0xCSHMtckJUUHcybENuNzN3Q2FWemdHbHNhNDFrSERhU3VLYklYb3VBNExoSTJiRXFTcDdUaF9ZbG1ubXE3dVRrOU1hc0xTYUhPQ01pOFIwdTlVUjQ?oc=5",
      "source": "KTVN"
+    }
+   ]
+  },
+  {
+   "title": "記憶體與AI基建長線題材仍在",
+   "detail": "三星砸46兆韓元擴建HBM，SK海力士HBM4良率傳突破70%，顯示AI記憶體需求題材未變。",
+   "impact": "利多",
+   "sources": [
+    {
+     "n": 22,
+     "title": "不畏逆風 三星砸46兆韓元重押HBM",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PcmFqSHdOSGpVNF8tbzJmandOcWdFd3diNFJ5X2l2ODFTNExHTGc3U0Jwa1ZWM1Nwa21xV1RMb3RZd0gwNkNfcV9rQTJhSDZObmZXQ0hPXzA1UDRnZTk0?oc=5",
+     "source": "工商時報"
     },
     {
-     "n": 2,
-     "title": "法興銀行列「三大順風」 看好標普500年底前再大漲一波",
-     "url": "https://news.cnyes.com/news/id/6660379",
-     "source": "鉅亨網"
+     "n": 13,
+     "title": "【科技早餐】北京拚年產 20 萬台機器人！三星 HBM 新廠動工、規劃投資 46 兆韓元",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVm1lSGxjOWJhZjU4Q3FVSWdoWEtkTG1XR2t6bWNGQ3QwZk9MWGNWOWlIRDRSdTZPUjhFYmN3XzIzZW1pOFlXSHktRThzbWY4Z3JTRTN2a2Y3d250aExjeld0bGxkMGlmeWdsdDdGYm9uTmNtRk95UlZjaW1zSFZ1UG45M2ZpaUNi?oc=5",
+     "source": "TechOrange 科技報橘"
+    },
+    {
+     "n": 37,
+     "title": "力保AI記憶體主導權 SK海力士HBM4良率傳突破70%",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNU16a3NoN2haNlY5WGJoYzMxOXZ2OTJISU1jNlJfTHBLem1sU3FhbDRabnlWUkJHYURjcl9fUnQxZktRaF9meElHMkktSTEydjBXMTdaSlREZDBhUTZBRDVpMlhVcHRXVWk5RDhqakQtZ0U4aXZvZk9HbkdlUjMxNE9JRjViaWx4NThHVVNR?oc=5",
+     "source": "DIGITIMES"
     }
    ]
   }
@@ -138,52 +144,52 @@
  "holdings": [
   {
    "symbol": "NOK",
-   "note": "收盤跌2.07%，但AI-RAN與紐西蘭合約等題材消息偏正面，BofA重申買進評等。",
+   "note": "收盤跌1.90%，盤後小漲；AI-RAN與紐西蘭合約等消息偏正面，BofA重申買進評等。",
    "sources": [
     {
-     "n": 4,
+     "n": 3,
      "title": "諾基亞攜台廠啖AI-RAN大餅- 日報",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EbVBuTGlOdl9DRklzeEpyaTZtNWpuSHFCODlGNVlWZkFqVEtUaGRQelBKN1dTeUM2eDNVcFNhdUlEeFozSXVlbW0xcHZtM2I4NEFkR1UyQlFqS1lldEtj?oc=5",
      "source": "工商時報"
     },
     {
-     "n": 8,
+     "n": 7,
      "title": "Can Nokia's Expanded One New Zealand Deal Accelerate Its AI Growth?",
      "url": "https://finance.yahoo.com/technology/ai/articles/nokias-expanded-one-zealand-deal-150000404.html?.tsrc=rss",
      "source": "Yahoo Finance"
     },
     {
-     "n": 13,
+     "n": 10,
      "title": "Nokia's San Jose Plant and AI-RAN Timeline Take Centre Stage as BofA Reiterates Buy",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZDktX2tLZHpzVUtMc1E5cXlENTRETHpRaEYwQjFqczlUVXZqLUVrRUVBWHVWN3dfOUc2VmticHhMdmdVYWZSelpqM1VuNWxrMVdTdjg1UnJiSUdSb0xadW9YSUlkLUl3ZG9BUEN4S3dwRUYwWWVXcm5ZSmVoWW13b1RNZWdFWUsxSS1Pc3dOSXNnWE0wY2kyNTQwbFRMSzFkZ1ppOGVlZU5kY25rVllzbXRzdjZBMzQ5R29vbHBNV011bkpjMG92aDlWRXNUTEVTLUNLR094N2lJNE0zVDJlV19CZXZGVGVyVHow?oc=5",
      "source": "ad-hoc-news.de"
+    },
+    {
+     "n": 31,
+     "title": "Nokia Corp. ADR outperforms competitors despite losses on the day",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPckd5b1N2RzljYnJqRVVwTWJRSWlHZXBuc2lJbHFkTXB4ZjZkeW5jQmRPR0dsZVd1dWNsR0N5WER4T3JtYVZ3UXpiOV9nZ0JGZ0xRQlBjMW9GNS00RTI2N085aURqZl9rN0RicDV4dmVScGxqOHJUYjhsQlZfLXJ3N3FTZjRQb2VlNEhPSmhsc01VQTFwajhQbVdwektHcmNTcWlpQnJoMjM2SERhYXRYZnA0OHplRFBHVjV1Ukt0TTVackt4QVg4QmlkWEZwa1Q1WFRvZWJhSi1zQQ?oc=5",
+     "source": "MarketWatch"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "受輝達風波與中國長鑫議題拖累，收盤跌2.61%；高盛看多漲價與三星加碼HBM為基本面支撐。",
+   "note": "收盤跌2.65%，受輝達風波與記憶體需求疑慮拖累；盤後反彈2.08%，韓廠擴HBM為支撐。",
    "sources": [
     {
-     "n": 17,
+     "n": 16,
      "title": "Micron, Other Memory Chip Stocks Fall on Nvidia Shakeup. Why They’re at Risk.",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaElVXy1jS0ZlWS1YeW1tUTliOTZjRlQzcEthZnJxbGktVHV0bWVGWS1FRWFONTNLam5aaHprRFU3NHpmSkh4SDFIUXJuNkIxR2lZcEtZVWhFRFZBZmpNQTRKS05qc1pIdkhXOWhrRE1GT1pWQ1R6Sy0xQ2RHT25CeWRsRVJReXRHY2c?oc=5",
      "source": "Barron's"
     },
     {
-     "n": 7,
-     "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
-     "url": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
-     "source": "CNBC"
+     "n": 21,
+     "title": "黃仁勳請辭波及記憶體股 美光、SK海力士走低 分析師示警先進記憶體需求",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ITEw1Q1g0ZlN3OHVBU185Qi0wT2NLcWtwZXFxcVA4aEpiUnVXNE9BLUdWd2lPckM2dWpveWJPUVBGdDFDQXdWdkpvUDJPQkU?oc=5",
+     "source": "鉅亨網"
     },
     {
-     "n": 18,
-     "title": "高盛看多記憶體漲價潮，HBM明年均價估翻倍，中國A股概念股吸引融資資金加碼",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lbXgwOGpIeHRtOGp2LUozSnRWVFlySXNib2czeWJqVlBGc29KZnFwSEVGQ0VwTFE3VUhoQWc4Q3dOTzJ6R2M0bkNaYjVQR0ZlMXhFaHRSWXhteUx4ak82b2pycGk1RGpaX2Q1cGozUnJEUWkwRFYyMklB?oc=5",
-     "source": "BigGo 財經"
-    },
-    {
-     "n": 23,
+     "n": 22,
      "title": "不畏逆風 三星砸46兆韓元重押HBM",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PcmFqSHdOSGpVNF8tbzJmandOcWdFd3diNFJ5X2l2ODFTNExHTGc3U0Jwa1ZWM1Nwa21xV1RMb3RZd0gwNkNfcV9rQTJhSDZObmZXQ0hPXzA1UDRnZTk0?oc=5",
      "source": "工商時報"
@@ -192,58 +198,47 @@
   },
   {
    "symbol": "QNT",
-   "note": "量子股隨熱CPI與輝達風波回檔，收盤跌7.67%；日本擴張等消息未擋住賣壓。",
+   "note": "收盤重挫7.67%，量子股受CPI偏熱、輝達動盪衝擊；閉鎖期推估11/30到期，留意籌碼變化。",
    "sources": [
     {
-     "n": 9,
+     "n": 8,
      "title": "Quantum Stocks Retreat as Hot CPI, Nvidia Shakeup and Mixed Earnings Hit Sector",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5laGVPdVR5YzlnN185Yl9GODhnbUpLM3RSVHJjTlNSRnhvRk9fWXlRQlNGS3RzQmFhb2NTc2FFTDZobzNRYnB2ZUpQbGRNNTM1UnVXd0t2cy15OFJkc3dsaXlqeWxuallBTS1ad0p0ZXJFbXF3Y0E?oc=5",
      "source": "BigGo Finance"
     },
     {
-     "n": 15,
-     "title": "What Is Quantinuum (QNT) Signaling With Its Japan Quantum AI Expansion?",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVNnUkJCUGNCTlc0ME9mNzVIdzZjeWtWbUUzY3VCMG5TZDRBMjY1a3padjJYVFBGN3V5R0huNVpJYVlfd285NmpKZmlYSmRra1Z5RGVLeVJEWXFwdWFlZ1VVY2tlaUFrZEFGc21nR1o4NU96Qk9TdjFwYnZndHRpdWRUR281aFUwNm14aHg4S2szcC1jSHpVUHNkLXdJajZPcWlmcg?oc=5",
-     "source": "Yahoo Finance"
+     "n": 23,
+     "title": "AMD擬入股PsiQuantum結合GPU與矽光子技術推進量子運算",
+     "url": "https://news.cnyes.com/news/id/6660942",
+     "source": "鉅亨網"
     }
    ]
   },
   {
    "symbol": "SITM",
-   "note": "今日無直接公司新聞，僅受AI半導體與大盤氣氛影響，收盤小跌0.43%。",
-   "sources": [
-    {
-     "n": 39,
-     "title": "Cognex Sees Strong 2026 Growth as AI and Automation Fuel Demand",
-     "url": "https://www.marketbeat.com/instant-alerts/event-cognex-sees-strong-2026-growth-as-ai-and-automation-fuel-demand-2026-11-12/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-     "source": "Yahoo Finance"
-    }
-   ]
+   "note": "收盤小跌0.43%，盤後再跌1.99%；提供新聞中無直接相關消息。",
+   "sources": []
   }
  ],
  "watch_next": [
   {
    "when": "11/13 21:30",
-   "what": "美國PPI與核心PPI月增率（預期0.4%、0.3%），影響升息預期與殖利率"
+   "what": "美國PPI與核心PPI月增率，預期分別0.4%、0.3%"
   },
   {
-   "when": "11/13 盤中至夜間",
-   "what": "輝達領導層後續消息與調查進展"
+   "when": "11/13 晚間至11/14 清晨",
+   "what": "輝達人事與調查後續消息，及美債10年殖利率是否續守5%上方"
   },
   {
-   "when": "11/17 美股盤後",
-   "what": "輝達財報（預估EPS 2.48），在週末後的第一個重要觀察點"
-  },
-  {
-   "when": "11/13 開盤前後",
-   "what": "應用材料昨日盤後財報的市場反應（資料中未提供結果）"
+   "when": "11/18 清晨（美東11/17盤後）",
+   "what": "輝達財報，EPS預估2.47，市場關注執行長異動影響"
   }
  ],
- "generated_at": "2026-11-12T21:09:33Z",
+ "generated_at": "2026-11-13T07:24:36Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5565,
-  "output_tokens": 1258
+  "input_tokens": 5748,
+  "output_tokens": 1240
  }
 }
