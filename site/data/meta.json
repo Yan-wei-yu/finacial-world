@@ -1,30 +1,30 @@
 {
- "last_full_run": "2026-11-14T18:45:06Z",
+ "last_full_run": "2026-11-14T18:52:44Z",
  "stages": {
   "quotes": {
    "ok": true,
    "message": "20/20 symbols updated",
-   "at": "2026-11-14T18:45:06Z"
+   "at": "2026-11-14T18:52:44Z"
   },
   "news": {
    "ok": true,
-   "message": "650 relevant of 763 fetched, 400 kept",
-   "at": "2026-11-14T18:45:06Z"
+   "message": "188 relevant of 233 fetched, 400 kept; failed feeds: gn-en-ai, gn-en-hynix, gn-en-macro, gn-en-market, gn-en-memory, gn-en-nok, gn-en-qnt, gn-en-semis, gn-en-sitm, gn-en-world, gn-zh-macro, gn-zh-market, gn-zh-memory, gn-zh-nok, gn-zh-quantum, gn-zh-semis, gn-zh-world",
+   "at": "2026-11-14T18:52:44Z"
   },
   "earnings": {
    "ok": true,
    "message": "14 upcoming, 20 recent",
-   "at": "2026-11-14T18:45:06Z"
+   "at": "2026-11-14T18:52:44Z"
   },
   "macro": {
    "ok": true,
    "message": "6 events this week, 12 upcoming",
-   "at": "2026-11-14T18:45:06Z"
+   "at": "2026-11-14T18:52:44Z"
   },
   "summary": {
    "ok": true,
    "message": "ok",
-   "at": "2026-11-14T18:45:06Z"
+   "at": "2026-11-14T18:52:44Z"
   }
  }
 }

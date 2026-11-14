@@ -1,13 +1,19 @@
 {
- "headline": "輝達高層動盪加通膨疑慮，費半重挫3.43%",
+ "headline": "輝達高層異動加通膨疑慮，費半重挫3.43%",
  "mood": "偏空",
- "mood_reason": "費半大跌、那指期貨續跌1.23%，10年期美債5.15%且輝達財報在即",
+ "mood_reason": "費半大跌、10年債5.15%、那指期貨續跌，輝達財報前不確定性高",
  "key_points": [
   {
-   "title": "輝達高層異動拖累半導體",
-   "detail": "輝達創辦人黃仁勳離任及相關醜聞持續發酵，新聞提到對中晶片流向疑慮與中國稀土報復警示，費半收跌3.43%。",
+   "title": "輝達高層異動與對中晶片爭議",
+   "detail": "報導指黃仁勳離任後，輝達面臨接班、對中晶片流向等爭議，並有中國稀土報復的擔憂。輝達財報前市場情緒偏緊張。",
    "impact": "利空",
    "sources": [
+    {
+     "n": 4,
+     "title": "黃仁勳離任後首場財報會 接班人克雷斯須回應輝達五大考題",
+     "url": "https://news.cnyes.com/news/id/6662445",
+     "source": "鉅亨網"
+    },
     {
      "n": 10,
      "title": "美股多數收低！輝達高層異動續挫 通膨頑固拖累科技股",
@@ -25,18 +31,31 @@
      "title": "The Nvidia scandal is heightening America’s AI rivalry with China ahead of Trump’s visit",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalY0LVRKSlZQVVJQeGZidU1VWFo0VXpuaGNQVTdST1Bfa3B0YXUyc1NjVVprRVlhTlhMZFlidzhkQ3pqbnFJRDc1aDhpYm5rRFkycV9vMzU3ckhlSTBIVXRSb2VoOVc4SVJjYjNFVlRrQ01UQmM4Sk9WcGFFUEdvbElmc1lWZlZ5UlhvQUNQV1paNWhsc2Fv?oc=5",
      "source": "AP News"
+    }
+   ]
+  },
+  {
+   "title": "輝達財報（11/18 台灣時間）臨近",
+   "detail": "輝達將於11/17美股盤後公布財報，也就是台灣時間11/18。市場預估財報後單週漲跌幅約9%，波動可能放大。",
+   "impact": "中性",
+   "sources": [
+    {
+     "n": 4,
+     "title": "黃仁勳離任後首場財報會 接班人克雷斯須回應輝達五大考題",
+     "url": "https://news.cnyes.com/news/id/6662445",
+     "source": "鉅亨網"
     },
     {
-     "n": 25,
-     "title": "黃仁勳下台根本原因？150萬顆輝達B200等值算力疑流入中國",
-     "url": "https://news.cnyes.com/news/id/6662319",
+     "n": 7,
+     "title": "輝達財報後股價將波動多少？市場估單週漲跌幅達9%",
+     "url": "https://news.cnyes.com/news/id/6662328",
      "source": "鉅亨網"
     }
    ]
   },
   {
    "title": "通膨頑固、殖利率創高",
-   "detail": "美債10年期殖利率升至5.15%，市場擔心通膨壓力，Fed副主席也稱通膨走勢是政策關鍵。科技股評價承壓。",
+   "detail": "美債10年殖利率升至5.15%，報導指通膨拖累科技股，聯準會官員也提到AI投資推升記憶體成本，通膨走勢是政策關鍵。",
    "impact": "利空",
    "sources": [
     {
@@ -66,27 +85,8 @@
    ]
   },
   {
-   "title": "輝達財報成下週焦點",
-   "detail": "輝達將於11/17盤後公布財報（台灣時間11/18清晨），市場估財報後單週漲跌幅達9%，新任執行長需回應五大考題。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 4,
-     "title": "黃仁勳離任後首場財報會 接班人克雷斯須回應輝達五大考題",
-     "url": "https://news.cnyes.com/news/id/6662445",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 7,
-     "title": "輝達財報後股價將波動多少？市場估單週漲跌幅達9%",
-     "url": "https://news.cnyes.com/news/id/6662328",
-     "source": "鉅亨網"
-    }
-   ]
-  },
-  {
    "title": "Fed調查：AI成金融穩定首要隱憂",
-   "detail": "Fed調查顯示87%受訪者示警AI風險，反映市場對AI投資泡沫與資本支出的疑慮。",
+   "detail": "聯準會調查中有87%受訪者示警AI風險，高於股市修正與網攻風險，可能加深市場對AI估值的疑慮。",
    "impact": "利空",
    "sources": [
     {
@@ -110,42 +110,54 @@
    ]
   },
   {
-   "title": "川習普會與記憶體供需題材",
-   "detail": "川普11/19與習近平、普丁會談，晶片管制可能在場外升溫。中芯CEO稱2027年晶圓緊缺，記憶體供需題材仍在。",
-   "impact": "中性",
+   "title": "記憶體供給偏緊支撐中長期題材",
+   "detail": "中芯國際CEO稱2027年晶圓非常緊缺，記憶體或到2028年才趨於平衡。索羅斯基金Q3新買SK海力士、減持輝達。",
+   "impact": "利多",
    "sources": [
-    {
-     "n": 24,
-     "title": "川普11/19將與習近平、普丁三方會談！不談輝達但聚焦去核化、伊朗戰爭",
-     "url": "https://news.cnyes.com/news/id/6662470",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 26,
-     "title": "白宮確認川習普19日會談！不談烏克蘭 晶片管制場外升溫",
-     "url": "https://news.cnyes.com/news/id/6662512",
-     "source": "鉅亨網"
-    },
     {
      "n": 34,
      "title": "中芯國際CEO趙海軍：2027年晶圓非常緊缺、2028年記憶體或趨於平衡！",
      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CcjZtWUxzNkNCY2h1dVc1WEI5WkJkdFRLc2N3emNVTmxOZFJrX3lvSVctZTMyVGdkaW5VUm0tbUNqdktXeG1aVw?oc=5",
      "source": "鉅亨號"
+    },
+    {
+     "n": 9,
+     "title": "索羅斯基金Q3大幅加碼英特爾 Meta 新買SK海力士 減持輝達",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NdEpCNHdfZFdldkV1LUxFS0VFMnhIOC1YMDZtMkF0STNoeXE5VlVNUlVoM2lhWWFwOG1oTUJ6S2U2T0FLR3hOX0R1cmV0dlk?oc=5",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 32,
+     "title": "Soros Fund's Q3 Holdings Shake-Up: Intel Stake Surges More Than 27-Fold, New SK Hynix Position, Nvidia Trimmed",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WX2hfTWZOMjlpVlZmV2NjNWRybTdGWkdNWDJsXzQxZThnUUdYenBROXVyNEpmSExVSmNXWHhBREZxZ2RtUi1wRnE2bUFSRWg1dmczQVRjT1pDOFJ6UllnaTRDbG1JdnNBUTdzM2haUlRtTF9RYkE?oc=5",
+     "source": "BigGo Finance"
     }
    ]
   }
  ],
  "holdings": [
   {
-   "symbol": "NOK",
-   "note": "收盤跌2.54%，盤後小跌；新聞提到光通訊升級與紐西蘭合約延長，但對股價影響有限。",
+   "symbol": "DRAM",
+   "note": "收盤跌2.89%，盤後仍跌1.75%。受費半重挫拖累，但記憶體供給偏緊的說法仍有支撐。",
    "sources": [
     {
-     "n": 5,
-     "title": "Nokia Oyj (HLSE:NOKIA) Extends One New Zealand Deal, Is The Valuation Gap Too Wide?",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/nokia-oyj-hlse-nokia-extends-231253430.html?.tsrc=rss",
-     "source": "Yahoo Finance"
+     "n": 34,
+     "title": "中芯國際CEO趙海軍：2027年晶圓非常緊缺、2028年記憶體或趨於平衡！",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CcjZtWUxzNkNCY2h1dVc1WEI5WkJkdFRLc2N3emNVTmxOZFJrX3lvSVctZTMyVGdkaW5VUm0tbUNqdktXeG1aVw?oc=5",
+     "source": "鉅亨號"
     },
+    {
+     "n": 9,
+     "title": "索羅斯基金Q3大幅加碼英特爾 Meta 新買SK海力士 減持輝達",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NdEpCNHdfZFdldkV1LUxFS0VFMnhIOC1YMDZtMkF0STNoeXE5VlVNUlVoM2lhWWFwOG1oTUJ6S2U2T0FLR3hOX0R1cmV0dlk?oc=5",
+     "source": "鉅亨網"
+    }
+   ]
+  },
+  {
+   "symbol": "NOK",
+   "note": "收盤跌2.54%。光通訊升級1.6T的產業消息偏正面，但提供的新聞中沒有直接說明對諾基亞的影響。",
+   "sources": [
     {
      "n": 17,
      "title": "AI光通訊升級1.6T 泰科砸6,000萬美元擴大高密度光纖陣列（FAU）產能",
@@ -155,44 +167,13 @@
    ]
   },
   {
-   "symbol": "DRAM",
-   "note": "記憶體ETF收跌2.89%；新聞顯示記憶體需求題材仍強，但受費半重挫與輝達風險拖累。",
-   "sources": [
-    {
-     "n": 34,
-     "title": "中芯國際CEO趙海軍：2027年晶圓非常緊缺、2028年記憶體或趨於平衡！",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CcjZtWUxzNkNCY2h1dVc1WEI5WkJkdFRLc2N3emNVTmxOZFJrX3lvSVctZTMyVGdkaW5VUm0tbUNqdktXeG1aVw?oc=5",
-     "source": "鉅亨號"
-    },
-    {
-     "n": 36,
-     "title": "SK hynix, Samsung, Micron say AI boom, not conspiracy, affected DRAM market",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWVOTFNNN3QzVVBVQnBvQjlzX25pblRPOHFWZnZRSzZvNldDYS1rSWVjdnU0OHNjRXBCSnB1clZvNE1NWW9WVkxqSlhMZDJPM2s4WjdSak9PTllVdWV5Zk8tU1N4NV9ZV0lUM1owd1BPU21oNlY1YnRaWTI5VmpCYklEWVM2OS1uclRob3FpVHp1bzNsbkxpWmJOVm9XaElDaFd6eGcxVFRmbDFLZUk4MVdWNUfSAVpBVV95cUxNS2pGdWJIWEhwbTdRc08zSHMzQVVHWnl2Wnpaclo1WXY3V2VoOExmWmlubnpSSzVTWGw4Y0RtQjhudVhqeTdaSDIxY292ZkhlVWQ5N3lMNW1PQ3c?oc=5",
-     "source": "MLex"
-    },
-    {
-     "n": 19,
-     "title": "〈分析〉黃仁勳走人韓廠反看機會 HBM議價力或升 韓企研擬Plan B",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QeUtMSl9vay0zbllfNmpQd0dtTEVCamtqZlg2aFo4ZkJqazA0NkFPQlFULW5wVzNkYllxUVVNRlN0VVFVX1FfV2VqdTZacXc?oc=5",
-     "source": "鉅亨網"
-    }
-   ]
-  },
-  {
    "symbol": "QNT",
-   "note": "收盤大跌5.5%；提供資料中無直接公司新聞，11/30為推估的IPO閉鎖期到期日。",
-   "sources": [
-    {
-     "n": 39,
-     "title": "金寶衝ODM轉型 下半年啟動AI伺服器機櫃生產",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BYWhSc0g1YTM3akxCZ2lFUHVZYmRsZWIzMk1jbnFGN1VkdjcxeUZLbi0tNGxrWnRzd1k1eHJ5VXN5QnpabmVsa0RWVWZ5WFVkUjFJaWZYQzQ?oc=5",
-     "source": "自由時報"
-    }
-   ]
+   "note": "收盤跌5.50%，提供的新聞中沒有直接相關的消息。IPO閉鎖期預估11/30到期，可留意。",
+   "sources": []
   },
   {
    "symbol": "SITM",
-   "note": "收盤跌5.53%，盤後再跌2.6%；本次資料沒有公司專屬消息，應是跟著半導體走弱。",
+   "note": "收盤跌5.53%，盤後仍跌2.60%。市場風險偏好降溫、半導體股普遍下跌，是主要壓力。",
    "sources": [
     {
      "n": 2,
@@ -205,27 +186,23 @@
  ],
  "watch_next": [
   {
-   "when": "11/15（週日）",
-   "what": "週末無美股交易，留意輝達事件、中美關係與晶片管制後續"
+   "when": "11/19 約凌晨",
+   "what": "川普、習近平、普丁三方會談，晶片管制可能在場外升溫（以台灣時間為準，請再確認）"
   },
   {
-   "when": "11/18（週三）清晨",
-   "what": "輝達財報（美東11/17盤後），關注新任執行長說明與中國業務"
+   "when": "11/18 early morning（11/17 美股盤後）",
+   "what": "輝達財報與新任領導層說法，包含對中業務與接班安排"
   },
   {
-   "when": "11/17（週一）起",
-   "what": "週一美股開盤，觀察費半能否止跌及美債殖利率走勢"
-  },
-  {
-   "when": "11/20（週四）",
-   "what": "川普、習近平、普丁會談（美東11/19），留意晶片管制"
+   "when": "11/16（週一）亞洲盤",
+   "what": "觀察台韓半導體股對費半大跌的反應"
   }
  ],
- "generated_at": "2026-11-14T18:45:06Z",
+ "generated_at": "2026-11-14T18:52:44Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5767,
-  "output_tokens": 1232
+  "input_tokens": 5766,
+  "output_tokens": 1221
  }
 }

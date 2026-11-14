@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T18:45:06Z",
+ "generated_at": "2026-11-14T18:52:44Z",
  "categories": {
   "holdings": "我的持股",
   "semis": "半導體／AI",
@@ -8,6 +8,27 @@
   "market": "美股大盤"
  },
  "items": [
+  {
+   "id": "10ab3d931d5ff5e4",
+   "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
+   "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+   "source": "CNBC",
+   "published": "2026-11-14T18:48:39Z",
+   "summary": "Despite the turbulence, the S&P 500 secured a weekly gain of 2.5%, while the tech-heavy Nasdaq added 2.3%.",
+   "lang": "en",
+   "feed": "cnbc-top",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 1.0,
+   "score": 5.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-14T18:52:44Z"
+  },
   {
    "id": "f932401afa2e03d9",
    "title": "Nvidia Co-Founder Jensen Huang’s Downfall Is a Sign of Silicon Valley’s Power Drain",
@@ -4729,6 +4750,26 @@
    "first_seen": "2026-11-14T07:06:02Z"
   },
   {
+   "id": "be0f439fc3d0da04",
+   "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+   "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+   "source": "CNBC",
+   "published": "2026-11-13T23:42:18Z",
+   "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+   "lang": "en",
+   "feed": "cnbc-top",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-14T18:52:44Z"
+  },
+  {
    "id": "7568a3156f50586f",
    "title": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August — SPCX, NVDA, ARM, AZN In Focus",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUpjR2Y4OTNkb290ZEs3VzNwNWlSRW5zQ19LYVJwRXQ1OTdtbUZadkdQUmNPZ0RaTHQ5VnVVXzA1VWp6VEJjQlkyeGFFNjJwVmdnU2dKM3J2WXpsYVVqRjRCZ0poOUhUWnRTbDZQX0tBbUo3QXlMVTdEV1BxQ0FGcWItZWZpcEZTd2dpZVRR?oc=5",
@@ -5691,6 +5732,26 @@
    "first_seen": "2026-11-13T20:40:33Z"
   },
   {
+   "id": "e276e77530e2ebe5",
+   "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
+   "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+   "source": "CNBC",
+   "published": "2026-11-13T20:21:46Z",
+   "summary": "Speculation has swirled around who Nvidia's board will select to permanently succeed CEO Jensen Huang.",
+   "lang": "en",
+   "feed": "cnbc-tech",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-14T18:52:44Z"
+  },
+  {
    "id": "b368eb0c87e401a6",
    "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
    "url": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
@@ -6497,27 +6558,6 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-14T07:06:02Z"
-  },
-  {
-   "id": "0ee1057bbaa5db42",
-   "title": "U.S. equities slide as PPI inflation data lands",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeEdDVkN2dm1wRzJENS1uQnRFWk43RlVUS0xCWnVfenV4NDZhVnRGTnBwVzZjZEFNZlFmRUtfQlU0NG40cENXcnE2Nnc1S2NaVTJzeEFIUThRdnQxZDE4WWdWVEJ5QUxMMGZ4anAwWlhneC16dVhFaUVYbEZhWjBJYUhkWjFJOVIyUDlV?oc=5",
-   "source": "Seeking Alpha",
-   "published": "2026-11-13T17:10:25Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-macro",
-   "categories": [
-    "macro",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 0.0,
-   "score": 4.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-13T20:30:21Z"
   },
   {
    "id": "11ceea3986a5dae4",
@@ -8219,29 +8259,6 @@
    "first_seen": "2026-11-13T20:30:21Z"
   },
   {
-   "id": "9e7d849047f91e9b",
-   "title": "業內人士：黃仁勛離職後 韓國存儲廠商HBM談判話語權提升",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRRmljVzR5eTR1cWRUaVpuWUJlMzZNUFU1cHhJdlBEQUVhYmhRekt3TWZvSjl2aVdlNFhKeWFrRHZER1hGTmJQMlFsdU40WTJuaXgtMHhuTHQwM3ZPYmZjZGwtLU01ZGFyX1E?oc=5",
-   "source": "TradingView",
-   "published": "2026-11-13T09:37:35Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-memory",
-   "categories": [
-    "holdings",
-    "semis"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 6.0,
-   "source_bonus": 0.0,
-   "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-14T18:45:06Z"
-  },
-  {
    "id": "ca2b4f4b26063706",
    "title": "台灣半導體產值今年衝9.76兆創新高 記憶體年增逾2.6倍最狂",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xRVo4bzU5a2FXdzNTZE9uTXdYMDh3WVNOdnpjWEFyeVRtU1lLRDVWNUUwbmttOXhmUEZJSDN2blVaMmlVYy1rR3M4ZE15d3UxcVRKVVJNS1c?oc=5",
@@ -8586,35 +8603,25 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-13T07:24:36Z"
-  },
-  {
-   "id": "a244f2a6b02cc761",
-   "title": "諾基亞攜台廠啖AI-RAN大餅- 日報",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EbVBuTGlOdl9DRklzeEpyaTZtNWpuSHFCODlGNVlWZkFqVEtUaGRQelBKN1dTeUM2eDNVcFNhdUlEeFozSXVlbW0xcHZtM2I4NEFkR1UyQlFqS1lldEtj?oc=5",
-   "source": "工商時報",
-   "published": "2026-11-12T19:00:00Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-nok",
-   "categories": [
-    "holdings",
-    "semis"
-   ],
-   "symbols": [
-    "NOK"
-   ],
-   "base_score": 9.0,
-   "source_bonus": 1.0,
-   "score": 10.5,
-   "coverage": 2,
-   "also": [
-    {
-     "source": "中時新聞網",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56akgzQVFhTGtkeW8zcGZoV04wMS1uV0VjbURLWHhDR3VqVzdPbWtrZEhvT1BLU2dxdjltUzZXcGQ5Mm1uSVhKem1wVElxZENFYjVGTTBBLWdwUG9XVjVqMmY0MWt4clUzRmNR?oc=5"
-    }
-   ],
-   "first_seen": "2026-11-12T20:50:41Z"
   }
  ],
- "feed_errors": {}
+ "feed_errors": {
+  "gn-en-market": "HTTP 503",
+  "gn-en-semis": "HTTP 503",
+  "gn-en-ai": "HTTP 503",
+  "gn-en-macro": "HTTP 503",
+  "gn-en-world": "HTTP 503",
+  "gn-en-nok": "HTTP 503",
+  "gn-en-hynix": "HTTP 503",
+  "gn-en-qnt": "HTTP 503",
+  "gn-en-sitm": "HTTP 503",
+  "gn-en-memory": "HTTP 503",
+  "gn-zh-semis": "HTTP 503",
+  "gn-zh-market": "HTTP 503",
+  "gn-zh-macro": "HTTP 503",
+  "gn-zh-world": "HTTP 503",
+  "gn-zh-memory": "HTTP 503",
+  "gn-zh-nok": "HTTP 503",
+  "gn-zh-quantum": "HTTP 503"
+ }
 }
