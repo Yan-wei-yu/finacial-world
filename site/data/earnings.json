@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T20:40:33Z",
+ "generated_at": "2026-11-14T07:06:02Z",
  "upcoming": [
   {
    "symbol": "NVDA",
@@ -8,10 +8,10 @@
    "date": "2026-11-17",
    "datetime": "2026-11-17T21:00:00Z",
    "session": "盤後",
-   "eps_est": 2.47323,
+   "eps_est": 2.47121,
    "eps_low": 2.25754,
    "eps_high": 2.7,
-   "rev_est": 108813797290.0,
+   "rev_est": 108731903900.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -148,7 +148,7 @@
    "date": "2027-01-27",
    "datetime": "2027-01-27T21:00:00Z",
    "session": "盤後",
-   "eps_est": 4.85575,
+   "eps_est": 4.85752,
    "eps_low": 4.82,
    "eps_high": 4.97073,
    "rev_est": 96691687890.0,
@@ -168,6 +168,34 @@
    "rev_est": 131128013520000.0,
    "rev_currency": "KRW",
    "is_holding": false
+  },
+  {
+   "symbol": "INTC",
+   "name_zh": "英特爾",
+   "group": "semis",
+   "date": "2027-01-28",
+   "datetime": "2027-01-28T21:00:00Z",
+   "session": "盤後",
+   "eps_est": 0.24895,
+   "eps_low": 0.21,
+   "eps_high": 0.27,
+   "rev_est": 15618018670.0,
+   "rev_currency": "USD",
+   "is_holding": false
+  },
+  {
+   "symbol": "NOK",
+   "name_zh": "諾基亞",
+   "group": "holding",
+   "date": "2027-01-28",
+   "datetime": "2027-01-28T13:00:00Z",
+   "session": "盤前",
+   "eps_est": 0.17012,
+   "eps_low": 0.146,
+   "eps_high": 0.19081,
+   "rev_est": 6294927770.0,
+   "rev_currency": "EUR",
+   "is_holding": true
   }
  ],
  "recent": [
@@ -409,18 +437,6 @@
    "eps_est": 0.14,
    "eps_actual": 0.2,
    "surprise_pct": 37.65,
-   "suspect": false
-  },
-  {
-   "symbol": "ASML",
-   "name_zh": "艾司摩爾",
-   "group": "semis",
-   "is_holding": false,
-   "datetime": "2026-10-14T05:00:00Z",
-   "date": "2026-10-14",
-   "eps_est": 10.76,
-   "eps_actual": 11.82,
-   "surprise_pct": 9.86,
    "suspect": false
   }
  ],

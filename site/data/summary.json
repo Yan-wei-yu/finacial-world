@@ -1,44 +1,50 @@
 {
- "headline": "輝達風波加通膨疑慮，費半重挫3.78%",
+ "headline": "輝達高層異動加通膨升溫，殖利率破5%，費半重挫3.43%",
  "mood": "偏空",
- "mood_reason": "費半收跌3.78%、10年債殖利率逾5%、那指期貨續跌1.35%，輝達人事不確定性未解。",
+ "mood_reason": "費半收跌3.43%、那指期貨續跌1.23%，美債10年殖利率達5.15%",
  "key_points": [
   {
-   "title": "黃仁勳請辭，輝達股價承壓",
-   "detail": "新任執行長未定，匯豐降評並點出晶片禁令風險；輝達領跌晶片股，也拖累中國AI相關股與供應鏈。",
+   "title": "輝達領導層異動衝擊晶片股",
+   "detail": "黃仁勳離任消息使輝達陷入動盪，AMD、美光、SK海力士等晶片股同步走弱。市場關注接班人在11/17財報會的回應。",
    "impact": "利空",
    "sources": [
     {
-     "n": 36,
-     "title": "【即時新聞】輝達(NVDA)新任CEO未定遭匯豐降評！面臨晶片禁令風險，股價重挫逾4%",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DVDNTYVB2UF9GUDRXZm1zeklZVnVKQ29JX0w5TVF0V01OMGpBT1pJRk1HeFRSMmpFV0ZuSDFUanZLMTBwTnR5WTFzTmpnbmMwTnZVQ3JRZ2Y?oc=5",
-     "source": "CMoney"
+     "n": 2,
+     "title": "Chip Selloff Deepens: Micron, Sandisk, SK hynix Extend Slump as Nvidia Turmoil and Inflation Fears Weigh",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuQzNyN2gwdkFYYVZhRmJFeEFOMGdHQWFQOEZ0LUdKWlZnN1BMY0d2UzI0MXlfOGxkbGRSdDVISWRtNjFLMFU1U093Vm9oUHZ1U3pvLXQ4UXpxWTc4UlptOXlwX1dmMGNOMTk0TWwtQ0hXN0EwRHc?oc=5",
+     "source": "BigGo Finance"
     },
     {
-     "n": 18,
-     "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
-     "url": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
-     "source": "MarketWatch"
-    },
-    {
-     "n": 21,
-     "title": "輝達黃仁勳辭職衝擊中國AI股 光模組雙雄重挫、中國國產晶片逆勢上漲",
-     "url": "https://news.cnyes.com/news/id/6661611",
+     "n": 4,
+     "title": "黃仁勳離任後首場財報會 接班人克雷斯須回應輝達五大考題",
+     "url": "https://news.cnyes.com/news/id/6662445",
      "source": "鉅亨網"
     },
     {
-     "n": 25,
-     "title": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5%",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU1MbkhnZll4OHpIdGV2VlI1ZVFhWGhKX1F1bnZvWVRGWnVkYnBfcmRIaG1PRzcyN1pTUFJzY2VWVzRMN2VqNjQ1Tkwyb3E5bGpQN1NOcTFnTVFQVmdPRjdZX2h3LTh2d2F1Y1F6SW5JWTVPWmRwXzBsVlpIbGNEWTBZLUhaRnFIWTVIY1gxSVc0T2J0blE?oc=5",
+     "n": 21,
+     "title": "AMD Sinks 9%, Marvell Down 5% as Chip Rally Reverses and Treasury Yields Hit 5%",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNS05Y2s5ZHQxNGh6WDQtUFZLZGNGSF8wbWJsbUNuMFVzRklBckRTdjNsOFdSSFFUZWlucl9WZEFuSFprZjZ2d0JjNzgtN3RDbFRHSlVWMzNyMWNzanFjSUl6c3VKckU1Z1ZPcERCcFlyT3N1aUFwckFuUGllSUJLX3NXTkhWYkNMVHU2NTBlU21LOUk?oc=5",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 22,
+     "title": "SK hynix Stocks Fall 3.03% as Nvidia Leadership Shock Hits Key HBM Supplier",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMnhfdHhLNjdwZmdJVjJ4X01kTVZjWTd1aWViLVR4Uk4tZ2gwT0VocGpubXhOSmZNTHFOZWZhVWFvZjlSbjA1Y3NYdGlRdjZudGdfS0JFM3lwNTNzYWpIWmxTeG1iWjBRYzh5VWlCY3BUVGNoM3IybkIwX0VoOURQZlBLYllkR1JJT1U1RzZrM2o?oc=5",
      "source": "Yahoo Finance"
     }
    ]
   },
   {
-   "title": "PPI偏熱，殖利率衝破5%",
-   "detail": "10月PPI年增6.5%，10年債殖利率升至約5.15%，並出現聯準會官員偏鷹說法，壓抑高估值科技股。",
+   "title": "通膨疑慮推升殖利率破5%",
+   "detail": "PPI數據偏熱，美債10年殖利率升至5%以上，收盤報5.15%，科技股評價承壓。有報導稱聯準會官員發言偏鷹。",
    "impact": "利空",
    "sources": [
+    {
+     "n": 27,
+     "title": "美股異動 | 美聯儲官員再放鷹 費城半導體指數跌超5% 半導體板塊集體走低 作者 智通財經",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Nb3hpclV3NVVkM0tyeVA4dEJKUi1YMW9FaElxWl9BWFFOU3RwcS1tRkVxN1ozOUtORm40d0kzOTNGdlA4ODZ2Zjlia3E4NXEzUHkwQlBqNUJmSENWZzVzeklsQkJfMXA3UktPb3FlVlI?oc=5",
+     "source": "Investing.com 香港 - 股市報價& 財經新聞"
+    },
     {
      "n": 28,
      "title": "美國10月PPI年增6.5%，費城半導體指數重挫5%，AMD一度跌逾10%",
@@ -52,51 +58,20 @@
      "source": "Yahoo Finance"
     },
     {
-     "n": 27,
-     "title": "美股異動 | 美聯儲官員再放鷹 費城半導體指數跌超5% 半導體板塊集體走低 作者 智通財經",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Nb3hpclV3NVVkM0tyeVA4dEJKUi1YMW9FaElxWl9BWFFOU3RwcS1tRkVxN1ozOUtORm40d0kzOTNGdlA4ODZ2Zjlia3E4NXEzUHkwQlBqNUJmSENWZzVzeklsQkJfMXA3UktPb3FlVlI?oc=5",
-     "source": "Investing.com 香港 - 股市報價& 財經新聞"
-    },
-    {
-     "n": 25,
-     "title": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5%",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU1MbkhnZll4OHpIdGV2VlI1ZVFhWGhKX1F1bnZvWVRGWnVkYnBfcmRIaG1PRzcyN1pTUFJzY2VWVzRMN2VqNjQ1Tkwyb3E5bGpQN1NOcTFnTVFQVmdPRjdZX2h3LTh2d2F1Y1F6SW5JWTVPWmRwXzBsVlpIbGNEWTBZLUhaRnFIWTVIY1gxSVc0T2J0blE?oc=5",
-     "source": "Yahoo Finance"
+     "n": 3,
+     "title": "AI投資推升記憶體成本聯準會副主席：通膨走勢是政策關鍵",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RYUtfZmVrV3NBSERLLVRpZU42NWpwbEFKNHotOXFDd3ZrU1htMzF4dFoxRmJuY3lIVlRaSW80NE9RU3ZmWlpBZWV0eDVXMms?oc=5",
+     "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "費半盤中一度跌逾5%",
-   "detail": "AMD盤中一度跌逾10%，應材、Marvell等同步走弱，半導體族群全面回落。",
+   "title": "記憶體股走弱",
+   "detail": "美光盤中跌逾5%，閃迪跌逾6%，SK海力士也下跌。記憶體ETF DRAM收盤跌2.89%。",
    "impact": "利空",
    "sources": [
     {
-     "n": 27,
-     "title": "美股異動 | 美聯儲官員再放鷹 費城半導體指數跌超5% 半導體板塊集體走低 作者 智通財經",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Nb3hpclV3NVVkM0tyeVA4dEJKUi1YMW9FaElxWl9BWFFOU3RwcS1tRkVxN1ozOUtORm40d0kzOTNGdlA4ODZ2Zjlia3E4NXEzUHkwQlBqNUJmSENWZzVzeklsQkJfMXA3UktPb3FlVlI?oc=5",
-     "source": "Investing.com 香港 - 股市報價& 財經新聞"
-    },
-    {
-     "n": 28,
-     "title": "美國10月PPI年增6.5%，費城半導體指數重挫5%，AMD一度跌逾10%",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVDBCSW1WMDdCbEhmeVBkaW1CalJfRGQ3amt1T0dtbTItQ21vQWVnYWZBMm9XQ2IybThZVHBkOVZ3TGdaWkRXRU9kTEQydWZrNVZNZjBSVVpESS00d2FzanV3d2xucGRaSDdTVndhVjZEdTNsdmhfQkltNS1YVjY3WTJmeTJHYV9pcDJPcTZlWm1OaDZDWHgyTENsaVJJTW1KdjJnMHlSbll5bFgwMmZfNVlJMmNQbWZaaGlOcDRsdmZyeklGcnR2NU8wWWNrT2Exd3UwTHFOVDlpS28?oc=5",
-     "source": "TradingKey"
-    },
-    {
-     "n": 26,
-     "title": "Applied Materials, Diodes, Marvell Technology, Applied Optoelectronics, and SK hynix stocks trade down, what you need to know",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbGJrckVTaFdlaVFTRENIWnZ2bjdvRkN4VWVEdndoakU0MmU2NTV5NlZZYmJqTUJpbmpEQXBmSFNlZk5wemQxSENJZFhuZEpiRE5ZT3p4amZ5bjdfR2s2Um9UZDNNYjBNN3RvampHdldQQTM1UzhfNXQ4ZFRadndjTXZVSk9BbVB0eXJUYWZQSGRxSGxmdlR2V3kzTVlVdHZRamt2TFBWMmVwa0c3T2JaN0NTbkJoMHdXblNvZ091Y1J2dTQ2eWJ0dU1jUXNtaTQxUVdvYnZWRks2ZXlCbW9BUTgyQ2Rxel94UUhlemE2SjBOZFI2M3p0eUE2TWtUcDNqUlc5d0NuWGVSVkhKeGc?oc=5",
-     "source": "TradingView"
-    }
-   ]
-  },
-  {
-   "title": "記憶體股同步下挫",
-   "detail": "美光、閃迪、SK海力士走低，分析師對先進記憶體需求示警；SK海力士ADR溢價仍高達44.43%。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 1,
+     "n": 2,
      "title": "Chip Selloff Deepens: Micron, Sandisk, SK hynix Extend Slump as Nvidia Turmoil and Inflation Fears Weigh",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuQzNyN2gwdkFYYVZhRmJFeEFOMGdHQWFQOEZ0LUdKWlZnN1BMY0d2UzI0MXlfOGxkbGRSdDVISWRtNjFLMFU1U093Vm9oUHZ1U3pvLXQ4UXpxWTc4UlptOXlwX1dmMGNOMTk0TWwtQ0hXN0EwRHc?oc=5",
      "source": "BigGo Finance"
@@ -108,35 +83,54 @@
      "source": "TradingView"
     },
     {
-     "n": 35,
-     "title": "黃仁勳請辭波及記憶體股 美光、SK海力士走低 分析師示警先進記憶體需求",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ITEw1Q1g0ZlN3OHVBU185Qi0wT2NLcWtwZXFxcVA4aEpiUnVXNE9BLUdWd2lPckM2dWpveWJPUVBGdDFDQXdWdkpvUDJPQkU?oc=5",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 37,
+     "n": 39,
      "title": "盤中速報 - 美光科技(MU-US)大跌5.07%，報757.92美元",
      "url": "https://news.cnyes.com/news/id/6662207",
      "source": "鉅亨網"
+    },
+    {
+     "n": 22,
+     "title": "SK hynix Stocks Fall 3.03% as Nvidia Leadership Shock Hits Key HBM Supplier",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMnhfdHhLNjdwZmdJVjJ4X01kTVZjWTd1aWViLVR4Uk4tZ2gwT0VocGpubXhOSmZNTHFOZWZhVWFvZjlSbjA1Y3NYdGlRdjZudGdfS0JFM3lwNTNzYWpIWmxTeG1iWjBRYzh5VWlCY3BUVGNoM3IybkIwX0VoOURQZlBLYllkR1JJT1U1RzZrM2o?oc=5",
+     "source": "Yahoo Finance"
     }
    ]
   },
   {
-   "title": "週五雖跌，主要指數本週仍收高",
-   "detail": "CNBC指出主要指數週線仍上漲，但期貨續跌顯示下週開盤壓力仍在。",
+   "title": "中國因素與稀土報復疑慮",
+   "detail": "有報導指黃仁勳離任衝擊中國科技股，並出現稀土報復警告，增添半導體供應鏈不確定性。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 17,
+     "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
+     "url": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
+     "source": "MarketWatch"
+    },
+    {
+     "n": 35,
+     "title": "Fallout From Nvidia Leadership Shakeup: Chinese 'Rare Earth Retaliation' Warning Rattles Semiconductor Stocks",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGZDBhZEFkVVRYUWhRRDR3YWVRNERUbndYaUlHR1hrSG1jM0JXTXFzbE1DbzcyeFZMMDlnMG10bXBBc1RvbGNrUHpYTGk5ZHFxZDZnT2wtQ3ZORXhIZ1hqZmxmVXl0TkpyWGRYWDFuNm5xdlhpbHc?oc=5",
+     "source": "BigGo Finance"
+    }
+   ]
+  },
+  {
+   "title": "AI風險與長線看法",
+   "detail": "聯準會調查指AI風險是金融體系最大威脅之一；高盛則預期標普明年再漲16%。",
    "impact": "中性",
    "sources": [
     {
-     "n": 15,
-     "title": "Nasdaq falls on Friday as Nvidia keeps sliding, but major averages are up for week: Live updates",
-     "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+     "n": 12,
+     "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+     "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
      "source": "CNBC"
     },
     {
-     "n": 30,
-     "title": "Stock Market Rebounds Even As Nvidia CEO Jensen Huang Resigns, Treasury Yields Jump: Weekly Review",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3NWQ1h5MjlGUE41X1hFY3JBb2RDT213U1Z6X2VFNFNqQi01UmxONXNGRFpuVDVKbHc2aDdTOFFVbVZTaWZuYU5rcHZhV0o2WG5QREtGbDlmTUZST3E0cE1PT0ZSNVdiZjBTS3FEcjhRRGU3OWNZQ0E4UkhGbjVZQXRTbnFVLU1HM2RDUnFycnJfd01BalBmVUlfeHVzNnJ2al92bzc5bWlTdw?oc=5",
-     "source": "Investor's Business Daily"
+     "n": 1,
+     "title": "獲利成長減速、牛市還未完！高盛點名三大布局方向 看好標普明年再漲16%",
+     "url": "https://news.cnyes.com/news/id/6662252",
+     "source": "鉅亨網"
     }
    ]
   }
@@ -144,10 +138,10 @@
  "holdings": [
   {
    "symbol": "NOK",
-   "note": "收跌3.20%，受AI族群走弱與現金流疑慮拖累；獲美國國防部合約屬正面消息，但未能抵銷跌勢。",
+   "note": "收盤跌2.54%，受AI類股走弱與現金流疑慮拖累；另獲美國國防部RAPID合約，屬題材面利多。",
    "sources": [
     {
-     "n": 7,
+     "n": 8,
      "title": "Nokia Slides as AI-Sector Weakness and Cash-Flow Concerns Weigh on Shares",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVFBFVWxUMXNPcWh6bmN0bWF1NzZwaXEwRXVrNlNHSDQxbG15d2ZZUWtlSTNPN1ZRWE8za3lDbWtWVHpOeWNOOV9UamF5OHNCR25HbmtSQndwYVN2ZTFMOGtfVlFrdEozMExSeXRobFgzM21Nd1dDcVVqMHlJNUpucTJhZlc3WjM5X2xMUEYwXy1fTTUtQ2ZRVmVCSWxiZGFkWnFqR3NMaHJBdw?oc=5",
      "source": "Quiver Quantitative"
@@ -159,19 +153,19 @@
      "source": "Yahoo Finance"
     },
     {
-     "n": 11,
-     "title": "Nokia selected for Department of War program",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2lGRV9ReFh6Q01DNkNCZXZaeFAzMnQ3d3JpTVRrZVN3VUtnRW5kamU3Q1VMOENJOUNCN2VYUHpENnd2V0FZckpNd2ZVd0FlczVHbm5FcVZyYUc0TlFCdDRSWEFPc1lpVDF2bS1hM25rQm1TX2FYa0VHRm8tTEFXUHRFTjRmbDZfSHVfVUtRcnBKWGdnUHhmVTQ4NjVRZw?oc=5",
-     "source": "marketscreener.com"
+     "n": 10,
+     "title": "Nokia Federal Solutions awarded Department of War RAPID contract to advance multi-domain threat awareness",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaDNTc1FCblVERDhIZjZCQlpqbGZ4dzlaM0dlMDFCTTF1VDZDcEZ1aUFuZkxIZXF4X3pSRzEweGdSYXl2MWtfX1UxMTBkX2NlZG9RSmQweXhHRlhwN2twckp3d1hreXRTbnlFZEhNZ21EcFUwUEg5NGtGdERYZlJWTVR4V1o3WTdYOG9GQ0hQSGd0X0NsRTBVOXd2aklSN3laZjhLZzhwR2FnREE3bXQ5YzNNN2ZjcmlqMGpKV01DekZWQXl1QWRIbDJ5YUh1ZHNTRXZN?oc=5",
+     "source": "Nokia"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "收跌3.34%，持股的美光、SK海力士等記憶體股同步走弱。",
+   "note": "記憶體股同步下挫，美光、閃迪、SK海力士走弱，收盤跌2.89%。",
    "sources": [
     {
-     "n": 1,
+     "n": 2,
      "title": "Chip Selloff Deepens: Micron, Sandisk, SK hynix Extend Slump as Nvidia Turmoil and Inflation Fears Weigh",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuQzNyN2gwdkFYYVZhRmJFeEFOMGdHQWFQOEZ0LUdKWlZnN1BMY0d2UzI0MXlfOGxkbGRSdDVISWRtNjFLMFU1U093Vm9oUHZ1U3pvLXQ4UXpxWTc4UlptOXlwX1dmMGNOMTk0TWwtQ0hXN0EwRHc?oc=5",
      "source": "BigGo Finance"
@@ -183,7 +177,7 @@
      "source": "TradingView"
     },
     {
-     "n": 23,
+     "n": 22,
      "title": "SK hynix Stocks Fall 3.03% as Nvidia Leadership Shock Hits Key HBM Supplier",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMnhfdHhLNjdwZmdJVjJ4X01kTVZjWTd1aWViLVR4Uk4tZ2gwT0VocGpubXhOSmZNTHFOZWZhVWFvZjlSbjA1Y3NYdGlRdjZudGdfS0JFM3lwNTNzYWpIWmxTeG1iWjBRYzh5VWlCY3BUVGNoM3IybkIwX0VoOURQZlBLYllkR1JJT1U1RzZrM2o?oc=5",
      "source": "Yahoo Finance"
@@ -192,22 +186,15 @@
   },
   {
    "symbol": "QNT",
-   "note": "收跌5.29%，軟銀加入量子結合AI資料中心合作屬題材面消息，但跌勢明顯。另有推估11/30閉鎖期到期。",
-   "sources": [
-    {
-     "n": 10,
-     "title": "SoftBank joins Quantinuum and RIKEN to explore quantum-AI data centre integration",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeWQ1dUNhWUJtQzVTbWREUlFBZU9ZNVhmQTlnM2l0UDZoaWJ5MXNNUGZrbUhGMjF2YUdNYURsYVVPLTJJOU9tckVBWXFJcEtlRHNsVFAzenROT1o4RlpmS29WVkZpQzlKaTZ2UzJNazFkdUdzM2R2bE1GLW1ZdldyVkRyTE5ITXFNZlp5MXhoUldqYzJOdElBUjU2S0JiT0IwQ2ZMTTZKSElXMnFyZGE2U3BLOVhBSFU5emdfSFVfamVpdw?oc=5",
-     "source": "Telecompaper"
-    }
-   ]
+   "note": "收盤跌5.5%，新聞清單無直接報導；日程列有11/30 IPO閉鎖期到期（推估）。",
+   "sources": []
   },
   {
    "symbol": "SITM",
-   "note": "收跌6.08%，與Teradyne等半導體股同列大跌名單。",
+   "note": "與Teradyne等半導體股一同大跌，收盤跌5.53%。",
    "sources": [
     {
-     "n": 8,
+     "n": 9,
      "title": "Teradyne, Navitas Semiconductor, SiTime, ACM Research, and Ultra Clean Holdings shares plummet, what you need to know",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUDRsSEdudkFGdjFIbS1KLWN5TmFOUURpWFByd3YzeWs1NnpYWkRkbTFpUEl1bkZSaTgwWHRtbFRGZUc5eTdubHlVR0d0QjRpOWxQbEdWTy1qRUZOUTluQzgzejU1aXZWZUhLVzMwUmktZXdtbGhIRjJfWUVYR0JfOUxtYVRGODlyaDRiZ2FyXy1SWFN6ck42ODJGZjJvc0ZhQ2tQSW1qRFZiSmdFb1FzVlVRWi14TE1FY1ZtaHVpcU5zTlRMZE1qRDJpUi1Mb01WLVk4TWpsc0dBMXVrVVZyVDE4c0Mtb1lnVlV5Q0pJWG1OUnFoOHJJczFZSTdVS3VFUXJN?oc=5",
      "source": "TradingView"
@@ -217,27 +204,23 @@
  ],
  "watch_next": [
   {
-   "when": "11/14（週六）起",
-   "what": "留意輝達新任執行長人選與政府對中國晶片出口的後續表態"
+   "when": "11/17（週一）盤後，約台灣時間11/18清晨",
+   "what": "輝達財報，接班人回應市場疑慮"
   },
   {
-   "when": "11/17（週一）美股盤後",
-   "what": "輝達公布財報，EPS預估2.47，台灣時間約11/18清晨"
+   "when": "11/14–11/16",
+   "what": "週末留意輝達人事、中國與稀土相關消息，以及通膨與殖利率動向"
   },
   {
-   "when": "週一美股開盤",
-   "what": "觀察美債殖利率是否維持在5%上方，以及那指期貨表現"
-  },
-  {
-   "when": "11/21",
-   "what": "韓國前20天出口初值，可觀察半導體需求"
+   "when": "11/21（週六）",
+   "what": "韓國前20天出口初值（記憶體需求觀察指標）"
   }
  ],
- "generated_at": "2026-11-13T20:40:33Z",
+ "generated_at": "2026-11-14T07:06:02Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5761,
-  "output_tokens": 1173
+  "input_tokens": 5869,
+  "output_tokens": 1115
  }
 }
