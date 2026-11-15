@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T18:52:44Z",
+ "generated_at": "2026-11-15T07:16:57Z",
  "upcoming": [
   {
    "symbol": "NVDA",
@@ -50,10 +50,10 @@
    "date": "2026-12-23",
    "datetime": "2026-12-23T21:00:00Z",
    "session": "盤後",
-   "eps_est": 38.29,
-   "eps_low": null,
-   "eps_high": null,
-   "rev_est": null,
+   "eps_est": 38.29128,
+   "eps_low": 35.85,
+   "eps_high": 40.47,
+   "rev_est": 61832643300.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -413,30 +413,6 @@
    "eps_est": 5.42,
    "eps_actual": 3.83,
    "surprise_pct": -29.33,
-   "suspect": false
-  },
-  {
-   "symbol": "TSM",
-   "name_zh": "台積電",
-   "group": "semis",
-   "is_holding": false,
-   "datetime": "2026-10-15T06:00:00Z",
-   "date": "2026-10-15",
-   "eps_est": 4.52,
-   "eps_actual": 4.6,
-   "surprise_pct": 1.67,
-   "suspect": false
-  },
-  {
-   "symbol": "ERIC",
-   "name_zh": "易利信",
-   "group": "peer",
-   "is_holding": false,
-   "datetime": "2026-10-15T05:00:00Z",
-   "date": "2026-10-15",
-   "eps_est": 0.14,
-   "eps_actual": 0.2,
-   "surprise_pct": 37.65,
    "suspect": false
   }
  ],

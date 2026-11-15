@@ -1,83 +1,83 @@
 {
- "headline": "輝達高層異動加通膨疑慮，費半重挫3.43%",
+ "headline": "輝達領導層動盪加AI風險示警，費半重挫3.43%",
  "mood": "偏空",
- "mood_reason": "費半大跌、10年債5.15%、那指期貨續跌，輝達財報前不確定性高",
+ "mood_reason": "費半大跌、那指期貨續跌1.23%，美債殖利率5.15%偏高，輝達財報前不確定性升高",
  "key_points": [
   {
-   "title": "輝達高層異動與對中晶片爭議",
-   "detail": "報導指黃仁勳離任後，輝達面臨接班、對中晶片流向等爭議，並有中國稀土報復的擔憂。輝達財報前市場情緒偏緊張。",
+   "title": "輝達創辦人離位風波壓抑AI股",
+   "detail": "報導稱黃仁勳因涉中國情報關係疑慮失去職位，輝達已連跌6周、累計跌約38%。員工聯名信與商務部長去留傳聞，讓AI基礎建設股重新被檢視。",
    "impact": "利空",
    "sources": [
     {
-     "n": 4,
-     "title": "黃仁勳離任後首場財報會 接班人克雷斯須回應輝達五大考題",
-     "url": "https://news.cnyes.com/news/id/6662445",
-     "source": "鉅亨網"
+     "n": 33,
+     "title": "Nvidia chief loses position after Rubio memo to Trump about alleged ties to Chinese intelligence – WP",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbjFEMDMtSXBiYVIwakt2ZmxpZTZ5SkEyZnlab2xyQ0FQRWttTXZIVVhNVzE5S3E4ekxlOTFsckNzc3V6NnFDempWYVg5aF8wZF9rclFUbnBySEpsV1ZvVGhxSm1yc2JISXRKUkQ5MGVZMEpzbVhDM3RhTjZUN2JMVFlpalFndi01YzBCSzlQRVNtcE9rUUJGdm9zNkd3NjZfcXJ3ZDFoWEVGVGJoYWtHTERycUhudEhzb0dJZ3R1c9IBvgFBVV95cUxORGNDZXowcXp2d1JuZU5oaTBzVlNDVHQxR1JVX1YzdHVQaG1iUnVFOGJRd2k2MFh2eWJYZEY3RE51SXE1d3NyZDZTdS11M2RDZWc4dVJEQ1NuS2MwSnFrZXFESngtRmR1dDlPNXBNeGlycDhObkZjQTVPLTZZaktnbHRwaWRtbjUwbWxSbGFGTDRnLUtUV0w1OHFKS1FaMFNRVllUMnl2Q3B0TWktWThwcWNMaWtycklFRHY5Znh3?oc=5",
+     "source": "Українські Національні Новини (УНН)"
+    },
+    {
+     "n": 32,
+     "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFhFdjVXUmFEeDhEemZrSmthRjRTdDVVOVQ5S0lWaVVVWXR4T2RiU25IN20xaTFTdHB0RDRNNU1CZ1dmYWVXWWI1MkpydU42bzJaSFlRTFBtZTJfbmM3c2Ezc2w3Uk05YnFGNFVrRXRZam9JTV9ERlRudU1XNHIzUkdtQQ?oc=5",
+     "source": "The New York Times"
+    },
+    {
+     "n": 23,
+     "title": "Nvidia連跌6周 半導體股受壓 累挫38%市值蒸發13.5萬億 相當於港去年GDP逾4倍 - 20261115 - 經濟",
+     "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQUjJIWS00T1JrT1lGVnl0WGl0ZVExdU1SRXROVWdzbmZNYWtHb0ZsWWM5QXdZdE1qZklPQWFzTTFKdmkwNHdNcmQ0NVdnRjQ1c0NObFB3NGRYNTdEYnB2OWNWN05SSjdONWFKbktKazlYN05QVmtzZktBb1d6WUQzbHpjc0ZfOTV5czgyVkxXWXkwYnFZY1lFbG12bm9DX1BOTlZuLXl2QXB6ejdpaENkOVV2dWJ3R0I3b0RFbkpESHNxVFBQTXdzSkdiWnNibzdiM1d1NHhISTlzTER1LXRqQWtPcmdNSHRuTnVVN0VQTjNsNU11M2JESGJvcWg0WklwLU96bDMtQzYyWEQxcVplWFRKa1lvUGNSb3hsdE9jc2tEYTlmOC1nLUVfLWRZd3g0bWdDMmFzX0FNUW0xTFVuSVEwRldSek9IU25JaE5ZdF9URXU2YllZQnNRejA0VFRCeXNkbEVvU3EyVjhIWWZRZHIyR1BIbkQwWmotWWhycF9tR3FVcXNfU3RWZkdwQzV1LXo0ZDdiSElMUFpfWmNjZG1oWlJKNEhjeWR6dkw4VGsxa3pBQ0QzQnRfQk95Q3o0Tmc4c1h4dzdNeVlKUEhUZmJHUmpMTFk?oc=5",
+     "source": "明報新聞網"
     },
     {
      "n": 10,
-     "title": "美股多數收低！輝達高層異動續挫 通膨頑固拖累科技股",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50UTFfcGhUeVZ1b25zbWFDRngxQWZnOGE1dHYwY0Jqbm1nR2ROMnRTRzNPMWVZLURYcXl1UjNwV3NnQjJMa1o3eDloMGxRbzBlNmxFY2g3Y0E2REdkOG9ESEtJcG1uZw?oc=5",
-     "source": "民視財經網"
-    },
-    {
-     "n": 15,
-     "title": "Fallout From Nvidia Leadership Shakeup: Chinese 'Rare Earth Retaliation' Warning Rattles Semiconductor Stocks",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGZDBhZEFkVVRYUWhRRDR3YWVRNERUbndYaUlHR1hrSG1jM0JXTXFzbE1DbzcyeFZMMDlnMG10bXBBc1RvbGNrUHpYTGk5ZHFxZDZnT2wtQ3ZORXhIZ1hqZmxmVXl0TkpyWGRYWDFuNm5xdlhpbHc?oc=5",
-     "source": "BigGo Finance"
-    },
-    {
-     "n": 16,
-     "title": "The Nvidia scandal is heightening America’s AI rivalry with China ahead of Trump’s visit",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalY0LVRKSlZQVVJQeGZidU1VWFo0VXpuaGNQVTdST1Bfa3B0YXUyc1NjVVprRVlhTlhMZFlidzhkQ3pqbnFJRDc1aDhpYm5rRFkycV9vMzU3ckhlSTBIVXRSb2VoOVc4SVJjYjNFVlRrQ01UQmM4Sk9WcGFFUEdvbElmc1lWZlZ5UlhvQUNQV1paNWhsc2Fv?oc=5",
-     "source": "AP News"
+     "title": "Nvidia Shock Has Investors Rethinking AI Infrastructure Stocks",
+     "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-shock-investors-rethinking-ai-190934918.html?.tsrc=rss",
+     "source": "Yahoo Finance"
     }
    ]
   },
   {
-   "title": "輝達財報（11/18 台灣時間）臨近",
-   "detail": "輝達將於11/17美股盤後公布財報，也就是台灣時間11/18。市場預估財報後單週漲跌幅約9%，波動可能放大。",
-   "impact": "中性",
+   "title": "Fed報告：AI躍居金融體系最大風險",
+   "detail": "聯準會金融穩定調查顯示87%受訪者視AI為重大風險，並提及AI帶動的股市高估與債務攀升，加深科技股估值疑慮。",
+   "impact": "利空",
    "sources": [
     {
-     "n": 4,
-     "title": "黃仁勳離任後首場財報會 接班人克雷斯須回應輝達五大考題",
-     "url": "https://news.cnyes.com/news/id/6662445",
-     "source": "鉅亨網"
+     "n": 5,
+     "title": "Fed:AI成美金融體系最大風險- 日報",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XUGlCM0tsTWZHRUwzVWtXejNXSHF3NTRmRVMxZFBaeF83cHZTSnJGODItSklYRDZuWV80N2Jfa2dUdXZqcmRxdW5xUmxwUmVTTWJoRElscUREZ01uSmtB?oc=5",
+     "source": "工商時報"
     },
     {
-     "n": 7,
-     "title": "輝達財報後股價將波動多少？市場估單週漲跌幅達9%",
-     "url": "https://news.cnyes.com/news/id/6662328",
-     "source": "鉅亨網"
+     "n": 6,
+     "title": "Fed報告示警 AI成金融穩定頭號威脅",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmw1MG1ZT1IxMG8xaEVqeFdTYWpMaFgzMjUzM29ZT1B1QXBIMGQ0SlhpekcyT19uZm5EVjRkV0luM1Z5NnpwT3Nlel9vd0xzMmd5d3J3ZUIwVkdFOUxJT2NsTjVVRDF0d0ZQeFU3ci01SDRZVkl3VGg2U2JMUGR6Y9IBX0FVX3lxTE40YW1HYTF2MmdMczR5MjlBLVNTbl9EbGRqSFRWdDFkYmcyOTI3ajhaOXJpMDc5M0JOSEE1eWVIbEtfaXdRUEFpUUctWURUejZELXo0V1RHRnowXzBpeTBr?oc=5",
+     "source": "經濟日報"
+    },
+    {
+     "n": 13,
+     "title": "聯準會金融穩定報告：AI 風險躍居首位，87% 受訪者視為最大隱憂| 動區動趨-最具影響力的區塊鏈新聞媒體",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSWNHQ0ZPWWhQeXZKS3ZMeW9ONWVaRkpMdDBnT3pVdmZJVzBJNFQ2c2JKRUl4ckpUSEVnLWI1WGdZWUREY0U4THV0RzJnaDNkU0lFMTJHclZZbmNwQVpLUExnMV9MOHdIY2tLWFdKemw5N3F0MlMtNVJta2U3SmVidmt0QV9wSmRn?oc=5",
+     "source": "動區動趨"
+    },
+    {
+     "n": 28,
+     "title": "AI首度躍居金融體系頭號風險 聯準會調查87%受訪者示警",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qSmd6U2dMSFlUNXZxams5TmJuOHh3aWY3SC1PaGhXQXlpTnJianhBLXA1MVN0S2JqbUE3REF6dXZENi1YTjZxNXUzS0NidEVqUlhsbDlQU255dVlOSGNSNzdkQnVyV25kajlPWS16R3FkOFpuWEVFUlFB?oc=5",
+     "source": "BigGo 財經"
     }
    ]
   },
   {
-   "title": "通膨頑固、殖利率創高",
-   "detail": "美債10年殖利率升至5.15%，報導指通膨拖累科技股，聯準會官員也提到AI投資推升記憶體成本，通膨走勢是政策關鍵。",
+   "title": "空頭喊話與殖利率偏高添壓力",
+   "detail": "貝瑞再加碼放空科技股，警告AI熱潮恐成牛市陷阱；美債10年期殖利率5.15%、有文章點出通膨是2027年風險。",
    "impact": "利空",
    "sources": [
     {
-     "n": 3,
-     "title": "AI投資推升記憶體成本聯準會副主席：通膨走勢是政策關鍵",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RYUtfZmVrV3NBSERLLVRpZU42NWpwbEFKNHotOXFDd3ZrU1htMzF4dFoxRmJuY3lIVlRaSW80NE9RU3ZmWlpBZWV0eDVXMms?oc=5",
+     "n": 34,
+     "title": "黃仁勳離職《大賣空》貝瑞再加碼放空科技股！警告AI熱潮或陷入「牛市陷阱」",
+     "url": "https://news.cnyes.com/news/id/6662602",
      "source": "鉅亨網"
     },
     {
-     "n": 10,
-     "title": "美股多數收低！輝達高層異動續挫 通膨頑固拖累科技股",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50UTFfcGhUeVZ1b25zbWFDRngxQWZnOGE1dHYwY0Jqbm1nR2ROMnRTRzNPMWVZLURYcXl1UjNwV3NnQjJMa1o3eDloMGxRbzBlNmxFY2g3Y0E2REdkOG9ESEtJcG1uZw?oc=5",
-     "source": "民視財經網"
-    },
-    {
-     "n": 11,
-     "title": "升息逾1碼 台股怎麼守？美債殖利率創高 AI資本支出成關鍵！",
-     "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOOE93TXlkR0ZnY1VlSm0tVFhZZkYtT2lkS043ek9QYUlJdG41cWFwYlQza3F0SVhqVlE2RlVUb0tmdVp6SDc2V3JITmJmTGxBOFQ1cnJBQmZBR21BcUx4UlZIU1NEZjJ5MlJMRkxuTXF3d2o3UHJDaVFiOXZKNGt6SURYQkEwZHM0WkdLeUxBa0lfWE9nVDNpTGdhUHlEenpBcTlDb1kyV1FCZnlsWl8tR3c5ZDkwMWt3aFl5SjVtZXBtSkRDUktiblZLb0s5dXRGQUlUcG51dWczLXFNdmJQRzM5WmhSN3V2aGtkMlh1M3l4aXZZOVZGT05UOFQ0SE5xYWMtR0dwTTlwaHloU1FuMjhqSFJfNFh4SlQxVDVoTFFocjVfenQ2VlhfcjFtUjIwRnE5RVBPMjFyaHJ0Yno5UENrS2JfZkVVb2hPemREUUJXYXJHTTdzQkdHQjFBbmRRUHRrNDBQN0pVOXBHeS1R?oc=5",
-     "source": "Yahoo新聞"
-    },
-    {
-     "n": 29,
+     "n": 26,
      "title": "Why the biggest risk for investors in 2027 isn't Nvidia — it's inflation",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUU1XbGRvSFRiYXFKSm1KSWdMSDhyRWVnRGYycnhNTW93aVdWeWNjYWFSSmU5YzBCRmltT3M2WGJsdjN5ODRLdG5hTnk3VkZrekxpYnpOWkRqcnk2YnQybXhES2dGc0YxSEhCX1Z4Mm1WUUZRUTE1ZlRNV05KR2Y3SGxxVDRQQmlhWjFUaXFhdTdGb1dQdUFCb1Fyay0xVFNpV3lsVVg5Q20zYUVPWWtMYnRxTVlxcUY0YWx6N2RFOHpkY2ZI?oc=5",
      "source": "Yahoo Finance"
@@ -85,95 +85,107 @@
    ]
   },
   {
-   "title": "Fed調查：AI成金融穩定首要隱憂",
-   "detail": "聯準會調查中有87%受訪者示警AI風險，高於股市修正與網攻風險，可能加深市場對AI估值的疑慮。",
-   "impact": "利空",
+   "title": "記憶體基本面仍強",
+   "detail": "韓國10月ICT出口達約700億美元，記憶體銷售大增360%；業界認為記憶體短缺屬長期結構性，SK海力士ADR溢價達44.82%。",
+   "impact": "利多",
    "sources": [
     {
-     "n": 8,
-     "title": "AI躍居金融穩定首要隱憂聯準會調查87%受訪者示警",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lMl9kN01ONUxqTEc0OGo3RlNzQ25XZV9HNWdNTzhRa1J4MUpGYU9EcnJ4ZlJta1NkTWhTMEpQTjlZcVZIamxBdFBsNlhCcjg?oc=5",
-     "source": "鉅亨網"
+     "n": 15,
+     "title": "South Korea's October ICT exports triple to $70 billion as memory chip sales surge 360%",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVJreWtvMWw0V0tHVWEtZU5kX3JHeFhaWW9TalpWQWdvUWFRMlJoaUdMQ1hOdmpILWU5bmNsMElFVGppSVc4bzlyMFBtN1ZTVHh4Ql9aSkU2TzBEVy1CNjZIUEpiWkgwQXp6THhPc05lVU5oVGQxdmhhZjI0US10aEU2eG9fWmt1TllpZ2tMNkUzamNCTGI3VzhQWUxXQ2gweXhYNXdud2I?oc=5",
+     "source": "MLQ.ai"
     },
     {
-     "n": 13,
-     "title": "Fed報告示警 AI成金融穩定頭號威脅",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmw1MG1ZT1IxMG8xaEVqeFdTYWpMaFgzMjUzM29ZT1B1QXBIMGQ0SlhpekcyT19uZm5EVjRkV0luM1Z5NnpwT3Nlel9vd0xzMmd5d3J3ZUIwVkdFOUxJT2NsTjVVRDF0d0ZQeFU3ci01SDRZVkl3VGg2U2JMUGR6Y9IBX0FVX3lxTE40YW1HYTF2MmdMczR5MjlBLVNTbl9EbGRqSFRWdDFkYmcyOTI3ajhaOXJpMDc5M0JOSEE1eWVIbEtfaXdRUEFpUUctWURUejZELXo0V1RHRnowXzBpeTBr?oc=5",
-     "source": "經濟日報"
+     "n": 40,
+     "title": "South Korea's October ICT Exports Hit $70.35 Billion on AI Memory Supercycle, First-Ever Monthly Growth Above 200%",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MT3loZklkcFcyMkUtMU5BN09HMUpyc0s4blQ4ZVZCZGV4bmpjRVNYRGdqcUpCeVk2ak1EbnQ4NjJjMmNJa1ByZ05OWm9kMTh6UzczQ1BTN0N5R3gxUGFaUFZ5d3lWdFgxV3BoSi1Pa0ExdDJFbmc?oc=5",
+     "source": "BigGo Finance"
     },
     {
-     "n": 18,
-     "title": "AI成金融系統最大威脅！Fed最新調查87%受訪者示警 遠高於股市修正與網攻風險",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZUlJfelFwWGZMQmF6NUU5Y1BiUWJlMF9NNWNNODduR0ZlLVE4RC1ZWjRhS09HMjRMUUZiQTJYVEU3YlBtU01aRG02bGIwN0U?oc=5",
-     "source": "鉅亨網"
+     "n": 20,
+     "title": "AI 加劇記憶體供需失衡！擷發科：短缺是長期結構性問題，AI 只是觸發點",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54eEFzMnAtVG5zTWxQR2dDVjVvWExkVnhpR3I0YzV0TVZ4ZHlVemF3M3dBN2dpd2I2b3JhbXdVOHFFeTRldVVuY0RId196bFhUX2U1bmRkSEo4NkY2MUxNajZJbWt6MXRG?oc=5",
+     "source": "TechNews 科技新報"
+    },
+    {
+     "n": 14,
+     "title": "長約鎖定AI紅利！ 索羅斯基金Q3大舉買進SK海力士",
+     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdHAxdGY5S2E5SDNwX2hESVlBQXBVd2g3ME1mRzNtWElTUGFZUmZPNWQxb0EtUmpxaEMySC1PRmpWNzFvOEVwZ1JFeGxsQ2dXdVBEVW95dVJJSFlvY1BfamV6UmJwQ0hMdF96YUNPZ19LeEVic2h6eUJPbmNvRmlkVDI5cVgxa0t1SlJyNUg2bmJaRm1ZOVhrRTJlbEF0elhjaExfYXNwaXpRa1VIU0tlYzBxXzFNUklwTGdtNVllQmhYbV91UHVoaXo2dnl2cGJUdkFaamtkc0RHMnJkU3MtQTRRTzNWRWVnUnhJQ3owQ2JoOWVoQU16M0xfMEo4S2xscklkRjNpNjNSaVl0VmtXdW82UlpMUW5tRHlmTTN3ZDBfcnRuVGNaQnBKcUxVZ1lhUVNydQ?oc=5",
+     "source": "Yahoo新聞"
     }
    ]
   },
   {
-   "title": "記憶體供給偏緊支撐中長期題材",
-   "detail": "中芯國際CEO稱2027年晶圓非常緊缺，記憶體或到2028年才趨於平衡。索羅斯基金Q3新買SK海力士、減持輝達。",
-   "impact": "利多",
+   "title": "輝達財報與總經數據週將登場",
+   "detail": "輝達將於11/17盤後公布財報，同週有美國零售銷售、FOMC會議紀要與Walmart財報，是下週市場焦點。",
+   "impact": "中性",
    "sources": [
     {
-     "n": 34,
-     "title": "中芯國際CEO趙海軍：2027年晶圓非常緊缺、2028年記憶體或趨於平衡！",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CcjZtWUxzNkNCY2h1dVc1WEI5WkJkdFRLc2N3emNVTmxOZFJrX3lvSVctZTMyVGdkaW5VUm0tbUNqdktXeG1aVw?oc=5",
-     "source": "鉅亨號"
-    },
-    {
-     "n": 9,
-     "title": "索羅斯基金Q3大幅加碼英特爾 Meta 新買SK海力士 減持輝達",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NdEpCNHdfZFdldkV1LUxFS0VFMnhIOC1YMDZtMkF0STNoeXE5VlVNUlVoM2lhWWFwOG1oTUJ6S2U2T0FLR3hOX0R1cmV0dlk?oc=5",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 32,
-     "title": "Soros Fund's Q3 Holdings Shake-Up: Intel Stake Surges More Than 27-Fold, New SK Hynix Position, Nvidia Trimmed",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WX2hfTWZOMjlpVlZmV2NjNWRybTdGWkdNWDJsXzQxZThnUUdYenBROXVyNEpmSExVSmNXWHhBREZxZ2RtUi1wRnE2bUFSRWg1dmczQVRjT1pDOFJ6UllnaTRDbG1JdnNBUTdzM2haUlRtTF9RYkE?oc=5",
-     "source": "BigGo Finance"
+     "n": 16,
+     "title": "The Week Ahead: Blockbuster Nvidia Q3 Earnings Arrive as US October Retail Sales, FOMC Minutes and Walmart Earnings Follow",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUpqSU4ya1ZSYkNPUFB0X3p4c1p2OFlQWDVaSFBLZ2JWOFAzRGU1MWdFNHk1cXg4MC1PbFBNSnIwV3FELUppMmJPb1d5NzBnWjFTdWdTTTU5T3dwR3VVd0NKUW5xSG1jWWV0REE2WGZLSWFvbmlDa1dvZXJqQ3RTOXFnbXFaV2prUGJlMlhUMzAwdlF4VVIxdjRTNFVMRjlfdVNRcEliTklrRmQ1QzlGRzJ0ME1laFJnODJpaGpSMFU1UU1SYjRXcEk1b0d6RklrX3pkWWVObFF6bVVHbUZvZlB3?oc=5",
+     "source": "TradingKey"
     }
    ]
   }
  ],
  "holdings": [
   {
-   "symbol": "DRAM",
-   "note": "收盤跌2.89%，盤後仍跌1.75%。受費半重挫拖累，但記憶體供給偏緊的說法仍有支撐。",
+   "symbol": "NOK",
+   "note": "收盤跌2.54%，前一週已回檔約7%；有AI訂單、國防感測合約與內部人買進等消息，但現金轉換仍有疑慮。",
    "sources": [
     {
-     "n": 34,
-     "title": "中芯國際CEO趙海軍：2027年晶圓非常緊缺、2028年記憶體或趨於平衡！",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CcjZtWUxzNkNCY2h1dVc1WEI5WkJkdFRLc2N3emNVTmxOZFJrX3lvSVctZTMyVGdkaW5VUm0tbUNqdktXeG1aVw?oc=5",
-     "source": "鉅亨號"
+     "n": 1,
+     "title": "Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend?",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdElsOVVGaVZjUTYxTHdKWGViSWxlVmNpV0dJckpsRVB3emxHNHl4OHJpbm9Fb1ZqWHdNcFVqUWNXR3JaTXc2cGM1Ml9pMU1rMGxOQ2czd3QydFhxUTk3T3RLRFAyV0h5R0M4ZGIwV09aM2pDRF9mSGpQcGVVTnJ3THNqTlhMaERROWdYcHpJbldGRGZ6eFlaZmktMHBUaGNMQ0w0Vk82V1VJa0dyWlpDZFNTWlg1VzVj?oc=5",
+     "source": "TradingKey"
     },
     {
-     "n": 9,
-     "title": "索羅斯基金Q3大幅加碼英特爾 Meta 新買SK海力士 減持輝達",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NdEpCNHdfZFdldkV1LUxFS0VFMnhIOC1YMDZtMkF0STNoeXE5VlVNUlVoM2lhWWFwOG1oTUJ6S2U2T0FLR3hOX0R1cmV0dlk?oc=5",
-     "source": "鉅亨網"
+     "n": 3,
+     "title": "Nokia Hands Staff 847,000 Treasury Shares as US Military Sensing Deal and New Zealand AI Pact Take S",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOX21LUEhuYVNvWDBreG03SkJpWmtnbVkxU1lxRnZoeWxrcDR3QWtiNXFERkFNYXJBNDFrZVF6OGN1dmtyWW9Oai1Hazd1d2kyZ0ZpMmlpVFk2MEl1dWdzY2otQ19RV0pmaFBMS0VMeWZnM1NWQTd5a253LU9wNE8xT2dsZGNMclJudUxWTGx6QkZkeWI1d3l5cXdLUGFHRzRVSG16dFo1blozdnUxUUNKWkkwYXlDMlhGTHloQmc5QnJRWHVMczhhTWtuY2R0SzFsSjg0NEpveGRKc3B2MTQ5Ri14Nk9WLUE4M0Fmdm9kZGF2eFhlMWJUS0xSdXBuQUE?oc=5",
+     "source": "ad-hoc-news.de"
+    },
+    {
+     "n": 24,
+     "title": "Nokia Insiders Buy at EUR 7.63 as Cash Conversion Concerns Weigh on US-Listed Shares",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN2gzcFB4WDRkMkVSeGhpLTFpSFhKc01fMDVoV3oyajVFcFhyTGJDZWFDZms1S0p4Q2tNOTRaMzFVanlQVjRhOUVCamtYX2xqN2RqRDJiNXl1ZFBRdXNab2VmY2FXdTBCdWVoZ1R5SmN2cHFEeXY4UHJYYVJvX3lON0FyaGZLQzNfNnl3bHVZcW55Q3JsMTRFeXl5bGxOeFdsSFVnSF9jeEFtY3piRF9MWkFwdk5sOVl5c0tZQ2FuQ2FpdUt2M0tmQUFEM3NzdjQ0amVJXzFvSndjTFQyNEdpalVoampKc2pxaUo3TQ?oc=5",
+     "source": "ad-hoc-news.de"
     }
    ]
   },
   {
-   "symbol": "NOK",
-   "note": "收盤跌2.54%。光通訊升級1.6T的產業消息偏正面，但提供的新聞中沒有直接說明對諾基亞的影響。",
+   "symbol": "DRAM",
+   "note": "收盤跌2.89%，受半導體賣壓影響；韓國記憶體出口強勁、供需吃緊，基本面消息偏正面。",
    "sources": [
     {
-     "n": 17,
-     "title": "AI光通訊升級1.6T 泰科砸6,000萬美元擴大高密度光纖陣列（FAU）產能",
-     "url": "https://news.cnyes.com/news/id/6662493",
-     "source": "鉅亨網"
+     "n": 15,
+     "title": "South Korea's October ICT exports triple to $70 billion as memory chip sales surge 360%",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVJreWtvMWw0V0tHVWEtZU5kX3JHeFhaWW9TalpWQWdvUWFRMlJoaUdMQ1hOdmpILWU5bmNsMElFVGppSVc4bzlyMFBtN1ZTVHh4Ql9aSkU2TzBEVy1CNjZIUEpiWkgwQXp6THhPc05lVU5oVGQxdmhhZjI0US10aEU2eG9fWmt1TllpZ2tMNkUzamNCTGI3VzhQWUxXQ2gweXhYNXdud2I?oc=5",
+     "source": "MLQ.ai"
+    },
+    {
+     "n": 20,
+     "title": "AI 加劇記憶體供需失衡！擷發科：短缺是長期結構性問題，AI 只是觸發點",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54eEFzMnAtVG5zTWxQR2dDVjVvWExkVnhpR3I0YzV0TVZ4ZHlVemF3M3dBN2dpd2I2b3JhbXdVOHFFeTRldVVuY0RId196bFhUX2U1bmRkSEo4NkY2MUxNajZJbWt6MXRG?oc=5",
+     "source": "TechNews 科技新報"
+    },
+    {
+     "n": 40,
+     "title": "South Korea's October ICT Exports Hit $70.35 Billion on AI Memory Supercycle, First-Ever Monthly Growth Above 200%",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MT3loZklkcFcyMkUtMU5BN09HMUpyc0s4blQ4ZVZCZGV4bmpjRVNYRGdqcUpCeVk2ak1EbnQ4NjJjMmNJa1ByZ05OWm9kMTh6UzczQ1BTN0N5R3gxUGFaUFZ5d3lWdFgxV3BoSi1Pa0ExdDJFbmc?oc=5",
+     "source": "BigGo Finance"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "收盤跌5.50%，提供的新聞中沒有直接相關的消息。IPO閉鎖期預估11/30到期，可留意。",
+   "note": "收盤跌5.50%；提供的新聞中無直接相關消息，日程上推估11/30 IPO閉鎖期到期。",
    "sources": []
   },
   {
    "symbol": "SITM",
-   "note": "收盤跌5.53%，盤後仍跌2.60%。市場風險偏好降溫、半導體股普遍下跌，是主要壓力。",
+   "note": "收盤跌5.53%，隨AI與半導體族群修正；有一檔基金減持相關持股的報導，細節資料不足。",
    "sources": [
     {
      "n": 2,
@@ -186,23 +198,27 @@
  ],
  "watch_next": [
   {
-   "when": "11/19 約凌晨",
-   "what": "川普、習近平、普丁三方會談，晶片管制可能在場外升溫（以台灣時間為準，請再確認）"
+   "when": "11/17 01:00",
+   "what": "聯準會主席 Warsh 談話"
   },
   {
-   "when": "11/18 early morning（11/17 美股盤後）",
-   "what": "輝達財報與新任領導層說法，包含對中業務與接班安排"
+   "when": "11/17 21:30",
+   "what": "美國10月零售銷售（預期月增0.2%）"
   },
   {
-   "when": "11/16（週一）亞洲盤",
-   "what": "觀察台韓半導體股對費半大跌的反應"
+   "when": "11/18 05:00前後（11/17美股盤後）",
+   "what": "輝達公布財報（EPS預估2.47）"
+  },
+  {
+   "when": "11/19 03:00",
+   "what": "FOMC 會議紀要"
   }
  ],
- "generated_at": "2026-11-14T18:52:44Z",
+ "generated_at": "2026-11-15T07:16:57Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5766,
-  "output_tokens": 1221
+  "input_tokens": 5936,
+  "output_tokens": 1238
  }
 }
