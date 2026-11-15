@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T07:16:57Z",
+ "generated_at": "2026-11-15T19:23:32Z",
  "upcoming": [
   {
    "symbol": "NVDA",
@@ -148,7 +148,7 @@
    "date": "2027-01-27",
    "datetime": "2027-01-27T21:00:00Z",
    "session": "盤後",
-   "eps_est": 4.85752,
+   "eps_est": 4.85575,
    "eps_low": 4.82,
    "eps_high": 4.97073,
    "rev_est": 96691687890.0,
@@ -165,7 +165,7 @@
    "eps_est": 8.68396,
    "eps_low": 8.21087,
    "eps_high": 8.961,
-   "rev_est": 131128013520000.0,
+   "rev_est": 130896166850000.0,
    "rev_currency": "KRW",
    "is_holding": false
   },

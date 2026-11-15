@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T07:16:57Z",
+ "generated_at": "2026-11-15T19:23:32Z",
  "holdings": [
   {
    "symbol": "NOK",
@@ -3244,21 +3244,17 @@
   "TWD=X": {
    "symbol": "TWD=X",
    "name": "USD/TWD",
-   "price": 32.875,
+   "price": 32.898,
    "prev_close": 32.94,
-   "change": -0.065,
-   "change_pct": -0.2,
+   "change": -0.042,
+   "change_pct": -0.13,
    "currency": "TWD",
    "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-13T22:33:36Z",
+   "as_of": "2026-11-15T18:24:55Z",
    "high_52w": 33.125,
    "low_52w": 30.625,
    "history": [
-    {
-     "d": "2026-08-14",
-     "c": 32.1241
-    },
     {
      "d": "2026-08-17",
      "c": 31.9902
@@ -3518,6 +3514,10 @@
     {
      "d": "2026-11-13",
      "c": 32.939
+    },
+    {
+     "d": "2026-11-15",
+     "c": 32.898
     }
    ],
    "source": "info",
@@ -4087,7 +4087,7 @@
    "ext": null,
    "as_of": "2026-11-13T06:30:29Z",
    "high_52w": 2987000.0,
-   "low_52w": 501000.0,
+   "low_52w": 0.0,
    "history": [
     {
      "d": "2026-08-13",
@@ -4344,14 +4344,14 @@
   "KRW=X": {
    "symbol": "KRW=X",
    "name": "USD/KRW",
-   "price": 1336.2,
+   "price": 1334.98,
    "prev_close": 1334.36,
-   "change": 1.84,
-   "change_pct": 0.14,
+   "change": 0.62,
+   "change_pct": 0.05,
    "currency": "KRW",
    "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-15T03:30:49Z",
+   "as_of": "2026-11-15T18:24:55Z",
    "high_52w": 1587.7,
    "low_52w": 1319.52,
    "history": [
@@ -4617,7 +4617,7 @@
     },
     {
      "d": "2026-11-15",
-     "c": 1336.2
+     "c": 1334.98
     }
    ],
    "source": "info",
@@ -5757,10 +5757,10 @@
    "id": "adr-SKHY",
    "label": "SK 海力士 ADR 溢價",
    "note": "SKHY 相對首爾股價（1 ADR = 0.1 股）",
-   "value": 44.82,
+   "value": 44.69,
    "unit": "%",
    "adr_price": 131.79,
-   "implied_price": 91.0,
+   "implied_price": 91.09,
    "history": [
     {
      "d": "2026-10-01",
@@ -5888,10 +5888,10 @@
    "id": "adr-TSM",
    "label": "台積電 ADR 溢價",
    "note": "TSM 相對台股（1 ADR = 5 股）",
-   "value": 11.56,
+   "value": 11.64,
    "unit": "%",
    "adr_price": 398.73,
-   "implied_price": 357.41,
+   "implied_price": 357.16,
    "history": [
     {
      "d": "2026-10-01",
@@ -6017,7 +6017,7 @@
   }
  ],
  "fx": {
-  "USDTWD": 32.875
+  "USDTWD": 32.898
  },
  "errors": []
 }
