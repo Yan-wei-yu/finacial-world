@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T07:22:14Z",
+ "generated_at": "2026-11-16T22:54:24Z",
  "upcoming": [
   {
    "symbol": "NVDA",
@@ -137,7 +137,7 @@
    "eps_est": 8.71875,
    "eps_low": 8.23,
    "eps_high": 9.65,
-   "rev_est": 75155372690.0,
+   "rev_est": 75131075520.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -165,7 +165,7 @@
    "eps_est": 8.68396,
    "eps_low": 8.21087,
    "eps_high": 8.961,
-   "rev_est": 130896166850000.0,
+   "rev_est": 130693790300000.0,
    "rev_currency": "KRW",
    "is_holding": false
   },
@@ -374,9 +374,9 @@
    "is_holding": false,
    "datetime": "2026-10-28T00:00:00Z",
    "date": "2026-10-27",
-   "eps_est": 6.24,
-   "eps_actual": 4.1,
-   "surprise_pct": -34.24,
+   "eps_est": 6.5,
+   "eps_actual": 4.07,
+   "surprise_pct": -37.32,
    "suspect": false
   },
   {

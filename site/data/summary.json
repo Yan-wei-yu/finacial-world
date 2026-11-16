@@ -1,112 +1,118 @@
 {
- "headline": "費半重挫逾3%，輝達財報前資金避險",
+ "headline": "輝達財報前AI股遭拋售，費半重挫5.28%、那指跌2.49%",
  "mood": "偏空",
- "mood_reason": "費半跌3.43%、10年債息5.15%，期貨續跌，輝達財報前風險升高",
+ "mood_reason": "費半重挫逾5%、VIX大升，美債殖利率5.12%與強美元壓抑，輝達財報待驗證",
  "key_points": [
   {
-   "title": "輝達財報前資金觀望",
-   "detail": "輝達將於台灣時間11/17盤後公布財報（EPS預估2.47），被視為AI硬體股的關鍵考驗。那指期貨下跌0.99%，市場情緒偏謹慎。",
+   "title": "輝達財報前AI股被砍",
+   "detail": "費半收跌5.28%、那指跌2.49%，台積電ADR、SK海力士同步重挫。輝達今日盤後公布財報，是市場最大關鍵，換帥後首份財報備受關注。",
    "impact": "利空",
    "sources": [
     {
-     "n": 1,
-     "title": "中國AI硬體股遭拋售！光通訊龍頭重挫7.7%，輝達財報成市場關鍵考驗",
-     "url": "https://news.cnyes.com/news/id/6663754",
+     "n": 29,
+     "title": "〈美股盤後〉輝達財報前AI股掀賣壓 道瓊瀉近740點 費半、台積ADR重挫超5%",
+     "url": "https://news.cnyes.com/news/id/6664477",
      "source": "鉅亨網"
     },
     {
-     "n": 14,
-     "title": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes: SMMT, NBIS, HELP, MSTR In Focus",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd2FWcktJLVd2aW9ObWxWUGJ4MVBiNDJ6clFlSmRTSjhNSVZrbHlCamNBYUZfeTJ2cjdtZVFZMU40a1Q0dkdRcHlibDJjS20zdW1jYmtOcnkweEx0QzFOUGpFZ2JWN3Jmc1dNakJITW45VG4waDNGU285TlN3el93ZUxzYWxXdUg3eVk0U2NSUGJySFE?oc=5",
-     "source": "Yahoo Finance"
+     "n": 30,
+     "title": "〈美股早盤〉AI股又被砍！那指跌逾1% 輝達財報與Anthropic上市成焦點",
+     "url": "https://news.cnyes.com/news/id/6664138",
+     "source": "鉅亨網"
     },
     {
-     "n": 19,
-     "title": "US Stock Market Week Ahead: Can Nvidia Earnings and Fed Minutes Spark a Nasdaq Rally?",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZDNOM285d3hOT0VJV0N4R2cxTWhFcFlzb2VLbVY0U2xiU21xX01hUnN1VDRrZ1lIOUkwRlFkcHdndnpUQ0hXZWZydlVMMmo5N2w5eWZZWjNmeVJ6dHJFZHROSk5jNFBKTFpzeWZqS2UyQkdRR1kwNmRHcFI1Nk0?oc=5",
-     "source": "Stocks Down Under"
+     "n": 36,
+     "title": "AI Chip Stocks Crash: SK Hynix Falls 8%, TSMC Drops 6% Ahead of Nvidia Earnings",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0o4MFVZQ2s4NFJDWU95a1JRODZ3UE5RRXJ5UzVDV1VFanVSVWFMMVlRVFVkZGt0RWZGcllmQ3VzWmNsTHVGRDB2bVMyUW4tLW80ZHVYZnhVX2k1LXo5VU9USmRvVVp5QXdNX3JYU2ZFdFNvalNMaGszVmFlbTZ4QzFLcV9XUmY3UnZsd252eVczZEdQaUJCMFlfcFNHWm5wWkpYUWJB?oc=5",
+     "source": "Coinpaper"
+    },
+    {
+     "n": 27,
+     "title": "「仁勳」惶惶！輝達將迎換帥後首個財報 市場一堆問號 最大看點已非營收",
+     "url": "https://news.cnyes.com/news/id/6663299",
+     "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "中國AI硬體股遭拋售",
-   "detail": "中國光通訊龍頭重挫7.7%，南韓主要交易者也賣出三星與SK海力士，AI供應鏈短線承壓。",
+   "title": "高利率與強美元壓抑估值",
+   "detail": "美債10年殖利率5.12%、美元指數103.58，新聞提到聯準會偏鷹訊號與升息疑慮，美銀也延後翻多時點，對高估值科技股不利。",
    "impact": "利空",
    "sources": [
     {
-     "n": 1,
-     "title": "中國AI硬體股遭拋售！光通訊龍頭重挫7.7%，輝達財報成市場關鍵考驗",
-     "url": "https://news.cnyes.com/news/id/6663754",
+     "n": 32,
+     "title": "強美元正在「破壞一切」！美銀把翻多時點往後推 明年春天再看",
+     "url": "https://news.cnyes.com/news/id/6663178",
      "source": "鉅亨網"
     },
     {
-     "n": 12,
-     "title": "South Korea's Top Traders Sell Samsung Electronics, SK Hynix in Selloff, Pile Into Semiconductor Suppliers",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lRG9ycWVIeFNodG0xNkNQSGJSNkRPZndNVzVtamdwX29VanRnT1N5M1ZuYy1HampkN0dObnV6TTRGMi1CUGtGX0VUNWZDaEVqaU9qWmR5Rzc3ZjVoRTlOTTR3Y1pkMUxGWWsycVpuLXJmY0N6VFE?oc=5",
-     "source": "BigGo Finance"
+     "n": 33,
+     "title": "【美股盤前1116】關注輝達財報！聯準會關於持續釋出偏鷹訊號？｜豐雲學堂 2026 年 11 月",
+     "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPaUhQRDlRS1JjNFR0VU1DQTNiR2N1X0ZlQ3ZFcHVPSmxncHZjZjB3Z0huVEJQWVNMTFllVXZRQ25ZSHZtTldNTkc1dkx6U0pWRHEwb3BGc2lWVHJmcENLVWhjeUdpa0xXcVJLbUc5VVRRWklZdkV1RDlzcjR4TTFiWEFLaGl5NFpGSF9oWTQzaDJYUC03QjRMTEhTVGJhODZDSWdSeEtycjFOTWJtYWY0QTQxMi1vbzVjTXR0bFBJTUVDR09PVjJrcDJ1eEJjUTJYWU53MmxDdmpIZHlCZm5uR0dvQXV1WTVOcE5WYmtETFNCdF9BQ1pWX2JOVlZmMDhKQkpkR3dlcHoyV05jeVFKTTd2X2JzbmVQOW4xMTVfcHJYR1FSODJYa2FqcnBHdzhpNHQtTHoyRmk3anZZMk9PUEEwWWpuTjQtZGE4LVpJcDhzeUxzTjR5RHRsNDZFbTcxam9jTFNVSGxkMEJnR01URTJzODdUb2hkMUlVY2ZBcU1aeVlZcUQ5UE94M2JpNW12MDhOLUlXSEdlTV9DTHM5TXA3VQ?oc=5",
+     "source": "永豐金證券"
     },
     {
      "n": 38,
-     "title": "Korea’s Chip Stocks Slipped Ahead Of Nvidia’s Big Earnings Test",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0F3aE8xem1KNW9xTTlJb3pEdGdzMnFTUlcweWphYU50Ukp4NmFTVVlzRFdKSWFjYWk4RXNhY1QyR2JOYnNGcFBkYkEycFg3MnNKQVlTQmtfODZoWXNma0hDRkFILVpjM0x1ODNpUmYyZ0NQS2w3ZHJReHN5QnJBRm9NWnZIM0Z0VnNsQlVrbFlhYm5G?oc=5",
-     "source": "Finimize"
-    }
-   ]
-  },
-  {
-   "title": "高利率與通膨壓力",
-   "detail": "美債10年殖利率升至5.15%。高盛警告通膨未退，SocGen也提醒流動性緊縮可能威脅AI漲勢，估值面承壓。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 9,
-     "title": "美股今年還有聖誕行情嗎？高盛警告通膨未退、明年1月恐掀價格重訂潮",
-     "url": "https://news.cnyes.com/news/id/6662478",
-     "source": "鉅亨網"
+     "title": "【1116台股盤後】美股費半重挫與通膨升息夾擊！台股狂瀉2,635點創史上第二大跌點，主本比策略鎖定【華經】、【事欣科】、【意藍】｜豐雲學堂2026 年 11 月",
+     "url": "https://news.google.com/rss/articles/CBMirgVBVV95cUxOWmtVd0dDV1lJX2xnZ1FaLWE2T2hWVHVFZ2tvbFZQVXRKU21qVlZWaUZOYkM3eHNWQi15dG15MW1rZmFiSTVpdEI4cFdwSWVDX1JSbEMxOUlOb1NuVEhLUXl4UUZrUmpidFlBYXlQV2hld09SVmJPckFtcnFjWjJkQmZrdVFVVTkwNUxrNzFmdWN4bmFQR0QtZkM1ajg4UzRaal96cmdDNzNnSXlPVzliMDZocE42Y3dSMmlTMHZWT0hUNzBlcTNmODFjX0t1OEhZeTZSOXFQQVYtaHBYZmZSeWVnbDFSLXJVOC1uVVo5V01xWFF0OF9wYko1aGRzbkNMMU1WdE5MdHJRYmNQS2FMLXkxRFRjSWg4UGZuM3Iwd0RlRndQdUdpZVlZaGpURTU4UGQxRGIxamg0Y2U0NDQ3NkltS0NaalVWY0R5NnFJV1ZrUnc2UDBEbHNlWE1LS2dwTWhHcDdRQm1qWGZycWlid2pzVExFTnQzcEUwdXdWOFZvYnEwNVNuMUtYTTdja1E0bUVhNVVQN2F0UFRqbFd0WmFWanZfa2hZRU5zQTNBSjVaaDVqcE9weVJrOVRXTjN4MEpsRGo1enEzNnNDLVgzYUJXWEpRY3dWWDB4NjcxS0thUTlQbHlRLTNSNV91ZmhCYWZ6alRQck1NQU9sUDRCelltY2ZTTkhTa2VHcHNoV0Q1LWtXVVhiRWFhMDJMcDBYXzZTa01keWFWcUIyZktQdkRSWG9ZUnVaX2JjN191bmtqM0xIQUQxVXVGZ25TazV4V05GUnpMUVlRRzZsSDI1dGxKbUZOeTFEb2RMWkxGeTZGOVo4dFlJZmpZbGJtNTVYZmZ2WjhTREdLTTBpcXNZSmxhcHpIVFdiUDJMREI2Nmp2dUNyRXVJUDhDcXI2dw?oc=5",
+     "source": "永豐金證券"
     },
     {
-     "n": 20,
-     "title": "SocGen's Albert Edwards warns liquidity squeeze, inflation threaten AI stock rally (XLK:NYSEARCA)",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWEhMeUZCcHB1TXoxOGxmYVRNQjlFUEVsUmNjYVptVUFzZ3hGdTNVbXFwOVJYZUlEVjFDcDZxTlhYTXJEZzNzTXVZTzdNSnFKN1owcXNDLXc3dnZ0aU81X3dtd25NdkJuWmRyQ0lVUGJ2MWpNM0tHUDNGaDNpbHVsQTdrQjFLU3ZsUF9DMk5naElHSlQ4NVVPTHkya1pabVVqSDFJYzB4Y3VwYXY0RlRBSFRCNkpxNEt6RXc?oc=5",
-     "source": "Seeking Alpha"
+     "n": 39,
+     "title": "輝達財報將公布！科技泡沫是否再現？AI泡沫警訊是？與2000年對比！升息會戳破泡沫嗎？｜美股即時通 2026.11.16",
+     "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOd3d5OERwZ0FZMnJuZW1Cb2E5TEtTLWhzNUtLYWM4VzFFV2pxNkNPdEpqWG5sVWVrRVE2NF9zaVBaamZLNVlUenVZakQ1a2c2YlpqOHJBWnNhY2VBMTlEMmh0NTBQOG1XdGFxSmQ3R25pRjJqNWljUDF6WFk3elNnT2VDSkg3NmpWeDlJdnZZMnZHejVNM2Fnc0FkTGVBalVrX0ZmcDE0eVNOejhTcnMwOURWZ1ZXaE9CXzVKVGpkRXRNN3BEYmhhdUJDaXNLVE1YR1hUbzRWRmItLVVlR0FEajNKVHpDbjVfMER1bWJQUndmNzBGNW5FRWV3ZXdHWGZDSlAyVVJlcHpEUGowYjdrYzJzMGNaT2VLaXFxa09mbWtvS0tBelFBZnBIRDg3ZG1PVHk4Q04xeVlFYUE0a3E3eDF2R0pwcFFkRGFqakdnaVNFaWpsWEtYM1pjZHlWQlYxU2RrYld4Mjh5VUJJbGtzbGdMajBVbmlLN2d6WXVBSDdrVmU1WnU4TzFsZV9jRlhtdG14cGkyRTVfdWI4V2RVMTkycUhwM2hoaXhMR1JJeVpzZk5VMjMwR21SUEVhQ0U4d1ozcWtFRjI3NHBGUGs1Ml9MNnQ4NnNUbTYxSXBRZFhFQmxkdHpNWXFQZDBwSkM1U2h0c3Z3V044UFBHd25xV0EwRUhTV0x3aHZoTlpQd2hhWXNWYmt1SWlFZ0haRG9kS1NCaVZCNXF0a2l4SUJjTjYzeXJOd29YSGI4YkJkSW95WFpHcjZiS28wSHFkWVNsUjVqcENaU0pjY1FNcWlr?oc=5",
+     "source": "永豐金證券"
     }
    ]
   },
   {
-   "title": "AI資本支出疑慮",
-   "detail": "高盛認為AI資本支出2027年可能見頂、獲利成長大幅減速，壓抑科技股追價意願。",
+   "title": "輝達領導層與AI泡沫疑慮",
+   "detail": "輝達財報是換帥後首度，市場有許多疑問；另有報導稱川普支持黃仁勳回鍋，但費半仍大跌。AI泡沫討論升溫。",
    "impact": "利空",
    "sources": [
     {
-     "n": 7,
-     "title": "高盛看好美國雲端巨頭成「防禦性資產」！AI資本支出2027恐見頂、獲利成長「大減速」",
-     "url": "https://news.cnyes.com/news/id/6662607",
+     "n": 27,
+     "title": "「仁勳」惶惶！輝達將迎換帥後首個財報 市場一堆問號 最大看點已非營收",
+     "url": "https://news.cnyes.com/news/id/6663299",
      "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "記憶體基本面仍有支撐",
-   "detail": "花旗專家稱傳統DRAM緊缺延續至明年，HBM短缺最嚴重；不過DRAM價格操縱訴訟持續進行，是消息面風險。",
-   "impact": "中性",
-   "sources": [
+    },
     {
      "n": 40,
-     "title": "花旗對話內存行業專家：傳統DRAM緊缺延續至明年，HBM短缺最爲嚴峻，NAND或於明年H2轉入供給過剩作者智通財經",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IOERabHpvZEl6cWpmTGhUQUFLckFBakxvR1gzVXR6TU9RRWtjdDgzSGE1RTRRMnpHX3o1V3pwVmxrTVV4Z2dBNzJ6dy1KemttUzFCdjNkT3NFdldEdG1lUDBnX29NeUJRbU5GeEJSa2c?oc=5",
-     "source": "Investing.com 香港 - 股市報價& 財經新聞"
+     "title": "美股開盤／川普「支持黃仁勳回鍋」！費半挫5%強拉 台指期夜盤強彈8百點",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02ek03V3FrdVdwQi0zeUItM1Z5RG9NSERrMXc0bmdRVVBObjJRbkVlekJQWE14bHVZWVBVT0lMcnhnelpRVGp2NG16YlhxeUE?oc=5",
+     "source": "TVBS新聞網"
     },
     {
-     "n": 29,
-     "title": "Judge Lets DRAM Price-Fixing Suit Against Samsung, Micron, SK Hynix Move Forward",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0hua3BrZGZ2a1ZDUVNlZUgzdFMtZkEySVZacVJRSHAtSGhDc3hrcm1zNkVpT2U3NmNMVXZ6REFQMmZxZlZzc0JJSzJwLVBQR0I1dkVvR3FTQXg2OGlRQ3BEVHNhV0ZWcHl6Wmo1cGl6Q0VuSy1LZEJLXzU5YkU5LVFwT3dFYi04eHBuRDljd1N6dWJkODdxZndaRDN3WHJBME1aRmxEcldRUWw5?oc=5",
-     "source": "Hoodline"
-    },
+     "n": 39,
+     "title": "輝達財報將公布！科技泡沫是否再現？AI泡沫警訊是？與2000年對比！升息會戳破泡沫嗎？｜美股即時通 2026.11.16",
+     "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOd3d5OERwZ0FZMnJuZW1Cb2E5TEtTLWhzNUtLYWM4VzFFV2pxNkNPdEpqWG5sVWVrRVE2NF9zaVBaamZLNVlUenVZakQ1a2c2YlpqOHJBWnNhY2VBMTlEMmh0NTBQOG1XdGFxSmQ3R25pRjJqNWljUDF6WFk3elNnT2VDSkg3NmpWeDlJdnZZMnZHejVNM2Fnc0FkTGVBalVrX0ZmcDE0eVNOejhTcnMwOURWZ1ZXaE9CXzVKVGpkRXRNN3BEYmhhdUJDaXNLVE1YR1hUbzRWRmItLVVlR0FEajNKVHpDbjVfMER1bWJQUndmNzBGNW5FRWV3ZXdHWGZDSlAyVVJlcHpEUGowYjdrYzJzMGNaT2VLaXFxa09mbWtvS0tBelFBZnBIRDg3ZG1PVHk4Q04xeVlFYUE0a3E3eDF2R0pwcFFkRGFqakdnaVNFaWpsWEtYM1pjZHlWQlYxU2RrYld4Mjh5VUJJbGtzbGdMajBVbmlLN2d6WXVBSDdrVmU1WnU4TzFsZV9jRlhtdG14cGkyRTVfdWI4V2RVMTkycUhwM2hoaXhMR1JJeVpzZk5VMjMwR21SUEVhQ0U4d1ozcWtFRjI3NHBGUGs1Ml9MNnQ4NnNUbTYxSXBRZFhFQmxkdHpNWXFQZDBwSkM1U2h0c3Z3V044UFBHd25xV0EwRUhTV0x3aHZoTlpQd2hhWXNWYmt1SWlFZ0haRG9kS1NCaVZCNXF0a2l4SUJjTjYzeXJOd29YSGI4YkJkSW95WFpHcjZiS28wSHFkWVNsUjVqcENaU0pjY1FNcWlr?oc=5",
+     "source": "永豐金證券"
+    }
+   ]
+  },
+  {
+   "title": "恐慌指數升、台股受牽連",
+   "detail": "VIX升18.7%至22.91，台股週一重挫2,635點。那指期貨顯示0.00%，資料可能未更新，參考性有限。",
+   "impact": "利空",
+   "sources": [
     {
-     "n": 32,
-     "title": "Judge Lets DRAM Antitrust Case Against Samsung, SK Hynix and Micron Proceed",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCZ1I4cVIwMkZQTGVVMlZFRW40QVRpOUlreHNGQW9pZ0xDYUk3dHJuQTg2QlJmakM4azdjTUQtMnN6RmhHbDZlbUFmdEdhZ3R5blVFNkYzalJOaHc?oc=5",
-     "source": "TOKENPOST"
+     "n": 38,
+     "title": "【1116台股盤後】美股費半重挫與通膨升息夾擊！台股狂瀉2,635點創史上第二大跌點，主本比策略鎖定【華經】、【事欣科】、【意藍】｜豐雲學堂2026 年 11 月",
+     "url": "https://news.google.com/rss/articles/CBMirgVBVV95cUxOWmtVd0dDV1lJX2xnZ1FaLWE2T2hWVHVFZ2tvbFZQVXRKU21qVlZWaUZOYkM3eHNWQi15dG15MW1rZmFiSTVpdEI4cFdwSWVDX1JSbEMxOUlOb1NuVEhLUXl4UUZrUmpidFlBYXlQV2hld09SVmJPckFtcnFjWjJkQmZrdVFVVTkwNUxrNzFmdWN4bmFQR0QtZkM1ajg4UzRaal96cmdDNzNnSXlPVzliMDZocE42Y3dSMmlTMHZWT0hUNzBlcTNmODFjX0t1OEhZeTZSOXFQQVYtaHBYZmZSeWVnbDFSLXJVOC1uVVo5V01xWFF0OF9wYko1aGRzbkNMMU1WdE5MdHJRYmNQS2FMLXkxRFRjSWg4UGZuM3Iwd0RlRndQdUdpZVlZaGpURTU4UGQxRGIxamg0Y2U0NDQ3NkltS0NaalVWY0R5NnFJV1ZrUnc2UDBEbHNlWE1LS2dwTWhHcDdRQm1qWGZycWlid2pzVExFTnQzcEUwdXdWOFZvYnEwNVNuMUtYTTdja1E0bUVhNVVQN2F0UFRqbFd0WmFWanZfa2hZRU5zQTNBSjVaaDVqcE9weVJrOVRXTjN4MEpsRGo1enEzNnNDLVgzYUJXWEpRY3dWWDB4NjcxS0thUTlQbHlRLTNSNV91ZmhCYWZ6alRQck1NQU9sUDRCelltY2ZTTkhTa2VHcHNoV0Q1LWtXVVhiRWFhMDJMcDBYXzZTa01keWFWcUIyZktQdkRSWG9ZUnVaX2JjN191bmtqM0xIQUQxVXVGZ25TazV4V05GUnpMUVlRRzZsSDI1dGxKbUZOeTFEb2RMWkxGeTZGOVo4dFlJZmpZbGJtNTVYZmZ2WjhTREdLTTBpcXNZSmxhcHpIVFdiUDJMREI2Nmp2dUNyRXVJUDhDcXI2dw?oc=5",
+     "source": "永豐金證券"
+    }
+   ]
+  },
+  {
+   "title": "外資看法仍有分歧",
+   "detail": "大摩對全球股市給予「最高加碼」，認為AI獲利成長看至2027年，與短線賣壓形成對比。",
+   "impact": "利多",
+   "sources": [
+    {
+     "n": 26,
+     "title": "大摩喊「最高加碼」全球股市！標普500還有15%上漲空間、AI獲利成長看至2027年",
+     "url": "https://news.cnyes.com/news/id/6663830",
+     "source": "鉅亨網"
     }
    ]
   }
@@ -114,90 +120,106 @@
  "holdings": [
   {
    "symbol": "NOK",
-   "note": "受中國AI硬體股拋售拖累；另有退出中國市場報導，以及美國國防部RAPID合約的消息。",
+   "note": "收盤跌4.71%。與Telia等組成北歐AI超級工廠聯盟，並稱與輝達合作照常，但大盤賣壓較重。",
    "sources": [
     {
-     "n": 1,
-     "title": "中國AI硬體股遭拋售！光通訊龍頭重挫7.7%，輝達財報成市場關鍵考驗",
-     "url": "https://news.cnyes.com/news/id/6663754",
-     "source": "鉅亨網"
+     "n": 2,
+     "title": "美股動向 | 諾基亞聯手4企組AI超級工廠聯盟，擬拓北歐及波羅的海跨國AI基建",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmZlY0ZlTFJVcG9wYVZSYkItWFVubXRmTmZhNk5JbzZUcERRQzR6aWxETGxha093bXBaaThZMW1neGZmOTVwMGQyZlBjeWM1MlFzTTBsSGEyZXB3Q3ZqVTVTLVNJSnFIdUFaZFFrZEtwYU84b3dTcjBpNDljUzR0UkJXVVllQVV1bjhFbVVHR3hpXzZhRlBNRmViVVc2YjIz?oc=5",
+     "source": "etnet 經濟通"
     },
     {
-     "n": 11,
-     "title": "Nokia plans near-total China exit as domestic rivals gain ground",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXp0YTlLb1NjbWdqTWdUaTR6bUstdWtqSXlIYkFEUm1SN1pLc295TnJsSTE1UGlpQVdtckRWZGRuUERtRmRMOGlna190SDZoMElyUEFGUEZHRnZiWEdqUm1YSEFIZEdQemJiQ1RSS0xqUklBOHJfcTh3cDkzSGVnTk9XSWpycnVIQUIya05RV1FPV2pTSWpfMHBMb3U2NGVlTEJ4aWZJVkVKY01WVzd1OUdhaUNrenRDMkE?oc=5",
-     "source": "scanx.trade"
+     "n": 4,
+     "title": "Nokia, Nscale, Skeleton, Telia & Verda Form AI Consortium",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWDF4ZHBwRmdoOU5hVGlTdUVYQXNjbWZKTGFRSTlROS0yWjlYMnNFSkVjN1FadkRrbzZ0OXlSSFFFakNwcEFVY2w1bmp4TzNmel9RMFZ2aXh6NnlwODBONTFBbmNpUk8ya3RNYmJXRmlSVXl6MmkzWHlIT3lrS1I2b3Q3RnhtZWl5N2ZoQS1VR05CQQ?oc=5",
+     "source": "Data Centre Magazine"
     },
     {
-     "n": 10,
-     "title": "Nokia Federal Solutions Wins Department of War RAPID Contract",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ1VSNVdRQkE2ODhET2N5bFRsNURrMXp6dEhjX1o5TGNleFBPbkZQbzNzcy05aFpFa3UzWFpXS3dxM3BfTFBjZk12RllSNklIcVBKY1BYUGEybkJmOHpnNE1RTFEzeGx6Tzl4TmdSWllWdW9ZMG93OXlWWDZJakJKUnJDTQ?oc=5",
-     "source": "WashingtonExec"
+     "n": 7,
+     "title": "Nokia: Nvidia partnership ‘continues as planned’ after Huang exit",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWp2NVVOc0FKRjFaWU14X240N1RiUVZlSjhXM0JBX21qd05QM0J5NFg0U2lNZWRPTEhtVUdyWVpHNHdoNEc3Qk9weUtCbTlFOW8xQ29zZlNfZUpZSTNTRXpMeDV0ZkFzUVhUenFaXzNKZWhaNVFGQVBiSW0zSDF1Q0RTd1dST2ZiSnVEUHg0X2hxRnRvS25jZGhONXl0MUlx?oc=5",
+     "source": "Fierce Network"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "費半大跌拖累。花旗看DRAM供給緊缺延續，但SK海力士被賣超且訴訟案持續。",
+   "note": "收盤跌7.38%，受記憶體股賣壓影響；三星、SK海力士、美光反壟斷訴訟未獲駁回；SK海力士擬投資10億美元蓋測試廠。",
    "sources": [
     {
-     "n": 40,
-     "title": "花旗對話內存行業專家：傳統DRAM緊缺延續至明年，HBM短缺最爲嚴峻，NAND或於明年H2轉入供給過剩作者智通財經",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IOERabHpvZEl6cWpmTGhUQUFLckFBakxvR1gzVXR6TU9RRWtjdDgzSGE1RTRRMnpHX3o1V3pwVmxrTVV4Z2dBNzJ6dy1KemttUzFCdjNkT3NFdldEdG1lUDBnX29NeUJRbU5GeEJSa2c?oc=5",
-     "source": "Investing.com 香港 - 股市報價& 財經新聞"
+     "n": 6,
+     "title": "CPI | Samsung, SK Hynix and Micron Lose Bid to Dismiss US DRAM Antitrust Suit",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3daenA2SGhsS09yeDlBRV9qaklMZTBoM1g2Z1p0RE1IOFpsejhZUmpPNmZvQzUtVVVhTmFROEVjZTJVXzlmVTc3OWtBYnRNTk9kcjBTSGxNOEpxS1RSa21ITnVmWDVMOFhuZXBKRXBQZkxRbzgzWWVqS0U2LXlIWERnZENhQktfYVVOdklNZ2dMSXFYcTY3Z3JBSXF1S0VzVWZJa3VnOA?oc=5",
+     "source": "PYMNTS.com"
     },
     {
-     "n": 12,
-     "title": "South Korea's Top Traders Sell Samsung Electronics, SK Hynix in Selloff, Pile Into Semiconductor Suppliers",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lRG9ycWVIeFNodG0xNkNQSGJSNkRPZndNVzVtamdwX29VanRnT1N5M1ZuYy1HampkN0dObnV6TTRGMi1CUGtGX0VUNWZDaEVqaU9qWmR5Rzc3ZjVoRTlOTTR3Y1pkMUxGWWsycVpuLXJmY0N6VFE?oc=5",
-     "source": "BigGo Finance"
+     "n": 35,
+     "title": "SK 海力士要蓋晶片測試廠 五年內投資10億美元強化半導體鏈",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MQzFSRDNqeTRjY19OWWJ3MlZGUFFRbmxLcnktOFRwYURnemlkOGxVRl9UWWJZU01UTTMya3NhbTEycllxMnpJMDliT3g3SDBpR0FxS0VMX0FaQdIBX0FVX3lxTFBQYXFzTHBWdjBOSWZRVTIwSmZkMGZRSDVmdWZDTUc1V0NFZGhaaWdyMG53S1o2NUt5eGhyU3dLeVlKREFuRkh5RnFPRndpWmJaZ24wSmJWcVJUZXFlU0k4?oc=5",
+     "source": "經濟日報"
     },
     {
-     "n": 29,
-     "title": "Judge Lets DRAM Price-Fixing Suit Against Samsung, Micron, SK Hynix Move Forward",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0hua3BrZGZ2a1ZDUVNlZUgzdFMtZkEySVZacVJRSHAtSGhDc3hrcm1zNkVpT2U3NmNMVXZ6REFQMmZxZlZzc0JJSzJwLVBQR0I1dkVvR3FTQXg2OGlRQ3BEVHNhV0ZWcHl6Wmo1cGl6Q0VuSy1LZEJLXzU5YkU5LVFwT3dFYi04eHBuRDljd1N6dWJkODdxZndaRDN3WHJBME1aRmxEcldRUWw5?oc=5",
-     "source": "Hoodline"
+     "n": 36,
+     "title": "AI Chip Stocks Crash: SK Hynix Falls 8%, TSMC Drops 6% Ahead of Nvidia Earnings",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0o4MFVZQ2s4NFJDWU95a1JRODZ3UE5RRXJ5UzVDV1VFanVSVWFMMVlRVFVkZGt0RWZGcllmQ3VzWmNsTHVGRDB2bVMyUW4tLW80ZHVYZnhVX2k1LXo5VU9USmRvVVp5QXdNX3JYU2ZFdFNvalNMaGszVmFlbTZ4QzFLcV9XUmY3UnZsd252eVczZEdQaUJCMFlfcFNHWm5wWkpYUWJB?oc=5",
+     "source": "Coinpaper"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "提供的新聞沒有直接相關消息。11/30前後可能有IPO閉鎖期到期（推估）。",
-   "sources": []
+   "note": "收盤跌10.31%，新聞僅有量子股觀察名單及與VTT合作，無明確利多；11/30前後留意閉鎖期到期。",
+   "sources": [
+    {
+     "n": 3,
+     "title": "Top 3 Quantum Computing Stocks To Watch In November 2026",
+     "url": "https://finance.yahoo.com/technology/articles/top-3-quantum-computing-stocks-151641600.html?.tsrc=rss",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 18,
+     "title": "Nokia and VTT strengthen their cooperation in AI and quantum computing",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDVXRWR4cXQzdUE0WTdFZjA1N3dDYVZSNl9udGNFa2xnaVlTb2ZnQ1o2SHdRZUhSMFF0aDNtQ0tVVE51V190V2Y5OFVCcldpUTFtcnhxZ2djM2RoQkdEZW4wSW04MnRwb3pSdFV0V05BeEdGNU1YMkU0TUJlY3ZNbU1BdmlXY0V0YmY2SjY4Wk0xbWVwbllVWmRpeDBwZElLVkZZbENQU3lYSmpxQUQ0SmZDOA?oc=5",
+     "source": "www.vttresearch.com"
+    }
+   ]
   },
   {
    "symbol": "SITM",
-   "note": "提供的新聞沒有直接相關消息，股價隨半導體族群回檔。",
-   "sources": []
+   "note": "收盤跌5.26%，無個股新聞，主要受半導體類股整體賣壓牽動。",
+   "sources": [
+    {
+     "n": 29,
+     "title": "〈美股盤後〉輝達財報前AI股掀賣壓 道瓊瀉近740點 費半、台積ADR重挫超5%",
+     "url": "https://news.cnyes.com/news/id/6664477",
+     "source": "鉅亨網"
+    }
+   ]
   }
  ],
  "watch_next": [
   {
-   "when": "11/17 01:00",
-   "what": "聯準會主席 Warsh 談話"
-  },
-  {
    "when": "11/17 21:30",
-   "what": "美國10月零售銷售（預期月增0.2%，核心0.4%）"
+   "what": "美國零售銷售（預期月增0.1%、核心0.4%）"
   },
   {
-   "when": "11/17 盤後（台灣時間11/18清晨）",
-   "what": "輝達公布財報"
+   "when": "11/17 盤後（台灣時間 11/18 清晨）",
+   "what": "輝達公布財報（EPS預估2.47）"
   },
   {
    "when": "11/19 03:00",
-   "what": "FOMC 會議紀要"
+   "what": "FOMC會議紀要"
   },
   {
    "when": "11/19 21:30",
-   "what": "費城聯儲製造業指數、初領失業救濟金人數"
+   "what": "費城聯儲製造業指數、初領失業救濟金"
   }
  ],
- "generated_at": "2026-11-16T07:22:14Z",
+ "generated_at": "2026-11-16T22:54:24Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 6042,
-  "output_tokens": 1166
+  "input_tokens": 5919,
+  "output_tokens": 1247
  }
 }
