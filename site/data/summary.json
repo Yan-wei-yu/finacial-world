@@ -1,11 +1,11 @@
 {
- "headline": "輝達財報前AI股遭拋售，費半重挫5.28%、那指跌2.49%",
+ "headline": "輝達財報前AI股遭殺，費半重挫5.28%、那指跌2.49%",
  "mood": "偏空",
- "mood_reason": "費半重挫逾5%、VIX大升，美債殖利率5.12%與強美元壓抑，輝達財報待驗證",
+ "mood_reason": "費半單日重挫逾5%，VIX大升，財報前賣壓重，10年債殖利率高檔。",
  "key_points": [
   {
-   "title": "輝達財報前AI股被砍",
-   "detail": "費半收跌5.28%、那指跌2.49%，台積電ADR、SK海力士同步重挫。輝達今日盤後公布財報，是市場最大關鍵，換帥後首份財報備受關注。",
+   "title": "輝達財報前AI股遭拋售",
+   "detail": "費半跌5.28%、那指跌2.49%，台積電ADR重挫逾5%。輝達換帥後首份財報（台灣時間11/18清晨前後公布）成焦點，市場擔憂AI估值。",
    "impact": "利空",
    "sources": [
     {
@@ -21,22 +21,47 @@
      "source": "鉅亨網"
     },
     {
-     "n": 36,
-     "title": "AI Chip Stocks Crash: SK Hynix Falls 8%, TSMC Drops 6% Ahead of Nvidia Earnings",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0o4MFVZQ2s4NFJDWU95a1JRODZ3UE5RRXJ5UzVDV1VFanVSVWFMMVlRVFVkZGt0RWZGcllmQ3VzWmNsTHVGRDB2bVMyUW4tLW80ZHVYZnhVX2k1LXo5VU9USmRvVVp5QXdNX3JYU2ZFdFNvalNMaGszVmFlbTZ4QzFLcV9XUmY3UnZsd252eVczZEdQaUJCMFlfcFNHWm5wWkpYUWJB?oc=5",
-     "source": "Coinpaper"
-    },
-    {
      "n": 27,
      "title": "「仁勳」惶惶！輝達將迎換帥後首個財報 市場一堆問號 最大看點已非營收",
      "url": "https://news.cnyes.com/news/id/6663299",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 1,
+     "title": "中國AI硬體股遭拋售！光通訊龍頭重挫7.7%，輝達財報成市場關鍵考驗",
+     "url": "https://news.cnyes.com/news/id/6663754",
      "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "高利率與強美元壓抑估值",
-   "detail": "美債10年殖利率5.12%、美元指數103.58，新聞提到聯準會偏鷹訊號與升息疑慮，美銀也延後翻多時點，對高估值科技股不利。",
+   "title": "記憶體股受DRAM反壟斷訴訟拖累",
+   "detail": "法官駁回三星、SK海力士、美光撤案請求，訴訟將繼續；美光重挫近7%，三星下跌4.47%，DRAM ETF收跌7.38%。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 6,
+     "title": "CPI | Samsung, SK Hynix and Micron Lose Bid to Dismiss US DRAM Antitrust Suit",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3daenA2SGhsS09yeDlBRV9qaklMZTBoM1g2Z1p0RE1IOFpsejhZUmpPNmZvQzUtVVVhTmFROEVjZTJVXzlmVTc3OWtBYnRNTk9kcjBTSGxNOEpxS1RSa21ITnVmWDVMOFhuZXBKRXBQZkxRbzgzWWVqS0U2LXlIWERnZENhQktfYVVOdklNZ2dMSXFYcTY3Z3JBSXF1S0VzVWZJa3VnOA?oc=5",
+     "source": "PYMNTS.com"
+    },
+    {
+     "n": 36,
+     "title": "Micron Stocks Sink Nearly 7% After Judge Lets DRAM Supply Lawsuit Proceed",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ0VuNUFwSG1sWDdzMzVpNFM4dkstcEpVM2FkaDEycTF1c3pEdjYxblBfeTVxZ3pwU0dIUEJYd3lSdVZFLVZpUTRWc2FNQUgyWmlyY1plUHJ1dVIybGF4VG81TmxaaC1NQzJROWZLREFLc253Tk80elBLRXdMUE1rUC1OV3ZHdDc0ck11UXhNY1pzc0NBQjFFdkU2bVNKYWRuUjQxeWw4bEVlb0haOTEtNm5OSUx6MHRWYl85ZFlZSWVMTHNQM21GSm1iTC0?oc=5",
+     "source": "TradingView"
+    },
+    {
+     "n": 35,
+     "title": "Samsung Stocks Fall 4.47% as Nvidia Turmoil and DRAM Lawsuit Hit Seoul",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0puQThqUV9sVGV4OEFoZmRsRkVKaGQ3UWcySkdOT1EzaElpQUVnRHhLRVBidVJsZVRvNnNLWmYtSkVFRHpyQXpOYkhjOVRxTXJOT0FFRHpOODl4ZUpycXdIYWpra1c2NlZHNnFKZzFiMTc2ZjQ1SEg2Xzk2WW1DRmtGUUtmZGE0b3FjMW1DV1FpVmNfNU9XRFR1VENQdE5PQk1xU1VaV0FoYmZFdEpmQWkxbVhnV00zZGR6TlpoaERseTNoWUFmOQ?oc=5",
+     "source": "TradingView"
+    }
+   ]
+  },
+  {
+   "title": "高利率與強美元壓抑風險資產",
+   "detail": "10年期美債殖利率5.12%，美元指數103.59，VIX升至22.91。新聞提到聯準會偏鷹訊號與升息疑慮，台股前一日也大跌。",
    "impact": "利空",
    "sources": [
     {
@@ -56,26 +81,14 @@
      "title": "【1116台股盤後】美股費半重挫與通膨升息夾擊！台股狂瀉2,635點創史上第二大跌點，主本比策略鎖定【華經】、【事欣科】、【意藍】｜豐雲學堂2026 年 11 月",
      "url": "https://news.google.com/rss/articles/CBMirgVBVV95cUxOWmtVd0dDV1lJX2xnZ1FaLWE2T2hWVHVFZ2tvbFZQVXRKU21qVlZWaUZOYkM3eHNWQi15dG15MW1rZmFiSTVpdEI4cFdwSWVDX1JSbEMxOUlOb1NuVEhLUXl4UUZrUmpidFlBYXlQV2hld09SVmJPckFtcnFjWjJkQmZrdVFVVTkwNUxrNzFmdWN4bmFQR0QtZkM1ajg4UzRaal96cmdDNzNnSXlPVzliMDZocE42Y3dSMmlTMHZWT0hUNzBlcTNmODFjX0t1OEhZeTZSOXFQQVYtaHBYZmZSeWVnbDFSLXJVOC1uVVo5V01xWFF0OF9wYko1aGRzbkNMMU1WdE5MdHJRYmNQS2FMLXkxRFRjSWg4UGZuM3Iwd0RlRndQdUdpZVlZaGpURTU4UGQxRGIxamg0Y2U0NDQ3NkltS0NaalVWY0R5NnFJV1ZrUnc2UDBEbHNlWE1LS2dwTWhHcDdRQm1qWGZycWlid2pzVExFTnQzcEUwdXdWOFZvYnEwNVNuMUtYTTdja1E0bUVhNVVQN2F0UFRqbFd0WmFWanZfa2hZRU5zQTNBSjVaaDVqcE9weVJrOVRXTjN4MEpsRGo1enEzNnNDLVgzYUJXWEpRY3dWWDB4NjcxS0thUTlQbHlRLTNSNV91ZmhCYWZ6alRQck1NQU9sUDRCelltY2ZTTkhTa2VHcHNoV0Q1LWtXVVhiRWFhMDJMcDBYXzZTa01keWFWcUIyZktQdkRSWG9ZUnVaX2JjN191bmtqM0xIQUQxVXVGZ25TazV4V05GUnpMUVlRRzZsSDI1dGxKbUZOeTFEb2RMWkxGeTZGOVo4dFlJZmpZbGJtNTVYZmZ2WjhTREdLTTBpcXNZSmxhcHpIVFdiUDJMREI2Nmp2dUNyRXVJUDhDcXI2dw?oc=5",
      "source": "永豐金證券"
-    },
-    {
-     "n": 39,
-     "title": "輝達財報將公布！科技泡沫是否再現？AI泡沫警訊是？與2000年對比！升息會戳破泡沫嗎？｜美股即時通 2026.11.16",
-     "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOd3d5OERwZ0FZMnJuZW1Cb2E5TEtTLWhzNUtLYWM4VzFFV2pxNkNPdEpqWG5sVWVrRVE2NF9zaVBaamZLNVlUenVZakQ1a2c2YlpqOHJBWnNhY2VBMTlEMmh0NTBQOG1XdGFxSmQ3R25pRjJqNWljUDF6WFk3elNnT2VDSkg3NmpWeDlJdnZZMnZHejVNM2Fnc0FkTGVBalVrX0ZmcDE0eVNOejhTcnMwOURWZ1ZXaE9CXzVKVGpkRXRNN3BEYmhhdUJDaXNLVE1YR1hUbzRWRmItLVVlR0FEajNKVHpDbjVfMER1bWJQUndmNzBGNW5FRWV3ZXdHWGZDSlAyVVJlcHpEUGowYjdrYzJzMGNaT2VLaXFxa09mbWtvS0tBelFBZnBIRDg3ZG1PVHk4Q04xeVlFYUE0a3E3eDF2R0pwcFFkRGFqakdnaVNFaWpsWEtYM1pjZHlWQlYxU2RrYld4Mjh5VUJJbGtzbGdMajBVbmlLN2d6WXVBSDdrVmU1WnU4TzFsZV9jRlhtdG14cGkyRTVfdWI4V2RVMTkycUhwM2hoaXhMR1JJeVpzZk5VMjMwR21SUEVhQ0U4d1ozcWtFRjI3NHBGUGs1Ml9MNnQ4NnNUbTYxSXBRZFhFQmxkdHpNWXFQZDBwSkM1U2h0c3Z3V044UFBHd25xV0EwRUhTV0x3aHZoTlpQd2hhWXNWYmt1SWlFZ0haRG9kS1NCaVZCNXF0a2l4SUJjTjYzeXJOd29YSGI4YkJkSW95WFpHcjZiS28wSHFkWVNsUjVqcENaU0pjY1FNcWlr?oc=5",
-     "source": "永豐金證券"
     }
    ]
   },
   {
-   "title": "輝達領導層與AI泡沫疑慮",
-   "detail": "輝達財報是換帥後首度，市場有許多疑問；另有報導稱川普支持黃仁勳回鍋，但費半仍大跌。AI泡沫討論升溫。",
-   "impact": "利空",
+   "title": "輝達人事與政策消息擾動",
+   "detail": "報導指川普支持黃仁勳回鍋，諾基亞表示輝達合作如期進行。人事變動帶來不確定性，財報前市場情緒緊繃。",
+   "impact": "中性",
    "sources": [
-    {
-     "n": 27,
-     "title": "「仁勳」惶惶！輝達將迎換帥後首個財報 市場一堆問號 最大看點已非營收",
-     "url": "https://news.cnyes.com/news/id/6663299",
-     "source": "鉅亨網"
-    },
     {
      "n": 40,
      "title": "美股開盤／川普「支持黃仁勳回鍋」！費半挫5%強拉 台指期夜盤強彈8百點",
@@ -83,35 +96,34 @@
      "source": "TVBS新聞網"
     },
     {
-     "n": 39,
-     "title": "輝達財報將公布！科技泡沫是否再現？AI泡沫警訊是？與2000年對比！升息會戳破泡沫嗎？｜美股即時通 2026.11.16",
-     "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOd3d5OERwZ0FZMnJuZW1Cb2E5TEtTLWhzNUtLYWM4VzFFV2pxNkNPdEpqWG5sVWVrRVE2NF9zaVBaamZLNVlUenVZakQ1a2c2YlpqOHJBWnNhY2VBMTlEMmh0NTBQOG1XdGFxSmQ3R25pRjJqNWljUDF6WFk3elNnT2VDSkg3NmpWeDlJdnZZMnZHejVNM2Fnc0FkTGVBalVrX0ZmcDE0eVNOejhTcnMwOURWZ1ZXaE9CXzVKVGpkRXRNN3BEYmhhdUJDaXNLVE1YR1hUbzRWRmItLVVlR0FEajNKVHpDbjVfMER1bWJQUndmNzBGNW5FRWV3ZXdHWGZDSlAyVVJlcHpEUGowYjdrYzJzMGNaT2VLaXFxa09mbWtvS0tBelFBZnBIRDg3ZG1PVHk4Q04xeVlFYUE0a3E3eDF2R0pwcFFkRGFqakdnaVNFaWpsWEtYM1pjZHlWQlYxU2RrYld4Mjh5VUJJbGtzbGdMajBVbmlLN2d6WXVBSDdrVmU1WnU4TzFsZV9jRlhtdG14cGkyRTVfdWI4V2RVMTkycUhwM2hoaXhMR1JJeVpzZk5VMjMwR21SUEVhQ0U4d1ozcWtFRjI3NHBGUGs1Ml9MNnQ4NnNUbTYxSXBRZFhFQmxkdHpNWXFQZDBwSkM1U2h0c3Z3V044UFBHd25xV0EwRUhTV0x3aHZoTlpQd2hhWXNWYmt1SWlFZ0haRG9kS1NCaVZCNXF0a2l4SUJjTjYzeXJOd29YSGI4YkJkSW95WFpHcjZiS28wSHFkWVNsUjVqcENaU0pjY1FNcWlr?oc=5",
-     "source": "永豐金證券"
-    }
-   ]
-  },
-  {
-   "title": "恐慌指數升、台股受牽連",
-   "detail": "VIX升18.7%至22.91，台股週一重挫2,635點。那指期貨顯示0.00%，資料可能未更新，參考性有限。",
-   "impact": "利空",
-   "sources": [
+     "n": 8,
+     "title": "Nokia: Nvidia partnership ‘continues as planned’ after Huang exit",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWp2NVVOc0FKRjFaWU14X240N1RiUVZlSjhXM0JBX21qd05QM0J5NFg0U2lNZWRPTEhtVUdyWVpHNHdoNEc3Qk9weUtCbTlFOW8xQ29zZlNfZUpZSTNTRXpMeDV0ZkFzUVhUenFaXzNKZWhaNVFGQVBiSW0zSDF1Q0RTd1dST2ZiSnVEUHg0X2hxRnRvS25jZGhONXl0MUlx?oc=5",
+     "source": "Fierce Network"
+    },
     {
-     "n": 38,
-     "title": "【1116台股盤後】美股費半重挫與通膨升息夾擊！台股狂瀉2,635點創史上第二大跌點，主本比策略鎖定【華經】、【事欣科】、【意藍】｜豐雲學堂2026 年 11 月",
-     "url": "https://news.google.com/rss/articles/CBMirgVBVV95cUxOWmtVd0dDV1lJX2xnZ1FaLWE2T2hWVHVFZ2tvbFZQVXRKU21qVlZWaUZOYkM3eHNWQi15dG15MW1rZmFiSTVpdEI4cFdwSWVDX1JSbEMxOUlOb1NuVEhLUXl4UUZrUmpidFlBYXlQV2hld09SVmJPckFtcnFjWjJkQmZrdVFVVTkwNUxrNzFmdWN4bmFQR0QtZkM1ajg4UzRaal96cmdDNzNnSXlPVzliMDZocE42Y3dSMmlTMHZWT0hUNzBlcTNmODFjX0t1OEhZeTZSOXFQQVYtaHBYZmZSeWVnbDFSLXJVOC1uVVo5V01xWFF0OF9wYko1aGRzbkNMMU1WdE5MdHJRYmNQS2FMLXkxRFRjSWg4UGZuM3Iwd0RlRndQdUdpZVlZaGpURTU4UGQxRGIxamg0Y2U0NDQ3NkltS0NaalVWY0R5NnFJV1ZrUnc2UDBEbHNlWE1LS2dwTWhHcDdRQm1qWGZycWlid2pzVExFTnQzcEUwdXdWOFZvYnEwNVNuMUtYTTdja1E0bUVhNVVQN2F0UFRqbFd0WmFWanZfa2hZRU5zQTNBSjVaaDVqcE9weVJrOVRXTjN4MEpsRGo1enEzNnNDLVgzYUJXWEpRY3dWWDB4NjcxS0thUTlQbHlRLTNSNV91ZmhCYWZ6alRQck1NQU9sUDRCelltY2ZTTkhTa2VHcHNoV0Q1LWtXVVhiRWFhMDJMcDBYXzZTa01keWFWcUIyZktQdkRSWG9ZUnVaX2JjN191bmtqM0xIQUQxVXVGZ25TazV4V05GUnpMUVlRRzZsSDI1dGxKbUZOeTFEb2RMWkxGeTZGOVo4dFlJZmpZbGJtNTVYZmZ2WjhTREdLTTBpcXNZSmxhcHpIVFdiUDJMREI2Nmp2dUNyRXVJUDhDcXI2dw?oc=5",
-     "source": "永豐金證券"
+     "n": 27,
+     "title": "「仁勳」惶惶！輝達將迎換帥後首個財報 市場一堆問號 最大看點已非營收",
+     "url": "https://news.cnyes.com/news/id/6663299",
+     "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "外資看法仍有分歧",
-   "detail": "大摩對全球股市給予「最高加碼」，認為AI獲利成長看至2027年，與短線賣壓形成對比。",
-   "impact": "利多",
+   "title": "大摩仍看好股市，但短線承壓",
+   "detail": "大摩維持全球股市最高加碼，認為AI獲利成長可延續到2027年；但英特爾等科技股走弱，短線仍受賣壓影響。",
+   "impact": "中性",
    "sources": [
     {
      "n": 26,
      "title": "大摩喊「最高加碼」全球股市！標普500還有15%上漲空間、AI獲利成長看至2027年",
      "url": "https://news.cnyes.com/news/id/6663830",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 31,
+     "title": "川普入股英特爾也踢鐵板！股價重挫讓美國政府持股蒸發115億美元",
+     "url": "https://news.cnyes.com/news/id/6664254",
      "source": "鉅亨網"
     }
    ]
@@ -120,7 +132,7 @@
  "holdings": [
   {
    "symbol": "NOK",
-   "note": "收盤跌4.71%。與Telia等組成北歐AI超級工廠聯盟，並稱與輝達合作照常，但大盤賣壓較重。",
+   "note": "收盤跌4.71%，盤後跌2.22%。新聞多為與Nscale、Telia組北歐AI超級工廠聯盟，以及與輝達合作如期進行。",
    "sources": [
     {
      "n": 2,
@@ -135,7 +147,7 @@
      "source": "Data Centre Magazine"
     },
     {
-     "n": 7,
+     "n": 8,
      "title": "Nokia: Nvidia partnership ‘continues as planned’ after Huang exit",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWp2NVVOc0FKRjFaWU14X240N1RiUVZlSjhXM0JBX21qd05QM0J5NFg0U2lNZWRPTEhtVUdyWVpHNHdoNEc3Qk9weUtCbTlFOW8xQ29zZlNfZUpZSTNTRXpMeDV0ZkFzUVhUenFaXzNKZWhaNVFGQVBiSW0zSDF1Q0RTd1dST2ZiSnVEUHg0X2hxRnRvS25jZGhONXl0MUlx?oc=5",
      "source": "Fierce Network"
@@ -144,7 +156,7 @@
   },
   {
    "symbol": "DRAM",
-   "note": "收盤跌7.38%，受記憶體股賣壓影響；三星、SK海力士、美光反壟斷訴訟未獲駁回；SK海力士擬投資10億美元蓋測試廠。",
+   "note": "收盤跌7.38%，主因DRAM反壟斷訴訟繼續及記憶體股走弱；盤後小跌0.18%。",
    "sources": [
     {
      "n": 6,
@@ -153,73 +165,60 @@
      "source": "PYMNTS.com"
     },
     {
-     "n": 35,
-     "title": "SK 海力士要蓋晶片測試廠 五年內投資10億美元強化半導體鏈",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MQzFSRDNqeTRjY19OWWJ3MlZGUFFRbmxLcnktOFRwYURnemlkOGxVRl9UWWJZU01UTTMya3NhbTEycllxMnpJMDliT3g3SDBpR0FxS0VMX0FaQdIBX0FVX3lxTFBQYXFzTHBWdjBOSWZRVTIwSmZkMGZRSDVmdWZDTUc1V0NFZGhaaWdyMG53S1o2NUt5eGhyU3dLeVlKREFuRkh5RnFPRndpWmJaZ24wSmJWcVJUZXFlU0k4?oc=5",
-     "source": "經濟日報"
+     "n": 36,
+     "title": "Micron Stocks Sink Nearly 7% After Judge Lets DRAM Supply Lawsuit Proceed",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ0VuNUFwSG1sWDdzMzVpNFM4dkstcEpVM2FkaDEycTF1c3pEdjYxblBfeTVxZ3pwU0dIUEJYd3lSdVZFLVZpUTRWc2FNQUgyWmlyY1plUHJ1dVIybGF4VG81TmxaaC1NQzJROWZLREFLc253Tk80elBLRXdMUE1rUC1OV3ZHdDc0ck11UXhNY1pzc0NBQjFFdkU2bVNKYWRuUjQxeWw4bEVlb0haOTEtNm5OSUx6MHRWYl85ZFlZSWVMTHNQM21GSm1iTC0?oc=5",
+     "source": "TradingView"
     },
     {
-     "n": 36,
-     "title": "AI Chip Stocks Crash: SK Hynix Falls 8%, TSMC Drops 6% Ahead of Nvidia Earnings",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0o4MFVZQ2s4NFJDWU95a1JRODZ3UE5RRXJ5UzVDV1VFanVSVWFMMVlRVFVkZGt0RWZGcllmQ3VzWmNsTHVGRDB2bVMyUW4tLW80ZHVYZnhVX2k1LXo5VU9USmRvVVp5QXdNX3JYU2ZFdFNvalNMaGszVmFlbTZ4QzFLcV9XUmY3UnZsd252eVczZEdQaUJCMFlfcFNHWm5wWkpYUWJB?oc=5",
-     "source": "Coinpaper"
+     "n": 35,
+     "title": "Samsung Stocks Fall 4.47% as Nvidia Turmoil and DRAM Lawsuit Hit Seoul",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0puQThqUV9sVGV4OEFoZmRsRkVKaGQ3UWcySkdOT1EzaElpQUVnRHhLRVBidVJsZVRvNnNLWmYtSkVFRHpyQXpOYkhjOVRxTXJOT0FFRHpOODl4ZUpycXdIYWpra1c2NlZHNnFKZzFiMTc2ZjQ1SEg2Xzk2WW1DRmtGUUtmZGE0b3FjMW1DV1FpVmNfNU9XRFR1VENQdE5PQk1xU1VaV0FoYmZFdEpmQWkxbVhnV00zZGR6TlpoaERseTNoWUFmOQ?oc=5",
+     "source": "TradingView"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "收盤跌10.31%，新聞僅有量子股觀察名單及與VTT合作，無明確利多；11/30前後留意閉鎖期到期。",
+   "note": "收盤大跌10.31%，盤後反彈1.94%。提供的新聞只有量子股觀察名單，沒有直接的下跌原因。",
    "sources": [
     {
      "n": 3,
      "title": "Top 3 Quantum Computing Stocks To Watch In November 2026",
      "url": "https://finance.yahoo.com/technology/articles/top-3-quantum-computing-stocks-151641600.html?.tsrc=rss",
      "source": "Yahoo Finance"
-    },
-    {
-     "n": 18,
-     "title": "Nokia and VTT strengthen their cooperation in AI and quantum computing",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONDVXRWR4cXQzdUE0WTdFZjA1N3dDYVZSNl9udGNFa2xnaVlTb2ZnQ1o2SHdRZUhSMFF0aDNtQ0tVVE51V190V2Y5OFVCcldpUTFtcnhxZ2djM2RoQkdEZW4wSW04MnRwb3pSdFV0V05BeEdGNU1YMkU0TUJlY3ZNbU1BdmlXY0V0YmY2SjY4Wk0xbWVwbllVWmRpeDBwZElLVkZZbENQU3lYSmpxQUQ0SmZDOA?oc=5",
-     "source": "www.vttresearch.com"
     }
    ]
   },
   {
    "symbol": "SITM",
-   "note": "收盤跌5.26%，無個股新聞，主要受半導體類股整體賣壓牽動。",
-   "sources": [
-    {
-     "n": 29,
-     "title": "〈美股盤後〉輝達財報前AI股掀賣壓 道瓊瀉近740點 費半、台積ADR重挫超5%",
-     "url": "https://news.cnyes.com/news/id/6664477",
-     "source": "鉅亨網"
-    }
-   ]
+   "note": "收盤跌5.26%，盤後小跌0.20%。新聞中沒有個別消息，應是隨半導體族群走弱。",
+   "sources": []
   }
  ],
  "watch_next": [
   {
    "when": "11/17 21:30",
-   "what": "美國零售銷售（預期月增0.1%、核心0.4%）"
+   "what": "美國零售銷售（預期月增0.1%）與核心零售銷售（預期0.4%）"
   },
   {
-   "when": "11/17 盤後（台灣時間 11/18 清晨）",
-   "what": "輝達公布財報（EPS預估2.47）"
+   "when": "11/18 清晨（台灣時間，財報在美東盤後）",
+   "what": "輝達財報與財測，EPS預估2.47"
   },
   {
    "when": "11/19 03:00",
-   "what": "FOMC會議紀要"
+   "what": "FOMC會議紀要，觀察偏鷹訊號"
   },
   {
    "when": "11/19 21:30",
-   "what": "費城聯儲製造業指數、初領失業救濟金"
+   "what": "費城聯儲製造業指數與初領失業救濟金人數"
   }
  ],
- "generated_at": "2026-11-16T22:54:24Z",
+ "generated_at": "2026-11-16T23:04:07Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
   "input_tokens": 5919,
-  "output_tokens": 1247
+  "output_tokens": 1272
  }
 }
