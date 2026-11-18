@@ -1,20 +1,6 @@
 {
- "generated_at": "2026-11-17T21:56:04Z",
+ "generated_at": "2026-11-18T07:59:28Z",
  "upcoming": [
-  {
-   "symbol": "NVDA",
-   "name_zh": "輝達",
-   "group": "semis",
-   "date": "2026-11-17",
-   "datetime": "2026-11-17T21:00:00Z",
-   "session": "盤後",
-   "eps_est": 2.47313,
-   "eps_low": 2.25754,
-   "eps_high": 2.7,
-   "rev_est": 108710527430.0,
-   "rev_currency": "USD",
-   "is_holding": false
-  },
   {
    "symbol": "AVGO",
    "name_zh": "博通",
@@ -199,6 +185,18 @@
   }
  ],
  "recent": [
+  {
+   "symbol": "NVDA",
+   "name_zh": "輝達",
+   "group": "semis",
+   "is_holding": false,
+   "datetime": "2026-11-17T21:00:00Z",
+   "date": "2026-11-17",
+   "eps_est": 2.47,
+   "eps_actual": 2.68,
+   "surprise_pct": 8.36,
+   "suspect": false
+  },
   {
    "symbol": "AMAT",
    "name_zh": "應用材料",

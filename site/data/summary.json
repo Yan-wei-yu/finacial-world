@@ -1,124 +1,142 @@
 {
- "headline": "那指跌0.74%、費半逆勢小漲，輝達財報前避險升溫",
+ "headline": "那指收跌、費半逆勢小漲，輝達財報後盤後反彈",
  "mood": "中性",
- "mood_reason": "恐慌指數大升、10年債息5.10%，但費半收漲，市場等輝達財報",
+ "mood_reason": "那指期貨漲近1%，但VIX升、10年債5.10%、記憶體官司與NAND價格疑慮壓抑",
  "key_points": [
   {
-   "title": "輝達財報前觀望，AI股震盪",
-   "detail": "那指收跌0.74%、S&P 500跌1.03%，費半仍漲0.34%。恐慌指數升11.13%至25.46，市場屏息等輝達財報，分析師點出後市三大關鍵。",
-   "impact": "中性",
+   "title": "輝達財報與換帥：營收強、毛利率受關注",
+   "detail": "輝達為黃仁勳離任後首場法說，上調2028年營收展望至75%，營收翻倍，但市場擔心毛利率。費半收漲，盤後與期貨偏強。",
+   "impact": "利多",
    "sources": [
     {
-     "n": 2,
-     "title": "〈美股早盤〉AI股能否翻身？主要指數漲跌互現 市場屏息等輝達財報",
-     "url": "https://news.cnyes.com/news/id/6665322",
+     "n": 14,
+     "title": "〈輝達法說〉黃仁勳辭任後首場法說！輝達上調2028年營收展望至75%：公司路線、野心都不變",
+     "url": "https://news.cnyes.com/news/id/6665869",
      "source": "鉅亨網"
     },
     {
-     "n": 7,
-     "title": "輝達財報將揭曉 分析師點出股價後市三大關鍵因素",
-     "url": "https://news.cnyes.com/news/id/6664569",
+     "n": 31,
+     "title": "黃仁勳離任後首場財報會議：為何營收翻倍 市場卻擔心毛利率？",
+     "url": "https://news.cnyes.com/news/id/6665857",
      "source": "鉅亨網"
+    },
+    {
+     "n": 20,
+     "title": "《美股》黃仁勳願回鍋+光通訊嗨 費半揚 靜待ANT",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcDdIOG4xMHZLUGxZSjdOcDZ4LVdZY3ltYldCMGpXMWtCREZ3LXJaNjc5SzBNV3JLRHZrTVRpQWxhaFNQdVg1SnNFWVRMMGhsZHRVMXkweUJjYmszSXFDZGY3MkZBR2dLSklPOXNkMWNRYU5HM0NvZjlSbUp1MG03VFc5U1dtRlhLNzd3bkVIZ2pnQQ?oc=5",
+     "source": "MoneyDJ"
     }
    ]
   },
   {
-   "title": "高殖利率與Fed談話壓抑科技股",
-   "detail": "美債10年殖利率5.10%，Warsh談到AI可能帶動成長，也可能推升失業、拖累股市。軟體股因通膨疑慮與新OpenAI模型走弱。",
+   "title": "利率與美元壓力仍在",
+   "detail": "10年期美債殖利率5.10%、美元指數走強，有官員示警明年春季前恐需再升息數次。今日凌晨將公布FOMC會議紀要，科技股評價承壓。",
    "impact": "利空",
    "sources": [
-    {
-     "n": 38,
-     "title": "【美股盤前】聯準會推演AI衝擊 華許揭最壞「1情況」拖累美股",
-     "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQemQ3NHp1QXJaWm5RUUIzdUlyTncyVDBOMkVtSllSLWZDX3p6RDh0Q1ZXMTRrYnBqWU4xb1ZiXzN5YTJFV1pXYUtQM3dmZjEzOWwyLTh0MVVyZ3o5VlBwMDJBOEFlNHN6enRZOS1TY1NmLUhiSFJKMWFoTnp4dE03dkxHLTI4Wm1hU01mNjR1TnhTQXpMaUdaQXhaX2VaNHc1RkxFS3E4eFBuUzFsOHJzRzZGc3ZvWHhySjRPSlVuX1NveDdfY1RGb2R2XzB5N0V4Q0c1VWpPemo1M3g1T3g0MlNpYUphSHRkbXM4czF4SDdrRDdSLVI5Z2wzYnZYQnMzNDF5bnQzWWU2WExtYWtfeWN0V1FkMko5cXFQc2VnTThMaVc5ZHZJclJsMy1QNXNfRlh1WWgxU2FiYVdNTGVCcWtsMEdkZUp0bllMcTg5LXk0MXJ6SlZjOHBrdG01MnJFUGVndA?oc=5",
-     "source": "Yahoo新聞"
-    },
-    {
-     "n": 39,
-     "title": "美債殖利率飆升怎麼影響科技股？ 專家解析AI債務疑慮與布局",
-     "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNWkV3SXdRNlRaSXBNaGNMa0tmc0JWalZteXNBWUZTWTk0WHU3bW01QWxyTFl3SlI5dS1FUEV1b1pvZENtb3BNMDg1Z1B5T2ZqaWNjMXM3YThZT0QxdmlFWFY4czNyWURhVW1BaHo3Qk92TEgtdWYxZU5NVlZ3STU0MnFPbGU2VHlKeG5NT3B2X0w4TGF2cW9mZGoyX1pNWE04MWE0SHVNVXpjdVNSNkEwdmJqU0tGRU9iYmZTU0xoa3VuaUFIWDY0OWpkSUVBUE02TG85Q0IyOEJZZVhzei1ReUZrbURzckZpQWNjUTBEcWZFWDFrSkNSRUdJZHVWMDRuajJpb1owZXlzTFRHYzVVTk9Xb1hURDNmT1pCMnZxaHNoTkVNbnJhck5FdkpTVlF5cVdzNnBjTXc4ZG9ZMTNzY0NIUUE1SVZJNXFtVHg3bUtlWV9GTUtaeFFpX3F5OFdDRk02S1AzV1JzeXBqaEw3cFBSTlBib0VqVWFMT25falhEaVU?oc=5",
-     "source": "Yahoo新聞"
-    },
-    {
-     "n": 40,
-     "title": "Fed 推演三情境，華許：AI 可能帶動成長，也可能推升失業、拖累股市｜美股觀察｜豐雲學堂2026 年 11 月",
-     "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQRHdPZUhPeWctel9QTWl3WER0RUpOTHZabTlSWE9Ba1BTMkZLTWdmaC04YUl3T1VSc3FsQzg0Z29pYVJ6OXFxckpoMW9iOHNyYkduR2VuQmlkLUthWUVOZTQ3cm9tLXAwbGxFMW9LSTVrLXczNTdGQlBEMlVZNmc3QnRqUlFyV0tScm1WZDVQLUdxTDB6VVBiN2JUREdzcmxMT3g2N2hSRjJVd1UwcGE3YWhuV2RVcGNwM3NJRVRaak5TbUNLdHlJNDZUN0xSZTFUUDF2RGlhN3IxY0ptQ0Z5SWRkRjNWeVljcEhFZTJPRmIyY2FBVTN3LTRuZUFyWEJZZDVVVGluNUdyVkxNQVlBRDNUODRCSnZuNzVoTElsaWp4QlRCQnFKaldUbFVRUHNBWjlvVmRvRW11TlBTVzlZZ3NCc1V5NVo0STRhNUdaaURxSmZHSnJEYVF3MkpGMWtPRE1qZDZrQmI4ZEVsYUdyTjI3bjB3N0hYaDhOTmc3YlRJRkxwdGZNRndUSmV4SHY1cjRfOTNSNmU3c0hwMUtVcGx4dnJ2YTM1NFpQaW1YM25PNlVWVGNmSjQ1c3JOMTdDZ2VGOHQwSVA0djl0Ym11Q0UtVFBkUDc4clRHOA?oc=5",
-     "source": "永豐金證券"
-    },
     {
      "n": 34,
-     "title": "Software Stocks Retreat Amid Inflation Worries, New OpenAI Model",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDIzTzZNTFhOdUhVRXZzVjM3dUJQMEdaWU9qSjhCemhTdEI3alV6MGo5N050dm9Fb3d3aUhYb20zV3AybUx5d21TbWdvMEtDTVl4X1VKWDFPS2pQdGl5Mi0wMGV1eldnelVaXzU0c29WZjdVUVMtcUNILVYwNEVsd2RqQ3U5eVdqOVh6eEhUM0NXVDh1TlVqRzBOcjYybUhU?oc=5",
-     "source": "Investor's Business Daily"
+     "title": "Fed升息還沒完！官員示警：明年春季前恐需升息數次",
+     "url": "https://news.cnyes.com/news/id/6665516",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 16,
+     "title": "輝達換帥 美債殖利率走高 科技股重新洗牌",
+     "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQenZJMnlwTnNnZDJFbkoyckk2cmg4UGxiYzdLaExSZFdoMDEwZVFHSWIyZkF0d3UzMEdGSTl1dW5keEtjQnMyXzBvZTI4VS1qbi12aElJZlF2dlRDdzZjbHdaY3dDLUNKZnlkU1JyTkdkYTdNTE5ieVREc2lBa0xWbEpWcGIzbkNldGsxWlZlQ3BRbk1HVjdaOFlZdzBSbGVCTlJURjBGNk9DdjMzNi1MQktYbG0teEk2VklFaTV3UXAyNUJQWWl4RW52a3BNaXVDWjdCT3dRTzRRYm1RMl9STmgzbnlHWU92OGxpMllZb2lCMGh2RGRQLThvcHRQLWpwODExMUFJVGh4RmZPUFkzQk1oa2RoQU9nQ2RIZF9TaEw5WEs2LW9BYXV1eGJLb2FBOURSbE5xOWs0SGdpNlMyZFZBZlNIWFU0Um9naGJEaTNDVy1FcDNrODRHd2FkR0s2dEx5cWltd1k?oc=5",
+     "source": "台灣好新聞"
+    },
+    {
+     "n": 15,
+     "title": "從市場助力到「破壞球」：美元走強為何讓華爾街感到不安？",
+     "url": "https://news.cnyes.com/news/id/6665182",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 19,
+     "title": "Asia stocks mixed as Nvidia optimism offsets Wall Street rout, Fed mins in focus",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLWRxMkcxS09UclppUFZ1OGVrLU5PcjJLXzlVOG1yUy0zcjhQZ1FkejBUdHFxY2dLaXpiS256TjRtZU1sdlRZODNvS1kwWGJUZlB2Y1VpQUxrXzVIbXgwUk40Q3dBWFNTeFh2Z1hISEtJcGJzbmRReVF2UXFNeC1vOGZ4QThpVTEtVXhTelp1QVlXNy03MUswbFR3cWpIZ1RkQmNTdjNLcVNVWF9CRWdsMmRNVW1VZ3NmUkN4ZGIwUUE0SXJGRnBfZ29FeGlIclpHYVE?oc=5",
+     "source": "Investing.com"
     }
    ]
   },
   {
-   "title": "記憶體股承壓",
-   "detail": "DRAM價格操縱訴訟獲准進行，美光盤中跌近3.1%；廣發證券下調NAND價格預期並示警供過於求，記憶體股一度重挫。",
+   "title": "記憶體股遭訴訟與NAND價格疑慮",
+   "detail": "美光、三星、SK海力士DRAM價格操縱訴訟未獲駁回，美光股價跌約3.1%。廣發證券下修NAND價格預期並看到供過於求，NAND現貨價跌約20%。",
    "impact": "利空",
    "sources": [
     {
-     "n": 33,
+     "n": 22,
      "title": "Micron Stocks Decrease Nearly 3.1% as Judge Lets DRAM Price-Fixing Suit Proceed",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOTlZTXppckh2ZkRqc3FONXhGMThmX0F5VkphLWlsRDk1Z2pVY1lLOTRITDU1U1ozR3d3YzhMZVRpQ0M4MEJRQ2hVbFp6ZElZWjJsc3RXSmVGQjNBczlGeUZPcThISVZyWXNvSGkyQ3hKMkhLOTBNT1l0ODQyYXhnT29LOFN3dUVLT1RUSkVLZjBoYlBkWDZVc1lSQUNKZHlsRGV3bUQ4RHlGSF8zRm5zNGhEemhHYk94dXVEbEpUMmJQcUVjQjdVaW5LcVp4NUxpYkF1cA?oc=5",
      "source": "TradingView"
     },
     {
-     "n": 12,
-     "title": "CPI | Samsung, SK Hynix and Micron Must Face US DRAM Price-Fixing Lawsuit",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjVuS1dqQ05Gc2lSeHBQYVJubDc2NUZOWmlDc3phWk1RWFFHVkg2TVNjR2czUlg3bzN3eFh0UnM3ZnVkS1BKZjBBU1BCdGhmTUNiSGxqUjl2M3MteW1NbWlWTVZHWDM1YmE3NExFa2hZN01RakpJTFFMTW1Tc3RfQ2x1QXdoc3lPZWRPUV9kdlB5WEUwT3A1Nlh2Z0paZ0JpWXc?oc=5",
-     "source": "PYMNTS.com"
+     "n": 38,
+     "title": "Micron, Samsung, SK Hynix Fail to Get Memory Price-Fixing Lawsuit Dismissed",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVRtRDhTcU02TWJFaUlJZ21Fai10SEVoYnAybWlaNVVNSVpjdGxKY2NLYjhFZnYycElfS2VGajM2Szk3RFZmRVJYaDNDa0Z3TDZkREczU2dOOTVpZWNzeTZfTGVPNjNSMVBxekRKck1fVzdrZDNNcV9WNnBkVWYydjlXNDExOWRMWnFBOXlHT19CZjN6azRWenh0TlRJTHlyRzZHaGNwNlF4Mi1HQ2JILUdB?oc=5",
+     "source": "PCMag UK"
     },
     {
-     "n": 31,
+     "n": 18,
      "title": "Micron, Sandisk, SK Hynix in focus as GF Securities cuts NAND price forecast, sees glut (MU:NASDAQ)",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUTl0NTdmY0lCcG5CS2V4cHdYZjY0S01nRk83SWdVa1drbWM3NzBlT1RZRFh1NUJmTV9sdjIwVGNvTl9ETFRRZ0xWbWVXekpFZjUxUlFTWVVYSldoNW1SaFliTlB2Z245RWFIdVk4NDMxRWh5QmhJcHpxU3RCdnJlRnNhanZTT2NHRFRNTjlRbEZUS2xEUVhVWXNvZWxOT0xELWFHdzBCMGxrRjhra1hmMml5MC1YNGNyYlBsOFpHRQ?oc=5",
      "source": "Seeking Alpha"
     },
     {
-     "n": 36,
-     "title": "Memory Chip Stocks Plunge Ahead of Nvidia Earnings; Market Cap Down Over $400 Billion Since Jensen Huang's Departure",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tUDdQNlZzTG1wQUQ2V2w5TnRDU2g4U2VGSDFlb1ZPZkxMdnpPZzZkYWdEZWRHQ3MwZkxKSFEzR01BRGdKcnRLSVFwRC1NVnVZTEt1T0tmRUZrSFM0cWw4NF8ta09TdFFZR0FIOFVfTFNMSmdaeHc?oc=5",
-     "source": "BigGo Finance"
+     "n": 37,
+     "title": "AI帶旺記憶體卻現景氣兩極 NAND現貨價跌約20%",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jd1dlRnVlbDVpSHlxTmQ3UXVDSi1RSnVOQzFlZTdTbFVYSy1ERzRKYXU1UVNnbDVGc0w0TkNVeElsRnBwVjlhaDU1UUk5eWxYbDFGX25lSDNKZ2lhNlUtaXNBQlpScWZSei1n?oc=5",
+     "source": "DIGITIMES"
     }
    ]
   },
   {
-   "title": "美國擬限制中國算力與光通訊產品",
-   "detail": "美國新增中國算力取得限制，晶片股一度走弱；擬封堵中國光通訊產品，則讓兩大美廠股價走揚。",
+   "title": "記憶體漲價與長約支撐基本面",
+   "detail": "傳蘋果與三星將簽長期DRAM供應協議，三星記憶體漲價270%，顯示供應方話語權提高。但消費端成本壓力增加。",
+   "impact": "利多",
+   "sources": [
+    {
+     "n": 28,
+     "title": "破天荒！傳蘋果與三星將達成長期DRAM供應協議 專家：記憶體供應鏈話語權逆轉",
+     "url": "https://news.cnyes.com/news/id/6666152",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 21,
+     "title": "AI重寫半導體產業！三星記憶體漲價270%、蘋果改簽5年長約、消費市場承壓",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VcWMtLXppMU9LUk1ad2plTmdkY2hPVWVGVGUwckRNci1uZXpNSld6NXFRY0pwai1WRXVnTTJFSlFHVlFLcHpnUUdnSEdsSmM?oc=5",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 32,
+     "title": "Cobalt’s Outlook Darkens as Memory Chip Costs Hit Gadgets Demand",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlU4NWVlU2FGLXY0NTFZMm9vVWRvNkwySVRQTFRLejJkSUF1UkZTeDVkYVA1LVlDcmlENjdiZkpLNU1fTEVzNVg1VFdNN08zUGMzLVJieTlITlhTRzdmWVZpNXdLNHpaZWxFUDF1NEUyTGRxWm5mQVlLUkM4RWFXWUdmblcxNkdKcExfN092WkpfM0hVV1RkeGgtcjIwTFBpYU5VTnRHTjd6Z3oxbmlzbE1PMEFtZw?oc=5",
+     "source": "Bloomberg.com"
+    }
+   ]
+  },
+  {
+   "title": "光通訊受惠美國擬封堵中國產品",
+   "detail": "美國擬限制中國光通訊產品，兩家美廠股價走揚。輝達減持英特爾與諾基亞，SpaceX成最大持股。",
    "impact": "中性",
    "sources": [
     {
-     "n": 32,
-     "title": "Chip Stocks Slide as US Sets New Curbs on China’s Compute Access",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVVjUlBfX1ZxOFRWZ243YkxEbTVJSm1BSkNJLUpCTzdrZlAtU3ktZzdmekJCZVhVc1lubi0tbklQX2wwTEh6WU8wUkI2M05Ecy1OTWJUNk5UVTV6bjltOWZkaXF3UHpJazUwaVlmTGljMFZBUGd3bFliN21xRWItdWhHeHVvSncxLXQ4SHZael9ySVF4QmlQOTNIQTZWTWl2NGdwaTA4eFhDUm5LVzZQc2JhZmFJQQ?oc=5",
-     "source": "Bloomberg.com"
-    },
-    {
-     "n": 4,
+     "n": 3,
      "title": "AI光通訊市場恐洗牌！美國擬封堵中國產品 兩大美廠股價走揚",
      "url": "https://news.cnyes.com/news/id/6665594",
      "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "大戶13F動向引發關注",
-   "detail": "輝達第三季減持英特爾四分之一、諾基亞逾半，SpaceX成最大持股；Duquesne也出清AMD、Sandisk等晶片股。",
-   "impact": "中性",
-   "sources": [
+    },
     {
-     "n": 11,
+     "n": 6,
      "title": "Nvidia Sold a Quarter of Its Intel Shares and More Than Half Its Nokia Stake. SpaceX Is Now Its Biggest Investment",
      "url": "https://247wallst.com/investing/2026/11/17/nvidia-sold-a-quarter-of-its-intel-shares-and-more-than-half-its-nokia-stake-spacex-is-now-its-biggest-investment/?.tsrc=rss",
      "source": "Yahoo Finance"
     },
     {
-     "n": 37,
-     "title": "Druckenmiller's Duquesne Gives Chip Stocks the Boot: Exits AMD, Sandisk and More",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOW8yaW1xSm5pRnA0eExOekJLWkw0YW40TXFxZFdscEFWNmRaQkQzVHZ4YVdRMEZaaWN6Mll0cFVnZWNqcG1tM0MyQUFIOUNSV1BzSDNDU3J1c0RRVTBwRHd4WnB2c0VKOU1OX2NUMnd1SzRCTmlfT04weVpnRDJQblZSenU1TlRZMDNwbG5vb2ZCeEJxclh4TURPRndHeW5UckowS2E4R2pSSk5rZ1V6SDdfS0VLaktuczlXM1pYR3BnVnFZYUNZLW9R?oc=5",
-     "source": "Benzinga"
+     "n": 20,
+     "title": "《美股》黃仁勳願回鍋+光通訊嗨 費半揚 靜待ANT",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcDdIOG4xMHZLUGxZSjdOcDZ4LVdZY3ltYldCMGpXMWtCREZ3LXJaNjc5SzBNV3JLRHZrTVRpQWxhaFNQdVg1SnNFWVRMMGhsZHRVMXkweUJjYmszSXFDZGY3MkZBR2dLSklPOXNkMWNRYU5HM0NvZjlSbUp1MG03VFc5U1dtRlhLNzd3bkVIZ2pnQQ?oc=5",
+     "source": "MoneyDJ"
     }
    ]
   }
@@ -126,69 +144,63 @@
  "holdings": [
   {
    "symbol": "NOK",
-   "note": "輝達減持逾半引發賣壓，但Inderes認為不影響預估；北歐AI超級工廠聯盟與美國封堵中國光通訊為題材。",
+   "note": "輝達減持逾半持股為消息面干擾，但美國擬封堵中國光通訊產品與國防合約偏正面，盤後+3.43%。",
    "sources": [
     {
-     "n": 10,
-     "title": "NOK Slides After-Hours: Nvidia Dumps More Than Half Its Nokia Stake — Retail Bears Eye $5 Despite AI Push, ASUS Deal",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUVrSGpnYVRCcW4xZVA5U212aVl0dkU3NlBsaUdURTR2YXdaSUt6YS0zdkhaTXlFTGI1WUhhQ0tvUDdoX1BJV0w1cFB0bVFmNGVjX1RXY1RoZjhxanBfOHFOV2RGX3A4dzRlZG5Ub1lxa3pIbW5kTHBaQjZoOEFsNWtjY05tS3BsTTNlR1ZYamtuUm4xRDJ5ZTB3?oc=5",
+     "n": 6,
+     "title": "Nvidia Sold a Quarter of Its Intel Shares and More Than Half Its Nokia Stake. SpaceX Is Now Its Biggest Investment",
+     "url": "https://247wallst.com/investing/2026/11/17/nvidia-sold-a-quarter-of-its-intel-shares-and-more-than-half-its-nokia-stake-spacex-is-now-its-biggest-investment/?.tsrc=rss",
      "source": "Yahoo Finance"
     },
     {
-     "n": 17,
-     "title": "Inderes: Nvidia's sale of Nokia shares does not affect estimates",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHZLWWFMMUpFTkQ3RXpCdzJrS2Y2OGgwMkVCR3pwd3czN25aN3VTQ09RenlYWVpfbXhZaXNtS3hIT01lNjA3eHRFamJ4cjdBcTF4UTZRbXRkZDdvNzlVcThKU0RkeHFqcExpRjl2eHRxSHNBVml2Z2FIVU1sRlRlLVJVYkdtTzBOMGtRemxHVlFXUDZiQzZ4QW1YUm5qX2ZVb0V5STk3dEF3eUVKcENMYVJqbFdYT2M?oc=5",
-     "source": "marketscreener.com"
-    },
-    {
-     "n": 18,
-     "title": "Nokia plans AI gigafactory in Northern Europe",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGlCNldGVGpuTjUyUDU4R1Z5UzNxSEpTSGl1RlZ0eU1zQXJ6S1huVG0xXzVGYktpRGxpXy01b1FCLUlLajNyT3NYbnZWVC1qSTRnQXlwWHMzRTN2RUg5OTVaM3JJMVpFQjBnZzdHRTlIVVNzNFZjSGZ6X2xiX1VZSnA1US0yaTBON1FYQjczMHNhb0Y2TUF4ZUNFSUdpWnlMcWJ3emNhZkVlRWtXRWpybGxsMHg0VEJzbTl5b1AtSQ?oc=5",
-     "source": "marketscreener.com"
-    },
-    {
-     "n": 4,
+     "n": 3,
      "title": "AI光通訊市場恐洗牌！美國擬封堵中國產品 兩大美廠股價走揚",
      "url": "https://news.cnyes.com/news/id/6665594",
      "source": "鉅亨網"
+    },
+    {
+     "n": 12,
+     "title": "Nokia Federal Solutions awarded Department of War RAPID contract to advance multi-domain threat awareness",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZVltY3FpZzRqLWpyYTdPdjFYcEhUWDhvZFZIYmZzaDFRZ3N0d1VOSTJwQ0tMZnJidVdRUGpvV3owQU1DbWYwaTRCZWQyMl8tbFR1VDlqaktvUmxHUm96Wk1ETUI5VzF2OUZ1RXdEakx5bHJuR0VWaVhES0xpeHJ4MHVDaDhuWmNqUExHaG9PTFdWWGJnNG9XVmtrZHZrcm5YOFpENEF3cTNmaEp4R0FrdnFqaDBsVWtUTTJGOElxYUllS2Y2MDZ5ZmM0SzI5MWlwcGl1R2RBS01ZT245VDJVMTBR?oc=5",
+     "source": "Cyprus Shipping News"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "訴訟與NAND供過於求疑慮拖累記憶體族群，收跌0.87%，盤後反彈1.46%。",
+   "note": "成分股受價格操縱訴訟與NAND價格下修拖累，但蘋果長約傳聞偏正面；盤後+5.45%。",
    "sources": [
     {
-     "n": 33,
+     "n": 22,
      "title": "Micron Stocks Decrease Nearly 3.1% as Judge Lets DRAM Price-Fixing Suit Proceed",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOTlZTXppckh2ZkRqc3FONXhGMThmX0F5VkphLWlsRDk1Z2pVY1lLOTRITDU1U1ozR3d3YzhMZVRpQ0M4MEJRQ2hVbFp6ZElZWjJsc3RXSmVGQjNBczlGeUZPcThISVZyWXNvSGkyQ3hKMkhLOTBNT1l0ODQyYXhnT29LOFN3dUVLT1RUSkVLZjBoYlBkWDZVc1lSQUNKZHlsRGV3bUQ4RHlGSF8zRm5zNGhEemhHYk94dXVEbEpUMmJQcUVjQjdVaW5LcVp4NUxpYkF1cA?oc=5",
      "source": "TradingView"
     },
     {
-     "n": 31,
+     "n": 18,
      "title": "Micron, Sandisk, SK Hynix in focus as GF Securities cuts NAND price forecast, sees glut (MU:NASDAQ)",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUTl0NTdmY0lCcG5CS2V4cHdYZjY0S01nRk83SWdVa1drbWM3NzBlT1RZRFh1NUJmTV9sdjIwVGNvTl9ETFRRZ0xWbWVXekpFZjUxUlFTWVVYSldoNW1SaFliTlB2Z245RWFIdVk4NDMxRWh5QmhJcHpxU3RCdnJlRnNhanZTT2NHRFRNTjlRbEZUS2xEUVhVWXNvZWxOT0xELWFHdzBCMGxrRjhra1hmMml5MC1YNGNyYlBsOFpHRQ?oc=5",
      "source": "Seeking Alpha"
     },
     {
-     "n": 12,
-     "title": "CPI | Samsung, SK Hynix and Micron Must Face US DRAM Price-Fixing Lawsuit",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjVuS1dqQ05Gc2lSeHBQYVJubDc2NUZOWmlDc3phWk1RWFFHVkg2TVNjR2czUlg3bzN3eFh0UnM3ZnVkS1BKZjBBU1BCdGhmTUNiSGxqUjl2M3MteW1NbWlWTVZHWDM1YmE3NExFa2hZN01RakpJTFFMTW1Tc3RfQ2x1QXdoc3lPZWRPUV9kdlB5WEUwT3A1Nlh2Z0paZ0JpWXc?oc=5",
-     "source": "PYMNTS.com"
+     "n": 28,
+     "title": "破天荒！傳蘋果與三星將達成長期DRAM供應協議 專家：記憶體供應鏈話語權逆轉",
+     "url": "https://news.cnyes.com/news/id/6666152",
+     "source": "鉅亨網"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "提供的新聞無直接相關消息；收漲4.03%，IPO閉鎖期推估11/30到期。",
+   "note": "提供的新聞無直接相關報導；11/30推估為IPO閉鎖期到期，需留意。",
    "sources": []
   },
   {
    "symbol": "SITM",
-   "note": "推出兩款新時脈產品，瞄準資料中心頻寬升級約20億美元商機，盤後漲2.41%。",
+   "note": "推出兩款新時脈晶片，瞄準資料中心頻寬升級的20億美元商機；盤後+4.64%。",
    "sources": [
     {
-     "n": 6,
+     "n": 5,
      "title": "SiTime Addresses $2 Billion Opportunity in Data Center Bandwidth Upgrades with Two New Clock Families",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPU1d1SFRpRHhqT2NZUXRSMFYzaGRha0FHQkZGWkNLS0tvSlVnMFNFRG9oS0hudDQtUVMweXBDbmFZUVR2UmJBNktNNy1GaVdwaS1VWEhoajRDRGJiUTAwaVk0d3hyMFcwU2RSU3I3YkU5U0ZOaHlZLTRVeHN2bzZQSmhEekRjYk9iUFBndzlZMFRwMDhrRm1KYlhEMWxzb2JINmpOUm0xcDY1QjNJSTFSVVBrZkc0ajdxX1MzR2twWXNFMWRkcjBhanpGaXRacmVqdnN0d1lGVlNZUXRlRVl3d0VxZU9GdGlya2ZFN3NEM3FnTFpq?oc=5",
      "source": "Morningstar"
@@ -198,12 +210,8 @@
  ],
  "watch_next": [
   {
-   "when": "11/18 輝達財報後",
-   "what": "輝達盤後財報（EPS預估2.47）與股價反應，影響AI與記憶體族群"
-  },
-  {
    "when": "11/19 03:00",
-   "what": "FOMC會議紀要"
+   "what": "FOMC會議紀要，觀察升息與AI衝擊討論"
   },
   {
    "when": "11/19 21:30",
@@ -212,13 +220,17 @@
   {
    "when": "11/20 23:00",
    "what": "密大消費者信心終值與通膨預期"
+  },
+  {
+   "when": "11/21",
+   "what": "韓國前20天出口初值，觀察半導體需求"
   }
  ],
- "generated_at": "2026-11-17T21:56:04Z",
+ "generated_at": "2026-11-18T07:59:28Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5993,
-  "output_tokens": 1200
+  "input_tokens": 5881,
+  "output_tokens": 1230
  }
 }
