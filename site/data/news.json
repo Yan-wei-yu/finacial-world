@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:26:46Z",
+ "generated_at": "2026-11-18T21:38:11Z",
  "categories": {
   "holdings": "我的持股",
   "semis": "半導體／AI",
@@ -8,6 +8,68 @@
   "market": "美股大盤"
  },
  "items": [
+  {
+   "id": "01ef2e28fda4f984",
+   "title": "Inflation in Midwest Higher Than National Rate",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5dXlUV2JNTGZkdDRTM29UTGJJSUttdkFxemlHS0M1VXlqTlMyN2NrQkNLbnhXWXRYakpUcFhBc05EM01SQ0t6aDRpX2NnZkZNTlBQQUo1UjZZWGw2dm5LQmNYWnZDcFFEYnUzX3BIOUtLQ214X2dJWnloQzdfbVU?oc=5",
+   "source": "KIWA Radio",
+   "published": "2026-11-18T21:34:17Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-macro",
+   "categories": [
+    "macro"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
+  },
+  {
+   "id": "0639148648dcc724",
+   "title": "〈紐約匯市〉美元走強 Fed鷹派官員支持採取積極行動",
+   "url": "https://news.cnyes.com/news/id/6666493",
+   "source": "鉅亨網",
+   "published": "2026-11-18T21:32:32Z",
+   "summary": "Fed官員華勒稱抗通膨需更積極，12月可升息半碼或釋出續升息訊號 美元指數漲0.2%至103.78，創2025年4月以來最高 通膨與10月零售銷售數據強化升息預期，歐元、英鎊走弱；市場關注威廉斯等官員談話",
+   "lang": "zh",
+   "feed": "cnyes-us",
+   "categories": [
+    "macro"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
+  },
+  {
+   "id": "6afea7c33392579f",
+   "title": "記憶體多頭變天？南亞科崩46％「華邦電、群聯也猛跌」專家示警1大變數：短線別碰、跌深適合存股",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiRVBQTGQyVFBPOFdGY0pZb0NTUFpocGhiTUJxeXRVUnFnb1RHUFNvZ2ZGQ3NzM29kWjc5c0U0b0l1YUlZN3lyVHR3RWNkaVQ3THpxVmRiQl9MZGY4M2o4cWdGX1o4XzhTS3c?oc=5",
+   "source": "旺得富理財網",
+   "published": "2026-11-18T21:28:07Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-memory",
+   "categories": [
+    "holdings"
+   ],
+   "symbols": [
+    "DRAM"
+   ],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
+  },
   {
    "id": "fa3e84c476507385",
    "title": "Dealbook Summit 2026 live updates: Altman says 'hard to imagine the AI industry without Jensen'",
@@ -155,6 +217,26 @@
    "first_seen": "2026-11-18T21:26:46Z"
   },
   {
+   "id": "713c137d0e5f98d6",
+   "title": "Nvidia’s Cash Machine Fuels Buybacks, Investments — and Debt",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1NGZFlXZ2hiaVB3a2JfblRsb0w2NUtwSERiYjNzMGkyM2RFdEpfZmU4NFNNLTI4NnQ1a2JHVXd3ODJUMFFrYXl3cHpnYURSTHBXTFloTzJWTmJBOV9Xc2l6OVlyencxdmxwUHN5eTJFR2FpRVB0QmxrLVpXa1YxREVBRHg5WHJ3U3E4TVdTc3RwZjItTkF0VjROVkNGNHRWdEo0UWdJbHhjeW9BSUE?oc=5",
+   "source": "Global Finance Magazine",
+   "published": "2026-11-18T21:10:03Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-ai",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
+  },
+  {
    "id": "ea961186b663e5d6",
    "title": "聯準會鷹派紀要加輝達震盪 美股主要指數漲跌互見",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zTS04Snk0WU5ldUVzOUhaNkVmS2RTcmNwM1dzTHFNV0JSMEYzUUJNR1J2Vjl1cnFWb1poLTAyWDU3ancwYWVuTXR2amdLdUFYVzJxVC1sUWpOdjJKX3A2ZFJsQzZTQQ?oc=5",
@@ -171,10 +253,35 @@
    "symbols": [],
    "base_score": 7.5,
    "source_bonus": 0.0,
-   "score": 7.5,
+   "score": 8.0,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "LINE TODAY",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LSGlfYThRRTJQcWZVcHB2c05uQUNvVVo3UXgtRGxCVk10S1JaQXVWWkE4amJTNHFYdzdkdjRaZWwzeUNLM082enF1TUNTNjFFZGlCMGtB?oc=5"
+    }
+   ],
+   "first_seen": "2026-11-18T21:26:46Z"
+  },
+  {
+   "id": "5fc8b0d05942f429",
+   "title": "Nvidia earnings divide investors as analyst urges buyers to hold",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMNTVEWXZUYklWdFlqQ0VaOERrUVRlelZ5ZERPWDZTcTFsNUdZcXRNM19LR2xwWUhxUVZvV2szRmozWVotLXV6VTZCOGJFSzlhMEYzVy1qVHQ5STA?oc=5",
+   "source": "Fox Business",
+   "published": "2026-11-18T21:03:39Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-ai",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-11-18T21:26:46Z"
+   "first_seen": "2026-11-18T21:38:11Z"
   },
   {
    "id": "f51e752cfdb89291",
@@ -1333,10 +1440,10 @@
    "first_seen": "2026-11-18T21:26:46Z"
   },
   {
-   "id": "f57bc6100e9d0740",
-   "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount | National News | 2news.com",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQa0RtQWp4TGFDLXU4WFllX2dKUkY0S2lMbWl6anRJNTVjVGZDV2VHNm1xQWFDWV83VmVHazRwTGJ0dHFKcjlIVmc2Q2x1ZXZmNTNIVkZET3k5eERjc2ZLWFFVMkZRNTBnSlgxQlplTXloQ2Q1Zjdvd0F1WjRDSTdzVEp5NU5iTjh2aHVhUjVnaHVYZTY1Y1FiSFg1RnVYZklsaXVTRF9ZS05FLXBWVktrUkRkRjlIZWhBZnpQaGJscTZZV0RmVmhWeG9kdUdIalY5Z0g0M2tFdFBzaExjQ0g5OHhFOE8wbzBNVUlqZTJ0a1JrX1lkb3c?oc=5",
-   "source": "KTVN",
+   "id": "5bf016b91c636f9e",
+   "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
+   "source": "AP News",
    "published": "2026-11-18T19:09:34Z",
    "summary": "",
    "lang": "en",
@@ -1346,10 +1453,15 @@
    ],
    "symbols": [],
    "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
+   "source_bonus": 1.0,
+   "score": 4.5,
+   "coverage": 2,
+   "also": [
+    {
+     "source": "KTVN",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQa0RtQWp4TGFDLXU4WFllX2dKUkY0S2lMbWl6anRJNTVjVGZDV2VHNm1xQWFDWV83VmVHazRwTGJ0dHFKcjlIVmc2Q2x1ZXZmNTNIVkZET3k5eERjc2ZLWFFVMkZRNTBnSlgxQlplTXloQ2Q1Zjdvd0F1WjRDSTdzVEp5NU5iTjh2aHVhUjVnaHVYZTY1Y1FiSFg1RnVYZklsaXVTRF9ZS05FLXBWVktrUkRkRjlIZWhBZnpQaGJscTZZV0RmVmhWeG9kdUdIalY5Z0g0M2tFdFBzaExjQ0g5OHhFOE8wbzBNVUlqZTJ0a1JrX1lkb3c?oc=5"
+    }
+   ],
    "first_seen": "2026-11-18T21:26:46Z"
   },
   {
@@ -1518,6 +1630,28 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-18T21:26:46Z"
+  },
+  {
+   "id": "a35c2785f289e483",
+   "title": "S.Korean pension funds dump SK Hynix, rotate into Samsung and defensive plays",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpSWdId2tvZkd3UXJIWVluTGstYzA4dnlqM3dYcVBfSVBPQXdONFB1MTJqVGZ1WXRieEhhc3JidkRLSnBxYjhNOUlCMTRUS2Zhd0JzaTdpaUF0enI3alhlUHBTVjBESnBZY0dWTi1MSGVxZw?oc=5",
+   "source": "KED Global",
+   "published": "2026-11-18T19:00:39Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-hynix",
+   "categories": [
+    "holdings"
+   ],
+   "symbols": [
+    "DRAM"
+   ],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
   },
   {
    "id": "2368564a15445e0b",
@@ -2039,26 +2173,6 @@
    "first_seen": "2026-11-18T21:26:46Z"
   },
   {
-   "id": "c70bd75e795d6f6c",
-   "title": "TWA00 加權指數- 去年關稅戰馬上V轉，這波融資再怎減被外資卡到無力，更別説選舉... - 股市爆料同學會",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92UFpFQmtJZU1DRVJ6YzZHNHUtUnNJbEt5azJDd01wQW0tdXN5NUllYmpuaURoQll0c2xBU1hrYU53bU14aWRta1JUcU11dXBFS2FsOXdqMGg?oc=5",
-   "source": "CMoney",
-   "published": "2026-11-18T17:59:56Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-world",
-   "categories": [
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 2.5,
-   "source_bonus": 0.0,
-   "score": 2.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-18T21:26:46Z"
-  },
-  {
    "id": "d628e3bfabc1bc3d",
    "title": "The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Rate Hike. 3 AI Infrastructure Stocks Down 25% or More I’d Buy When Anthropic Starts Trading.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpyUzh6Z1pwU2dENng3UmwtdEZkVjhMenIyTEQyTHh2d2FyWnJXcjNFVWJIR1kxTzRTRW4wWG9tN2F3LXRfdDE0T1Q1cWt0YUNQbHhwV2E1MXJpVXE5T0tWamd0ZTRRa2hqZU1aZlBKcU8xZ1JiNzRCSU1xMG5COWMwR2p1YzNQMUY2Q0s5QjlVaE1xVlFLNjBLZk5XZ0MycEM5U1NqQWJpX00?oc=5",
@@ -2313,6 +2427,27 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-18T21:26:46Z"
+  },
+  {
+   "id": "f4f54e4423e26f7b",
+   "title": "FTSE 100 slips as commodity-linked stocks weigh; UK inflation at one-year high",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEVjc0dlYzVLb2hOZkVUWGlMRnAybzlIM1ZjRXlwNG8zYW05bXZ4VXNNTlZjaVZWeThsdzVqR2x3aXpQaGpwX1k4SDJhcHNZYVZQUWdlRnpjQ3lYWm9YSXd0QXhJNUJ5SWpQVjd0NWZSV3lLbENOTFpWOXJoT1Vvc2dyclMtUUtnOFo4MFpoUTk?oc=5",
+   "source": "Reuters",
+   "published": "2026-11-18T17:20:47Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-macro",
+   "categories": [
+    "macro",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 1.0,
+   "score": 5.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
   },
   {
    "id": "1a10078ffaec3178",
@@ -3222,7 +3357,7 @@
    "title": "美元強升 收復川普關稅解放日失土 金價跌破3,800美元關卡",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1od0RNcjFoSFVDWXFGdjZQd0J5Y0dIcXotNEFmblRqRkY2aDJzOVdzR1p0SGNvbzhmMkR1YU1NOXFRWHNLaVBrMFBkMDA?oc=5",
    "source": "聚財網",
-   "published": "2026-11-18T15:26:07Z",
+   "published": "2026-11-18T15:25:34Z",
    "summary": "",
    "lang": "zh",
    "feed": "gn-zh-world",
@@ -3364,6 +3499,27 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-18T21:26:46Z"
+  },
+  {
+   "id": "084682e7ad142d68",
+   "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-18T15:12:33Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-semis",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
   },
   {
    "id": "2d2dd4eae06280ed",
@@ -3512,6 +3668,26 @@
    "first_seen": "2026-11-18T21:26:46Z"
   },
   {
+   "id": "95fdf62b26a03d8c",
+   "title": "Nvidia's Colette Kress tells Cramer: Employees and customers are not going anywhere",
+   "url": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
+   "source": "CNBC",
+   "published": "2026-11-18T15:00:01Z",
+   "summary": "Interim CEO Colette Kress said exclusively on \"Mad Money\" that the chipmaker's customers and employees remain committed to the company.",
+   "lang": "en",
+   "feed": "cnbc-tech",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
+  },
+  {
    "id": "7403715117dfdc5e",
    "title": "Fed’s Waller says interest-rate hikes may be needed to ‘shock’ inflation out of the system",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMURESHotYzFzck1UMzlCXzNKdkthQUVJNVFZOHNlaExhR3IxSjhsazlZSHphalJnMlQ2VjNqWkVnRm1OTWFfSHl5ZkRiQ2dQLTF3SVpua18yMXp1cWhyWnNEdWZGcmFZczd6MmRxTDhsc0xPRnprd0tLUjhLWGprdWVyUnNKMEFDZWxJM0tfQmdaQm1QT2FGMlU1eE5iRUl2TzZENVZtNHpJTUJ6ckhHbEljXzJfXzctdjR4Rl9UQ0tvUzhSTk9IX29KYkdvNlFBbHFWNzNpbXFIa3M?oc=5",
@@ -3550,6 +3726,27 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-18T21:26:46Z"
+  },
+  {
+   "id": "1363cc1dc3094412",
+   "title": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-18T14:56:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-market",
+   "categories": [
+    "world",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 3.1,
+   "source_bonus": 1.0,
+   "score": 4.1,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
   },
   {
    "id": "7f8bc474361f9433",
@@ -3750,6 +3947,26 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-18T21:26:46Z"
+  },
+  {
+   "id": "5ed09c6e92ca7d40",
+   "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHY0NU1Fd0lrTWFZQmI4M2cxV2RFd3NCYko2aF83QmJWdEUxM3hNc01HV18ycklKZElhbldzREtZRVNneVp5QkdpVWJFV0t6anpmWXZfTFJHVTRlNHR4aW5VRWpCTVNPX0RFblVLQ3BoT2lnZU1sd2xmdnNweWVWX1pWNA?oc=5",
+   "source": "The New York Times",
+   "published": "2026-11-18T14:24:00Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-ai",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 0.0,
+   "score": 3.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
   },
   {
    "id": "13065699192c5487",
@@ -4168,26 +4385,6 @@
    "first_seen": "2026-11-18T21:26:46Z"
   },
   {
-   "id": "5673798847f36ec0",
-   "title": "白銀價格預測：聯準會升息預期升溫，XAG/USD 徘徊於 45.50 美元附近的年內低點",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUUZlWHNZdHBYc082bktWM084ak0wR0xHUjJPdjBpX0pPWTFZcTl1S2lJb1lHU0h6MnMtQ3RNNmRKRkR2VExIWlBNN00yZktBcWh4UC1ZTE4zaWtTVEZPZVd5Q2FPNnROdkdlTlkxazk3T0ZRazdOLXZTVlpuNU5NSVMxQVFOazVfSWFPM1pNN2RaTUhyQmhOZ3BkTEVBd0lVR1dBa2psTHBLRkRXN3RWSkJwWGhvdWI3NDhzTHNFY3ZoQ3NKN0RYSm5EUk9vZDB2UjdGOGdPdlk1c3FHNnVZOEhaOTk1SUFm?oc=5",
-   "source": "www.tmgm.com",
-   "published": "2026-11-18T13:14:46Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-macro",
-   "categories": [
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-18T21:26:46Z"
-  },
-  {
    "id": "8d2502fdfd431464",
    "title": "Asian chip stocks rebound after Nvidia earnings beat expectations",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0owS25hU04td1o0dzU4X0ZKZk1xa3VtVWhjT2xBMjZ5aUlVbzJYbklXSXhPTzlZTkp0eURpdVd0Wkd3OUpmbEdCNExUTXNTb1VHbkEydVNkTkNMZlNuNDhJTF92UHY0R19VVXpILWFISTZkdW9QSTNiZ01NS0pNQzc0MzZpdm42U1BNUWV4VU9nVHFaTVBmSVhubFB2cE9UWVFkME5lcmdjZw?oc=5",
@@ -4339,26 +4536,6 @@
    "first_seen": "2026-11-18T21:26:46Z"
   },
   {
-   "id": "f01da7dc4119fe0f",
-   "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUd2cTU5UWdfX3BzdGk1R1kyTVFXOC16YXYydUhObnktRXY0Q094LS03NUJwcjRzNEttOWFpdnIxX2Q4LVlhbEdIc1hIUHZSMzFVVlVJdUo4TG9aLTV0bktrR2VaN1lLRUk0VjFnRTE5eHB4YmpyTjcyNlg4a2RkdlVhM2FxRDBUcTgtSmhLZ3FLMTlCOTMyZ3ItbFdzQzg?oc=5",
-   "source": "TechCrunch",
-   "published": "2026-11-18T13:00:00Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-ai",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-18T21:26:46Z"
-  },
-  {
    "id": "c826c30e9cf825b4",
    "title": "Stock Market Today: Nasdaq, S&P 500 Futures Rise as Nvidia Shares Jump After Strong Earnings Report; Anthropic IPO on Deck",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWVYNVZ2N0ppNmVQeDFvUHFIUG5vZmRNRUJ3R2o0WlhkUXJxVEExaHZrRWhNZHZmaTBQUDhyQXhSLXhoRng2akdubS1iMW8xOHptbWZ0Z25nMnlwSnJ6blZ0dmNnejg3MGlXSE5FSkx3czkybjNuVDc0aDd3Mk5YbDNSNlUwUi1vMlRMWU95RkUwWGNvSjhz?oc=5",
@@ -4418,26 +4595,6 @@
    "base_score": 5.0,
    "source_bonus": 0.0,
    "score": 5.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-18T21:26:46Z"
-  },
-  {
-   "id": "3416cd4832d561cd",
-   "title": "費半拖累台股難反攻 4萬保衛戰震盪1747點!",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vQUc1QVdHTkp1TEphYk9PbE9YT2k2TlN5VGhHcnNrTmVydzJhVUlDajVfRk1ZcXBpeU96czJBYjFsVG1SVER1OVZKMllFUHJnWUF0VndvVGZfM1k?oc=5",
-   "source": "非凡新聞台",
-   "published": "2026-11-18T12:51:38Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-semis",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 0.0,
-   "score": 3.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-18T21:26:46Z"
@@ -4691,6 +4848,26 @@
    "first_seen": "2026-11-18T21:26:46Z"
   },
   {
+   "id": "4c059ae1caf71256",
+   "title": "Nvidia’s Kress tells CNBC's Jim Cramer that 'customers continue to be with us’",
+   "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+   "source": "CNBC",
+   "published": "2026-11-18T12:07:03Z",
+   "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, followed by its first earnings call since Huang's departure.",
+   "lang": "en",
+   "feed": "cnbc-tech",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
+  },
+  {
    "id": "52239f367a29ba22",
    "title": "川習會前示警！台海進入關鍵24個月 美報告揭中國封鎖台灣風險",
    "url": "https://news.cnyes.com/news/id/6666549",
@@ -4710,6 +4887,26 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-18T21:26:46Z"
+  },
+  {
+   "id": "a64d8f6f24e9bacc",
+   "title": "Zelenskyy says Starshield speed curbs still in place over parts of Ukraine",
+   "url": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
+   "source": "CNBC",
+   "published": "2026-11-18T11:58:50Z",
+   "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
+   "lang": "en",
+   "feed": "cnbc-tech",
+   "categories": [
+    "world"
+   ],
+   "symbols": [],
+   "base_score": 2.5,
+   "source_bonus": 1.0,
+   "score": 3.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
   },
   {
    "id": "f2d93dc47a134d90",
@@ -5809,6 +6006,26 @@
    "first_seen": "2026-11-18T07:59:28Z"
   },
   {
+   "id": "d63b9cff00dcba5a",
+   "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
+   "source": "CNBC",
+   "published": "2026-11-18T06:21:45Z",
+   "summary": "Nvidia’s Q3 results should help ease short-term concerns, but uncertainty remains around long-term leadership.",
+   "lang": "en",
+   "feed": "cnbc-tech",
+   "categories": [
+    "semis"
+   ],
+   "symbols": [],
+   "base_score": 3.0,
+   "source_bonus": 1.0,
+   "score": 4.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
+  },
+  {
    "id": "7f59c39242094cca",
    "title": "黃仁勳「長期副手」捲中國晶片走私疑雲！曾掌管重要客戶包括黃樂、疑與美超微涉案高層有關",
    "url": "https://news.cnyes.com/news/id/6666020",
@@ -6020,46 +6237,6 @@
    "base_score": 4.5,
    "source_bonus": 1.0,
    "score": 5.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-18T07:59:28Z"
-  },
-  {
-   "id": "f3f5dc60891cb867",
-   "title": "日歐車用Chiplet標準出爐，矽中介層PDK預計2027年初釋出，自駕晶片邁向多供應商整合",
-   "url": "https://news.cnyes.com/news/id/6666123",
-   "source": "鉅亨網",
-   "published": "2026-11-18T05:30:08Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "cnyes-world",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 1.0,
-   "score": 4.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-18T07:59:28Z"
-  },
-  {
-   "id": "8f49625b6a8892e4",
-   "title": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1hUb0ZMNTdVdlRaU3NVMXlUODNRZmhzZjVNRFVocktEWXJ4ZkF5eTVmVXBQcXRMOWFpdHZMQ2hxeUE1OER5TkpmRTlLV0JBdGV5RWVDVTl2TWtZamNmMXBTV2Y4eTVXdFpBdmZNSlFtZklNQnBLWHNDU251eElyd191OGs4ajktX2NvRVpNQ1M1cDNEU0ZzYnpWMmpnQ1E1d3NuUzhMSXZfdEowVWN6QWZldW0?oc=5",
-   "source": "Reuters",
-   "published": "2026-11-18T05:22:00Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-ai",
-   "categories": [
-    "semis"
-   ],
-   "symbols": [],
-   "base_score": 3.0,
-   "source_bonus": 1.0,
-   "score": 4.0,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-18T07:59:28Z"
@@ -6570,6 +6747,27 @@
    "first_seen": "2026-11-18T07:59:28Z"
   },
   {
+   "id": "c7dfb858cca234f9",
+   "title": "【美股盤後】等待輝達財報 道瓊挫逾800點、費半止血小漲| 國際",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Sdnc4TldtZE52WjJnVGpCdnNOOWFiUHExckFkV1g5UVViUVoyeTB4VUdzNVhEdUd0Z3Fwb09sNTRxXzhzNXRRUkUtM0xQdjZJRkNFZXlmTldQcGs3U0Jz?oc=5",
+   "source": "非凡新聞台",
+   "published": "2026-11-18T03:45:34Z",
+   "summary": "",
+   "lang": "zh",
+   "feed": "gn-zh-semis",
+   "categories": [
+    "semis",
+    "market"
+   ],
+   "symbols": [],
+   "base_score": 4.5,
+   "source_bonus": 0.0,
+   "score": 4.5,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
+  },
+  {
    "id": "4a4e057f515dc5b9",
    "title": "Asian markets mostly decline after Wall Street losses as AI stocks swing",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmo5WUtKWXNRckt5a20yUmJaLTg4SFd6S25JUVpKZnVFOEVVQThuMV9kQ3ZFay1kUW1weFdzNmdGbzBDY3BwVXBfcDB2YXlNSUFIZVVyempEVEVBTmoyWkZXekhteEE5bW00a2xwN0hmZTA1N1F5Y1R0ZGk3VkJ2U2NTOFBjTnhfWDhhRzRWSGhra2JTakttalhsWUFpNHFFQXBlNHRhNGI?oc=5",
@@ -6631,6 +6829,29 @@
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-18T07:59:28Z"
+  },
+  {
+   "id": "086b5f7562291b9c",
+   "title": "Nokia-led consortium plans Northern Europe AI infrastructure network",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOV8xanBUZlFRZmlkTHVZVTNKZ1NjelJnUG56a3VTY2NqWWVYR0NoN0hGaFpQYWo5ZmVReTBKeGlJdmJmbDgtaW5IS2tNWXJfNVhOellreUtwMkg4TVZPQ3EyNXkxbHBUeXJJblNKYV8xZmdGZ0QxNTYwbERYdWZSeTVwRHFqdEVjMWpLSDlHNmc5UU1DWWt5UURpX2NvRkJXcEY3ZTlTWENScjZvc3UyVkhwdkdkT3RyTTF3bTh6c21kd1RYSTNUbE92MmxDdDBtNlhhWVJqQmRjLXpDbjU1M01fS1IxMmZILUxnTk5R0gHzAUFVX3lxTE9tN2dQNkQ2T004T2hBejd1VHY5VnRad0l4S253VVg0YUQ2N3V0QlFaSDNlOGJrSUtOajNVUTNVU1VXT2VXWm5Ca3VybWdVTHY1WkFRZUhTSXVmWDV2RWluTTByNmFrb1lIaGxIcGdNSzZ2QTVnYzFpenlTU2VDV1lZT19tVE5CMGtYYzlrVmtfRTdDb0dOTDlEVnFSUEg2bUo3YkdLT0o5Uk82Qy1CeWxsVXktZURvb1dfdXdzSXlKWWRkZHpFaUtOQjN4dHhrZnUxY0JPOEowcDlHWFB3VXdybnF3TzlVN3BQMk5aZ3pTbnBHTQ?oc=5",
+   "source": "ET Datacenters",
+   "published": "2026-11-18T03:30:26Z",
+   "summary": "",
+   "lang": "en",
+   "feed": "gn-en-nok",
+   "categories": [
+    "holdings",
+    "semis"
+   ],
+   "symbols": [
+    "NOK"
+   ],
+   "base_score": 9.0,
+   "source_bonus": 0.0,
+   "score": 9.0,
+   "coverage": 1,
+   "also": [],
+   "first_seen": "2026-11-18T21:38:11Z"
   },
   {
    "id": "2f3f90ca54fcd660",
@@ -6825,50 +7046,6 @@
    "base_score": 6.0,
    "source_bonus": 0.0,
    "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-18T21:26:46Z"
-  },
-  {
-   "id": "6d721741997c4b1b",
-   "title": "Exclusive: Justice Nominee Lee Omits Spouse's SK Hynix Stocks Over 30 Million KRW",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTm1nUS1YVnU2OXJLZy1FbGtUZ2dZa1pQQnJBV05temFQRUlsZG16WndKWWJzS1c2dUNDd0lncHc2ZGVISlA3ZXpuUUlsQjNicEU1N0drMzNBUjQyM0ZhdmFDemd4MG9hc01GWURCTXh3ZEtVN3VhaVpiUWlfLUxEVDF6bmVSd0hi?oc=5",
-   "source": "조선일보",
-   "published": "2026-11-18T02:13:46Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-hynix",
-   "categories": [
-    "holdings",
-    "market"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 4.5,
-   "source_bonus": 0.0,
-   "score": 4.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-18T07:59:28Z"
-  },
-  {
-   "id": "f5e91d1f44215992",
-   "title": "〈焦點股〉費半止跌大漲！海外半導體ETF齊彈 00941創歷史新高",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RbGR5VmVUMGlZdldQZXV5TXdmNEpGNWFNV3FJRWg0STUtNkN4bHEwR3ExZDRncm1hZk5GTmNoMVlNNVVZWkNJVUxYeHdvOV8wcGR3ZzViX3FreE5JZGZTT3dVWXU?oc=5",
-   "source": "TradingView",
-   "published": "2026-11-18T02:04:09Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-semis",
-   "categories": [
-    "semis",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 0.0,
-   "score": 4.5,
    "coverage": 1,
    "also": [],
    "first_seen": "2026-11-18T21:26:46Z"
@@ -7548,78 +7725,6 @@
    "first_seen": "2026-11-17T21:56:04Z"
   },
   {
-   "id": "6e62aaf5fd07a5aa",
-   "title": "SEC is probing Nvidia amid Jensen Huang departure, according to the Wall Street Journal",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQkNuemJ2SzZlTnpBcEdlU3hnZU1aNVA4bnZKTUZXZTk5YjRHN2NjQnJFeEJ3cHNPbFhTRXp1ckJ6U3puYUktVHluX3hfYVA0RUprVktrTlVSdS0waDBOX0U4bFVNbjVoZHc3TXBpdURXYXBHVVI2NnFoVUcyU3dvXzhmV3hBT1A4emsyOFVhTTBsRThpLVlrVmhVWjVYalhEUlNaZ29QVjIyaU5tdl90QVpTV0xvOVFVLTh0WVItRl94V3U1OWppMg?oc=5",
-   "source": "CNBC",
-   "published": "2026-11-17T21:16:35Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-market",
-   "categories": [
-    "semis",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 1.0,
-   "score": 5.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-17T21:47:12Z"
-  },
-  {
-   "id": "009c9e3a497a505b",
-   "title": "Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters",
-   "url": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "published": "2026-11-17T21:12:00Z",
-   "summary": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analyst says.",
-   "lang": "en",
-   "feed": "mw-top",
-   "categories": [
-    "semis",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 1.0,
-   "score": 5.5,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-17T21:47:12Z"
-  },
-  {
-   "id": "9590d8d5784a3bd0",
-   "title": "Wall Street shakes again as Nvidia and other jittery AI stocks swing lower | National News | 2news.com",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdFFXbkJCZWpycTMybXhRUG9rZ1RqZVp6V092dmRxc08zRU1qa015YzJROHRaV0JJT2N2RHROWEZmTWVoclpvMG1neVRuM1JnemxjT3RHcW4xMkF0UHFyT2ZIUkhuazc4YmFWTE4wSGZOa3FKTTlzaDlMQUNHSzVaZWNwVW5GeGFGYk5uZ0prUGFPSXdKQ0NfaFBSbnlVUW83U1AzZ3NnUldwalkydnZhTGFESFlOV1AzMGJMYnpaVWQtdmp4Vzh4Wmw0RjUxZFBTcS1mYjRFampxUEhicmpxcjRFdnRLTDFaWDBGaWlTOA?oc=5",
-   "source": "KTVN",
-   "published": "2026-11-17T21:05:20Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-market",
-   "categories": [
-    "semis",
-    "market"
-   ],
-   "symbols": [],
-   "base_score": 4.5,
-   "source_bonus": 0.0,
-   "score": 5.5,
-   "coverage": 3,
-   "also": [
-    {
-     "source": "Los Angeles Times",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTU56S2lYaGF3M1pPT0M5Z1NUWm1vTlZRMUcwN3V5SUlLNkNBNjVabHVlbzlmLWpXY2pNMWw2Y2VZNlNfRFh2eDVpYTlPMUdDSzhXSjFnZ29wOHhSdkgxSUhPZ3FiOGpwcjhacWlEUXlPNHBzckl5SVVrZ1VCUzFDZEFVYnJUTUJYbEpJSkhLZzZ4NTFteTYyd3VobmtuUFphVmQ0aGRqTmNLRmc4b3E5UTVwSHc3VDZSbENLLQ?oc=5"
-    },
-    {
-     "source": "JHNewsAndGuide.com",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOc3dJSVV5OWZjaEtDUWJBQXhlWjhvRGh6dENKOThWaldJOF9VTVFzTUFuQk0ybGpkV2lRV285Vzd0eV9Zd0tUZ1JTOHprdHpzUW9tQ2dPMmVwUGxTbC1zaVFLNGpkSEhwTTNoVnUxX05SaHRFZmNySHluMjVJSjJzLVVKVC1qSmkyckJqc09CNklKWldUWllvN21FTWVNWFVKdlplUnlNd0VwSUk2eWIwakQ2SkNLeHotLWR3SS1taFRMeHlKSjhzTk1JQTl6eXA0YTQwM2pWQ01vWnZKWS1KZi1PbXFIYTdYMjFDWUJFNjhGallkcnR6OThwS09vcGRYWXVJMWhoblNucThUMW9CVmhxZ1VldnRZYmowYlBB?oc=5"
-    }
-   ],
-   "first_seen": "2026-11-17T21:47:12Z"
-  },
-  {
    "id": "05aeacaf08fb7586",
    "title": "Optus & Nokia test 5G boost on live smartphone network",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGpJeU9rbW1udWdlaFVzZ0lqSHZkTU1TV1ZFV1JEMjdsUjE1NDNaaEZZNl82Y01zeUctM2JjSEZqTHVCbnhodm1iTjd5NUM1RDRBUC1KR3A5UXphVzAwQVlveE9UaXBrTzU0dDFxa3dybXRMWjdxOWREd2xvY1NaVmVVV3V1N1Fjd3A0?oc=5",
@@ -7844,71 +7949,6 @@
    "first_seen": "2026-11-17T21:47:12Z"
   },
   {
-   "id": "dc05883447d25dd7",
-   "title": "Federal Reserve automated by AI could eliminate human bias, Jackie DeAngelis says",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81UnMwU2F6MnNpaWZROW5DQmxpaE1idnlQQlFJS3VES1NuSVBQQ2Q5OU52LTlXU1VLQ3NIWHpVN1RpbzRCU25XWTJUQUtoNE9mdmtsdFFNVEtyeUk?oc=5",
-   "source": "Fox Business",
-   "published": "2026-11-17T18:59:37Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-macro",
-   "categories": [
-    "semis",
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 6.0,
-   "source_bonus": 0.0,
-   "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-17T21:47:12Z"
-  },
-  {
-   "id": "7e93d2462311f058",
-   "title": "Nvidia set to report earnings as Huang scandal clouds outlook, Federal Reserve worries about AI",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbEJhV29TTWV4aGxSUk9hZ0Q2UkVmUmgzZkkyRGFNNHdKWWZUVHpkUUxrMW50UEcxaUlVYjBnbElrNXFsN3lfUDNZbFZjQkV5clhUZFBGeVRpVmdVUHFPZW1UNW5OeTlVWmtOWVlGcTdaY3NuWlNVeDg2WEg4VmxKYzI2U3QyMWpPSVR6RUhWUjh2alBTWnF6Vk1ZQ2NVbmo2Z3NiUU1oM1RtNTg2dkVUa3k0VnRsVnVwcnE3OWpJcG9mY0dVbk1qR2tFRG1zaXYyYjVGNEd5ZTc?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-11-17T18:42:01Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-macro",
-   "categories": [
-    "semis",
-    "macro"
-   ],
-   "symbols": [],
-   "base_score": 6.0,
-   "source_bonus": 0.0,
-   "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-17T21:47:12Z"
-  },
-  {
-   "id": "edd50e5d682f9949",
-   "title": "DRAM價格高點提前到2027年！SemiAnalysis大砍AI需求預測，南亞科、華邦電面臨擴產考驗？｜產業熱話",
-   "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNb1NsTEdERzRCZFo4WDlaRVltcGhMajRLRTdsRGpEakNVVnVxNlNiU2ltbTYwSWx4aW1QakVCRWFZNHU5aFBkd2NHRUtoNGxBRWJqRXFiMjhXWTVrUGZlSmlaWG5ZY1B6dHJESWF3Vl9adGdHcUQxUmlYT2tkYTRXU2lBYVVKb0c2U2xLczRNR0ZGNldrTElkN3lSNHM2dUN6QmQyYmUwczZoSjg2aE1YYTl5Y192NTI0czcta05aVXdiNHd5Y01MQ1NaNG5FZEZvM1dKcHgzMEh3QUIzazlXd1AtUlRrcmozclROWWhiNG5FQmtqMDdxNzhaNUFxUG1idUNWTEVqQW1OdkpTUFFxNktmNkktbHFYQ0lsa19fQXppUk9WUGlFVWtVT05ZcDF1Q0VfelRGZy1VZEJNTlZPdzFRS3lrX0lUandkQjNicUJCdVVUTUJEWlc2bWFFbGMzNjlYQ2tRLUhnNDZtS0t2U042SkNFN3EwcUFmS1lFdGZSeURIcmphNWFlXzE5WDFTQmFPT3ZPUWNtdHBya0ppeVJWWFNodFo4SmlHc2R2a0FtV1pyc016SjduYVo5UVJMSWJHV0NlbDE2M3RadGZJRU5IZWUxbGpBSWRmVlR5d2lWRXJaVmp2cEQ0Nld2QzlIZDhjajJPODd3X1V3SFRadFlsamNyRTBZ?oc=5",
-   "source": "永豐金證券",
-   "published": "2026-11-17T18:41:50Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-memory",
-   "categories": [
-    "holdings",
-    "semis"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 6.0,
-   "source_bonus": 0.0,
-   "score": 6.0,
-   "coverage": 1,
-   "also": [],
-   "first_seen": "2026-11-18T21:26:46Z"
-  },
-  {
    "id": "4313b5870e076ed9",
    "title": "AI光通訊市場恐洗牌！美國擬封堵中國產品 兩大美廠股價走揚",
    "url": "https://news.cnyes.com/news/id/6665594",
@@ -8068,64 +8108,6 @@
    "score": 7.0,
    "coverage": 1,
    "also": [],
-   "first_seen": "2026-11-17T21:47:12Z"
-  },
-  {
-   "id": "c1d7c29d2dc27a96",
-   "title": "Micron, Samsung, SK Hynix Fail to Get Memory Price-Fixing Lawsuit Dismissed",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVRtRDhTcU02TWJFaUlJZ21Fai10SEVoYnAybWlaNVVNSVpjdGxKY2NLYjhFZnYycElfS2VGajM2Szk3RFZmRVJYaDNDa0Z3TDZkREczU2dOOTVpZWNzeTZfTGVPNjNSMVBxekRKck1fVzdrZDNNcV9WNnBkVWYydjlXNDExOWRMWnFBOXlHT19CZjN6azRWenh0TlRJTHlyRzZHaGNwNlF4Mi1HQ2JILUdB?oc=5",
-   "source": "PCMag UK",
-   "published": "2026-11-17T17:09:16Z",
-   "summary": "",
-   "lang": "en",
-   "feed": "gn-en-hynix",
-   "categories": [
-    "holdings",
-    "semis"
-   ],
-   "symbols": [
-    "DRAM"
-   ],
-   "base_score": 6.0,
-   "source_bonus": 0.0,
-   "score": 6.5,
-   "coverage": 2,
-   "also": [
-    {
-     "source": "PCMag Middle East",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHAzU3JkSjFpZEsyWWN3UjVoQjdzMVpJUmcteU11YVdQQnhNT2xpSlpsazd0VzVuaVJ6VkJvNW1TOHBYcG5yc1VsQUJ0dmNSUTk5MmNrX0loS1dKWkRBVEhIdFI5QkNMOGRmdm1pSGc2Z1dUckVHOWNuRHNuc3BSVHRYcGNOMF9pWWJ3TmlZaVVScjFWaGVKSzlLMzNFdnpqcTMtM3hHZUJvWXNJcmZCa2hERmo?oc=5"
-    }
-   ],
-   "first_seen": "2026-11-17T21:47:12Z"
-  },
-  {
-   "id": "7d66a0627c48c06c",
-   "title": "黃仁勳下台、美加強高階晶片出口管制堵住地下管道 謝金河：中國AI命根斷",
-   "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQcWEzWjRheTg5eDAwU2tpRjJuTktUMl9NaThXQ3JrMGd5MWhjYkVZLVIzRGVpdjBkRmJPaGlfaEp0andyYUVXc1FZaW1zQUZNV1lRMFRObWlrSk1ud2loQXN6SFc3SzZRcE9HMlE1eFpOLXMzcWtjdUtRMHEtYUk2NjNTaWpQWE1ZN3AtRXRqcG1MdWRaWnNYVHk5elpzVmtQZFk1dnR1Q0lfRUQ4QUYxTjJCZ296aHhiWEJuSGxXb3hocGlHUmlYT1BDVXkwanVjV3VqSHY2ekEzZGtjek5QWlJNdmVPQ2VPMmZQNU4tUmtreTJkV3h4WTlsRW1HMVlvejBFNU1LWGtRNTJPV0ZlREpnWkRjcmp5cWp3SlZZVy1kQ2NiSmlJMGs2RVVlSU1KYzlBaHZYZzVYYkJ3dHBxVzNLX2VXZXg3MGQxNHFVaDJhMWhfTUl6eUFZXzhKR2x0bTY2eHNkb2JLZ1A2bGNhSU5XVzE5aGdDN2tmWnlNNk40R3dXODM4WEJ4ZmZ4Z29oMWEtRGFsQ0tCYWxlVWNUTjkzN3lyT1FOQVA0Z2RxdXdqTFl6bzNYSWtFTnRPb1pHcERHSzEycDJ5QQ?oc=5",
-   "source": "Yahoo股市",
-   "published": "2026-11-17T17:04:35Z",
-   "summary": "",
-   "lang": "zh",
-   "feed": "gn-zh-world",
-   "categories": [
-    "semis",
-    "world"
-   ],
-   "symbols": [],
-   "base_score": 5.5,
-   "source_bonus": 0.0,
-   "score": 6.5,
-   "coverage": 3,
-   "also": [
-    {
-     "source": "三立新聞網SETN.com",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBY2lMZU1tSHhleEJwUGFkVjFyOFZRTE5hRjFDOFhHOXAyb29mOGl3bnU2UkJuTnFHN09MY0J0dzhEY3ZNNG9hSXlEMA?oc=5"
-    },
-    {
-     "source": "UDN",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DT1VfS1BfV2M0OFplR2R0SWprcnF5bVgxNkt0XzF3bEVUcmNkNU9tYkkxTDlZdHN2cXN6UjFDd2o5M09NLS1HSnQwV0xia0R4?oc=5"
-    }
-   ],
    "first_seen": "2026-11-17T21:47:12Z"
   },
   {

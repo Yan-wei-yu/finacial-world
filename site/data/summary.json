@@ -1,33 +1,27 @@
 {
- "headline": "輝達財報後漲跌互見，Fed紀要偏鷹壓抑風險偏好",
+ "headline": "輝達財報後多空拉鋸，聯準會紀要偏鷹壓抑漲勢",
  "mood": "中性",
- "mood_reason": "輝達財報提振科技股，但Fed紀要偏鷹、10年期殖利率5.07%形成壓力",
+ "mood_reason": "輝達財報提振科技股，但Fed紀要偏鷹、10年期殖利率5.07%壓抑評價",
  "key_points": [
   {
    "title": "Fed紀要偏鷹，12月升息預期升溫",
-   "detail": "紀要顯示幾乎全體官員預期續升息，並擔憂AI對通膨的影響。市場開始計價12月升息，高利率長期化對科技股估值不利。",
+   "detail": "會議紀要顯示幾乎全體官員預期續升息，並擔憂AI對通膨的影響。市場開始計入12月升息，對高估值科技股形成壓力。",
    "impact": "利空",
    "sources": [
     {
-     "n": 30,
+     "n": 31,
      "title": "12月升息2碼有伏筆？Fed會議紀錄：幾乎全體官員預期續升息",
      "url": "https://news.cnyes.com/news/id/6666746",
      "source": "鉅亨網"
     },
     {
-     "n": 32,
+     "n": 33,
      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91OXNXQ0tPMEw4dmRsaGVzS2ZoSXNmS1pOMWxRbWpMRlhPR0h6bHdVWWZaQS0xeXJZNTV4RUlFMTdHNFpyaEY1bkFHYTN1RWV2WTNXOG9KTDNzTTZCbDFIZzF6aDd6Zm5McGJtS09R0gFzQVVfeXFMTW1hd2NYMG1mYzRnUUxHVHBLMXNVT0dyQTVVUHM2LUpsOWdHYXdfRDRKM2UweUdDbUlaNzZnQ2YxU19ha1o2R3BsUHA5MUFkQ1JwTGpwb0d0Z2hjNDZ3Rk44OVZUbVE3clJrT2VmenhEQjBfUQ?oc=5",
      "source": "CNBC"
     },
     {
-     "n": 20,
-     "title": "聯準會鷹派紀要加輝達震盪 美股主要指數漲跌互見",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zTS04Snk0WU5ldUVzOUhaNkVmS2RTcmNwM1dzTHFNV0JSMEYzUUJNR1J2Vjl1cnFWb1poLTAyWDU3ancwYWVuTXR2amdLdUFYVzJxVC1sUWpOdjJKX3A2ZFJsQzZTQQ?oc=5",
-     "source": "民視財經網"
-    },
-    {
-     "n": 23,
+     "n": 24,
      "title": "The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Rate Hike. 3 AI Infrastructure Stocks Down 25% or More I’d Buy When Anthropic Starts Trading.",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpyUzh6Z1pwU2dENng3UmwtdEZkVjhMenIyTEQyTHh2d2FyWnJXcjNFVWJIR1kxTzRTRW4wWG9tN2F3LXRfdDE0T1Q1cWt0YUNQbHhwV2E1MXJpVXE5T0tWamd0ZTRRa2hqZU1aZlBKcU8xZ1JiNzRCSU1xMG5COWMwR2p1YzNQMUY2Q0s5QjlVaE1xVlFLNjBLZk5XZ0MycEM5U1NqQWJpX00?oc=5",
      "source": "Yahoo Finance"
@@ -35,46 +29,77 @@
    ]
   },
   {
-   "title": "輝達財報交卷，穩住科技股軍心",
-   "detail": "輝達上調2028年營收展望，SK海力士盤中一度漲4.19%，亞洲晶片股反彈。但美股未全面跟漲，那指小漲、S&P 500收跌。",
+   "title": "輝達財報交卷，穩住科技股信心",
+   "detail": "輝達上調2028年營收展望，SK海力士相關報導稱受提振上漲4.19%。但美股並未全面反彈，那指小漲、S&P 500小跌。",
    "impact": "利多",
    "sources": [
     {
-     "n": 18,
+     "n": 19,
      "title": "〈輝達法說〉黃仁勳辭任後首場法說！輝達上調2028年營收展望至75%：公司路線、野心都不變",
      "url": "https://news.cnyes.com/news/id/6665869",
      "source": "鉅亨網"
     },
     {
-     "n": 22,
+     "n": 23,
      "title": "SK hynix Stocks Climb 4.19% as Nvidia's $130 Billion Guide Revives Memory Trade",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYm9hUDUyUWthbURuNzhFY1oyVGMteGFFRWQ1bzJrVWtOSGxRUnR1b05sN2tPWHhlbl9DYUxMNWFMdF91Uy14UzI0Rm0td1d5TDJOaXFrc2Q2Nk1FS0FyckhreW5oWDBRcktkQVBQWVYwQnRBcktvMTlVTTN2TDlaM0ZjUGpBQ3N6RjVpdDROUFJFc1VCV3NWSHZ4OWozcmpyM0dyVXlaWjVtOXhEVkhrLWhRVWhkeXNqUVpyb3pObUJiZ2h5TjFKRkhnSXNlNHVOb2hR?oc=5",
      "source": "TradingView"
     },
     {
-     "n": 40,
-     "title": "Asian chip stocks rebound after Nvidia earnings beat expectations",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0owS25hU04td1o0dzU4X0ZKZk1xa3VtVWhjT2xBMjZ5aUlVbzJYbklXSXhPTzlZTkp0eURpdVd0Wkd3OUpmbEdCNExUTXNTb1VHbkEydVNkTkNMZlNuNDhJTF92UHY0R19VVXpILWFISTZkdW9QSTNiZ01NS0pNQzc0MzZpdm42U1BNUWV4VU9nVHFaTVBmSVhubFB2cE9UWVFkME5lcmdjZw?oc=5",
-     "source": "Anadolu Ajansı"
-    },
-    {
-     "n": 12,
+     "n": 13,
      "title": "Wall Street mixed after Nvidia earnings, Fed minutes",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
      "source": "Reuters"
+    },
+    {
+     "n": 20,
+     "title": "聯準會鷹派紀要加輝達震盪 美股主要指數漲跌互見",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zTS04Snk0WU5ldUVzOUhaNkVmS2RTcmNwM1dzTHFNV0JSMEYzUUJNR1J2Vjl1cnFWb1poLTAyWDU3ancwYWVuTXR2amdLdUFYVzJxVC1sUWpOdjJKX3A2ZFJsQzZTQQ?oc=5",
+     "source": "民視財經網"
+    }
+   ]
+  },
+  {
+   "title": "殖利率高檔，評價面承壓",
+   "detail": "美債10年期殖利率5.07%，報導指科技股仍在洗牌、那指處於修正。美元指數也走強0.31%。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 21,
+     "title": "輝達換帥 美債殖利率走高 科技股重新洗牌",
+     "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQenZJMnlwTnNnZDJFbkoyckk2cmg4UGxiYzdLaExSZFdoMDEwZVFHSWIyZkF0d3UzMEdGSTl1dW5keEtjQnMyXzBvZTI4VS1qbi12aElJZlF2dlRDdzZjbHdaY3dDLUNKZnlkU1JyTkdkYTdNTE5ieVREc2lBa0xWbEpWcGIzbkNldGsxWlZlQ3BRbk1HVjdaOFlZdzBSbGVCTlJURjBGNk9DdjMzNi1MQktYbG0teEk2VklFaTV3UXAyNUJQWWl4RW52a3BNaXVDWjdCT3dRTzRRYm1RMl9STmgzbnlHWU92OGxpMllZb2lCMGh2RGRQLThvcHRQLWpwODExMUFJVGh4RmZPUFkzQk1oa2RoQU9nQ2RIZF9TaEw5WEs2LW9BYXV1eGJLb2FBOURSbE5xOWs0SGdpNlMyZFZBZlNIWFU0Um9naGJEaTNDVy1FcDNrODRHd2FkR0s2dEx5cWltd1k?oc=5",
+     "source": "台灣好新聞"
+    },
+    {
+     "n": 24,
+     "title": "The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Rate Hike. 3 AI Infrastructure Stocks Down 25% or More I’d Buy When Anthropic Starts Trading.",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpyUzh6Z1pwU2dENng3UmwtdEZkVjhMenIyTEQyTHh2d2FyWnJXcjNFVWJIR1kxTzRTRW4wWG9tN2F3LXRfdDE0T1Q1cWt0YUNQbHhwV2E1MXJpVXE5T0tWamd0ZTRRa2hqZU1aZlBKcU8xZ1JiNzRCSU1xMG5COWMwR2p1YzNQMUY2Q0s5QjlVaE1xVlFLNjBLZk5XZ0MycEM5U1NqQWJpX00?oc=5",
+     "source": "Yahoo Finance"
+    },
+    {
+     "n": 22,
+     "title": "升息風暴遇上AI熱潮：聯準會對抗通膨，華爾街押注「高利率長期化」",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHVXcm43ZUpUNzgzZG5GS0JweUI2STlWUENWTmRCNGFIMWNJXzN6MS1fRUxCSzhDdWdXVHVRY3pPNWZMLVVnSWJpS2RTTU5wRUdEOTMwY2lqMTN3YjczUjZZTl84alpiTzJTcjYwbjVSR1psZV9zZkFrUk5JNzdsN3hQYVgzVFlhMXVSTGZkUnc3LXVL?oc=5",
+     "source": "美股放大鏡"
     }
    ]
   },
   {
    "title": "記憶體股走勢分歧",
-   "detail": "美光一度失守700美元，記憶體股偏軟，另有評論指採購承諾已不再是利多。但傳蘋果與三星將簽長期DRAM供應協議，並有分析師點出美光催化劑。",
+   "detail": "美光一度失守700美元，市場有人質疑採購承諾利多已被消化；不過也有分析點名催化劑，並傳蘋果與三星將簽長期DRAM供應協議。",
    "impact": "中性",
    "sources": [
     {
-     "n": 24,
+     "n": 25,
      "title": "【美股市況】記憶體股偏軟 美光曾失守700美元 英偉達靠穩（不斷更新）",
      "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxPYjlEamtuTVZtVGRVQnR6NV9HYWdtaUZPTEFGNWRfUU95LXFmV015MmRkb2l3VWotZHl2Z3J0UlVjR3k5elRDa0VuRlNsckxneURBV01DSVhEWjJEY0szVUg4dG9qbHBxd2o5Ynp1MmJKM3J2V3VmSmV0OWFBQU4yUnE5V1ZkN2Z0blNnemdieUVkR20yYld2UGxlWEctRm1ac1VMQVJkbVJOcy01dFY4VnhRU0ozUUVtMURnY0hMNXA2SW95ZV9yOHN0YWdHRUdKTDBraV9ISzQ4Tmt4SHhvVHNuTS1acmtJU1hIV095SEtHUHhYRXNSU0ZXcHFkcGNtUlBVQzZxcFE0cEFSXzBqdjNhSTBXSE1uWC1paVRmdGRuVll5RzllUlNPbVBLSG1RQW1zVG83ZUp0VWVFLWlfQm5Db29maVBSUG1nbF8yTDZfQk1NQ0YwZFJOLTJ1R1JWaTZWQVlYclhNQ2ZZVDBSOFpFX2NYZFZZR1Qzajl5VkFXYU5wczctRGE2dFRhM18tNldGbHBEZU5mbjg3bVY3UnV1bXpETW9XeEZMMWY1eTNwNGZHdUNIWnpfZnltN29GV0dhdg?oc=5",
      "source": "香港經濟日報HKET"
+    },
+    {
+     "n": 34,
+     "title": "美光跌逾20%後能反攻？分析師點名3大催化劑",
+     "url": "https://news.cnyes.com/news/id/6666682",
+     "source": "鉅亨網"
     },
     {
      "n": 38,
@@ -83,72 +108,35 @@
      "source": "鏈新聞 ABMedia"
     },
     {
-     "n": 27,
+     "n": 28,
      "title": "破天荒！傳蘋果與三星將達成長期DRAM供應協議 專家：記憶體供應鏈話語權逆轉",
      "url": "https://news.cnyes.com/news/id/6666152",
      "source": "鉅亨網"
-    },
-    {
-     "n": 33,
-     "title": "美光跌逾20%後能反攻？分析師點名3大催化劑",
-     "url": "https://news.cnyes.com/news/id/6666682",
-     "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "殖利率與估值壓力",
-   "detail": "美債10年期殖利率5.07%，美元指數走強。富國點名5.25%為關鍵，那指被指處於修正區。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 17,
-     "title": "富國銀行點名2027年兩大獲利亮點 美債殖利率5.25%是關鍵",
-     "url": "https://news.cnyes.com/news/id/6665662",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 23,
-     "title": "The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Rate Hike. 3 AI Infrastructure Stocks Down 25% or More I’d Buy When Anthropic Starts Trading.",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpyUzh6Z1pwU2dENng3UmwtdEZkVjhMenIyTEQyTHh2d2FyWnJXcjNFVWJIR1kxTzRTRW4wWG9tN2F3LXRfdDE0T1Q1cWt0YUNQbHhwV2E1MXJpVXE5T0tWamd0ZTRRa2hqZU1aZlBKcU8xZ1JiNzRCSU1xMG5COWMwR2p1YzNQMUY2Q0s5QjlVaE1xVlFLNjBLZk5XZ0MycEM5U1NqQWJpX00?oc=5",
-     "source": "Yahoo Finance"
-    },
-    {
-     "n": 19,
-     "title": "輝達換帥 美債殖利率走高 科技股重新洗牌",
-     "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQenZJMnlwTnNnZDJFbkoyckk2cmg4UGxiYzdLaExSZFdoMDEwZVFHSWIyZkF0d3UzMEdGSTl1dW5keEtjQnMyXzBvZTI4VS1qbi12aElJZlF2dlRDdzZjbHdaY3dDLUNKZnlkU1JyTkdkYTdNTE5ieVREc2lBa0xWbEpWcGIzbkNldGsxWlZlQ3BRbk1HVjdaOFlZdzBSbGVCTlJURjBGNk9DdjMzNi1MQktYbG0teEk2VklFaTV3UXAyNUJQWWl4RW52a3BNaXVDWjdCT3dRTzRRYm1RMl9STmgzbnlHWU92OGxpMllZb2lCMGh2RGRQLThvcHRQLWpwODExMUFJVGh4RmZPUFkzQk1oa2RoQU9nQ2RIZF9TaEw5WEs2LW9BYXV1eGJLb2FBOURSbE5xOWs0SGdpNlMyZFZBZlNIWFU0Um9naGJEaTNDVy1FcDNrODRHd2FkR0s2dEx5cWltd1k?oc=5",
-     "source": "台灣好新聞"
-    }
-   ]
-  },
-  {
-   "title": "AI-RAN與光通訊題材延續",
-   "detail": "VodafoneThree將與諾基亞、輝達試驗AI-RAN，光通訊類股前一日領漲。輝達也出售過半諾基亞持股，分析師並不恐慌。",
+   "title": "費半相對抗跌，光通訊領漲",
+   "detail": "費半收漲0.10%，相對大盤抗跌。報導指光通訊類股表現突出，多數機構對後市看法仍分歧。",
    "impact": "中性",
    "sources": [
     {
-     "n": 3,
-     "title": "VodafoneThree pairs with Nokia, Nvidia to trial AI-RAN in UK",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGF2NVhlMzJpajhyWTRQRjc5VHU3c1FJZU5oYUJuTTN3WGQwRGdCX2pKTVVwQzZXQWZLa0pDZmVKYlh3N3dUWGt4TE82a1BTaEtiNHVCaFFQUE5CbE9lMnY4MGduUlp1NW1MYkNyN0lBWU1NWlJlVzJtUlg5YUliaWNpb1JYbjItOWd6YTVfbjhYMDZXT0Z0dmM0V1dhUnhRUG9hWWZ3?oc=5",
-     "source": "Data Center Dynamics"
-    },
-    {
-     "n": 11,
-     "title": "VodafoneThree to test Nokia's AI-RAN with Nvidia GPUs",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWRPbm02SWpwLXN4QlJZMkpTMFRFa0ppT2h3aHFqVzBDVDd2VU54YmVUVUpGZTV4NGhaQ01SZzlwdTBHeVktMlVEc2p4ZXVmQjU2eHZxWG9iOHozWUJ3eWRnRUwzdXBlMGs0aVBuOGpRZ3N0RG5BVGMwQnBxbmVDd3psTzhNcDlJOHdoZlprZUdNZWVVbEhNalpaQlFySTlfZGNQOA?oc=5",
-     "source": "Light Reading"
-    },
-    {
-     "n": 29,
+     "n": 30,
      "title": "美股三大指數齊跌，費城半導體指數逆勢收漲，光通訊類股領漲",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJTzJYbHpQVjZ2Rmt6Vi1MUzVHTkpibV8ySHk1VTJCTUlaN25PN3R1akh4QlhLRWU2bVNFVzJ1bTFseHlITmNhTlFIeVlHOXlJQjNSaTNudmV6LXQxTTRrckxxQ3dmNjhSVXlNM0llTnVhOXRjSmVrbXJn?oc=5",
      "source": "BigGo 財經"
     },
     {
-     "n": 1,
-     "title": "Nvidia sold over half its stake in Nokia. Analysts aren't panicking",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmYwSlhGaUlRV19GcWllOE0tbUpsczlObzZnUS1TSUIyZ3hsZDh1anFMWFRLdlNYeWhHZU50ZmlCY0NWLWNpMTJpcTd1Vmc2czJaMFFHQXFBRTg3M0FSR3hCdWljR2ZkNnRBM0NUUUhYY2l3bHhTZjM5Wk5IbHZvdTB6TkZsMk9pbGctUEN5QVk3TWNXbmRhb1d4OVUwSlRwdnpDSg?oc=5",
-     "source": "Fierce Network"
+     "n": 16,
+     "title": "美股牛市還能跑多久？高盛：2027年再漲17% 標普上看8700點 但最強獲利成長階段已過",
+     "url": "https://news.cnyes.com/news/id/6665993",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 15,
+     "title": "富豪投資人看空銅價、美股空手觀望 朱肯米勒：現在目標是別賠錢",
+     "url": "https://news.cnyes.com/news/id/6665728",
+     "source": "鉅亨網"
     }
    ]
   }
@@ -156,7 +144,7 @@
  "holdings": [
   {
    "symbol": "NOK",
-   "note": "VodafoneThree將試驗AI-RAN，輝達出售過半持股，但分析師不恐慌；股價持平",
+   "note": "VodafoneThree將與諾基亞、輝達試驗AI-RAN，另有北歐AI基礎建設聯盟消息；也有報導指輝達減持諾基亞逾半持股，分析師不驚慌。",
    "sources": [
     {
      "n": 1,
@@ -169,6 +157,12 @@
      "title": "VodafoneThree pairs with Nokia, Nvidia to trial AI-RAN in UK",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGF2NVhlMzJpajhyWTRQRjc5VHU3c1FJZU5oYUJuTTN3WGQwRGdCX2pKTVVwQzZXQWZLa0pDZmVKYlh3N3dUWGt4TE82a1BTaEtiNHVCaFFQUE5CbE9lMnY4MGduUlp1NW1MYkNyN0lBWU1NWlJlVzJtUlg5YUliaWNpb1JYbjItOWd6YTVfbjhYMDZXT0Z0dmM0V1dhUnhRUG9hWWZ3?oc=5",
      "source": "Data Center Dynamics"
+    },
+    {
+     "n": 7,
+     "title": "Nokia joins consortium planning AI gigafactory across the Nordics and Baltics",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmFKWTBhSllVZ2VtRjJHRC1qVnZTa1NQYklJYkNIYktoYlZBd3JZNjhvUFNMem9ZRTdlNldicXBtdC04VU9TR09FdXhDeGJLRU1sQmxzUFpSMGU1YV83bzAzRFVySGVLTHpKN2NMcS1YSGh1c0dQVXZIRGZjemRlRTc5WW4yU3RzYWNOTU5KaklQQnpoaVRRbUFGbGp6ZndrN2xYSENud0tPUVh2SXBGR0ZmMA?oc=5",
+     "source": "Evertiq"
     },
     {
      "n": 11,
@@ -180,31 +174,31 @@
   },
   {
    "symbol": "DRAM",
-   "note": "記憶體股走勢分歧，美光一度失守700美元，但有長期DRAM供應協議傳聞與分析師點名催化劑",
+   "note": "記憶體族群受輝達財報與美光、三星消息牽動，美光震盪、SK海力士上漲，ETF收盤小漲。",
    "sources": [
     {
-     "n": 24,
+     "n": 23,
+     "title": "SK hynix Stocks Climb 4.19% as Nvidia's $130 Billion Guide Revives Memory Trade",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYm9hUDUyUWthbURuNzhFY1oyVGMteGFFRWQ1bzJrVWtOSGxRUnR1b05sN2tPWHhlbl9DYUxMNWFMdF91Uy14UzI0Rm0td1d5TDJOaXFrc2Q2Nk1FS0FyckhreW5oWDBRcktkQVBQWVYwQnRBcktvMTlVTTN2TDlaM0ZjUGpBQ3N6RjVpdDROUFJFc1VCV3NWSHZ4OWozcmpyM0dyVXlaWjVtOXhEVkhrLWhRVWhkeXNqUVpyb3pObUJiZ2h5TjFKRkhnSXNlNHVOb2hR?oc=5",
+     "source": "TradingView"
+    },
+    {
+     "n": 25,
      "title": "【美股市況】記憶體股偏軟 美光曾失守700美元 英偉達靠穩（不斷更新）",
      "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxPYjlEamtuTVZtVGRVQnR6NV9HYWdtaUZPTEFGNWRfUU95LXFmV015MmRkb2l3VWotZHl2Z3J0UlVjR3k5elRDa0VuRlNsckxneURBV01DSVhEWjJEY0szVUg4dG9qbHBxd2o5Ynp1MmJKM3J2V3VmSmV0OWFBQU4yUnE5V1ZkN2Z0blNnemdieUVkR20yYld2UGxlWEctRm1ac1VMQVJkbVJOcy01dFY4VnhRU0ozUUVtMURnY0hMNXA2SW95ZV9yOHN0YWdHRUdKTDBraV9ISzQ4Tmt4SHhvVHNuTS1acmtJU1hIV095SEtHUHhYRXNSU0ZXcHFkcGNtUlBVQzZxcFE0cEFSXzBqdjNhSTBXSE1uWC1paVRmdGRuVll5RzllUlNPbVBLSG1RQW1zVG83ZUp0VWVFLWlfQm5Db29maVBSUG1nbF8yTDZfQk1NQ0YwZFJOLTJ1R1JWaTZWQVlYclhNQ2ZZVDBSOFpFX2NYZFZZR1Qzajl5VkFXYU5wczctRGE2dFRhM18tNldGbHBEZU5mbjg3bVY3UnV1bXpETW9XeEZMMWY1eTNwNGZHdUNIWnpfZnltN29GV0dhdg?oc=5",
      "source": "香港經濟日報HKET"
     },
     {
-     "n": 27,
+     "n": 28,
      "title": "破天荒！傳蘋果與三星將達成長期DRAM供應協議 專家：記憶體供應鏈話語權逆轉",
      "url": "https://news.cnyes.com/news/id/6666152",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 33,
-     "title": "美光跌逾20%後能反攻？分析師點名3大催化劑",
-     "url": "https://news.cnyes.com/news/id/6666682",
      "source": "鉅亨網"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "收跌3.15%、盤後再跌1.22%；新聞多談量子錯誤更正走入資料中心，閉鎖期預估11/30到期",
+   "note": "收盤下跌3.15%；新聞僅提到量子錯誤修正的產業報導，缺乏直接催化劑。",
    "sources": [
     {
      "n": 39,
@@ -216,7 +210,7 @@
   },
   {
    "symbol": "SITM",
-   "note": "新款時脈晶片宣稱AI資料中心頻寬加倍，是題材面的正面消息",
+   "note": "SiTime發表新時脈產品，頻寬提升一倍、瞄準AI資料中心，但股價收盤小跌0.83%。",
    "sources": [
     {
      "n": 6,
@@ -230,26 +224,22 @@
  "watch_next": [
   {
    "when": "11/19 21:30",
-   "what": "費城聯儲製造業指數與初領失業救濟金人數"
+   "what": "費城聯儲製造業指數（預期20.6）與初領失業救濟金（預期198K）"
   },
   {
    "when": "11/20 23:00",
-   "what": "密大消費者信心終值與通膨預期"
+   "what": "密大消費者信心終值（預期51.7）及通膨預期（前值4.3%）"
   },
   {
    "when": "11/21",
    "what": "韓國前20天出口初值，觀察半導體需求"
-  },
-  {
-   "when": "持續追蹤",
-   "what": "Fed官員對12月升息的談話與美債殖利率"
   }
  ],
- "generated_at": "2026-11-18T21:26:46Z",
+ "generated_at": "2026-11-18T21:38:11Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5835,
-  "output_tokens": 1209
+  "input_tokens": 5823,
+  "output_tokens": 1206
  }
 }
