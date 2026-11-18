@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:59:28Z",
+ "generated_at": "2026-11-18T21:26:46Z",
  "upcoming": [
   {
    "symbol": "AVGO",
@@ -123,7 +123,7 @@
    "eps_est": 8.71875,
    "eps_low": 8.23,
    "eps_high": 9.65,
-   "rev_est": 75131075520.0,
+   "rev_est": 75138943440.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -137,7 +137,7 @@
    "eps_est": 4.85575,
    "eps_low": 4.82,
    "eps_high": 4.97073,
-   "rev_est": 96702363570.0,
+   "rev_est": 96702371680.0,
    "rev_currency": "USD",
    "is_holding": false
   },
