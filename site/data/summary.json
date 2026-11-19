@@ -1,154 +1,130 @@
 {
- "headline": "聯準會鷹派壓抑情緒，輝達財報後科技股震盪，期貨偏強",
- "mood": "中性",
- "mood_reason": "那指小漲、費半持平，但 FOMC 紀要偏鷹、升息預期升溫，美債殖利率 5.07% 壓抑評價。",
+ "headline": "早盤費半一度大漲4%，尾盤回吐轉跌2.41%，那指重挫2.25%",
+ "mood": "偏空",
+ "mood_reason": "AI股漲幅盡吐、Fed偏鷹、10年期殖利率5.05%、VIX升至28",
  "key_points": [
   {
-   "title": "FOMC 紀要偏鷹，12 月升息預期升溫",
-   "detail": "紀要顯示聯準會擔憂 AI 泡沫，更大幅度升息仍在選項內；新聞稱 12 月升息機率近 95%。10 年期美債殖利率 5.07%，對科技股評價形成壓力。",
+   "title": "Anthropic IPO行情early漲後回吐",
+   "detail": "早盤因史上最大IPO題材，費半一度飆4%，記憶體股大漲。但輝達、博通、美光等尾盤漲幅全數吐回，費半收跌2.41%。",
    "impact": "利空",
    "sources": [
     {
-     "n": 35,
-     "title": "Fed Minutes Show AI Fears and That a Bigger Rate Increase Is Still on the Table",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbnp0Q0Ewb2RJLVdrQ3ducVFvam9tbmJHNE1FbU0wcXBGeVdDajlJTWNIVFFrSXRkM0EyYXRaeW4tdnVydTE0VmlCZng4dk0tZHllUHZzWTZMb3Nzd2hHdFYxRFJhVGhoUzdpcjZYRGJJRFhJb0Q5YlVjal9PQl92NElXRW81YmdFYWJQenRjWQ?oc=5",
-     "source": "Barron's"
-    },
-    {
-     "n": 28,
-     "title": "Fed 警告 AI 泡沫！12 月升息機率近 95%，比特幣一度跌破 6.3 萬",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04UnVzWklpWDV0VE1acVh3TU1aSGVieml1cnpGZldBU1F6bGpnSnh2eW9IbGtkWWREOUM1SXVLdjRjZGlTT3NrZW9LaUJDWnM?oc=5",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 14,
-     "title": "聯準會鷹派紀要加輝達震盪 美股主要指數漲跌互見",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zTS04Snk0WU5ldUVzOUhaNkVmS2RTcmNwM1dzTHFNV0JSMEYzUUJNR1J2Vjl1cnFWb1poLTAyWDU3ancwYWVuTXR2amdLdUFYVzJxVC1sUWpOdjJKX3A2ZFJsQzZTQQ?oc=5",
-     "source": "民視財經網"
-    },
-    {
-     "n": 15,
-     "title": "美股盤後｜Fed鷹聲嘹亮、輝達餘波不斷，S&P500邁向連五跌1119｜豐雲學堂 2026 年 11 月",
-     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNVF9mWHFOZmIyR2Y3dUJoeHZlUGVZclI4S3l0aUNpTTRqUlp3bmpnMkFRZThiSEhqQTZkSW9HX3ZuQ1A5cnhEcGpBbmhxakdOTnFZRzgxS2l0OVhRNWd2aUZCdUFicFZjMkZTR1p4V3JoTFY2QXc5ZjlLN2dYTDJNWGtnRGRMVUF5SmFGbEFxbDc3U3RtcEM5VkpRWHJ1czlVcHlGQnBHdGlSN203SkRvTlJ4Y1BPRUNHamw3anVuOHc4R0tadHZiek9pYUl6N1FaQWFrS3JtU3hPOXFxUEtxd0ZDcDVLX2R1YW9ma2Y0Z2QwWmlIblozX0M3aTRId2VVNDhRTTRYZHVKaW1NWVV3RDNSR2Jvc2paaWV3TGg4cTJjel9lOTVWNWVzNHc2dy1YZUR3NjZCTjJhWlctS1BfOHhMdU9iMHRxa3p4bmNkMVRkT3d5ZVVMTl92TE0tSTh3M3RwcXJxUHlPR29weTh5SnlfTUhIQXRkTGRnZlpB?oc=5",
-     "source": "永豐金證券"
-    }
-   ]
-  },
-  {
-   "title": "輝達財報後反應分歧",
-   "detail": "輝達財報優於預期、財測帶動 SK 海力士與亞股反彈，但未能帶動美股全面上揚，S&P 500 面臨連五跌，那指被指處於修正區。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 9,
-     "title": "〈美股早盤〉輝達交卷穩軍心！科技股回神 下一關看Anthropic",
-     "url": "https://news.cnyes.com/news/id/6666522",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 21,
-     "title": "SK hynix Stocks Climb 4.19% as Nvidia's $130 Billion Guide Revives Memory Trade",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYm9hUDUyUWthbURuNzhFY1oyVGMteGFFRWQ1bzJrVWtOSGxRUnR1b05sN2tPWHhlbl9DYUxMNWFMdF91Uy14UzI0Rm0td1d5TDJOaXFrc2Q2Nk1FS0FyckhreW5oWDBRcktkQVBQWVYwQnRBcktvMTlVTTN2TDlaM0ZjUGpBQ3N6RjVpdDROUFJFc1VCV3NWSHZ4OWozcmpyM0dyVXlaWjVtOXhEVkhrLWhRVWhkeXNqUVpyb3pObUJiZ2h5TjFKRkhnSXNlNHVOb2hR?oc=5",
-     "source": "TradingView"
-    },
-    {
-     "n": 40,
-     "title": "Asian chip stocks rebound after Nvidia earnings beat expectations",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0owS25hU04td1o0dzU4X0ZKZk1xa3VtVWhjT2xBMjZ5aUlVbzJYbklXSXhPTzlZTkp0eURpdVd0Wkd3OUpmbEdCNExUTXNTb1VHbkEydVNkTkNMZlNuNDhJTF92UHY0R19VVXpILWFISTZkdW9QSTNiZ01NS0pNQzc0MzZpdm42U1BNUWV4VU9nVHFaTVBmSVhubFB2cE9UWVFkME5lcmdjZw?oc=5",
-     "source": "Anadolu Ajansı"
-    },
-    {
-     "n": 15,
-     "title": "美股盤後｜Fed鷹聲嘹亮、輝達餘波不斷，S&P500邁向連五跌1119｜豐雲學堂 2026 年 11 月",
-     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNVF9mWHFOZmIyR2Y3dUJoeHZlUGVZclI4S3l0aUNpTTRqUlp3bmpnMkFRZThiSEhqQTZkSW9HX3ZuQ1A5cnhEcGpBbmhxakdOTnFZRzgxS2l0OVhRNWd2aUZCdUFicFZjMkZTR1p4V3JoTFY2QXc5ZjlLN2dYTDJNWGtnRGRMVUF5SmFGbEFxbDc3U3RtcEM5VkpRWHJ1czlVcHlGQnBHdGlSN203SkRvTlJ4Y1BPRUNHamw3anVuOHc4R0tadHZiek9pYUl6N1FaQWFrS3JtU3hPOXFxUEtxd0ZDcDVLX2R1YW9ma2Y0Z2QwWmlIblozX0M3aTRId2VVNDhRTTRYZHVKaW1NWVV3RDNSR2Jvc2paaWV3TGg4cTJjel9lOTVWNWVzNHc2dy1YZUR3NjZCTjJhWlctS1BfOHhMdU9iMHRxa3p4bmNkMVRkT3d5ZVVMTl92TE0tSTh3M3RwcXJxUHlPR29weTh5SnlfTUhIQXRkTGRnZlpB?oc=5",
-     "source": "永豐金證券"
-    }
-   ]
-  },
-  {
-   "title": "記憶體族群支撐與疑慮並存",
-   "detail": "WSTS 指 Q3 前 20 大晶片商全員成長，SK 海力士季增 49%；KB 證券認為中國 AI 投資可支撐記憶體需求。但美光先前曾大跌逾 20%，市場仍在觀望。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 31,
-     "title": "AI不只餵飽輝達！WSTS：全球前20大晶片商Q3全員成長 SK海力士季增49%居冠、鎧俠緊追",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJTlNnU2RDVEJ4UkN4S3RwNXVwUkVWRUNoUWFaVUtyd2YzOC1na1k5SVo3eE5xbUJuT3BDbC1IQjJ0SjdRcXRoTXZ4RlpTWTQ?oc=5",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 12,
-     "title": "KB Securities Says China AI Investment Can Support Memory Demand, Favors Samsung, SK Hynix",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XVXJWUkxJWFRVaHhld0x3NGRYYkJzcVRNWmN5YTJ2ZDBkam5CMjNVVXZScEFXWDZTenE3WThsVEk3Ti10aklLN3JlLVhkX056REVwQw?oc=5",
-     "source": "bloomingbit"
+     "n": 1,
+     "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
+     "url": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+     "source": "MarketWatch"
     },
     {
      "n": 18,
-     "title": "China’s AI Investment May Cushion Global Memory Market Against U.S. Slowdown",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80dHQ2ZEN1T1c0VE5XWjZJSkM5TDJyT2ZPZ1BaN1EyU25KRnFTUTRjOVRuYkI5REpIdFVleW5hbjlKQkpSRDlpc3lDalA2NFczLVhLMlJsQ3BIV1ZncmMwTFFob093cmZnYURsQ1N3Y3N4cU5Z?oc=5",
-     "source": "Businesskorea"
-    },
-    {
-     "n": 37,
-     "title": "美光跌逾20%後能反攻？分析師點名3大催化劑",
-     "url": "https://news.cnyes.com/news/id/6666682",
-     "source": "鉅亨網"
-    }
-   ]
-  },
-  {
-   "title": "Anthropic 掛牌成市場下一個焦點",
-   "detail": "市場觀望 Anthropic 上市，日股半導體股走強；也有分析認為這是下一個催化劑，但後續資金面影響仍待觀察。",
-   "impact": "中性",
-   "sources": [
-    {
-     "n": 9,
-     "title": "〈美股早盤〉輝達交卷穩軍心！科技股回神 下一關看Anthropic",
-     "url": "https://news.cnyes.com/news/id/6666522",
-     "source": "鉅亨網"
+     "title": "Nvidia, Broadcom, Micron stocks erase gains as Anthropic goes public",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnFiUEhueFNuXzRVcWt0NUlDWXY3b0MwVnYzN0YxYzZBZkoyRnZRQmJqeTJUdlJuaG1ubUdoQkk0Yk5KcHk3N2FTWm5rX2ZqQ2dPeml5dnBHUVZpNFVhdVdWdEZVLVNiRnFpNm15RUktZUdmUV9oV1ZFVWd4VVZwQlYwa19wc3cyMFMzbGRrVXdiYndLeVFUSUhrVTJBSUVmTGR1ZmVsd3QzZ05HTTVabktzRS02aEdDdnhJ?oc=5",
+     "source": "Yahoo Finance"
     },
     {
      "n": 19,
-     "title": "Nvidia財報與Fed鷹派會議紀要交錯，美股漲跌互見；Anthropic掛牌前夕市場觀望",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53SGtsSWg3dDdsbzJQeFEwd3JUdlhYa0dDQUIydnRSZ0lJRjV4QVJoX2ZPVUo2bU11Ul92VTBpS0xNNjRoZWxkeXZTRTd1bEJVaDh1TUxnWUhjRFlveHNpSVQwU1JTOUxlOFFrTnpwZlZ2SXFLSEg4aFFR?oc=5",
-     "source": "BigGo 財經"
+     "title": "美股早盤／史上最大 IPO 帶旺 費半飆4% 新雲端、網安股衝 | 美股動態 | 國際",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3d2c4b01lQ3ZYUVpmSGdCOFNyZG5HWkJ1WW95a2xlcjZSNUc2b3N2ZkwwMUVhcmdnWW9UcWNQNVY0N3BCM2ZWalVfQ3RfeVhoWEVMVWFmY3lZRFVJ?oc=5",
+     "source": "經濟日報"
     },
     {
-     "n": 32,
-     "title": "Japan's Nikkei closes morning session up 116 yen as semiconductor stocks rally ahead of Anthropic IPO",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtVm9wNFQtcFA2SU5Ba1ppQnAtV0xUeG52SWx4Uk5zWXBjVnJ3akdYTHlpSkt2eno3Nm1XR2twLXVrSTRYbUppbkV4QnNCZkJRREU0dl9SSC05Qi0zbnpvbG5JYlNzTWpqUEpIVHAwOE9yLW93T1E?oc=5",
+     "n": 16,
+     "title": "Anthropic IPO Ignites AI Rally as SanDisk, Intel and Other Memory-Chip Stocks Jump Over 6%",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUQ1FkVUlmWUdFUzRxU1ZNWmFxQlZVRGl1WnoxbjlJcEV6NzV2OWl0ZXJRQUhHenMyMHJSVWNRSWZ5TTVKNnJTSGltMzlGbVkxTjBoUW1NUlhpTF9uOVBWR2p6c2dkMVoxek90QVAyMzlYXzU5Qmc?oc=5",
      "source": "BigGo Finance"
-    },
-    {
-     "n": 26,
-     "title": "早年押注Anthropic狂賺1470%！南韓SK電信持股飆至32億美元 台積電、輝達也參與私募",
-     "url": "https://news.cnyes.com/news/id/6667080",
-     "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "避險與減碼訊號出現",
-   "detail": "Druckenmiller 被報導清空股票倉位，比特幣一度跌破 6.3 萬；德銀則認為三大看跌風險可能相互抵消。",
+   "title": "Fed偏鷹與高利率預期",
+   "detail": "市場報導指Fed警告AI泡沫，12月升息機率近95%；Goolsbee也提到AI熱潮可能使經濟過熱。10年期殖利率在5.05%，壓抑科技股評價。",
    "impact": "利空",
    "sources": [
     {
-     "n": 30,
-     "title": "Druckenmiller罕見全面退場！清空股票倉位、做空銅 現在只求保本",
-     "url": "https://news.cnyes.com/news/id/6667330",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 28,
+     "n": 26,
      "title": "Fed 警告 AI 泡沫！12 月升息機率近 95%，比特幣一度跌破 6.3 萬",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04UnVzWklpWDV0VE1acVh3TU1aSGVieml1cnpGZldBU1F6bGpnSnh2eW9IbGtkWWREOUM1SXVLdjRjZGlTT3NrZW9LaUJDWnM?oc=5",
      "source": "鉅亨網"
     },
     {
-     "n": 1,
+     "n": 29,
+     "title": "Fed's Goolsbee says AI surge could strain US capacity, overheat economy",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2V1TTUwaFZ4T1pYN3VBVDlqZThZVHBvQ0VhNnRNNlpWVlZXLUYtVWh5T096NmxYbEsxdjF6T0JmZmZCM0lHQ01CT2NUcTdrUzJ0djdFbWRteWlNTWF4enhqajdoY2ZWcjBmc0lMYkpYczV1RDJVdmxZWFctNDI3bHFxOTBySmZvbHNDRXM5QmxqWUtieXFJYjZnUmNONVUzUnBTYTlMdlNqaDdzdkYweVRHZ2w?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "n": 33,
+     "title": "Goolsbee says the Fed's job right now is to keep AI surge from overheating the economy",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1LUUZ0MzVCaURJTHpfcktwS0tMWGMydV9rNlFwSE1uWkQ5eFNsZ1locTBSMzAtOFhmNHJpUWVBaXVrTnRGeEpaLThoRXpKaU93TExUV3hlNE5TLU5aVzFoT1loQzhXOWNJZlpTWElmZ0ljRTJtMFNWUnlDSTY4bW1ROEkyTmFsaWJmVTlSS2VTa3JmTjdXazlxeWpYa0pwd1BSR2NJNTBlVkFNbllhMHA3LUU?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "n": 5,
+     "title": "降息還要等多久？市場押注高利率再撐5年",
+     "url": "https://news.cnyes.com/news/id/6667963",
+     "source": "鉅亨網"
+    }
+   ]
+  },
+  {
+   "title": "AMD重挫與中國供應鏈、出口管制疑慮",
+   "detail": "超微因中國供應鏈疑慮重挫8%。另有報導指美國六個月內核准近90萬顆AI晶片銷往中國，政策不確定性仍在。",
+   "impact": "利空",
+   "sources": [
+    {
+     "n": 14,
+     "title": "中國供應鏈疑慮衝擊超微 股價重挫8%",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56NzNKS0N0U25USWkzM2IyZXBFM0F6YVBtV1ozVFkzY2ZycW9ldFctSHhWR0ROSmFTczV5MlBheXpkaHpsUWYzT3VYTUliQi1HeHNHVDZWZUxnMnp10gFiQVVfeXFMT215MjRkeTZzV0J6cVpxbDQ3MVlhd0lZdW5udU5nYkpWa3JKNmdIMnJ5NnZ5WmwzaHIyVTJfeV9FUDNFQWdoOHU4c1BOMTdUdzFoY194VzlFUW55MFY2VjdjSVE?oc=5",
+     "source": "經濟日報"
+    },
+    {
+     "n": 32,
+     "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, committee says",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "n": 3,
+     "title": "AI 股市瘋狂、出口管制陰影與記憶體荒：新一波「算力戰爭」全面引爆美股科技版圖",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeE1BX3dCWm92b3dMOXFiR3pRUk8wdlNTYlY2Y2R2WDhBTHdxMEFBT1Nic2laV1VNY1dIXzF5a1NiUDYwUUZRM1RTUGl4RUcyeGRaWGIxV0JrUzlhYnBNcVprOFlmdVdiejRKbWt3Mm1fQVFrUVZnYk80UnVocDlKSGN6V2YyTW1GRXNaTFdBZ2lPLTRj?oc=5",
+     "source": "美股放大鏡"
+    }
+   ]
+  },
+  {
+   "title": "風險相互抵消但情緒仍脆弱",
+   "detail": "德銀認為三大看跌風險部分相互抵消，但提醒不宜視為同一件事。VIX升至28.44，反映避險升溫。",
+   "impact": "中性",
+   "sources": [
+    {
+     "n": 2,
      "title": "利空罩頂反而不悲觀？德銀警告：三大看跌風險正「相互抵消」 但市場最大誤判是把它們當成同一件事",
      "url": "https://news.cnyes.com/news/id/6667391",
      "source": "鉅亨網"
+    }
+   ]
+  },
+  {
+   "title": "記憶體需求題材仍在",
+   "detail": "美光新加坡HBM封裝廠預計2027年初首批產出，SanDisk看好SLC NAND，DRAM價格上漲推升業者獲利。",
+   "impact": "利多",
+   "sources": [
+    {
+     "n": 23,
+     "title": "美光新加坡HBM先進封裝廠首部機台移入 2027年初首批產出",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmhKWF9MamtmX3k5S2pBbzNBVjU5Vm54ZUxqV1BFZkhWNkM3YjV4R0ZQbU5BMEtqa3lqQmpxUzZmS2RQa2ZJTkVsTG9iZW1FUWVwSkJUQ2EzVVZza1I5RmJZRFBHUHZ4SUZ2V1VNZjRLZ0VtTVl3TURXbW5JRi1Sc2xQbEt6MFdvOWVIT2pR?oc=5",
+     "source": "DIGITIMES"
+    },
+    {
+     "n": 39,
+     "title": "AI代理反覆寫入催生新需求Sandisk看好SLC NAND重返焦點",
+     "url": "https://news.cnyes.com/news/id/6667416",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 25,
+     "title": "半導體產業鏈／晶豪科Q3每股賺36.79元創新高！DRAM價格上漲帶動獲利",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SZWRRRW8wdzB3MGoxSjNybkZxcmZqeHNBNkxFQjl3MHh2M0tPbDFSbXJNbXRoWl9PZkV3VzVtSFFtQWdZSmtYbGtUOUxVX0V5MU54UEVieEFVSjJUZzU0czBYTG1kZzE0VHc?oc=5",
+     "source": "科技島"
     }
    ]
   }
@@ -156,112 +132,83 @@
  "holdings": [
   {
    "symbol": "NOK",
-   "note": "參與 VodafoneThree 與輝達的 AI-RAN 測試及北歐 AI 超級工廠計畫；輝達減持部分持股，分析師並不恐慌。盤後 +1.37%。",
+   "note": "諾基亞表示AI與光通訊訂單強勁，預期2027年IP與光網路最高成長30%，但供給受限；另報導輝達已出售逾半數持股。",
    "sources": [
     {
-     "n": 4,
-     "title": "VodafoneThree Partners Nokia and NVIDIA to Advance AI-RAN Technology",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2JpYzIxcTJmM1lJUVVhYlUzdGZpV2hZUHpabzVRT2NfaU5zYV9waDFHZDI2RDVncTVHa1hjOWtpM1VVZHgxb2ZLWjY2VUV2eS1ZZUFiUnRsUTVUYWtuc0VQYzdwTTY0S0xPNnU3UWxabHJWOUFFUjVVRDNseXFfN1dfc05JM2pOOE1EazY3MWdiU3dFc0wzUm8xTmpxOUNTVlAyVGx1T2RzR1JEREJnQXNuRXBFaUlqRGJ6aUxna1E?oc=5",
-     "source": "The Fast Mode"
-    },
-    {
-     "n": 5,
-     "title": "Nvidia sold over half its stake in Nokia. Analysts aren't panicking",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmYwSlhGaUlRV19GcWllOE0tbUpsczlObzZnUS1TSUIyZ3hsZDh1anFMWFRLdlNYeWhHZU50ZmlCY0NWLWNpMTJpcTd1Vmc2czJaMFFHQXFBRTg3M0FSR3hCdWljR2ZkNnRBM0NUUUhYY2l3bHhTZjM5Wk5IbHZvdTB6TkZsMk9pbGctUEN5QVk3TWNXbmRhb1d4OVUwSlRwdnpDSg?oc=5",
-     "source": "Fierce Network"
-    },
-    {
-     "n": 11,
-     "title": "Nokia joins consortium planning AI gigafactory across the Nordics and Baltics",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmFKWTBhSllVZ2VtRjJHRC1qVnZTa1NQYklJYkNIYktoYlZBd3JZNjhvUFNMem9ZRTdlNldicXBtdC04VU9TR09FdXhDeGJLRU1sQmxzUFpSMGU1YV83bzAzRFVySGVLTHpKN2NMcS1YSGh1c0dQVXZIRGZjemRlRTc5WW4yU3RzYWNOTU5KaklQQnpoaVRRbUFGbGp6ZndrN2xYSENud0tPUVh2SXBGR0ZmMA?oc=5",
-     "source": "Evertiq"
-    },
-    {
-     "n": 3,
-     "title": "What Is Nokia Oyj (HLSE:NOKIA) Gaining From The AI Gigafactory Northern Push?",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYjhBZk0wZW8tYXNTa2pFRFl0SGhvN2p3Um1aeWJ2TlNFMFRMUjJvV3VKMWhjTEtqMDNrSzVCekwxUmRRU3kyaTViLWlyUWktZVBFWkNoU2laa2R0WHJxSVVLWklyQWlDcVlfenJCcE4zVFYzajJhcGlrbGEwNWlqcUFFN2M5Nmt1bUhyeXRVQ0VYN0QxQXIw?oc=5",
+     "n": 7,
+     "title": "Nokia Sees Up to 30% IP and Optical Growth in 2027 as AI Orders Surge, Despite Supply Constraints",
+     "url": "https://www.marketbeat.com/instant-alerts/event-nokia-sees-up-to-30-ip-and-optical-growth-in-2027-as-ai-orders-surge-despite-supply-constraints-2026-11-19/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
      "source": "Yahoo Finance"
+    },
+    {
+     "n": 12,
+     "title": "Nvidia sells more than half of Nokia stake",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTDdPX29fYjhPNThGd1VtQWhkR2tHLU54YTRYMXo3SllZX1FwMDZQTjd6U0I3NVlIeVpBODdsRW1ZS05qVUUxXzZpQTA1YXJOUXJ4czI2bnJvM0s1NWU1SmJWbGlIdFZiM2h6V0lBbmFkalpDZWZHeFpVX1YxRk1YZDJMUVJZQVlpdXdfZG9UVQ?oc=5",
+     "source": "Data Center Dynamics"
     }
    ]
   },
   {
    "symbol": "DRAM",
-   "note": "輝達財報帶動 SK 海力士走強，中國 AI 投資與 SLC NAND 需求題材支撐；美光回檔後觀望，盤後 +2.22%。",
+   "note": "記憶體股早盤隨Anthropic題材大漲，尾盤回吐，ETF收跌1.84%；後續留意11/30的DRAM/NAND合約價。",
    "sources": [
     {
-     "n": 21,
-     "title": "SK hynix Stocks Climb 4.19% as Nvidia's $130 Billion Guide Revives Memory Trade",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYm9hUDUyUWthbURuNzhFY1oyVGMteGFFRWQ1bzJrVWtOSGxRUnR1b05sN2tPWHhlbl9DYUxMNWFMdF91Uy14UzI0Rm0td1d5TDJOaXFrc2Q2Nk1FS0FyckhreW5oWDBRcktkQVBQWVYwQnRBcktvMTlVTTN2TDlaM0ZjUGpBQ3N6RjVpdDROUFJFc1VCV3NWSHZ4OWozcmpyM0dyVXlaWjVtOXhEVkhrLWhRVWhkeXNqUVpyb3pObUJiZ2h5TjFKRkhnSXNlNHVOb2hR?oc=5",
-     "source": "TradingView"
+     "n": 16,
+     "title": "Anthropic IPO Ignites AI Rally as SanDisk, Intel and Other Memory-Chip Stocks Jump Over 6%",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUQ1FkVUlmWUdFUzRxU1ZNWmFxQlZVRGl1WnoxbjlJcEV6NzV2OWl0ZXJRQUhHenMyMHJSVWNRSWZ5TTVKNnJTSGltMzlGbVkxTjBoUW1NUlhpTF9uOVBWR2p6c2dkMVoxek90QVAyMzlYXzU5Qmc?oc=5",
+     "source": "BigGo Finance"
     },
     {
-     "n": 12,
-     "title": "KB Securities Says China AI Investment Can Support Memory Demand, Favors Samsung, SK Hynix",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XVXJWUkxJWFRVaHhld0x3NGRYYkJzcVRNWmN5YTJ2ZDBkam5CMjNVVXZScEFXWDZTenE3WThsVEk3Ti10aklLN3JlLVhkX056REVwQw?oc=5",
-     "source": "bloomingbit"
+     "n": 1,
+     "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
+     "url": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+     "source": "MarketWatch"
     },
     {
-     "n": 29,
-     "title": "AI代理反覆寫入催生新需求Sandisk看好SLC NAND重返焦點",
-     "url": "https://news.cnyes.com/news/id/6667416",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 37,
-     "title": "美光跌逾20%後能反攻？分析師點名3大催化劑",
-     "url": "https://news.cnyes.com/news/id/6666682",
-     "source": "鉅亨網"
+     "n": 18,
+     "title": "Nvidia, Broadcom, Micron stocks erase gains as Anthropic goes public",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnFiUEhueFNuXzRVcWt0NUlDWXY3b0MwVnYzN0YxYzZBZkoyRnZRQmJqeTJUdlJuaG1ubUdoQkk0Yk5KcHk3N2FTWm5rX2ZqQ2dPeml5dnBHUVZpNFVhdVdWdEZVLVNiRnFpNm15RUktZUdmUV9oV1ZFVWd4VVZwQlYwa19wc3cyMFMzbGRrVXdiYndLeVFUSUhrVTJBSUVmTGR1ZmVsd3QzZ05HTTVabktzRS02aEdDdnhJ?oc=5",
+     "source": "Yahoo Finance"
     }
    ]
   },
   {
    "symbol": "QNT",
-   "note": "相關新聞僅提到量子錯誤修正技術進入資料中心；11/30 前後有 IPO 閉鎖期到期推估，需留意籌碼變化。",
-   "sources": [
-    {
-     "n": 39,
-     "title": "Quantum error correction ushers quantum into the data center",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNazFPYWFQeDRKbkowMTcyOFZRNVpXWEx5bFQ3WU4wWWpFWVktMzZfRUU2ck5qbjZsVUZFSEpZZ3pyZjVIbGxCanhzaFI1X29kOVdnU0FIQWJlRXBMcndHNE5CZWJzcGxNb0VCdnVRZ0dFeS1fRHc3YzE4ZmFjeFFFMW1YNE9lWHowWnJXQlhB?oc=5",
-     "source": "SiliconANGLE"
-    }
-   ]
+   "note": "所提供新聞未見直接相關報導，收盤大跌12.6%原因資料不足；11/30為IPO閉鎖期推估到期日。",
+   "sources": []
   },
   {
    "symbol": "SITM",
-   "note": "新款時脈產品頻寬倍增，鎖定 AI 資料中心；盤後 +2.02%。",
+   "note": "僅在對沖基金買進清單類文章中被提及，無明確新增基本面訊息；隨半導體股走弱收跌3.27%。",
    "sources": [
     {
-     "n": 10,
-     "title": "SiTime’s new clocks double bandwidth for AI data centers",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaEVHLW55T18yUjk4X1MtV2JWRzZoMlNLRHJPbkt3dUpBb0lXYlNVU2d5QzdLbGJZNk15TlJTNnhuTUxCdHpjNHU2YW11ckp2Tm1iS0Z4T3ZsdEpCc0t5aUhtOWlNcHdydkNXOXA1VDdBWjZFSkZOYjZJdmVOZTl5aDg5a05PVTNwQmxiaXR3NXhra3UzMnM5NGlQSHNKMzFJTlpXeUxYSXdPTmRN?oc=5",
-     "source": "Electronics360"
+     "n": 15,
+     "title": "A $13 Billion Hedge Fund Just Bought These 3 Stocks",
+     "url": "https://www.tikr.com/blog/a-13-billion-hedge-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261119-jvwhvxxf&.tsrc=rss",
+     "source": "Yahoo Finance"
     }
    ]
   }
  ],
  "watch_next": [
   {
-   "when": "11/19 21:30",
-   "what": "費城聯儲製造業指數（預期 20.6）與初領失業救濟金（預期 198K）"
+   "when": "11/20（週五）23:00",
+   "what": "密大消費者信心終值與通膨預期修正值（前值4.3%）"
   },
   {
-   "when": "11/20 23:00",
-   "what": "密大消費者信心終值（預期 51.7）與通膨預期（前值 4.3%）"
+   "when": "11/21（週六）",
+   "what": "韓國前20天出口初值，觀察半導體出口"
   },
   {
-   "when": "11/21",
-   "what": "韓國前 20 天出口初值，觀察半導體需求"
-  },
-  {
-   "when": "近期",
-   "what": "Anthropic 掛牌動向與升息預期變化"
+   "when": "11/20 美股盤中",
+   "what": "AI股能否止穩，注意VIX與10年期殖利率"
   }
  ],
- "generated_at": "2026-11-19T08:00:31Z",
+ "generated_at": "2026-11-19T21:37:17Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 6015,
-  "output_tokens": 1371
+  "input_tokens": 5945,
+  "output_tokens": 1223
  }
 }

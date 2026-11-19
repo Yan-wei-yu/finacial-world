@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T08:00:31Z",
+ "generated_at": "2026-11-19T21:37:17Z",
  "upcoming": [
   {
    "symbol": "AVGO",
@@ -268,7 +268,7 @@
    "date": "2026-11-04",
    "eps_est": 3.56,
    "eps_actual": 4.01,
-   "surprise_pct": 12.79,
+   "surprise_pct": 12.65,
    "suspect": false
   },
   {
@@ -487,7 +487,7 @@
     "date": "2026-11-04",
     "eps_est": 3.56,
     "eps_actual": 4.01,
-    "surprise_pct": 12.79,
+    "surprise_pct": 12.65,
     "suspect": false
    },
    {
