@@ -1,11 +1,11 @@
 {
- "headline": "早盤費半一度大漲4%，尾盤回吐轉跌2.41%，那指重挫2.25%",
+ "headline": "早盤費半一度大漲，尾盤反轉重挫2.4%",
  "mood": "偏空",
- "mood_reason": "AI股漲幅盡吐、Fed偏鷹、10年期殖利率5.05%、VIX升至28",
+ "mood_reason": "AI股漲幅盡吐、費半收跌2.41%、VIX大升、10年債5.05%且Fed偏鷹",
  "key_points": [
   {
-   "title": "Anthropic IPO行情early漲後回吐",
-   "detail": "早盤因史上最大IPO題材，費半一度飆4%，記憶體股大漲。但輝達、博通、美光等尾盤漲幅全數吐回，費半收跌2.41%。",
+   "title": "Anthropic上市行情反轉",
+   "detail": "早盤受史上最大IPO帶動，費半一度飆約4%，但輝達、博通、美光等AI股其後吞回漲幅，終場收黑，顯示追價力道不足。",
    "impact": "利空",
    "sources": [
     {
@@ -15,35 +15,35 @@
      "source": "MarketWatch"
     },
     {
-     "n": 18,
+     "n": 19,
      "title": "Nvidia, Broadcom, Micron stocks erase gains as Anthropic goes public",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnFiUEhueFNuXzRVcWt0NUlDWXY3b0MwVnYzN0YxYzZBZkoyRnZRQmJqeTJUdlJuaG1ubUdoQkk0Yk5KcHk3N2FTWm5rX2ZqQ2dPeml5dnBHUVZpNFVhdVdWdEZVLVNiRnFpNm15RUktZUdmUV9oV1ZFVWd4VVZwQlYwa19wc3cyMFMzbGRrVXdiYndLeVFUSUhrVTJBSUVmTGR1ZmVsd3QzZ05HTTVabktzRS02aEdDdnhJ?oc=5",
      "source": "Yahoo Finance"
     },
     {
-     "n": 19,
+     "n": 20,
      "title": "美股早盤／史上最大 IPO 帶旺 費半飆4% 新雲端、網安股衝 | 美股動態 | 國際",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3d2c4b01lQ3ZYUVpmSGdCOFNyZG5HWkJ1WW95a2xlcjZSNUc2b3N2ZkwwMUVhcmdnWW9UcWNQNVY0N3BCM2ZWalVfQ3RfeVhoWEVMVWFmY3lZRFVJ?oc=5",
      "source": "經濟日報"
-    },
-    {
-     "n": 16,
-     "title": "Anthropic IPO Ignites AI Rally as SanDisk, Intel and Other Memory-Chip Stocks Jump Over 6%",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUQ1FkVUlmWUdFUzRxU1ZNWmFxQlZVRGl1WnoxbjlJcEV6NzV2OWl0ZXJRQUhHenMyMHJSVWNRSWZ5TTVKNnJTSGltMzlGbVkxTjBoUW1NUlhpTF9uOVBWR2p6c2dkMVoxek90QVAyMzlYXzU5Qmc?oc=5",
-     "source": "BigGo Finance"
     }
    ]
   },
   {
-   "title": "Fed偏鷹與高利率預期",
-   "detail": "市場報導指Fed警告AI泡沫，12月升息機率近95%；Goolsbee也提到AI熱潮可能使經濟過熱。10年期殖利率在5.05%，壓抑科技股評價。",
+   "title": "Fed偏鷹、高利率預期",
+   "detail": "Goolsbee稱AI熱潮可能使經濟過熱，Fed須防範；市場押注高利率撐更久。10年債殖利率5.05%，壓抑高估值科技股。",
    "impact": "利空",
    "sources": [
     {
-     "n": 26,
-     "title": "Fed 警告 AI 泡沫！12 月升息機率近 95%，比特幣一度跌破 6.3 萬",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04UnVzWklpWDV0VE1acVh3TU1aSGVieml1cnpGZldBU1F6bGpnSnh2eW9IbGtkWWREOUM1SXVLdjRjZGlTT3NrZW9LaUJDWnM?oc=5",
+     "n": 5,
+     "title": "降息還要等多久？市場押注高利率再撐5年",
+     "url": "https://news.cnyes.com/news/id/6667963",
      "source": "鉅亨網"
+    },
+    {
+     "n": 28,
+     "title": "美股盤後｜Fed鷹聲嘹亮、輝達餘波不斷，S&P500邁向連五跌1119｜豐雲學堂 2026 年 11 月",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNVF9mWHFOZmIyR2Y3dUJoeHZlUGVZclI4S3l0aUNpTTRqUlp3bmpnMkFRZThiSEhqQTZkSW9HX3ZuQ1A5cnhEcGpBbmhxakdOTnFZRzgxS2l0OVhRNWd2aUZCdUFicFZjMkZTR1p4V3JoTFY2QXc5ZjlLN2dYTDJNWGtnRGRMVUF5SmFGbEFxbDc3U3RtcEM5VkpRWHJ1czlVcHlGQnBHdGlSN203SkRvTlJ4Y1BPRUNHamw3anVuOHc4R0tadHZiek9pYUl6N1FaQWFrS3JtU3hPOXFxUEtxd0ZDcDVLX2R1YW9ma2Y0Z2QwWmlIblozX0M3aTRId2VVNDhRTTRYZHVKaW1NWVV3RDNSR2Jvc2paaWV3TGg4cTJjel9lOTVWNWVzNHc2dy1YZUR3NjZCTjJhWlctS1BfOHhMdU9iMHRxa3p4bmNkMVRkT3d5ZVVMTl92TE0tSTh3M3RwcXJxUHlPR29weTh5SnlfTUhIQXRkTGRnZlpB?oc=5",
+     "source": "永豐金證券"
     },
     {
      "n": 29,
@@ -52,22 +52,16 @@
      "source": "Reuters"
     },
     {
-     "n": 33,
+     "n": 32,
      "title": "Goolsbee says the Fed's job right now is to keep AI surge from overheating the economy",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1LUUZ0MzVCaURJTHpfcktwS0tMWGMydV9rNlFwSE1uWkQ5eFNsZ1locTBSMzAtOFhmNHJpUWVBaXVrTnRGeEpaLThoRXpKaU93TExUV3hlNE5TLU5aVzFoT1loQzhXOWNJZlpTWElmZ0ljRTJtMFNWUnlDSTY4bW1ROEkyTmFsaWJmVTlSS2VTa3JmTjdXazlxeWpYa0pwd1BSR2NJNTBlVkFNbllhMHA3LUU?oc=5",
      "source": "Reuters"
-    },
-    {
-     "n": 5,
-     "title": "降息還要等多久？市場押注高利率再撐5年",
-     "url": "https://news.cnyes.com/news/id/6667963",
-     "source": "鉅亨網"
     }
    ]
   },
   {
-   "title": "AMD重挫與中國供應鏈、出口管制疑慮",
-   "detail": "超微因中國供應鏈疑慮重挫8%。另有報導指美國六個月內核准近90萬顆AI晶片銷往中國，政策不確定性仍在。",
+   "title": "超微重挫、中國供應鏈疑慮",
+   "detail": "超微因中國供應鏈疑慮重挫8%，加上美國核准近90萬顆AI晶片銷往中國的報導，出口管制議題再成半導體變數。",
    "impact": "利空",
    "sources": [
     {
@@ -77,51 +71,45 @@
      "source": "經濟日報"
     },
     {
-     "n": 32,
+     "n": 16,
      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, committee says",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
      "source": "Reuters"
-    },
-    {
-     "n": 3,
-     "title": "AI 股市瘋狂、出口管制陰影與記憶體荒：新一波「算力戰爭」全面引爆美股科技版圖",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeE1BX3dCWm92b3dMOXFiR3pRUk8wdlNTYlY2Y2R2WDhBTHdxMEFBT1Nic2laV1VNY1dIXzF5a1NiUDYwUUZRM1RTUGl4RUcyeGRaWGIxV0JrUzlhYnBNcVprOFlmdVdiejRKbWt3Mm1fQVFrUVZnYk80UnVocDlKSGN6V2YyTW1GRXNaTFdBZ2lPLTRj?oc=5",
-     "source": "美股放大鏡"
     }
    ]
   },
   {
-   "title": "風險相互抵消但情緒仍脆弱",
-   "detail": "德銀認為三大看跌風險部分相互抵消，但提醒不宜視為同一件事。VIX升至28.44，反映避險升溫。",
-   "impact": "中性",
+   "title": "AI泡沫與波動升高",
+   "detail": "Fed示警AI泡沫，恐慌指數升至28.44（+15.8%），那指期貨再跌2.64%，短線波動可能延續。",
+   "impact": "利空",
    "sources": [
     {
-     "n": 2,
-     "title": "利空罩頂反而不悲觀？德銀警告：三大看跌風險正「相互抵消」 但市場最大誤判是把它們當成同一件事",
-     "url": "https://news.cnyes.com/news/id/6667391",
+     "n": 27,
+     "title": "Fed 警告 AI 泡沫！12 月升息機率近 95%，比特幣一度跌破 6.3 萬",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04UnVzWklpWDV0VE1acVh3TU1aSGVieml1cnpGZldBU1F6bGpnSnh2eW9IbGtkWWREOUM1SXVLdjRjZGlTT3NrZW9LaUJDWnM?oc=5",
      "source": "鉅亨網"
+    },
+    {
+     "n": 28,
+     "title": "美股盤後｜Fed鷹聲嘹亮、輝達餘波不斷，S&P500邁向連五跌1119｜豐雲學堂 2026 年 11 月",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNVF9mWHFOZmIyR2Y3dUJoeHZlUGVZclI4S3l0aUNpTTRqUlp3bmpnMkFRZThiSEhqQTZkSW9HX3ZuQ1A5cnhEcGpBbmhxakdOTnFZRzgxS2l0OVhRNWd2aUZCdUFicFZjMkZTR1p4V3JoTFY2QXc5ZjlLN2dYTDJNWGtnRGRMVUF5SmFGbEFxbDc3U3RtcEM5VkpRWHJ1czlVcHlGQnBHdGlSN203SkRvTlJ4Y1BPRUNHamw3anVuOHc4R0tadHZiek9pYUl6N1FaQWFrS3JtU3hPOXFxUEtxd0ZDcDVLX2R1YW9ma2Y0Z2QwWmlIblozX0M3aTRId2VVNDhRTTRYZHVKaW1NWVV3RDNSR2Jvc2paaWV3TGg4cTJjel9lOTVWNWVzNHc2dy1YZUR3NjZCTjJhWlctS1BfOHhMdU9iMHRxa3p4bmNkMVRkT3d5ZVVMTl92TE0tSTh3M3RwcXJxUHlPR29weTh5SnlfTUhIQXRkTGRnZlpB?oc=5",
+     "source": "永豐金證券"
     }
    ]
   },
   {
    "title": "記憶體需求題材仍在",
-   "detail": "美光新加坡HBM封裝廠預計2027年初首批產出，SanDisk看好SLC NAND，DRAM價格上漲推升業者獲利。",
-   "impact": "利多",
+   "detail": "DRAM漲價帶動業績，美光新加坡HBM封裝廠2027年初首批產出，但股價仍受大盤賣壓拖累。",
+   "impact": "中性",
    "sources": [
     {
-     "n": 23,
+     "n": 24,
      "title": "美光新加坡HBM先進封裝廠首部機台移入 2027年初首批產出",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmhKWF9MamtmX3k5S2pBbzNBVjU5Vm54ZUxqV1BFZkhWNkM3YjV4R0ZQbU5BMEtqa3lqQmpxUzZmS2RQa2ZJTkVsTG9iZW1FUWVwSkJUQ2EzVVZza1I5RmJZRFBHUHZ4SUZ2V1VNZjRLZ0VtTVl3TURXbW5JRi1Sc2xQbEt6MFdvOWVIT2pR?oc=5",
      "source": "DIGITIMES"
     },
     {
-     "n": 39,
-     "title": "AI代理反覆寫入催生新需求Sandisk看好SLC NAND重返焦點",
-     "url": "https://news.cnyes.com/news/id/6667416",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 25,
+     "n": 26,
      "title": "半導體產業鏈／晶豪科Q3每股賺36.79元創新高！DRAM價格上漲帶動獲利",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SZWRRRW8wdzB3MGoxSjNybkZxcmZqeHNBNkxFQjl3MHh2M0tPbDFSbXJNbXRoWl9PZkV3VzVtSFFtQWdZSmtYbGtUOUxVX0V5MU54UEVieEFVSjJUZzU0czBYTG1kZzE0VHc?oc=5",
      "source": "科技島"
@@ -132,7 +120,7 @@
  "holdings": [
   {
    "symbol": "NOK",
-   "note": "諾基亞表示AI與光通訊訂單強勁，預期2027年IP與光網路最高成長30%，但供給受限；另報導輝達已出售逾半數持股。",
+   "note": "收跌1.19%；管理層談AI訂單帶動IP與光網路2027年最高成長30%，但供應受限，輝達減持逾半持股。",
    "sources": [
     {
      "n": 7,
@@ -150,22 +138,16 @@
   },
   {
    "symbol": "DRAM",
-   "note": "記憶體股早盤隨Anthropic題材大漲，尾盤回吐，ETF收跌1.84%；後續留意11/30的DRAM/NAND合約價。",
+   "note": "記憶體ETF收跌1.84%；Anthropic利多一度推升記憶體股，後隨AI股回吐。",
    "sources": [
     {
-     "n": 16,
+     "n": 17,
      "title": "Anthropic IPO Ignites AI Rally as SanDisk, Intel and Other Memory-Chip Stocks Jump Over 6%",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUQ1FkVUlmWUdFUzRxU1ZNWmFxQlZVRGl1WnoxbjlJcEV6NzV2OWl0ZXJRQUhHenMyMHJSVWNRSWZ5TTVKNnJTSGltMzlGbVkxTjBoUW1NUlhpTF9uOVBWR2p6c2dkMVoxek90QVAyMzlYXzU5Qmc?oc=5",
      "source": "BigGo Finance"
     },
     {
-     "n": 1,
-     "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-     "url": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
-     "source": "MarketWatch"
-    },
-    {
-     "n": 18,
+     "n": 19,
      "title": "Nvidia, Broadcom, Micron stocks erase gains as Anthropic goes public",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnFiUEhueFNuXzRVcWt0NUlDWXY3b0MwVnYzN0YxYzZBZkoyRnZRQmJqeTJUdlJuaG1ubUdoQkk0Yk5KcHk3N2FTWm5rX2ZqQ2dPeml5dnBHUVZpNFVhdVdWdEZVLVNiRnFpNm15RUktZUdmUV9oV1ZFVWd4VVZwQlYwa19wc3cyMFMzbGRrVXdiYndLeVFUSUhrVTJBSUVmTGR1ZmVsd3QzZ05HTTVabktzRS02aEdDdnhJ?oc=5",
      "source": "Yahoo Finance"
@@ -174,12 +156,12 @@
   },
   {
    "symbol": "QNT",
-   "note": "所提供新聞未見直接相關報導，收盤大跌12.6%原因資料不足；11/30為IPO閉鎖期推估到期日。",
+   "note": "單日重挫12.6%，盤後小幅反彈；提供的新聞無直接相關資料，11/30為推估閉鎖期到期日。",
    "sources": []
   },
   {
    "symbol": "SITM",
-   "note": "僅在對沖基金買進清單類文章中被提及，無明確新增基本面訊息；隨半導體股走弱收跌3.27%。",
+   "note": "收跌3.27%，新聞僅提及有避險基金買進，無明確基本面消息。",
    "sources": [
     {
      "n": 15,
@@ -192,23 +174,23 @@
  ],
  "watch_next": [
   {
-   "when": "11/20（週五）23:00",
-   "what": "密大消費者信心終值與通膨預期修正值（前值4.3%）"
+   "when": "11/20（五）23:00",
+   "what": "密大消費者信心終值與通膨預期（前值4.3%）"
   },
   {
-   "when": "11/21（週六）",
-   "what": "韓國前20天出口初值，觀察半導體出口"
+   "when": "11/21（六）",
+   "what": "韓國前20天出口初值，觀察半導體需求"
   },
   {
    "when": "11/20 美股盤中",
-   "what": "AI股能否止穩，注意VIX與10年期殖利率"
+   "what": "AI股與Anthropic走勢、Fed官員談話"
   }
  ],
- "generated_at": "2026-11-19T21:37:17Z",
+ "generated_at": "2026-11-19T21:51:55Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5945,
-  "output_tokens": 1223
+  "input_tokens": 5922,
+  "output_tokens": 1141
  }
 }
