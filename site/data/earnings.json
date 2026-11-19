@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:38:11Z",
+ "generated_at": "2026-11-19T08:00:31Z",
  "upcoming": [
   {
    "symbol": "AVGO",
@@ -182,6 +182,20 @@
    "rev_est": 6293760270.0,
    "rev_currency": "EUR",
    "is_holding": true
+  },
+  {
+   "symbol": "AMD",
+   "name_zh": "超微",
+   "group": "semis",
+   "date": "2027-02-02",
+   "datetime": "2027-02-02T21:00:00Z",
+   "session": "盤後",
+   "eps_est": 2.92794,
+   "eps_low": 2.72,
+   "eps_high": 3.05,
+   "rev_est": 17055205070.0,
+   "rev_currency": "USD",
+   "is_holding": false
   }
  ],
  "recent": [
