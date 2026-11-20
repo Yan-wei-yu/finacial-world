@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:51:55Z",
+ "generated_at": "2026-11-20T07:49:16Z",
  "upcoming": [
   {
    "symbol": "AVGO",
@@ -33,8 +33,8 @@
    "symbol": "MU",
    "name_zh": "美光",
    "group": "memory",
-   "date": "2026-12-23",
-   "datetime": "2026-12-23T21:00:00Z",
+   "date": "2026-12-17",
+   "datetime": "2026-12-17T21:00:00Z",
    "session": "盤後",
    "eps_est": 38.29128,
    "eps_low": 35.85,
@@ -196,6 +196,48 @@
    "rev_est": 17055205070.0,
    "rev_currency": "USD",
    "is_holding": false
+  },
+  {
+   "symbol": "ARM",
+   "name_zh": "安謀",
+   "group": "semis",
+   "date": "2027-02-03",
+   "datetime": "2027-02-03T21:00:00Z",
+   "session": "盤後",
+   "eps_est": 0.56353,
+   "eps_low": 0.53,
+   "eps_high": 0.58517,
+   "rev_est": 1538284740.0,
+   "rev_currency": "USD",
+   "is_holding": false
+  },
+  {
+   "symbol": "QCOM",
+   "name_zh": "高通",
+   "group": "semis",
+   "date": "2027-02-03",
+   "datetime": "2027-02-03T21:00:00Z",
+   "session": "盤後",
+   "eps_est": 2.25456,
+   "eps_low": 2.2,
+   "eps_high": 2.31,
+   "rev_est": 10821305400.0,
+   "rev_currency": "USD",
+   "is_holding": false
+  },
+  {
+   "symbol": "SITM",
+   "name_zh": "SiTime",
+   "group": "holding",
+   "date": "2027-02-03",
+   "datetime": "2027-02-03T21:00:00Z",
+   "session": "盤後",
+   "eps_est": 4.7725,
+   "eps_low": 4.75,
+   "eps_high": 4.85406,
+   "rev_est": 336579800.0,
+   "rev_currency": "USD",
+   "is_holding": true
   }
  ],
  "recent": [
@@ -314,8 +356,8 @@
    "is_holding": false,
    "datetime": "2026-10-29T20:00:00Z",
    "date": "2026-10-29",
-   "eps_est": 46.41,
-   "eps_actual": 49.51,
+   "eps_est": 5.8,
+   "eps_actual": 6.19,
    "surprise_pct": 6.69,
    "suspect": false
   },
