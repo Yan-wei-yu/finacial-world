@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T07:49:16Z",
+ "generated_at": "2026-11-20T21:07:14Z",
  "week": [
   {
    "title": "Fed Chairman Warsh Speaks",
@@ -80,6 +80,16 @@
    "datetime": "2026-11-20T15:00:00Z",
    "forecast": null,
    "previous": "4.3%"
+  },
+  {
+   "title": "President Trump Speaks",
+   "title_zh": "總統 Trump 談話",
+   "country": "USD",
+   "country_label": "美國",
+   "impact": "Medium",
+   "datetime": "2026-11-20T17:00:00Z",
+   "forecast": null,
+   "previous": null
   }
  ],
  "upcoming": [
