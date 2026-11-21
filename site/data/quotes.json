@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:34:39Z",
+ "generated_at": "2026-11-21T07:46:15Z",
  "holdings": [
   {
    "symbol": "NOK",
@@ -175,11 +175,11 @@
    "change": -0.62,
    "change_pct": -8.27,
    "currency": "USD",
-   "market_state": "POST",
+   "market_state": "CLOSED",
    "ext": {
     "label": "盤後",
-    "price": 6.96,
-    "change_pct": 1.16
+    "price": 6.9996,
+    "change_pct": 1.74
    },
    "as_of": "2026-11-20T21:00:02Z",
    "high_52w": 17.45,
@@ -457,11 +457,11 @@
    "change": -5.07,
    "change_pct": -13.19,
    "currency": "USD",
-   "market_state": "POST",
+   "market_state": "CLOSED",
    "ext": {
     "label": "盤後",
-    "price": 33.8101,
-    "change_pct": 1.35
+    "price": 34.45,
+    "change_pct": 3.27
    },
    "as_of": "2026-11-20T21:00:02Z",
    "high_52w": 81.34,
@@ -739,11 +739,11 @@
    "change": -0.22,
    "change_pct": -0.79,
    "currency": "USD",
-   "market_state": "POST",
+   "market_state": "CLOSED",
    "ext": {
     "label": "盤後",
-    "price": 28.17,
-    "change_pct": 1.55
+    "price": 28.35,
+    "change_pct": 2.2
    },
    "as_of": "2026-11-20T21:00:01Z",
    "high_52w": 86.79,
@@ -1021,11 +1021,11 @@
    "change": -43.86,
    "change_pct": -10.83,
    "currency": "USD",
-   "market_state": "POST",
+   "market_state": "CLOSED",
    "ext": {
     "label": "盤後",
-    "price": 361.24,
-    "change_pct": 0.0
+    "price": 375.07,
+    "change_pct": 3.83
    },
    "as_of": "2026-11-20T21:00:01Z",
    "high_52w": 901.81,
@@ -1303,9 +1303,9 @@
    "change": -1261.468,
    "change_pct": -5.28,
    "currency": "USD",
-   "market_state": "POST",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-20T21:34:38Z",
+   "as_of": "2026-11-20T22:15:59Z",
    "high_52w": 27722.75,
    "low_52w": 20690.25,
    "history": [
@@ -1567,7 +1567,7 @@
     },
     {
      "d": "2026-11-20",
-     "c": 22617.7324
+     "c": 22617.7305
     }
    ],
    "source": "info",
@@ -1581,9 +1581,9 @@
    "change": -1011.132,
    "change_pct": -10.73,
    "currency": "USD",
-   "market_state": "POST",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-20T21:34:36Z",
+   "as_of": "2026-11-20T22:15:59Z",
    "high_52w": 14655.29,
    "low_52w": 6160.05,
    "history": [
@@ -1845,7 +1845,7 @@
     },
     {
      "d": "2026-11-20",
-     "c": 8408.5908
+     "c": 8408.5898
     }
    ],
    "source": "info",
@@ -1859,9 +1859,9 @@
    "change": -265.44,
    "change_pct": -3.7,
    "currency": "USD",
-   "market_state": "POST",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-20T21:20:01Z",
+   "as_of": "2026-11-20T21:35:54Z",
    "high_52w": 7844.52,
    "low_52w": 6316.91,
    "history": [
@@ -2132,21 +2132,17 @@
   "NQ=F": {
    "symbol": "NQ=F",
    "name": "Nasdaq 100 Dec 26",
-   "price": 25267.5,
+   "price": 25126.5,
    "prev_close": 26600.25,
-   "change": -1332.75,
-   "change_pct": -5.01,
+   "change": -1473.75,
+   "change_pct": -5.54,
    "currency": "USD",
-   "market_state": "REGULAR",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-20T21:24:38Z",
+   "as_of": "2026-11-20T21:59:59Z",
    "high_52w": 31616.5,
    "low_52w": 22961.5,
    "history": [
-    {
-     "d": "2026-08-20",
-     "c": 29300.5
-    },
     {
      "d": "2026-08-21",
      "c": 29387.75
@@ -2405,7 +2401,7 @@
     },
     {
      "d": "2026-11-20",
-     "c": 25267.5
+     "c": 25126.5
     }
    ],
    "source": "info",
@@ -2705,7 +2701,7 @@
    "ext": null,
    "as_of": "2026-11-20T19:59:55Z",
    "high_52w": 5.364,
-   "low_52w": 3.956,
+   "low_52w": 0.0,
    "history": [
     {
      "d": "2026-08-20",
@@ -2978,21 +2974,17 @@
   "DX-Y.NYB": {
    "symbol": "DX-Y.NYB",
    "name": "ICE US Dollar Index - Index - C",
-   "price": 103.889,
-   "prev_close": 103.895,
-   "change": -0.006,
-   "change_pct": -0.01,
+   "price": 103.84,
+   "prev_close": 103.807,
+   "change": 0.033,
+   "change_pct": 0.03,
    "currency": "USD",
-   "market_state": "REGULAR",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-20T21:24:39Z",
+   "as_of": "2026-11-20T21:59:59Z",
    "high_52w": 103.97,
    "low_52w": 95.55,
    "history": [
-    {
-     "d": "2026-08-20",
-     "c": 98.9
-    },
     {
      "d": "2026-08-21",
      "c": 98.8
@@ -3251,7 +3243,7 @@
     },
     {
      "d": "2026-11-20",
-     "c": 103.889
+     "c": 103.81
     }
    ],
    "source": "info",
@@ -3260,14 +3252,14 @@
   "TWD=X": {
    "symbol": "TWD=X",
    "name": "USD/TWD",
-   "price": 32.992,
+   "price": 32.958,
    "prev_close": 32.947,
-   "change": 0.045,
-   "change_pct": 0.14,
+   "change": 0.011,
+   "change_pct": 0.03,
    "currency": "TWD",
-   "market_state": "REGULAR",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-20T21:34:40Z",
+   "as_of": "2026-11-20T22:36:29Z",
    "high_52w": 33.125,
    "low_52w": 30.652,
    "history": [
@@ -3533,7 +3525,7 @@
     },
     {
      "d": "2026-11-20",
-     "c": 32.992
+     "c": 33.0263
     }
    ],
    "source": "info",
@@ -3547,11 +3539,11 @@
    "change": -33.38,
    "change_pct": -9.48,
    "currency": "USD",
-   "market_state": "POST",
+   "market_state": "CLOSED",
    "ext": {
     "label": "盤後",
-    "price": 321.6,
-    "change_pct": 0.91
+    "price": 328.6,
+    "change_pct": 3.1
    },
    "as_of": "2026-11-20T21:00:03Z",
    "high_52w": 487.47,
@@ -4364,14 +4356,14 @@
   "KRW=X": {
    "symbol": "KRW=X",
    "name": "USD/KRW",
-   "price": 1345.79,
+   "price": 1346.13,
    "prev_close": 1333.62,
-   "change": 12.17,
-   "change_pct": 0.91,
+   "change": 12.51,
+   "change_pct": 0.94,
    "currency": "KRW",
-   "market_state": "REGULAR",
+   "market_state": "CLOSED",
    "ext": null,
-   "as_of": "2026-11-20T21:34:40Z",
+   "as_of": "2026-11-20T22:36:29Z",
    "high_52w": 1587.7,
    "low_52w": 1319.52,
    "history": [
@@ -4637,7 +4629,7 @@
     },
     {
      "d": "2026-11-20",
-     "c": 1345.96
+     "c": 1334.79
     }
    ],
    "source": "info",
@@ -4651,11 +4643,11 @@
    "change": -20.45,
    "change_pct": -14.01,
    "currency": "USD",
-   "market_state": "POST",
+   "market_state": "CLOSED",
    "ext": {
     "label": "盤後",
-    "price": 128.2601,
-    "change_pct": 2.17
+    "price": 130.01,
+    "change_pct": 3.57
    },
    "as_of": "2026-11-20T21:00:01Z",
    "high_52w": 243.37,
@@ -4933,11 +4925,11 @@
    "change": -95.93,
    "change_pct": -13.89,
    "currency": "USD",
-   "market_state": "POST",
+   "market_state": "CLOSED",
    "ext": {
     "label": "盤後",
-    "price": 603.0,
-    "change_pct": 1.43
+    "price": 610.599,
+    "change_pct": 2.71
    },
    "as_of": "2026-11-20T21:00:01Z",
    "high_52w": 1255.0,
@@ -5215,11 +5207,11 @@
    "change": -47.42,
    "change_pct": -10.6,
    "currency": "USD",
-   "market_state": "POST",
+   "market_state": "CLOSED",
    "ext": {
     "label": "盤後",
-    "price": 405.65,
-    "change_pct": 1.4
+    "price": 410.6499,
+    "change_pct": 2.65
    },
    "as_of": "2026-11-20T21:00:01Z",
    "high_52w": 671.83,
@@ -5497,11 +5489,11 @@
    "change": -15.63,
    "change_pct": -13.11,
    "currency": "USD",
-   "market_state": "POST",
+   "market_state": "CLOSED",
    "ext": {
     "label": "盤後",
-    "price": 105.2,
-    "change_pct": 1.57
+    "price": 106.2972,
+    "change_pct": 2.63
    },
    "as_of": "2026-11-20T21:00:01Z",
    "high_52w": 199.87,
@@ -5777,10 +5769,10 @@
    "id": "adr-SKHY",
    "label": "SK 海力士 ADR 溢價",
    "note": "SKHY 相對首爾股價（1 ADR = 0.1 股）",
-   "value": 25.23,
+   "value": 25.26,
    "unit": "%",
    "adr_price": 103.57,
-   "implied_price": 82.7,
+   "implied_price": 82.68,
    "history": [
     {
      "d": "2026-10-12",
@@ -5900,7 +5892,7 @@
     },
     {
      "d": "2026-11-20",
-     "c": 25.25
+     "c": 24.21
     }
    ]
   },
@@ -5908,10 +5900,10 @@
    "id": "adr-TSM",
    "label": "台積電 ADR 溢價",
    "note": "TSM 相對台股（1 ADR = 5 股）",
-   "value": 5.15,
+   "value": 5.04,
    "unit": "%",
    "adr_price": 318.71,
-   "implied_price": 303.1,
+   "implied_price": 303.42,
    "history": [
     {
      "d": "2026-10-08",
@@ -6031,13 +6023,13 @@
     },
     {
      "d": "2026-11-20",
-     "c": 5.15
+     "c": 5.26
     }
    ]
   }
  ],
  "fx": {
-  "USDTWD": 32.992
+  "USDTWD": 32.958
  },
  "errors": []
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:34:39Z",
+ "generated_at": "2026-11-21T07:46:15Z",
  "upcoming": [
   {
    "symbol": "AVGO",
@@ -8,10 +8,10 @@
    "date": "2026-12-09",
    "datetime": "2026-12-09T21:00:00Z",
    "session": "盤後",
-   "eps_est": 3.83768,
-   "eps_low": 3.69,
+   "eps_est": 3.83018,
+   "eps_low": 3.53,
    "eps_high": 3.92,
-   "rev_est": 34906205760.0,
+   "rev_est": 34903482540.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -36,10 +36,10 @@
    "date": "2026-12-17",
    "datetime": "2026-12-17T21:00:00Z",
    "session": "盤後",
-   "eps_est": 38.29128,
+   "eps_est": 38.21615,
    "eps_low": 35.85,
-   "eps_high": 40.47,
-   "rev_est": 61832643300.0,
+   "eps_high": 40.2,
+   "rev_est": 61721544580.0,
    "rev_currency": "USD",
    "is_holding": false
   },
@@ -443,30 +443,6 @@
    "eps_est": 0.07,
    "eps_actual": 0.1,
    "surprise_pct": 36.92,
-   "suspect": false
-  },
-  {
-   "symbol": "LRCX",
-   "name_zh": "科林研發",
-   "group": "semis",
-   "is_holding": false,
-   "datetime": "2026-10-21T20:00:00Z",
-   "date": "2026-10-21",
-   "eps_est": 2.18,
-   "eps_actual": 2.2,
-   "surprise_pct": 0.94,
-   "suspect": false
-  },
-  {
-   "symbol": "META",
-   "name_zh": "Meta",
-   "group": "capex",
-   "is_holding": false,
-   "datetime": "2026-10-21T20:00:00Z",
-   "date": "2026-10-21",
-   "eps_est": 5.42,
-   "eps_actual": 3.83,
-   "surprise_pct": -29.33,
    "suspect": false
   }
  ],

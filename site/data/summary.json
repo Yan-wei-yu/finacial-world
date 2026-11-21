@@ -1,186 +1,191 @@
 {
- "headline": "AI股恐慌殺盤，費半重挫逾10%、那指跌5%",
+ "headline": "AI股崩跌，費半重挫逾10%，那指期貨續跌逾5%",
  "mood": "偏空",
- "mood_reason": "費半大跌、VIX飆至35.89，記憶體與AI供應鏈賣壓擴大，期貨續跌",
+ "mood_reason": "費半單日重挫10.73%、VIX飆升，期貨仍大跌，恐慌未退",
  "key_points": [
   {
-   "title": "AI股賣壓擴大，那指今年漲幅吐光",
-   "detail": "Anthropic重挫拖累AI股，道瓊盤中跌入修正，那指今年漲幅全數回吐；費半收跌10.73%，VIX大漲26%。",
+   "title": "AI殺盤失控，指數同步重挫",
+   "detail": "那指跌5.28%、費半跌10.73%，道瓊與標普進入修正區，那指今年漲幅全數回吐；輝達、美光跌約14%。",
    "impact": "利空",
    "sources": [
     {
-     "n": 7,
+     "n": 1,
+     "title": "〈美股盤後〉美股大屠殺！AI殺盤全面失控 道瓊標普陷修正區 費半瀉逾10% 輝達、美光暴跌約14%",
+     "url": "https://news.cnyes.com/news/id/6669311",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 8,
      "title": "AI股賣壓擴大！道瓊盤中跌入修正 那指今年漲幅全吐光",
      "url": "https://news.cnyes.com/news/id/6669578",
      "source": "鉅亨網"
     },
     {
-     "n": 12,
-     "title": "〈美股早盤〉Anthropic重挫拖累AI股！那指開盤跌逾1% 道瓊逼近修正區間",
-     "url": "https://news.cnyes.com/news/id/6669336",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 19,
-     "title": "Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmlaZDdveTVTR1NZaE1BMVVzRGhXRkthLWZqRlJwenIxZE5YdDhFOGpoXzhxbndwR1YtZkJPMkU0aWRUb3ZTTXB4bHJOYzNDc2dBeUtiYzhHYjhsTlJfNklHbGgxTTUzSUZfZ0J4em54LUoyTDBUWnhtU25OVmp3TUQ0ZnROQnFYQzhBcnJvelMwdXFXeEE?oc=5",
-     "source": "Yahoo Finance"
-    },
-    {
-     "n": 21,
-     "title": "Micron leads semiconductor and AI stocks down as SOX plunges 7%",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmNkNlpFVWJMb1BCTmJvUU1oQnhER2tIYzNZOFpvR0o4bTFvMy1MQTlpQnlUSF9ONGNwZ3AtYmhIRmNLUzFoc0p5WVRZSGJzWVB5NnRfMWdIaFlHdUJ6TDFDRkVMQU83MWRMWFluN013aDVGb1ZDVzhCczZYMzYybG4tOC0waXRuYTRBMUg2RWNxVldQak1GRmdCVjc5Z2xuM2c?oc=5",
-     "source": "Seeking Alpha"
+     "n": 22,
+     "title": "深夜，美股全線大跌！輝達暴跌14%，Anthropic重挫8.5%；記憶體股齊跌，閃迪跌超16%，SK海力士、美光跌超13%",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xcHBfdFJpbHZhcG5FNWtTcUVyMzBuWlhob2hFN1M3cEpkd01RRjRDUEZaaWt5dUJGdTBWU09ibFRrQ3otUE9xUQ?oc=5",
+     "source": "鉅亨號"
     }
    ]
   },
   {
-   "title": "記憶體股領跌，NAND報價轉弱",
-   "detail": "美光領跌、SanDisk重挫逾14%，NAND價格展望偏空；有報導指NAND晶圓現貨價單月跌24%。",
+   "title": "記憶體股受NAND報價疑慮衝擊",
+   "detail": "閃迪跌逾14%至16%，SK海力士、美光跌超13%；有報導指中國AI砍單，NAND明年恐跌價。",
    "impact": "利空",
    "sources": [
     {
-     "n": 20,
+     "n": 26,
      "title": "SanDisk slides over 14% as bearish NAND pricing outlook hits chip stocks",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajlBclZpQVpob0tQYklieEVuczVoRE5VZVl4SHU3ZWtrMVl1VTFGUEV2YkROQk9sS0lSaHpiNzdJeUlUSjdkSS1GUXZ4eUNKa0lrQzJvVW5QeDMzc0ptZzNuX3doYmdXSXR1akdKcVZtY2pncE81Smg0dXl6ckl4U3JWNVQ1VTVfLW1Sal9KYXl4Ujc2TS0tT1dWd0FfcF9FS1ZmZ3F1TTJ0RVprVUVNS01NeDd6UHpZLXBhUE9CX0prMmxhS21QeElnNm5QQjZxWkhSdEM4Q3J4Zw?oc=5",
      "source": "Proactive financial news"
     },
     {
-     "n": 21,
-     "title": "Micron leads semiconductor and AI stocks down as SOX plunges 7%",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmNkNlpFVWJMb1BCTmJvUU1oQnhER2tIYzNZOFpvR0o4bTFvMy1MQTlpQnlUSF9ONGNwZ3AtYmhIRmNLUzFoc0p5WVRZSGJzWVB5NnRfMWdIaFlHdUJ6TDFDRkVMQU83MWRMWFluN013aDVGb1ZDVzhCczZYMzYybG4tOC0waXRuYTRBMUg2RWNxVldQak1GRmdCVjc5Z2xuM2c?oc=5",
-     "source": "Seeking Alpha"
-    },
-    {
-     "n": 34,
-     "title": "存儲市場多空信號交織：美光警告2027年供需更緊，NAND晶圓現貨價格單月下跌24%",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NZGMzbHBSaGRucFZtdkNQdXktSnJUMjVoWi1qLTJKNkdfcnFXNk5CUWxKaU5kczJTVHdXOVo5RmNqdWdIRVZTTDhFVQ?oc=5",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 19,
-     "title": "Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmlaZDdveTVTR1NZaE1BMVVzRGhXRkthLWZqRlJwenIxZE5YdDhFOGpoXzhxbndwR1YtZkJPMkU0aWRUb3ZTTXB4bHJOYzNDc2dBeUtiYzhHYjhsTlJfNklHbGgxTTUzSUZfZ0J4em54LUoyTDBUWnhtU25OVmp3TUQ0ZnROQnFYQzhBcnJvelMwdXFXeEE?oc=5",
-     "source": "Yahoo Finance"
-    }
-   ]
-  },
-  {
-   "title": "亞洲晶片股恐慌，韓股外資撤離",
-   "detail": "台韓股市成重災區，KOSPI跌破4900點，韓央行示警AI循環投資風險；SK海力士ADR溢價仍達25%。",
-   "impact": "利空",
-   "sources": [
-    {
-     "n": 1,
-     "title": "亞洲晶片股拋售演變為恐慌性踩踏 台韓股市成重災區",
-     "url": "https://news.cnyes.com/news/id/6668962",
-     "source": "鉅亨網"
-    },
-    {
-     "n": 14,
-     "title": "外資撤離1152億美元創紀錄！AI晶片雙雄獲利創紀錄 韓股卻深陷「賣出韓國」風暴",
-     "url": "https://news.cnyes.com/news/id/6668445",
-     "source": "鉅亨網"
-    },
-    {
      "n": 22,
-     "title": "韓股KOSPI重挫跌破4900點！三星、SK海力士雙雙下挫，央行示警AI循環投資風險",
-     "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQXzFOUGpuMVFOOFBqZ1daUFVwaWNkN0duRjVERk9GRnRmM0plbGtiR055Qk5PeTRKV1NqWERzYlVqLU1ZYnFTVlhYaldxaWUyLV9jN0NhQjJVeXZwamIycXhHV3FTM05JQkdrN0NnX09RbzctUm5HUU1oOUZQS1lyVkx3V2hJM29QVnE5YmJ4OWlYb2NtM3NtYl9tQXRESVVsSGJiMTlOMUFtS3F1aFU3UURVbXpPbmkwSEJrTzh3RDFmRXVJb3FBMVZ1VkNieWF1N3BWYkw1bU9tS21FY2pUdHN1c21pME5MT2V2bmpnNGY0dWFjS0RQN1hiNW1MOUtJNEVOYzVZd1pRQmUwb0x5bE9zS2xZWUVaRW91M3ZwYkhIMW5UenFWaXpMNU9tdDMyNmlqcjVONEk2Y2lZX0F4QUdtdzd3Y3VqR2hXdnBGSnNQVW0zNWN1VHB3MzB1a0Vub0p1S0Q5bE81NGZhdWJvZWI4ZWc4SUFIaTV1aXJucHRWOERabVU4MlNQazNaN1hIM09nalJZMHlmR1E3VTNRZQ?oc=5",
-     "source": "Yahoo新聞"
+     "title": "深夜，美股全線大跌！輝達暴跌14%，Anthropic重挫8.5%；記憶體股齊跌，閃迪跌超16%，SK海力士、美光跌超13%",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xcHBfdFJpbHZhcG5FNWtTcUVyMzBuWlhob2hFN1M3cEpkd01RRjRDUEZaaWt5dUJGdTBWU09ibFRrQ3otUE9xUQ?oc=5",
+     "source": "鉅亨號"
     },
     {
-     "n": 33,
-     "title": "The AI frenzy has pushed SK Hynix’s U.S. shares to a premium. One hedge fund is betting on its unravelling",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yZkx4bkxBSGRHM0hyU1UzdWFpeWZ3bzk0VGlfVDV0b2x0dHNHc2I5WUhMZjJTMUJLOGVfN2pwTTBBR2drQXpwV3B1b3RJUXlILXoxZWpzWFZEQWNHNTB0ZVNfZEJUN3VvVWdDNHBmY1BkTENiRG1IR0hKbmg?oc=5",
-     "source": "CNBC"
+     "n": 11,
+     "title": "中國AI大砍單！美國也救不了 NAND明年恐跌價",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nQ0JZNGtEMFp1Y3RndHFFWGpPN3AxakRpR2lZYVplMHVBSnBSd0h3eEo3YkRxWWxFNkdvOUJQZVR6QllvUXJZbjRyaGtLdVVRVzI5czF0QUE1VUltdE05YWtocHY?oc=5",
+     "source": "民報"
     }
    ]
   },
   {
-   "title": "聯準會官員關注AI融資與通膨風險",
-   "detail": "Cook表示關注AI產業融資，另有官員示警AI熱潮的通膨風險，鷹派訊號壓抑風險資產；美債10年殖利率在4.91%。",
+   "title": "聯準會偏鷹、AI融資風險受關注",
+   "detail": "有報導提到12月可能升息2碼，聯準會理事Cook表示關注AI產業融資；Anthropic重挫也拖累AI股。",
    "impact": "利空",
    "sources": [
     {
-     "n": 26,
+     "n": 29,
+     "title": "12 月升息 2 碼恐衝擊股債？聯準會轉鷹，古爾斯比點名 AI 過熱與 Anthropic IPO 財富效應｜美股觀察",
+     "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxPV2VITVJ1aWF0TnNEang0NTU0bDRJNDdJOEZLSS1wSnhJb3dTeEhocmlWenBJUlBwaFl4UV82WlE4ME9wWTR2a2d3c3hHME00Nks3VWhyeTJhRS1fR19NYVZtZDJXU0FaaV9Qd25RWHJNc2xXYzRsSDZ2cDJ5ZTFSTmUtNlU4Y2h5Z0xmZ09wM250LXZEZXh4cTEwU1FYcmVrTWxTaG1LQ1ZROHU5YUVZRlI5QW5Gd05wZ1pnLTFSRU1HNkh2ampaWXdvdVBPNWE5QS1ZeU5OU2NSb21mMFE5XzFzd1hkZ3Nhc0ZtQUNial9wLWpMcEYxaTc5QUdnd2hONlhNcHdacDBVS2VPLXhjaUJxbGRRcXdYcE81WUZvN0JGN2RVdUtLRnlYRHBRYi1YQ09HZkhlRTdHY3JuOWxaREt0YzRuZ2JBeEt0eDI0cHVJN1dTaHBpcDA5YmhSWk9ROWV1RWc0NXFqdGRMS2RrRTVSN2JPSFBGVXNzakltbl9MeXlSbmRMMUhGSl9iY01NSHR5N1dZU0FlcGxzc1NHZk1QTkdaOGloUmhhT2szakVQX2tudmpDdGJIWFoyTTZORm54bHc3Q3Q3TzVZSk9UbVRkLXg3aEFQOGhpal94bFk3VWNKZUFiYXJWVlQ0UUdZSnVERDFXUTJWb0tpMGdaY2ZEU05TZjZGbmUySy12TkFKdnd4X3c?oc=5",
+     "source": "永豐金證券"
+    },
+    {
+     "n": 35,
      "title": "Fed's Cook says central bank watching AI industry financing",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHI2aWRzcEgxVVM4TVNuQWFOMVpVZ2cwb19XUEo2ZlhhYjJQXzJlMXdZVFlRVFdicHlrYmoxRE9GZ1NZUFF0R09CeFZ4SV80dWh5M0YxUzFyUEVqMXJLUDBGR0Q5NEhNMkhDYWRRVHZMVWZYZ05UczcyT1hvMkdJLW5jSDZyQU9lUloza1hhQ2EzZWl1cldEaXdmUE50aWJZVGoxYmF3?oc=5",
      "source": "Reuters"
     },
     {
-     "n": 38,
-     "title": "Fed officials sound alarm over AI boom's growing inflation risks",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOaGVYelB5dUU1a0dGZ1hUazZSUEh6bF9ubHRGbDZwV1lUWDZXQzYzVkw2Y1VJRDRCQ1BnU1hjWVliSmc5NWxFbTFsUG5xalh5OWktU3VWX0ItOElrQUE5UVBfbm80WEoxb1VTblJfbGRSc1pPV3NDSXdxQjd3MDNCSnF2cUQ0endwSDVLWTRaanY2VUxrNFNubGZvRFBkTUJoZnZINE5LLUhpSGlZR2Zqb1FBZ0F5SDJ3NjJIdWlMeDBST05Tbm0tVVpTdnU5SUthek9jdzVSY3laOUVwZ3JUSXk5bHZFUWdxZ0J4ZXdLNWpua2RadERKM0NocVgxa24wS1l1el9B?oc=5",
-     "source": "WSMH"
+     "n": 18,
+     "title": "〈美股早盤〉Anthropic重挫拖累AI股！那指開盤跌逾1% 道瓊逼近修正區間",
+     "url": "https://news.cnyes.com/news/id/6669336",
+     "source": "鉅亨網"
     },
     {
-     "n": 36,
-     "title": "一週內連破四道關卡！受Fed鷹派信號+AI股續跌影響 現貨金價跌破3600美元",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1NEFYT3RwS2thTGpudHV3VDJuUzE0ZTVjNTdtV1lJSVh4QTVyOXVRZEJfTDktUEdrWEJOUjJMbG9pVWYxNUM0NHdQZWpaaVU?oc=5",
-     "source": "鉅亨網"
+     "n": 13,
+     "title": "美股崩跌五大利空齊發：AI 吸金潮反噬 輝達失速 升息與程式賣盤夾擊",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zWE1nbG5uLUROOGhXVmIzN2J3QXZVdF9CdWdqT055cHRxNGY1aFpfd05VQjZRdnhURTlWM3I5S1Zld3VLYVhEMncyc2tIYzZidzYzYU5aWDlNVVNB0gFiQVVfeXFMT0F3azBNU0hkM29XODgxeU8zMVlmMFcyYmhHVGgwWS1XbWgyYUZmbTI1Smh2a29ubHllREZyV3UwdV95S1F1SHRodHVaSDVEcldIUU9zd2YtZ1M2V0xjWjYyTWc?oc=5",
+     "source": "經濟日報"
     }
    ]
   },
   {
-   "title": "對中晶片管制與政治不確定性",
-   "detail": "美國AI晶片管制衝擊中國科技股，並推動其自給自足；共和黨參議員批評商務部長Lutnick忽視其警告。",
-   "impact": "中性",
+   "title": "政策與政治不確定性升高",
+   "detail": "報導提及川普對科技業課重稅、華府清查晶片，另有川普喊黃仁勳回輝達等消息，市場情緒更緊繃。",
+   "impact": "利空",
    "sources": [
     {
-     "n": 17,
-     "title": "US AI chip curbs hit China tech stocks, spur self-sufficiency push",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3JhZ1hpWlJqYlVISU9pcFFUS0N1Sk9MeEx5aU9jWmt5OVBxY2RkeWNCWDBITU5nYmdNdzFNQm4xTkZVbTM3T214cjhzSDBPWHFsaGt0Uk56c2F0TUFOOWl2ZlZHRGhjdXN5WDNPM3BiS3E1QW9lbHZ0NjZDUVNtaVZBbGUzNmxMR1o4c3REOGE3c3R4ZFk3d1VpR3diM0FmTnphSVdtR0M5MWpHRm9OeFJtaTQ5U1p6bnVRc3VnTW54cVVW?oc=5",
-     "source": "Reuters"
+     "n": 19,
+     "title": "美股崩入修正區！川普重稅突襲矽谷，華府掀晶片清查風暴",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UMVlYbVhJMV9wRDhlMDhmWFl4cEpQVFBpVndMemZibTJMNU5LRFg2dkRaSWUzN0RzX0RPYkxtRktpQnZTMjJCdmNTQjBfQQ?oc=5",
+     "source": "天下雜誌"
     },
     {
-     "n": 24,
-     "title": "Exclusive | Top Republican Senator Says Lutnick Ignored His China Chip Warnings",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZE1FLUpGTW9zeVJKbndTVUV6MTF3dmVQTE4zd2h4SVlCdzI4Qm1xNmtPWW0xTGR0TjRHRnVVZjg0RERoZXB2MEpMazY5akdSU0phSEc2WEU3NURBdWMwVEtBd2ZmamNRRXF5LVZnMms5QnlYNldTQ1NCVWNMVkpSZjRzc283dlY0eWkxVEVLWTQ1ekJrRGY5Zk5yM2NqcXhtSGoxdFlmcGx1X0tjYkRUaU5nZnRNNS1BZW5tRGlZRmM?oc=5",
-     "source": "WSJ"
+     "n": 31,
+     "title": "美股殺聲隆隆、費半狂瀉逾10%！ 川普再喊黃仁勳回輝達",
+     "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOY3NyMUx6T0RPazhUaXU2NTBVMzhsODhURDVnTC1BS1czYW1QXzVvV1BRQXF2NllFZjV4bVZXcEo0MTl0RkthT1kwTXFPOEVzcDJHclc1OGp2UW5paUQ0UHhsVjV2S3Y0RnNraTRSREpsWDMxd0owc2h2OUJtUHZydkREeUxoNklpX2ZVT21wWFdpTEFYMmZ1SzNDMGoweGpEby0yVmxrUm9kb3VTaXZjSjdlaVdrdkxRZXdaaXJuczM4enpTSXZVUy1sbFNWaERhR3hXMEMyVjByV3gxaFdva3padzBxU2hqRmNYOEVncG1pV1RPYTBQVXl2UTFpVGZtYjB5Q2N4S21uX0xlSUNabnhibEpGZi1HelZjMUlOcmw3cnBESi1sMFNIQm1kb0U1Q0lxX0dyTWNjNXNxT2xTVy1oZlZ1MXRiQXUxQndxUzNteVpG?oc=5",
+     "source": "Yahoo新聞"
     },
     {
-     "n": 5,
-     "title": "美國管制漏洞？ 中國繞道新加坡進口HBM設備 擬複製SK海力士技術",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUZOQ2owMkRRWi1aZzZJTnoydUstbWZSeDZZemF5V20xdnRkb3E0ZjlubmJibHF0ZUd4anB2NUVrRFRUZjh2SFZ2Z2RjTFdpYkdra0diUTdBdGFiUFNubmtxWHMxN2FpVXIyU3VDWFR6SG9SeEF0MjA2Z0JvUFJYUXVxcTl4TkZsRkRrOXhB?oc=5",
-     "source": "DIGITIMES"
-    },
-    {
-     "n": 15,
+     "n": 20,
      "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away",
      "url": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
      "source": "MarketWatch"
+    }
+   ]
+  },
+  {
+   "title": "避險資金進入公債",
+   "detail": "全球公債殖利率急跌，美債連五日走低，10年期殖利率4.91%；美銀認為標普跌破7000點可買，但低估硬著陸風險。",
+   "impact": "中性",
+   "sources": [
+    {
+     "n": 12,
+     "title": "全球公債殖利率急跌！AI股重挫掀避險潮 美債連五日走低",
+     "url": "https://news.cnyes.com/news/id/6669652",
+     "source": "鉅亨網"
+    },
+    {
+     "n": 10,
+     "title": "美銀：標普跌破7000點可買入 但市場低估「硬著陸」風險",
+     "url": "https://news.cnyes.com/news/id/6669653",
+     "source": "鉅亨網"
     }
    ]
   }
  ],
  "holdings": [
   {
-   "symbol": "DRAM",
-   "note": "記憶體ETF收跌13.19%，受NAND報價轉弱與記憶體股殺盤衝擊，盤後小反彈1.35%。",
+   "symbol": "NOK",
+   "note": "收盤跌8.27%；報導指輝達減持逾半諾基亞持股，盤後小幅反彈1.74%。",
    "sources": [
     {
-     "n": 20,
+     "n": 5,
+     "title": "NOK Slides After-Hours: Nvidia Dumps More Than Half Its Nokia Stake — Retail Bears Eye $5 Despite AI Push, ASUS Deal",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeGJid1FMUDB2VHVjdUYxSGtIbnRVQ3VPZGJjdWQ3UXFQQ21FZXJDNFM5R1FJN0J6TV9CczFaTzZRbDdLWU9fTjIwMElCbE1ZcU1NVkR3Zm83OWpCTFViWFdtUDlRalJibDBPcl9ZOHJwWnEwd3BXT2hHUHZkeWlBbVpBSHd4bXc3SklyUnpLeV9lbDhVZ2YzY1FYay1PMXRER004Q1pJVmpudWlfeFl4bE91UG1KUW1fY3I1aXU0Q3ZLV2c?oc=5",
+     "source": "Stocktwits"
+    },
+    {
+     "n": 7,
+     "title": "Nokia's Optical Win in Africa–Europe Corridor Lands Alongside Nvidia Stake Reduction",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM3lLbi02aDJucEpqVGc1QWR3MGE1UjluNlRmdmtZNk5jN2taQWdzWExyWVRtSlU5Zkc1WEViRVBJNVB6RktWbGRUN0NqXzhUcmRvZXVwNXhtU2UtbEp1OEJ4eUFuZEdvQXoxSWVYMHh5ZVE5bkhRdWFPUUN4Umd4RWhCQ0FDOWd5XzNoemdENTh6Sm41ZmoyZkpYbHozVFpka1M4ZjNqVUo5SVVncmtJbjlyTjY0cnJkeDB4WGxRNEZCY19hMlp2WGxUZVhrOGdFWWVxYVdCVk5Oc282VUstTlBKWnFTazJPUEt6Tg?oc=5",
+     "source": "ad-hoc-news.de"
+    },
+    {
+     "n": 33,
+     "title": "Nokia Corp. ADR falls Friday, underperforms market",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXROTjdjdHYtdVhVZEhSWUdoSVdZb3hsbllrcTBrXzBfalppYmpPM0J6MGVQcDJ4Wl83WElreDh5YmdBbUxwX2cyVzJIWG1hbGlYTGtJRUN6ajAxeFZJWEVaNVhrSnFKM3hfMzBacTFzMFlHY2p3eHRodGUzcG1YWnBQU0V1M2dqc3Z1YXNKamFQSGF4VFhSRjFkVGJFcXFrdDJaOGxYR244QmlyNWgyQ3BSWGVlNzBQTDNMNjFydWVGdFdP?oc=5",
+     "source": "MarketWatch"
+    }
+   ]
+  },
+  {
+   "symbol": "DRAM",
+   "note": "記憶體ETF收盤重挫13.19%，受NAND報價疑慮與美光、海力士大跌拖累，盤後反彈3.27%。",
+   "sources": [
+    {
+     "n": 26,
      "title": "SanDisk slides over 14% as bearish NAND pricing outlook hits chip stocks",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNajlBclZpQVpob0tQYklieEVuczVoRE5VZVl4SHU3ZWtrMVl1VTFGUEV2YkROQk9sS0lSaHpiNzdJeUlUSjdkSS1GUXZ4eUNKa0lrQzJvVW5QeDMzc0ptZzNuX3doYmdXSXR1akdKcVZtY2pncE81Smg0dXl6ckl4U3JWNVQ1VTVfLW1Sal9KYXl4Ujc2TS0tT1dWd0FfcF9FS1ZmZ3F1TTJ0RVprVUVNS01NeDd6UHpZLXBhUE9CX0prMmxhS21QeElnNm5QQjZxWkhSdEM4Q3J4Zw?oc=5",
      "source": "Proactive financial news"
     },
     {
-     "n": 21,
-     "title": "Micron leads semiconductor and AI stocks down as SOX plunges 7%",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmNkNlpFVWJMb1BCTmJvUU1oQnhER2tIYzNZOFpvR0o4bTFvMy1MQTlpQnlUSF9ONGNwZ3AtYmhIRmNLUzFoc0p5WVRZSGJzWVB5NnRfMWdIaFlHdUJ6TDFDRkVMQU83MWRMWFluN013aDVGb1ZDVzhCczZYMzYybG4tOC0waXRuYTRBMUg2RWNxVldQak1GRmdCVjc5Z2xuM2c?oc=5",
-     "source": "Seeking Alpha"
+     "n": 22,
+     "title": "深夜，美股全線大跌！輝達暴跌14%，Anthropic重挫8.5%；記憶體股齊跌，閃迪跌超16%，SK海力士、美光跌超13%",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xcHBfdFJpbHZhcG5FNWtTcUVyMzBuWlhob2hFN1M3cEpkd01RRjRDUEZaaWt5dUJGdTBWU09ibFRrQ3otUE9xUQ?oc=5",
+     "source": "鉅亨號"
     },
     {
-     "n": 34,
-     "title": "存儲市場多空信號交織：美光警告2027年供需更緊，NAND晶圓現貨價格單月下跌24%",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NZGMzbHBSaGRucFZtdkNQdXktSnJUMjVoWi1qLTJKNkdfcnFXNk5CUWxKaU5kczJTVHdXOVo5RmNqdWdIRVZTTDhFVQ?oc=5",
-     "source": "鉅亨網"
+     "n": 11,
+     "title": "中國AI大砍單！美國也救不了 NAND明年恐跌價",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nQ0JZNGtEMFp1Y3RndHFFWGpPN3AxakRpR2lZYVplMHVBSnBSd0h3eEo3YkRxWWxFNkdvOUJQZVR6QllvUXJZbjRyaGtLdVVRVzI5czF0QUE1VUltdE05YWtocHY?oc=5",
+     "source": "民報"
     }
    ]
   },
   {
+   "symbol": "QNT",
+   "note": "本批新聞未見直接相關消息；收盤跌0.79%，11/30前後為IPO閉鎖期推估到期日。",
+   "sources": []
+  },
+  {
    "symbol": "SITM",
-   "note": "收跌10.83%，分析師下調公允價值、重新評估AI成長空間，盤後平盤。",
+   "note": "收盤跌10.83%，與半導體股一同被重殺；另有報導提到分析師下調其公允價值。",
    "sources": [
     {
      "n": 6,
@@ -189,56 +194,33 @@
      "source": "TradingView"
     },
     {
-     "n": 9,
+     "n": 4,
      "title": "SiTime (SITM) Stock Sees Fair Value Cut As Analysts Reassess AI Growth Upside",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkJ2ZDVvOTF0SEF6TzFIMV83YXhqZ3MtZEx3S2FtMEh4THRIM2M2Nkt3OGUtVk1LQTEyWERwU0ZtWk9xZzl6eGxpcnZZYThlVFJvd2ZxZ3pjOUhMMlRiZXVObjJ3SXZFNlk0d3RuUGdGOVc4MlRBR2tXNkxweXo1eW9iUzVsVko1Z2pTOFFZczlIOEY1SmlF?oc=5",
      "source": "Yahoo Finance"
     }
    ]
-  },
-  {
-   "symbol": "NOK",
-   "note": "收跌8.27%，新聞多為網路與AI-RAN合作題材，未見直接利空，盤後回升1.16%。",
-   "sources": [
-    {
-     "n": 10,
-     "title": "VodafoneThree Taps Nokia, NVIDIA for UK AI-RAN Trials",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2p0S3I1NXBDVkdWZmF0U0VJXzNDUjZPQUQxSUpWb3Y2ZGJsY0xUenV3LUZxYjBRMldVWHhxUldyVDB1cXRlc19JS1F0ZTdpc0g3UlloUVRiMlNjd0s2amN6bTk2RUV3Z1ZlQXlzQnVBT0ZReHk5YkJXYm5DX0dmTnp4RWlpaEZhQnRN?oc=5",
-     "source": "Telco Magazine"
-    },
-    {
-     "n": 4,
-     "title": "Hardware Costs Weigh on Mobile Core Market as Huawei, Ericsson, and Nokia Extend Lead in 3Q 2026, According to Dell'Oro Group",
-     "url": "https://finance.yahoo.com/technology/articles/hardware-costs-weigh-mobile-core-100000874.html?.tsrc=rss",
-     "source": "Yahoo Finance"
-    }
-   ]
-  },
-  {
-   "symbol": "QNT",
-   "note": "收跌0.79%，相對抗跌；提供的新聞無直接相關消息，11/30閉鎖期到期為推估日程。",
-   "sources": []
   }
  ],
  "watch_next": [
   {
    "when": "11/21（週六）",
-   "what": "韓國前20天出口初值，觀察半導體出口"
+   "what": "韓國前20天出口初值，可觀察半導體出口動能"
   },
   {
-   "when": "11/21 週末",
-   "what": "美股休市，留意AI股、Anthropic與政策消息；下週一開盤反應"
+   "when": "11/22–11/23（週末）",
+   "what": "留意政策與AI融資相關消息，下週一美股開盤前反應"
   },
   {
-   "when": "11/30",
-   "what": "TrendForce DRAM／NAND合約價，對記憶體股影響大"
+   "when": "11/23（週一）晚間",
+   "what": "美股重啟，觀察那指與費半能否止跌"
   }
  ],
- "generated_at": "2026-11-20T21:34:39Z",
+ "generated_at": "2026-11-21T07:46:15Z",
  "model": "claude-sonnet-5-5",
  "news_count": 40,
  "usage": {
-  "input_tokens": 5919,
-  "output_tokens": 1179
+  "input_tokens": 6041,
+  "output_tokens": 1141
  }
 }
